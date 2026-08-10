@@ -6,11 +6,15 @@
     --color-neutral-dark: #262a36;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 body {
-    height: 100vh;
+    /* height: 100vh;
     min-height: 0;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; */
     background: linear-gradient(155deg, #dceafa 0%, #e5dcf5 48%, #fbe6e8 100%) fixed;
     padding: 0;
     margin: 0;
@@ -29,7 +33,11 @@ body {
    #################################################################################################### */
 
 .navbar {
-    background-color: white;
+    position: sticky;
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(14px);
+    top: 0;
+    z-index: 50;
 }
 
 .navbar .inner {
@@ -52,4 +60,22 @@ body {
 
 .navbar .inner .title img {
     border-radius: 7px;
+}
+
+/* ####################################################################################################
+    Cards
+   #################################################################################################### */
+.card-list {
+    margin: 0 auto;
+    max-width: var(--content-width);
+    padding: 1.1rem 1.1rem 3rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(158px, 1fr));
+    gap: 0.9rem;
+}
+
+.card-list .card {
+    aspect-ratio: 100 / 140;
+    border-radius: 10px;
+    background-color: #e9edf6;
 }
