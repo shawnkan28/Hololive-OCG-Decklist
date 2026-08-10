@@ -1,0 +1,18 @@
+# Default Ignores
+.git
+.gitignore
+.vscode
+.idea
+.env
+.env.*
+!.env.example
+Dockerfile*
+docker-compose*.yml
+README.*
+
+# Ignore for npm
+node_modules
+
+# Ignore for sveltekit
+.svelte-kit
+build
