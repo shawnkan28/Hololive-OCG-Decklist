@@ -37,7 +37,7 @@ COPY --from=builder /app/build ./build
 COPY --from=builder /app/package.json ./
 COPY --from=builder /app/node_modules ./node_modules
 
-EXPOSE 3000
+EXPOSE 8081
 # So wth the Node Adapter, this will start the server. rather then npm run preview.
 CMD ["node", "build"]
 
