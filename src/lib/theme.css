@@ -1,9 +1,55 @@
-:root {}
+:root {
+    --gap: 0.5rem;
+    /* The max width of any content container */
+    --content-width: 1500px;
+    --color-neutral-soft: #7d8699;
+    --color-neutral-dark: #262a36;
+}
 
 body {
     height: 100vh;
     min-height: 0;
     display: flex;
     flex-direction: column;
-    background-color: linear-gradient(155deg, #dceafa 0%, #e5dcf5 48%, #fbe6e8 100%) fixed;
+    background: linear-gradient(155deg, #dceafa 0%, #e5dcf5 48%, #fbe6e8 100%) fixed;
+    padding: 0;
+    margin: 0;
+    font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+
+}
+
+.desc {
+    font-size: 0.75rem;
+    color: var(--color-neutral-soft);
+    font-weight: normal;
+}
+
+/* ####################################################################################################
+    Navbar
+   #################################################################################################### */
+
+.navbar {
+    background-color: white;
+}
+
+.navbar .inner {
+    padding: 0.7rem 1.1rem;
+    margin: 0 auto;
+    display: flex;
+    gap: var(--gap);
+    max-width: var(--content-width);
+}
+
+.navbar .inner .title {
+    font-size: 0.95rem;
+    color: var(--color-neutral-dark);
+    font-weight: bolder;
+    display: flex;
+    gap: var(--gap);
+    align-items: center;
+
+}
+
+.navbar .inner .title img {
+    border-radius: 7px;
 }
