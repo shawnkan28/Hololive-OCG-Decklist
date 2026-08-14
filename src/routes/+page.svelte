@@ -2,14 +2,15 @@
 	import ClickableDiv from '$lib/components/ClickableDiv.svelte';
 	import logo from '$lib/assets/favicon.png';
 	import { CARDS } from '$lib/data/card_data';
+	import { withCommas, colorToHex } from '$lib/format';
 </script>
 
 {@render navbar()}
 
 <div class="content">
 	<div class="card-list">
-		{#each CARDS as card (card.rarity + ' ' + card.name + ' ' + card.number)}
-			{@render cardList(card)}
+		{#each CARDS.slice(0, 20) as card (card.rarity + ' ' + card.name + ' ' + card.number)}
+			{@render cardEntry(card)}
 		{/each}
 	</div>
 </div>
@@ -29,26 +30,37 @@
 	</div>
 {/snippet}
 
-{#snippet cardList(card: {
+{#snippet cardEntry(card: {
 	url: string;
 	number: string;
-	name: string;
+	nameEn: string;
 	image: string;
 	priceJpy: number;
+	colors: string[];
 	stockCount: number | null;
 })}
 	<ClickableDiv
+		style={colorToHex(card.colors)
+			.map((c, i) => {
+				return `--color${i}: ${c};`;
+			})
+			.join(' ')}
 		class="card"
 		onclick={() => {
 			window.location.href = card.url;
 		}}
 	>
-		<img src={card.image} alt={card.number} />
+		<div class="img-wrapper"><img src={card.image} alt={card.number} /></div>
 		<div class="card-details">
 			<div class="set-num">{card.number}</div>
-			<div class="card-name">{card.name}</div>
+			<div class="card-name">{card.nameEn}</div>
+			<div class="prices">
+				<span>¥{withCommas(card.priceJpy)}</span><span
+					class={card.stockCount ? 'stock in' : 'stock out'}
+					>{card.stockCount ? `${card.stockCount} in stock` : 'Sold out'}</span
+				>
+			</div>
 		</div>
-		<div class="prices"><span>{card.priceJpy}</span><span>{card.stockCount} in stock</span></div>
 	</ClickableDiv>
 {/snippet}
 
