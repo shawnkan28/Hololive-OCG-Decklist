@@ -1,13 +1,13 @@
 <script lang="ts">
 	import ClickableDiv from '$lib/components/ClickableDiv.svelte';
-	import { colorToHex } from '$lib/format';
+	import { colorToHex, lookupSet } from '$lib/format';
 
 	type Data = {
 		url: string;
 		number: string;
 		nameEn: string;
 		image: string;
-		// priceJpy: number;
+		set: string;
 		colors: string[];
 		// stockCount: number | null;
 	};
@@ -25,9 +25,10 @@
 			})
 			.join(' ')
 	);
-	let wrapperClass = $derived(
+	const wrapperClass = $derived(
 		data.colors.length > 1 ? 'card dual' : data.colors.length === 0 ? 'card' : 'card tinted'
 	);
+	const setStyle = $derived(`--color: ${lookupSet(data.set)};`);
 </script>
 
 <ClickableDiv
@@ -40,5 +41,6 @@
 	<div class="img-wrapper"><img src={data.image} alt={data.number} /></div>
 	<div class="card-details">
 		<div class="card-name">{data.nameEn}</div>
+		<div class="set" style={setStyle}><span>{data.number}</span></div>
 	</div>
 </ClickableDiv>

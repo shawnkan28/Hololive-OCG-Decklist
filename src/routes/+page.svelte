@@ -9,7 +9,7 @@
 
 <div class="content">
 	<div class="card-list">
-		{#each CARDS.slice(400, 500) as card (card.rarity + ' ' + card.name + ' ' + card.number)}
+		{#each CARDS.slice(100, 500) as card (card.rarity + ' ' + card.name + ' ' + card.number)}
 			<Card data={card} />
 		{/each}
 	</div>
