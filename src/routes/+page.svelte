@@ -5,6 +5,10 @@
 	import Card from '$lib/components/Card.svelte';
 
 	let query = $state('');
+	// Add Filter for all importat strings.
+	// - number
+	// - nameEn
+	// - rarity
 	let cards = $derived(
 		CARDS.filter((obj) => obj.nameEn.toLowerCase().includes(query.toLowerCase()))
 	);
