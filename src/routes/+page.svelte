@@ -45,7 +45,7 @@
 				return `--color${i}: ${c};`;
 			})
 			.join(' ')}
-		class={colorToHex(card.colors).length > 1 ? 'card dual' : 'card tinted'}
+		class={card.colors.length > 1 ? 'card dual' : card.colors.length === 0 ? 'card' : 'card tinted'}
 		onclick={() => {
 			window.location.href = card.url;
 		}}
@@ -63,7 +63,3 @@
 		</div>
 	</ClickableDiv>
 {/snippet}
-
-<style>
-	/* .content { } */
-</style>
