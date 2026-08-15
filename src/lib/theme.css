@@ -78,14 +78,38 @@ body {
 
 .card-list .card {
     border-radius: 10px;
-    background-color: var(--color0);
+    background-color: white;
+    border: 1px solid var(--color-neutral-soft);
     display: flex;
     flex-direction: column;
     overflow: hidden;
 }
 
 /* ####################################################################################################
-    Individual Cards
+    Individual Card Coloring
+   #################################################################################################### */
+.card.tinted {
+    background-color: color-mix(in srgb, var(--color0) 22%, #fff);
+    border-color: color-mix(in srgb, var(--color0) 50%, #fff);
+}
+
+.card.dual {
+    border-top-color: color-mix(in srgb, var(--color1) 50%, #fff);
+    border-bottom-color: color-mix(in srgb, var(--color0) 50%, #fff);
+    border-left-color: color-mix(in srgb, var(--color0) 50%, #fff);
+    border-right-color: color-mix(in srgb, var(--color1) 50%, #fff);
+}
+.card.dual .card-details {
+    /* Soft mid-blend: each color holds near its side, then fades into the other. */
+    background: linear-gradient(45deg,
+            color-mix(in srgb, var(--color0) 22%, #fff) 0%,
+            color-mix(in srgb, var(--color0) 22%, #fff) 28%,
+            color-mix(in srgb, var(--color1) 22%, #fff) 72%,
+            color-mix(in srgb, var(--color1) 22%, #fff) 100%);
+}
+
+/* ####################################################################################################
+    Individual Card Layout
    #################################################################################################### */
 .card .img-wrapper {
     aspect-ratio: 100 / 140;
@@ -143,9 +167,11 @@ body {
     border-radius: 50%;
     background: currentColor;
 }
+
 .prices .stock.in {
     color: var(--color-good);
 }
+
 .prices .stock.out {
     color: var(--color-bad);
 }

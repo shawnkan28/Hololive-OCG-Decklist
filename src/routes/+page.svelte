@@ -9,7 +9,7 @@
 
 <div class="content">
 	<div class="card-list">
-		{#each CARDS.slice(0, 20) as card (card.rarity + ' ' + card.name + ' ' + card.number)}
+		{#each CARDS.slice(400, 500) as card (card.rarity + ' ' + card.name + ' ' + card.number)}
 			{@render cardEntry(card)}
 		{/each}
 	</div>
@@ -45,7 +45,7 @@
 				return `--color${i}: ${c};`;
 			})
 			.join(' ')}
-		class="card"
+		class={colorToHex(card.colors).length > 1 ? 'card dual' : 'card tinted'}
 		onclick={() => {
 			window.location.href = card.url;
 		}}
