@@ -1,5 +1,5 @@
 import { COLORS, RARITIES, SETS } from '$lib/data/card_data';
-import type { Card, SearchField } from "$lib/types";
+import type { Card, SearchField, SortField } from "$lib/types";
 
 const COLOR_HEX = new Map<string, string>();
 for (const color of COLORS) {
@@ -49,7 +49,23 @@ export function withCommas(value: number | string): string {
 	return fraction == null ? `${sign}${grouped}` : `${sign}${grouped}.${fraction}`;
 }
 
-export function search(list: Card[], query: string, searchCol: SearchField[] = ["number", "nameEn", "rarity"]): Card[] {
+export function search(list: Card[], query: string, searchCol: SearchField[] = ["number", "nameEn", "rarity"], sortBy: SortField = "number"): Card[] {
 	const q = query.toLowerCase();
-	return list.filter(c => searchCol.some((key) => c[key].toLowerCase().includes(q)));
+	const filtered = list.filter(c => searchCol.some((key) => c[key].toLowerCase().includes(q)));
+	return filtered.sort((a: Card, b: Card) => {
+		// Sort By Date
+		if (a[sortBy] instanceof Date && b[sortBy] instanceof Date) {
+			return a[sortBy].getTime() - b[sortBy].getTime();
+		}
+		// Sort by Number columns
+		if (typeof a[sortBy] === 'number' && typeof b[sortBy] === "number") {
+			return a[sortBy] - b[sortBy];
+		}
+		// Sort by string columnss
+		if (typeof a[sortBy] === "string" && typeof b[sortBy] === "string") {
+			return a[sortBy].localeCompare(b[sortBy]);
+		}
+
+		return 0;
+	});
 }

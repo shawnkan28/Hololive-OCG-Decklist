@@ -7,6 +7,8 @@ export type Card = {
     colors: string[];
     stockCount: number | null;
     rarity: string;
+    addedDate?: Date;
 };
 
 export type SearchField = 'number' | 'nameEn' | 'rarity';
+export type SortField = 'number' | 'nameEn' | 'rarity' | 'addedDate'

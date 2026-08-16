@@ -6,10 +6,6 @@
 	import { search } from '$lib/format';
 
 	let query = $state('');
-	// Add Filter for all importat strings.
-	// - number
-	// - nameEn
-	// - rarity
 	let cards = $derived(search(CARDS, query));
 
 	function clearSearch() {
@@ -21,9 +17,7 @@
 
 <div class="content">
 	<div class="card-list">
-		{#each cards
-			.slice(0, 100)
-			.sort( (a: { number: string }, b: { number: string }) => a.number.localeCompare(b.number) ) as card (card.rarity + ' ' + card.nameEn + ' ' + card.number)}
+		{#each cards.slice(0, 100) as card (card.rarity + ' ' + card.nameEn + ' ' + card.number)}
 			<Card data={card} />
 		{/each}
 	</div>
