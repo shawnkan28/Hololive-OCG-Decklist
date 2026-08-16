@@ -14,8 +14,11 @@
 	const cards = $derived(cardList.slice(0, cardLimit));
 	const hasMore = $derived(cardLimit < cardList.length);
 
+	// TODO: Loading more needs to take into account when user search in search field, need to reset Limit.
+
 	function clearSearch() {
 		query = '';
+		cardLimit = PAGE;
 	}
 </script>
 
@@ -27,14 +30,20 @@
 			<Card data={card} />
 		{/each}
 	</div>
+</div>
+<div class="footer">
 	{#if hasMore}
-		<div>
+		<div
+			style="display: flex; justify-content: center; gap: 30px; align-items: center; color: var(--color-main);"
+		>
+			<div class="line"></div>
 			<ClickableDiv
 				class="button"
 				onclick={() => {
 					cardLimit += PAGE;
 				}}>LOAD MORE</ClickableDiv
 			>
+			<div class="line"></div>
 		</div>
 	{/if}
 </div>
@@ -58,6 +67,9 @@
 						autocomplete="off"
 						placeholder="Search decks, oshi, cards..."
 						bind:value={query}
+						oninput={() => {
+							cardLimit = PAGE;
+						}}
 					/>
 					{@render searchIcon()}
 				</div>
