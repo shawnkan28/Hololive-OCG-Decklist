@@ -6,6 +6,8 @@
     --color-neutral-dark: #262a36;
     --color-good: #2e9e64;
     --color-bad: #d24a45;
+    --color-main: #cc90df;
+    --shadow: 0 6px 18px rgba(38, 42, 54, 0.14);
 }
 
 * {
@@ -18,14 +20,11 @@ input:focus {
 }
 
 body {
-    /* height: 100vh;
-    min-height: 0;
-    display: flex;
-    flex-direction: column; */
     background: linear-gradient(155deg, #dceafa 0%, #e5dcf5 48%, #fbe6e8 100%) fixed;
     padding: 0;
     margin: 0;
     font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+    overflow-y: scroll;
 
 }
 
@@ -36,9 +35,18 @@ body {
 }
 
 /* ####################################################################################################
+    Scrollbar
+   #################################################################################################### */
+html {
+  scrollbar-color: #c9b4d8 white;
+}
+html::-webkit-scrollbar-thumb:hover{
+    background-color: var(--color-main);
+}
+
+/* ####################################################################################################
     Navbar
    #################################################################################################### */
-
 .navbar {
     position: sticky;
     background-color: rgba(255, 255, 255, 0.8);
@@ -84,16 +92,27 @@ body {
     border: 1px solid color-mix(in srgb, var(--color-neutral-dark) 25%, #fff);
     border-radius: 20px;
 }
+
+.navbar .search:has(#search:focus) {
+    border-color: var(--color-main);
+}
+
 .navbar #search {
     border: none;
     background-color: rgba(255, 255, 255, 0.8);
     min-width: 200px;
 }
+
 .navbar .search svg {
     width: 1em;
     height: 1em;
     padding-bottom: 1px;
 }
+
+.navbar .search:has(#search:focus) svg {
+    color: var(--color-main);
+}
+
 
 /* ####################################################################################################
     Card Layout
@@ -110,10 +129,17 @@ body {
 .card-list .card {
     border-radius: 10px;
     background-color: white;
-    border: 1px solid #e2e7f1;
+    border: 1.5px solid #e2e7f1;
     display: flex;
     flex-direction: column;
     overflow: hidden;
+    transition: all 0.2s ease;
+}
+
+.card-list .card:hover {
+    border-color: color-mix(in srgb, var(--color-main) 70%, #fff);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(38, 42, 54, 0.14);
 }
 
 /* ####################################################################################################
