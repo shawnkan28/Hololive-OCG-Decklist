@@ -1,8 +1,9 @@
 <script lang="ts">
 	import ClickableDiv from '$lib/components/ClickableDiv.svelte';
+	import Card from '$lib/components/Card.svelte';
+	import FilterRarity from '$lib/components/FilterRarity.svelte';
 	import logo from '$lib/assets/favicon.png';
 	import { CARDS } from '$lib/data/card_data';
-	import Card from '$lib/components/Card.svelte';
 	import { search } from '$lib/format';
 
 	const PAGE = 99;
@@ -24,7 +25,13 @@
 
 {@render navbar()}
 <div class="content">
-	<div class="sidebar">asd</div>
+	<div class="sidebar">
+		<div class="label">
+			Filters <div class="line"></div>
+		</div>
+		<div class="sub-label">RARITY</div>
+		<FilterRarity />
+	</div>
 
 	<div class="main-content">
 		<div class="card-list">
@@ -35,7 +42,7 @@
 		<div class="footer">
 			{#if hasMore}
 				<div
-					style="display: flex; justify-content: center; gap: 30px; align-items: center; color: var(--color-main);"
+					style="display: flex; justify-content: center; gap: 30px; align-items: center;"
 				>
 					<div class="line"></div>
 					<ClickableDiv
