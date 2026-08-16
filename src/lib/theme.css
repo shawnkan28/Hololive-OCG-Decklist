@@ -44,16 +44,18 @@ body {
     font-size: 0.9rem;
     margin-bottom: 1rem;
 }
+
 .sub-label {
     color: rgba(0, 0, 0, 0.7);
     font-weight: 800;
     font-size: 0.7rem;
     margin-bottom: 0.5rem;
 }
+
 .tag {
     line-height: 1;
-    font-size: 0.75rem;
-    font-weight: 600;
+    font-size: 0.65rem;
+    font-weight: 650;
     color: var(--color-neutral-mid);
     background: rgba(255, 255, 255, 0.9);
     padding: 0.26rem 0.6rem;
@@ -61,10 +63,16 @@ body {
     border-radius: 999px;
     transition: all 0.13s ease;
 }
-.tag:hover{
+
+.tag:hover {
     color: var(--color-neutral-dark);
     border-color: color-mix(in srgb, var(--color-neutral-mid) 50%, #fff);
     cursor: pointer;
+}
+.tag.active {
+    color: var(--color, var(--color-neutral-dark));
+    border-color: var(--color, var(--color-neutral-dark));
+    background: color-mix(in srgb, var(--color, var(--color-neutral-dark)) 15%, #fff);
 }
 
 /* ####################################################################################################

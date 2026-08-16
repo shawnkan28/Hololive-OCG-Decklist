@@ -9,6 +9,7 @@
 	const PAGE = 99;
 
 	let query = $state('');
+	let rarity = $state([]);
 	let cardLimit = $state(PAGE);
 
 	const cardList = $derived(search(CARDS, query));
@@ -30,7 +31,7 @@
 			Filters <div class="line"></div>
 		</div>
 		<div class="sub-label">RARITY</div>
-		<FilterRarity />
+		<FilterRarity bind:value={rarity} />
 	</div>
 
 	<div class="main-content">
@@ -41,9 +42,7 @@
 		</div>
 		<div class="footer">
 			{#if hasMore}
-				<div
-					style="display: flex; justify-content: center; gap: 30px; align-items: center;"
-				>
+				<div style="display: flex; justify-content: center; gap: 30px; align-items: center;">
 					<div class="line"></div>
 					<ClickableDiv
 						class="button"
