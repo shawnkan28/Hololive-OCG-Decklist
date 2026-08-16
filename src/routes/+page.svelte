@@ -5,8 +5,14 @@
 	import Card from '$lib/components/Card.svelte';
 	import { search } from '$lib/format';
 
+	const PAGE = 99;
+
 	let query = $state('');
-	let cards = $derived(search(CARDS, query));
+	let cardLimit = $state(PAGE);
+
+	const cardList = $derived(search(CARDS, query));
+	const cards = $derived(cardList.slice(0, cardLimit));
+	const hasMore = $derived(cardLimit < cardList.length);
 
 	function clearSearch() {
 		query = '';
@@ -17,10 +23,20 @@
 
 <div class="content">
 	<div class="card-list">
-		{#each cards.slice(0, 100) as card (card.rarity + ' ' + card.nameEn + ' ' + card.number)}
+		{#each cards as card (card.rarity + ' ' + card.nameEn + ' ' + card.number)}
 			<Card data={card} />
 		{/each}
 	</div>
+	{#if hasMore}
+		<div>
+			<ClickableDiv
+				class="button"
+				onclick={() => {
+					cardLimit += PAGE;
+				}}>LOAD MORE</ClickableDiv
+			>
+		</div>
+	{/if}
 </div>
 
 {#snippet navbar()}
