@@ -1,4 +1,5 @@
 import { COLORS, RARITIES, SETS } from '$lib/data/card_data';
+import type { Card, SearchField } from "$lib/types";
 
 const COLOR_HEX = new Map<string, string>();
 for (const color of COLORS) {
@@ -46,4 +47,9 @@ export function withCommas(value: number | string): string {
 	const [, sign, whole, fraction] = match;
 	const grouped = whole.replace(/\B(?=(\d{3})+(?!\d))/g, ',');
 	return fraction == null ? `${sign}${grouped}` : `${sign}${grouped}.${fraction}`;
+}
+
+export function search(list: Card[], query: string, searchCol: SearchField[] = ["number", "nameEn", "rarity"]): Card[] {
+	const q = query.toLowerCase();
+	return list.filter(c => searchCol.some((key) => c[key].toLowerCase().includes(q)));
 }

@@ -1,21 +1,12 @@
 <script lang="ts">
 	import ClickableDiv from '$lib/components/ClickableDiv.svelte';
 	import { colorToHex, lookupSet } from '$lib/format';
-
-	type Data = {
-		url: string;
-		number: string;
-		nameEn: string;
-		image: string;
-		set: string;
-		colors: string[];
-		// stockCount: number | null;
-	};
+	import type { Card } from '$lib/types';
 
 	// -----------------------------------------------------------------------------------------
 	// PROPERTIES / LOCAL STATES
 	// -----------------------------------------------------------------------------------------
-	let { data }: { data: Data } = $props();
+	let { data }: { data: Card } = $props();
 
 	const hexColor = $derived(colorToHex(data.colors));
 	const styleStr = $derived(
