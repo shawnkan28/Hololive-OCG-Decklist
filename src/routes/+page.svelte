@@ -12,7 +12,7 @@
 	let rarity = $state([]);
 	let cardLimit = $state(PAGE);
 
-	const cardList = $derived(search(CARDS, query));
+	const cardList = $derived(search(CARDS, { q: query, r: rarity }));
 	const cards = $derived(cardList.slice(0, cardLimit));
 	const hasMore = $derived(cardLimit < cardList.length);
 
