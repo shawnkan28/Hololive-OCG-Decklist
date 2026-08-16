@@ -26,8 +26,9 @@ body {
     padding: 0;
     margin: 0;
     font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
-    overflow-y: scroll;
-
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 .desc {
@@ -36,6 +37,9 @@ body {
     font-weight: normal;
 }
 
+/* ####################################################################################################
+    Global Buttons
+   #################################################################################################### */
 .button {
     padding: 12px 15px;
     background: var(--color-main-0);
@@ -47,6 +51,7 @@ body {
     white-space: nowrap;
     transition: all .1s ease;
 }
+
 .button:hover {
     /* background: color-mix(in srgb, var(--color-main) 100%, #000); */
     background: color-mix(in srgb, var(--color-main-0), #000 3%);
@@ -60,15 +65,13 @@ body {
 
 .footer {
     padding-bottom: 60px;
-    max-width: var(--content-width);
-    margin: 0 auto;
 }
 
 /* ####################################################################################################
     Scrollbar
    #################################################################################################### */
 html {
-    scrollbar-color: #c9b4d8 white;
+    scrollbar-color: #c9b4d8 rgba(255, 255, 255, 0.5);
 }
 
 html::-webkit-scrollbar-thumb:hover {
@@ -76,11 +79,33 @@ html::-webkit-scrollbar-thumb:hover {
 }
 
 /* ####################################################################################################
+    Page Layout
+   #################################################################################################### */
+.content {
+    flex: 1;
+    /* overflow-y: scroll; */
+    display: flex;
+    min-height: 0;
+}
+
+.sidebar {
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: .25rem .5rem 1rem;
+}
+
+.main-content {
+    flex: 1;
+    overflow-y: scroll;
+}
+
+
+
+/* ####################################################################################################
     Navbar
    #################################################################################################### */
 .navbar {
-    position: sticky;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.5);
     backdrop-filter: blur(14px);
     top: 0;
     z-index: 50;
@@ -152,11 +177,13 @@ html::-webkit-scrollbar-thumb:hover {
 }
 
 /* ####################################################################################################
+    Filter
+   #################################################################################################### */
+
+/* ####################################################################################################
     Card Layout
    #################################################################################################### */
 .card-list {
-    margin: 0 auto;
-    max-width: var(--content-width);
     padding: 1.1rem 1.1rem 3rem;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));

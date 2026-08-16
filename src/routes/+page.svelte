@@ -23,29 +23,32 @@
 </script>
 
 {@render navbar()}
-
 <div class="content">
-	<div class="card-list">
-		{#each cards as card (card.rarity + ' ' + card.nameEn + ' ' + card.number)}
-			<Card data={card} />
-		{/each}
-	</div>
-</div>
-<div class="footer">
-	{#if hasMore}
-		<div
-			style="display: flex; justify-content: center; gap: 30px; align-items: center; color: var(--color-main);"
-		>
-			<div class="line"></div>
-			<ClickableDiv
-				class="button"
-				onclick={() => {
-					cardLimit += PAGE;
-				}}>LOAD MORE</ClickableDiv
-			>
-			<div class="line"></div>
+	<div class="sidebar">asd</div>
+
+	<div class="main-content">
+		<div class="card-list">
+			{#each cards as card (card.rarity + ' ' + card.nameEn + ' ' + card.number)}
+				<Card data={card} />
+			{/each}
 		</div>
-	{/if}
+		<div class="footer">
+			{#if hasMore}
+				<div
+					style="display: flex; justify-content: center; gap: 30px; align-items: center; color: var(--color-main);"
+				>
+					<div class="line"></div>
+					<ClickableDiv
+						class="button"
+						onclick={() => {
+							cardLimit += PAGE;
+						}}>LOAD MORE</ClickableDiv
+					>
+					<div class="line"></div>
+				</div>
+			{/if}
+		</div>
+	</div>
 </div>
 
 {#snippet navbar()}
