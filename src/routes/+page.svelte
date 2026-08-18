@@ -5,13 +5,14 @@
 	import logo from '$lib/assets/favicon.png';
 	import { CARDS } from '$lib/data/card_data';
 	import { search } from '$lib/format';
+	import FilterTalent from '$lib/components/FilterTalent.svelte';
 
 	const PAGE = 99;
 
 	let query = $state('');
 	let rarity = $state([]);
 	let cardLimit = $state(PAGE);
-
+	// TODO: Add filter for TALENT like the deprecated one
 	const cardList = $derived(search(CARDS, { q: query, r: rarity }));
 	const cards = $derived(cardList.slice(0, cardLimit));
 	const hasMore = $derived(cardLimit < cardList.length);
@@ -26,12 +27,15 @@
 
 {@render navbar()}
 <div class="content">
+	<!-- FILTER BAR -->
 	<div class="sidebar">
 		<div class="label">
 			Filters <div class="line"></div>
 		</div>
 		<div class="sub-label">RARITY</div>
 		<FilterRarity bind:value={rarity} />
+		<div class="sub-label" style="margin-top: var(--gap);">TALENT</div>
+		<FilterTalent />
 	</div>
 
 	<div class="main-content">
