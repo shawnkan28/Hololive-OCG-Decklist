@@ -20,7 +20,7 @@
 
 <div bind:this={root} class="dropdown-wrapper">
 	<ClickableDiv
-		class="dropdownlist"
+		class={`dropdownlist ${isExpanded ? "expanded" : ""}`}
 		onclick={() => {
 			isExpanded = !isExpanded;
 		}}

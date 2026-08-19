@@ -8,6 +8,7 @@
     --color-good: #2e9e64;
     --color-bad: #d24a45;
     --color-main: #cc90df;
+    --color-main-light-0: color-mix(in srgb, var(--color-main) 30%, #fff 100%);
     --color-main-0: color-mix(in srgb, var(--color-main) 50%, #fff 100%);
     --color-main-1: color-mix(in srgb, var(--color-main) 100%, #fff 100%);
     --shadow: 0 6px 18px rgba(38, 42, 54, 0.14);
@@ -93,6 +94,10 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+.dropdownlist.expanded{
+    box-shadow: 0 0 0 3px var(--color-main-light-0);
+    border-color: var(--color-main);
 }
 
 .dropdownlist svg {
