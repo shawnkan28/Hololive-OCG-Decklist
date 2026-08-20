@@ -305,7 +305,6 @@ html::-webkit-scrollbar-thumb:hover {
     margin: 0 auto;
     display: flex;
     gap: var(--gap);
-    max-width: var(--content-width);
     justify-content: space-between;
     align-items: center;
 }

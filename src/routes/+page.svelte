@@ -6,12 +6,14 @@
 	import { CARDS } from '$lib/data/card_data';
 	import { search } from '$lib/format';
 	import FilterTalent from '$lib/components/FilterTalent.svelte';
+	import DropdownList from '$lib/components/DropdownList.svelte';
 
 	const PAGE = 99;
 
 	let query = $state('');
 	let rarity = $state([]);
 	let talents = $state([]);
+	let sort = $state('Set & number');
 	let cardLimit = $state(PAGE);
 	// TODO: Add filter for TALENT like the deprecated one
 	const cardList = $derived(search(CARDS, { q: query, r: rarity, t: talents }));
@@ -72,7 +74,7 @@
 				<div class="desc">Card Browser</div>
 			</ClickableDiv>
 			<!-- Other content like the searchbar and filter goes here. -->
-			<div>
+			<div style="display: flex; gap: var(--gap); align-items: center;">
 				<div class="search">
 					<input
 						type="text"
@@ -87,6 +89,7 @@
 					/>
 					{@render searchIcon()}
 				</div>
+				<DropdownList bind:value={sort} />
 			</div>
 		</div>
 	</div>
