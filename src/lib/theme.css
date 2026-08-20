@@ -79,6 +79,15 @@ body {
 }
 
 /* ####################################################################################################
+    Input Defaults
+   #################################################################################################### */
+input {
+    border: none;
+    background-color: inherit;
+    min-width: 200px;
+}
+
+/* ####################################################################################################
     Dropdownlist
    #################################################################################################### */
 .dropdown-wrapper {
@@ -129,6 +138,20 @@ body {
     gap: 0.45rem;
 }
 
+.dropdown-panel .search input {
+    background-color: #f4f6fb;
+    padding: 0.38rem 0.6rem;
+    border-radius: 7px;
+    border: 1px solid #e2e7f1;
+    width: 100%;
+    color: var(--color-neutral-dark);
+}
+
+.dropdown-panel .search input:focus {
+    box-shadow: 0 0 0 3px var(--color-main-light-0);
+    border-color: var(--color-main);
+}
+
 .dropdown-panel-list {
     overflow-y: auto;
     scrollbar-color: auto;
@@ -167,7 +190,7 @@ body {
 }
 
 /* ####################################################################################################
-    Dropdownlis items
+    Dropdownlist items
    #################################################################################################### */
 .dropdown-item {
     display: flex;
@@ -305,7 +328,6 @@ html::-webkit-scrollbar-thumb:hover {
     Navbar Search field
    #################################################################################################### */
 .navbar .search {
-    /* background-color: rgba(255, 255, 255, 0.8); */
     background: white;
     padding: 6px 8px 6px 10px;
     gap: var(--gap);

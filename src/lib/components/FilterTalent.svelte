@@ -7,13 +7,19 @@
 
 	let root: HTMLElement;
 	let isExpanded = $state(false);
+	let searchText = $state('');
+
+	function setExpanded(open: boolean) {
+		isExpanded = open;
+		if (!open) searchText = '';
+	}
 
 	function onDocumentClick(event: MouseEvent) {
 		// this means the event click and the item that was clicked is not the dropdown list, isExpanded will be closed
 		// and the event will still continue to trigger on the item that was clicked
 		// No preventDefault / stopPropogation so the click will still progress.
 		if (isExpanded && root && !root.contains(event.target as Node)) {
-			isExpanded = false;
+			setExpanded(false);
 		}
 	}
 	function selectTalent(id: string) {
@@ -32,7 +38,7 @@
 	<ClickableDiv
 		class={`dropdownlist ${isExpanded ? 'expanded' : ''}`}
 		onclick={() => {
-			isExpanded = !isExpanded;
+			setExpanded(!isExpanded);
 		}}
 	>
 		<!-- Display talent name if only 1, more then one will show number of talents. If 0 will show "All talents" -->
@@ -63,8 +69,15 @@
 	</ClickableDiv>
 	{#if isExpanded}
 		<div class="dropdown-panel">
+			<div class="search">
+				<input
+					type="text"
+					placeholder="Find talent - mumei, fauna, ina..."
+					bind:value={searchText}
+				/>
+			</div>
 			<div class="dropdown-panel-list">
-				{#each TALENTS as talent (talent.id)}
+				{#each TALENTS.filter((t) => t.en.toLowerCase().includes(searchText)) as talent (talent.id)}
 					<ClickableDiv
 						class={values.includes(talent.id) ? 'dropdown-item active' : 'dropdown-item'}
 						onclick={() => {
