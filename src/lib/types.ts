@@ -8,6 +8,7 @@ export type Card = {
     stockCount: number | null;
     rarity: string;
     addedDate?: Date;
+    talents: string[];
 };
 
 export type SearchField = 'number' | 'nameEn' | 'rarity';

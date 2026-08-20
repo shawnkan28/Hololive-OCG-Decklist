@@ -2,6 +2,8 @@
 	import { TALENTS } from '$lib/data/card_data';
 	import ClickableDiv from './ClickableDiv.svelte';
 
+	let { values = $bindable([]) }: { values?: string[] } = $props();
+
 	let root: HTMLElement;
 	let isExpanded = $state(false);
 
@@ -13,6 +15,13 @@
 			isExpanded = false;
 		}
 	}
+	function selectTalent(id: string) {
+		if (values.includes(id)) {
+			values = values.filter((v) => v !== id);
+		} else {
+			values.push(id);
+		}
+	}
 </script>
 
 <!-- This is equivalent to document.addEventListener('click', onDocumentClick) -->
@@ -20,12 +29,19 @@
 
 <div bind:this={root} class="dropdown-wrapper">
 	<ClickableDiv
-		class={`dropdownlist ${isExpanded ? "expanded" : ""}`}
+		class={`dropdownlist ${isExpanded ? 'expanded' : ''}`}
 		onclick={() => {
 			isExpanded = !isExpanded;
 		}}
 	>
-		<span>All talents</span>
+		<!-- Display talent name if only 1, more then one will show number of talents. If 0 will show "All talents" -->
+		<span
+			>{values.length === 0
+				? 'All talents'
+				: values.length > 1
+					? `${values.length} talents`
+					: TALENTS.filter((o) => o.id === values[0])[0].en}</span
+		>
 		{#if isExpanded}
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
 				<!--!Font Awesome Free v7.3.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.-->
@@ -48,7 +64,11 @@
 		<div class="dropdown-panel">
 			<div class="dropdown-panel-list">
 				{#each TALENTS as talent (talent.id)}
-					<div>{talent.en}</div>
+					<ClickableDiv
+						onclick={() => {
+							selectTalent(talent.id);
+						}}>{talent.en}</ClickableDiv
+					>
 				{/each}
 			</div>
 		</div>

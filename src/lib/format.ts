@@ -49,12 +49,15 @@ export function withCommas(value: number | string): string {
 	return fraction == null ? `${sign}${grouped}` : `${sign}${grouped}.${fraction}`;
 }
 
-export function search(list: Card[], options: { q: string, r: string[] }, searchCol: SearchField[] = ["number", "nameEn", "rarity"], sortBy: SortField = "number"): Card[] {
+export function search(list: Card[], options: { q: string, r: string[], t: string[] }, searchCol: SearchField[] = ["number", "nameEn", "rarity"], sortBy: SortField = "number"): Card[] {
 	const q = options.q.toLowerCase();
 
 	let filtered = list.filter(c => searchCol.some((key) => c[key].toLowerCase().includes(q)));
 	if (options.r.length > 0) {
 		filtered = filtered.filter(c => options.r.some((r) => r.toLowerCase() === c['rarity'].toLowerCase()));
+	}
+	if (options.t.length > 0) {
+		filtered = filtered.filter(c => options.t.some((t) => c['talents'].includes(t)))
 	}
 
 	return filtered.sort((a: Card, b: Card) => {

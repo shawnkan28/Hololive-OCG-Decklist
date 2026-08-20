@@ -11,9 +11,10 @@
 
 	let query = $state('');
 	let rarity = $state([]);
+	let talents = $state([]);
 	let cardLimit = $state(PAGE);
 	// TODO: Add filter for TALENT like the deprecated one
-	const cardList = $derived(search(CARDS, { q: query, r: rarity }));
+	const cardList = $derived(search(CARDS, { q: query, r: rarity, t: talents }));
 	const cards = $derived(cardList.slice(0, cardLimit));
 	const hasMore = $derived(cardLimit < cardList.length);
 
@@ -35,7 +36,7 @@
 		<div class="sub-label">RARITY</div>
 		<FilterRarity bind:value={rarity} />
 		<div class="sub-label" style="margin-top: var(--gap);">TALENT</div>
-		<FilterTalent />
+		<FilterTalent bind:values={talents} />
 	</div>
 
 	<div class="main-content">
