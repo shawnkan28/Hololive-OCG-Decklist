@@ -66,7 +66,7 @@
 			<div class="dropdown-panel-list">
 				{#each TALENTS as talent (talent.id)}
 					<ClickableDiv
-						class={values.includes(talent.id) ? "dropdown-item active" : "dropdown-item"}
+						class={values.includes(talent.id) ? 'dropdown-item active' : 'dropdown-item'}
 						onclick={() => {
 							selectTalent(talent.id);
 						}}
@@ -75,6 +75,14 @@
 						{talent.en}</ClickableDiv
 					>
 				{/each}
+			</div>
+			<div class="dropdown-desc">
+				<div>
+					{#if values.length > 0}{values.length} selected -
+					{/if}
+					{TALENTS.length} talents
+				</div>
+				<ClickableDiv onclick={() => (values = [])} class="clear-btn">Clear</ClickableDiv>
 			</div>
 		</div>
 	{/if}
