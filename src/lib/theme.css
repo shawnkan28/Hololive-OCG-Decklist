@@ -7,6 +7,7 @@
     --color-neutral-dark: #262a36;
     --color-good: #2e9e64;
     --color-bad: #d24a45;
+    --color-main-dark-0: color-mix(in srgb, var(--color-main) 100%, #000 20%);
     --color-main: #cc90df;
     --color-main-light-0: color-mix(in srgb, var(--color-main) 30%, #fff 100%);
     --color-main-0: color-mix(in srgb, var(--color-main) 50%, #fff 100%);
@@ -150,11 +151,24 @@ body {
     height: 0;
 }
 
+/* this means run this if the selector does not support webkit-scrollbar */
 @supports not selector(::-webkit-scrollbar) {
     .dropdown-panel-list {
         scrollbar-width: thin;
         scrollbar-color: var(--color-main) white;
     }
+}
+/* ####################################################################################################
+    Dropdownlis items
+   #################################################################################################### */
+.dropdown-item {
+    display: flex;
+    gap: var(--gap);
+    align-items: center;
+    padding: 0.34rem 0.45rem
+}
+.dropdown-item.active{
+    color: var(--color-main-dark-0);
 }
 
 /* ####################################################################################################

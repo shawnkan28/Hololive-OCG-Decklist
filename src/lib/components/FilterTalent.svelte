@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { TALENTS } from '$lib/data/card_data';
 	import ClickableDiv from './ClickableDiv.svelte';
+	import Checkbox from '$lib/components/Checkbox.svelte';
 
 	let { values = $bindable([]) }: { values?: string[] } = $props();
 
@@ -65,9 +66,13 @@
 			<div class="dropdown-panel-list">
 				{#each TALENTS as talent (talent.id)}
 					<ClickableDiv
+						class={values.includes(talent.id) ? "dropdown-item active" : "dropdown-item"}
 						onclick={() => {
 							selectTalent(talent.id);
-						}}>{talent.en}</ClickableDiv
+						}}
+					>
+						<Checkbox isChecked={values.includes(talent.id)} />
+						{talent.en}</ClickableDiv
 					>
 				{/each}
 			</div>
