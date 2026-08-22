@@ -7,8 +7,9 @@
 	import { search } from '$lib/format';
 	import FilterTalent from '$lib/components/FilterTalent.svelte';
 	import DropdownList from '$lib/components/DropdownList.svelte';
-	import type { SortField } from '$lib/types';
+	import type { Card as CardData, SortField } from '$lib/types';
 	import DisplayFilter from '$lib/components/DisplayFilter.svelte';
+	import Modal from '$lib/components/Modal.svelte';
 
 	const PAGE = 99;
 
@@ -17,6 +18,8 @@
 	let talents = $state([]);
 	let sort: SortField = $state('rarity');
 	let cardLimit = $state(PAGE);
+	let selectedCard: CardData | null = $state(null);
+	let modalOpen = $state(false);
 
 	const cardList = $derived(search(CARDS, { q: query, r: rarity, t: talents, sortBy: sort }));
 	const cards = $derived(cardList.slice(0, cardLimit));
@@ -32,7 +35,6 @@
 	function clearSearch() {
 		query = '';
 	}
-	
 </script>
 
 <!-- ######################################################################################## -->
@@ -108,9 +110,18 @@
 		<!-- CARD Gallery -->
 		<div class="card-list">
 			{#each cards as card (card.rarity + ' ' + card.nameEn + ' ' + card.number)}
-				<Card data={card} />
+				<Card
+					data={card}
+					callback={() => {
+						selectedCard = card;
+						modalOpen = true;
+					}}
+				/>
 			{/each}
 		</div>
+		<!-- Card Details Modal -->
+		<Modal bind:open={modalOpen}>{selectedCard?.nameEn}</Modal>
+
 		<!-- LOAD MORE CARDS Button -->
 		<div class="footer">
 			{#if hasMore}
