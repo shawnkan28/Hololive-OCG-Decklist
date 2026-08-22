@@ -105,6 +105,7 @@
 			bind:rarity
 			numFiltered={cardList.length}
 			bind:search={query}
+			bind:talents
 		/>
 		<!-- CARD Gallery -->
 		<div class="card-list">

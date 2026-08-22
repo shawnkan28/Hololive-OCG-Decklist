@@ -6,11 +6,20 @@
 		total = 0,
 		rarity = $bindable([]),
 		search = $bindable(''),
+		talents = $bindable([]),
 		numFiltered = 0
-	}: { total?: number; rarity?: string[]; numFiltered?: number; search?: string } = $props();
+	}: {
+		total?: number;
+		rarity?: string[];
+		numFiltered?: number;
+		search?: string;
+		talents?: string[];
+	} = $props();
 
 	function clearAll() {
 		rarity = [];
+		search = '';
+		talents = [];
 	}
 	function removeRarity(value: string) {
 		rarity = rarity.filter((r) => r !== value);
@@ -31,14 +40,20 @@
 		{/if}
 		cards
 	</div>
-	<!-- Show total number of cards and number filtered -->
+
+	<!-- Searched Value -->
 	{#if search !== ''}
 		{@render tag(`"${search}"`, 'var(--color-main)', () => {
 			search = '';
 		})}
 	{/if}
 
+	<!-- Rarities Filtered -->
 	{@render displayRarities()}
+
+	<!-- Talents Filtered -->
+	{@render displayTalent()}
+
 	<!-- Clear all button to clear all filters -->
 	{#if numFiltered !== total}
 		<ClickableDiv
@@ -64,6 +79,24 @@
 		<!-- Consolidate list of rarities if it gets more then 5 -->
 		{@render tag(`${rarity.length} rarities`, 'var(--color-main)', () => {
 			rarity = [];
+		})}
+	{/if}
+{/snippet}
+
+<!-- ######################################################################################## -->
+<!-- DISPLAY TALENTS TAGS -->
+<!-- ######################################################################################## -->
+{#snippet displayTalent()}
+	{#if talents.length < 5}
+		{#each talents as t (t)}
+			{@render tag(t, 'var(--color-main)', () => {
+				talents = talents.filter((talent) => talent !== t);
+			})}
+		{/each}
+	{:else}
+		<!-- Consolidate list of rarities if it gets more then 5 -->
+		{@render tag(`${talents.length} talents`, 'var(--color-main)', () => {
+			talents = [];
 		})}
 	{/if}
 {/snippet}
