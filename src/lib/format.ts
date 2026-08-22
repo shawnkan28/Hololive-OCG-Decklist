@@ -1,5 +1,5 @@
 import { COLORS, RARITIES, SETS } from '$lib/data/card_data';
-import type { Card, SearchField, SortField } from "$lib/types";
+import type { Card, RarityInfo, SearchField, SortField } from "$lib/types";
 
 const COLOR_HEX = new Map<string, string>();
 for (const color of COLORS) {
@@ -49,7 +49,10 @@ export function withCommas(value: number | string): string {
 	return fraction == null ? `${sign}${grouped}` : `${sign}${grouped}.${fraction}`;
 }
 
-export function search(list: Card[], options: { q: string, r: string[], t: string[] }, searchCol: SearchField[] = ["number", "nameEn", "rarity"], sortBy: SortField = "number"): Card[] {
+export function search(list: Card[], options: { q: string, r: string[], t: string[], searchCol?: SearchField[], sortBy?: SortField }): Card[] {
+	const searchCol = options.searchCol ?? ["number", "nameEn", "rarity"];
+	const sortBy = options.sortBy ?? "number";
+
 	const q = options.q.toLowerCase();
 
 	let filtered = list.filter(c => searchCol.some((key) => c[key].toLowerCase().includes(q)));
@@ -61,6 +64,13 @@ export function search(list: Card[], options: { q: string, r: string[], t: strin
 	}
 
 	return filtered.sort((a: Card, b: Card) => {
+		// Rarity we sort by the id
+		if (sortBy === "rarity") {
+			const aObj: RarityInfo = RARITIES.filter(r => r.code === a.rarity)[0];
+			const bObj: RarityInfo = RARITIES.filter(r => r.code === b.rarity)[0];
+			return bObj.id - aObj.id;
+		}
+
 		// Sort By Date
 		if (a[sortBy] instanceof Date && b[sortBy] instanceof Date) {
 			return a[sortBy].getTime() - b[sortBy].getTime();

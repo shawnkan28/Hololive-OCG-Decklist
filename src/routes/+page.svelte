@@ -7,16 +7,17 @@
 	import { search } from '$lib/format';
 	import FilterTalent from '$lib/components/FilterTalent.svelte';
 	import DropdownList from '$lib/components/DropdownList.svelte';
+	import type { SortField } from '$lib/types';
 
 	const PAGE = 99;
 
 	let query = $state('');
 	let rarity = $state([]);
 	let talents = $state([]);
-	let sort = $state('number');
+	let sort: SortField = $state('number');
 	let cardLimit = $state(PAGE);
 
-	const cardList = $derived(search(CARDS, { q: query, r: rarity, t: talents }));
+	const cardList = $derived(search(CARDS, { q: query, r: rarity, t: talents, sortBy: sort }));
 	const cards = $derived(cardList.slice(0, cardLimit));
 	const hasMore = $derived(cardLimit < cardList.length);
 	// 'number' | 'nameEn' | 'rarity' | 'addedDate' | 'priceJpy';

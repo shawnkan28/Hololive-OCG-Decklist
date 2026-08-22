@@ -53,6 +53,7 @@ export type SetInfo = {
 export type RarityInfo = {
 	code: string;
 	color: string;
+	id: number;
 };
 
 export type ColorInfo = {
