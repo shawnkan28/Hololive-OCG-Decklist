@@ -17,7 +17,7 @@ export type Card = {
 	talents: string[];
 	colors: string[];
 	price: string;
-	priceJpy: number;
+	marketprice: { date: string; price: number }[];
 	stock: string;
 	stockCount: number | null;
 	inStock: boolean;
@@ -70,4 +70,4 @@ export type TalentInfo = {
 };
 
 export type SearchField = 'number' | 'nameEn' | 'rarity';
-export type SortField = 'number' | 'nameEn' | 'rarity' | 'addedDate' | 'priceJpy';
+export type SortField = 'number' | 'nameEn' | 'rarity' | 'addedDate';

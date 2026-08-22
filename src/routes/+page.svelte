@@ -22,7 +22,7 @@
 	const cards = $derived(cardList.slice(0, cardLimit));
 	const hasMore = $derived(cardLimit < cardList.length);
 
-	// 'number' | 'nameEn' | 'rarity' | 'addedDate' | 'priceJpy';
+	// 'number' | 'nameEn' | 'rarity' | 'addedDate';
 	const sortList = [
 		{ label: 'Set & number', value: 'number' },
 		{ label: 'Name', value: 'nameEn' },
