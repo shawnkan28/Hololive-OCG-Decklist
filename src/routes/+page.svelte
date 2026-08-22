@@ -13,14 +13,18 @@
 	let query = $state('');
 	let rarity = $state([]);
 	let talents = $state([]);
-	let sort = $state('Set & number');
+	let sort = $state('number');
 	let cardLimit = $state(PAGE);
-	// TODO: Add filter for TALENT like the deprecated one
+
 	const cardList = $derived(search(CARDS, { q: query, r: rarity, t: talents }));
 	const cards = $derived(cardList.slice(0, cardLimit));
 	const hasMore = $derived(cardLimit < cardList.length);
-
-	// TODO: Loading more needs to take into account when user search in search field, need to reset Limit.
+	// 'number' | 'nameEn' | 'rarity' | 'addedDate' | 'priceJpy';
+	const sortList = [
+		{ label: 'Set & number', value: 'number' },
+		{ label: 'Name', value: 'nameEn' },
+		{ label: 'Rarity', value: 'rarity' }
+	];
 
 	function clearSearch() {
 		query = '';
@@ -89,7 +93,7 @@
 					/>
 					{@render searchIcon()}
 				</div>
-				<DropdownList bind:value={sort} />
+				<DropdownList bind:value={sort} elements={sortList} />
 			</div>
 		</div>
 	</div>

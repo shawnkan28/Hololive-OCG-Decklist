@@ -204,6 +204,11 @@ input {
     font-weight: 600;
 }
 
+.dropdown-item:hover {
+    background-color: color-mix(in srgb, var(--color-main-0) 30%, #fff);
+    border-radius: 5px;
+}
+
 .dropdown-desc {
     padding-top: 0.4rem;
     border-top: 1px solid var(--color-neutral-soft);
