@@ -21,6 +21,7 @@
 	const cardList = $derived(search(CARDS, { q: query, r: rarity, t: talents, sortBy: sort }));
 	const cards = $derived(cardList.slice(0, cardLimit));
 	const hasMore = $derived(cardLimit < cardList.length);
+
 	// 'number' | 'nameEn' | 'rarity' | 'addedDate' | 'priceJpy';
 	const sortList = [
 		{ label: 'Set & number', value: 'number' },
@@ -30,8 +31,8 @@
 
 	function clearSearch() {
 		query = '';
-		cardLimit = PAGE;
 	}
+	
 </script>
 
 <!-- ######################################################################################## -->
@@ -63,9 +64,6 @@
 						autocomplete="off"
 						placeholder="Search decks, oshi, cards..."
 						bind:value={query}
-						oninput={() => {
-							cardLimit = PAGE;
-						}}
 					/>
 					{@render searchIcon()}
 				</div>
