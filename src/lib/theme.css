@@ -52,6 +52,18 @@ body {
     font-weight: 800;
     font-size: 0.7rem;
     margin-bottom: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sub-label .clickable {
+    font-weight: 600;
+    transition: all ease 0.2s;
+}
+
+.sub-label .clickable:hover {
+    color: var(--color-main);
 }
 
 .tag {

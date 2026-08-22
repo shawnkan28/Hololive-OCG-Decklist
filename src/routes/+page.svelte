@@ -14,7 +14,7 @@
 	let query = $state('');
 	let rarity = $state([]);
 	let talents = $state([]);
-	let sort: SortField = $state('number');
+	let sort: SortField = $state('rarity');
 	let cardLimit = $state(PAGE);
 
 	const cardList = $derived(search(CARDS, { q: query, r: rarity, t: talents, sortBy: sort }));
@@ -40,7 +40,17 @@
 		<div class="label">
 			Filters <div class="line"></div>
 		</div>
-		<div class="sub-label">RARITY</div>
+		<div class="sub-label">
+			<span>RARITY</span>
+			{#if rarity.length > 0}
+				<ClickableDiv
+					onclick={() => {
+						rarity = [];
+					}}
+					class="clickable">Clear</ClickableDiv
+				>
+			{/if}
+		</div>
 		<FilterRarity bind:value={rarity} />
 		<div class="sub-label" style="margin-top: var(--gap);">TALENT</div>
 		<FilterTalent bind:values={talents} />

@@ -1,10 +1,11 @@
 <script lang="ts">
+	import ClickableDiv from './ClickableDiv.svelte';
+
 	type Element = {
 		label: string;
 		value: string;
 	};
 
-	import ClickableDiv from './ClickableDiv.svelte';
 	let {
 		value = $bindable(),
 		elements = [
@@ -13,9 +14,19 @@
 		]
 	}: { value: string; elements?: Element[] } = $props();
 	let isExpanded = $state(false);
+	let root: HTMLElement;
+
+	function onDocumentClick(event: MouseEvent) {
+		if (isExpanded && root && !root.contains(event.target as Node)) {
+			isExpanded = false;
+		}
+	}
 </script>
 
-<div class="dropdown-wrapper" style="min-width: 150px;">
+<!-- This is equivalent to document.addEventListener('click', onDocumentClick) -->
+<svelte:document onclick={onDocumentClick} />
+
+<div bind:this={root} class="dropdown-wrapper" style="min-width: 150px;">
 	<ClickableDiv
 		class={`dropdownlist ${isExpanded ? 'expanded' : ''}`}
 		onclick={() => (isExpanded = !isExpanded)}
