@@ -57,12 +57,12 @@ body {
     align-items: center;
 }
 
-.sub-label .clickable {
+.clickable {
     font-weight: 600;
     transition: all ease 0.2s;
 }
 
-.sub-label .clickable:hover {
+.clickable:hover {
     color: var(--color-main);
 }
 

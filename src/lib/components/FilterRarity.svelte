@@ -22,6 +22,7 @@
 					return;
 				}
 				value.push(r.label);
+				if (value.length === rarities.length) value = [];
 			}}>{r.label}</ClickableDiv
 		>
 	{/each}

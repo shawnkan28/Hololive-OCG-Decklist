@@ -8,6 +8,7 @@
 	import FilterTalent from '$lib/components/FilterTalent.svelte';
 	import DropdownList from '$lib/components/DropdownList.svelte';
 	import type { SortField } from '$lib/types';
+	import DisplayFilter from '$lib/components/DisplayFilter.svelte';
 
 	const PAGE = 99;
 
@@ -57,6 +58,7 @@
 	</div>
 
 	<div class="main-content">
+		<DisplayFilter total={CARDS.length} bind:rarity numFiltered={cardList.length} />
 		<div class="card-list">
 			{#each cards as card (card.rarity + ' ' + card.nameEn + ' ' + card.number)}
 				<Card data={card} />
