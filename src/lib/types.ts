@@ -17,7 +17,7 @@ export type Card = {
 	talents: string[];
 	colors: string[];
 	price: string;
-	marketprice: { date: string; price: number }[];
+	marketprice: { date: string; price: number; src: string }[];
 	stock: string;
 	stockCount: number | null;
 	inStock: boolean;
