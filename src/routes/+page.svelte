@@ -34,51 +34,14 @@
 	}
 </script>
 
+<!-- ######################################################################################## -->
+<!-- CORE CODE -->
+<!-- ######################################################################################## -->
 {@render navbar()}
 <div class="content">
-	<!-- FILTER BAR -->
-	<div class="sidebar">
-		<div class="label">
-			Filters <div class="line"></div>
-		</div>
-		<div class="sub-label">
-			<span>RARITY</span>
-			{#if rarity.length > 0}
-				<ClickableDiv
-					onclick={() => {
-						rarity = [];
-					}}
-					class="clickable">Clear</ClickableDiv
-				>
-			{/if}
-		</div>
-		<FilterRarity bind:value={rarity} />
-		<div class="sub-label" style="margin-top: var(--gap);">TALENT</div>
-		<FilterTalent bind:values={talents} />
-	</div>
-
-	<div class="main-content">
-		<DisplayFilter total={CARDS.length} bind:rarity numFiltered={cardList.length} />
-		<div class="card-list">
-			{#each cards as card (card.rarity + ' ' + card.nameEn + ' ' + card.number)}
-				<Card data={card} />
-			{/each}
-		</div>
-		<div class="footer">
-			{#if hasMore}
-				<div style="display: flex; justify-content: center; gap: 30px; align-items: center;">
-					<div class="line"></div>
-					<ClickableDiv
-						class="button"
-						onclick={() => {
-							cardLimit += PAGE;
-						}}>LOAD MORE</ClickableDiv
-					>
-					<div class="line"></div>
-				</div>
-			{/if}
-		</div>
-	</div>
+	<!-- FILTER SIDEBAR -->
+	{@render FilterSidebar()}
+	{@render mainContent()}
 </div>
 
 {#snippet navbar()}
@@ -132,4 +95,59 @@
 			</svg>
 		{/if}
 	</ClickableDiv>
+{/snippet}
+
+{#snippet mainContent()}
+	<div class="main-content">
+		<!-- Display all the filtered values -->
+		<DisplayFilter
+			total={CARDS.length}
+			bind:rarity
+			numFiltered={cardList.length}
+			bind:search={query}
+		/>
+		<!-- CARD Gallery -->
+		<div class="card-list">
+			{#each cards as card (card.rarity + ' ' + card.nameEn + ' ' + card.number)}
+				<Card data={card} />
+			{/each}
+		</div>
+		<!-- LOAD MORE CARDS Button -->
+		<div class="footer">
+			{#if hasMore}
+				<div style="display: flex; justify-content: center; gap: 30px; align-items: center;">
+					<div class="line"></div>
+					<ClickableDiv
+						class="button"
+						onclick={() => {
+							cardLimit += PAGE;
+						}}>LOAD MORE</ClickableDiv
+					>
+					<div class="line"></div>
+				</div>
+			{/if}
+		</div>
+	</div>
+{/snippet}
+
+{#snippet FilterSidebar()}
+	<div class="sidebar">
+		<div class="label">
+			Filters <div class="line"></div>
+		</div>
+		<div class="sub-label">
+			<span>RARITY</span>
+			{#if rarity.length > 0}
+				<ClickableDiv
+					onclick={() => {
+						rarity = [];
+					}}
+					class="clickable">Clear</ClickableDiv
+				>
+			{/if}
+		</div>
+		<FilterRarity bind:value={rarity} />
+		<div class="sub-label" style="margin-top: var(--gap);">TALENT</div>
+		<FilterTalent bind:values={talents} />
+	</div>
 {/snippet}
