@@ -14,6 +14,18 @@
 </script>
 
 <div class="filtered-vals">
+	{@render displayRarities()}
+	{#if numFiltered !== total}
+		<ClickableDiv
+			onclick={clearAll}
+			class="clickable"
+			style="font-size: 0.8rem; align-self: center; line-height: 1;"
+			>Clear All
+		</ClickableDiv>
+	{/if}
+</div>
+
+{#snippet displayRarities()}
 	<div>
 		<span style="font-weight: 700; color: var(--color-neutral-dark);">
 			{numFiltered === total ? total : numFiltered}
@@ -23,7 +35,6 @@
 		{/if}
 		cards
 	</div>
-	<!-- Consolidate list of rarities if it gets more then 5 -->
 	{#if rarity.length < 5}
 		{#each rarity as r (r)}
 			<ClickableDiv
@@ -46,6 +57,7 @@
 			</ClickableDiv>
 		{/each}
 	{:else}
+		<!-- Consolidate list of rarities if it gets more then 5 -->
 		<ClickableDiv
 			class="tag active"
 			style="--color: var(--color-main); display: flex; gap: 0.3rem; font-size: 0.7rem; align-items: center;"
@@ -64,15 +76,7 @@
 			</div></ClickableDiv
 		>
 	{/if}
-	{#if numFiltered !== total}
-		<ClickableDiv
-			onclick={clearAll}
-			class="clickable"
-			style="font-size: 0.8rem; align-self: center; line-height: 1;"
-			>Clear All
-		</ClickableDiv>
-	{/if}
-</div>
+{/snippet}
 
 <style>
 	.filtered-vals {
