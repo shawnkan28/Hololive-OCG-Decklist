@@ -52,6 +52,8 @@
 		overflow: auto;
 		max-height: min(92vh, 920px);
 		border-radius: 14px;
+		border: none;
+		box-shadow: 0 10px 24px rgba(84, 96, 140, 0.18);
 	}
 	dialog .content {
 		position: relative;

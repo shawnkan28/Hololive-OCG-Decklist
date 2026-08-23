@@ -4,7 +4,7 @@
 	import FilterRarity from '$lib/components/FilterRarity.svelte';
 	import logo from '$lib/assets/favicon.png';
 	import { CARDS } from '$lib/data/card_data';
-	import { search } from '$lib/format';
+	import { lookupRarity, search } from '$lib/format';
 	import FilterTalent from '$lib/components/FilterTalent.svelte';
 	import DropdownList from '$lib/components/DropdownList.svelte';
 	import type { Card as CardData, SortField } from '$lib/types';
@@ -120,8 +120,7 @@
 			{/each}
 		</div>
 		<!-- Card Details Modal -->
-		<Modal bind:open={modalOpen}>{selectedCard?.nameEn}</Modal>
-
+		{@render cardModal()}
 		<!-- LOAD MORE CARDS Button -->
 		<div class="footer">
 			{#if hasMore}
@@ -161,3 +160,48 @@
 		<FilterTalent bind:values={talents} />
 	</div>
 {/snippet}
+
+{#snippet cardModal()}
+	<Modal bind:open={modalOpen}>
+		{#if selectedCard}
+			<div class="modal-content">
+				<!-- MODAL DETAILS -->
+				<div class="info-section">
+					<img src={selectedCard.image} alt={selectedCard.number} />
+					<div style="display: flex; flex-direction: column; gap: 0.3rem;">
+						<span style="font-size: 0.72rem; color: var(--color-neutral-mid); font-family: Consolas, monospace;">{selectedCard.number}</span>
+						<span style="line-height: 1; font-size: 1.02rem; font-weight: 700; text-transform: uppercase;">{selectedCard.nameEn}</span>
+						<div style="display: flex; gap: var(--gap); margin-top: 2px;">
+							<div class="tag active" style={`--color: ${lookupRarity(selectedCard.rarity)}`}>
+								{selectedCard.rarity}
+							</div>
+							<div class="tag active" style="--color: var(--color-main); text-transform: uppercase;">{selectedCard.set}</div>
+						</div>
+						<div style="display: flex;"><a href={selectedCard.url} rel="external">View on Yuyutei</a></div>
+					</div>
+				</div>
+				<!-- MODAL FORM -->
+				<div class="card-form"></div>
+			</div>
+		{/if}
+	</Modal>
+{/snippet}
+
+<style>
+	.modal-content img {
+		aspect-ratio: 100 / 140;
+		object-fit: contain;
+		border-radius: 7px;
+		width: 108px;
+	}
+	.modal-content .info-section {
+		display: flex;
+		padding-right: 2.5rem;
+		gap: 1rem;
+		padding-bottom: 1.05rem;
+		border-bottom: 1px solid var(--color-neutral-soft);
+	}
+	.modal-content .card-form {
+		margin-top: 0.95rem;
+	}
+</style>
