@@ -333,11 +333,12 @@ html::-webkit-scrollbar-thumb:hover {
     display: flex;
     gap: var(--gap);
     align-items: center;
-
 }
 
 .navbar .inner .title img {
     border-radius: 7px;
+    -webkit-user-drag: none;
+    user-select: none;
 }
 
 /* ####################################################################################################
@@ -472,6 +473,8 @@ html::-webkit-scrollbar-thumb:hover {
     height: 100%;
     object-fit: cover;
     object-position: top;
+    -webkit-user-drag: none;
+    user-select: none;
 }
 
 .card .card-details {
