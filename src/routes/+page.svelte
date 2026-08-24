@@ -1,4 +1,6 @@
 <script lang="ts">
+	import Fa from 'svelte-fa';
+	import { faFlag } from '@fortawesome/free-solid-svg-icons';
 	import ClickableDiv from '$lib/components/ClickableDiv.svelte';
 	import Card from '$lib/components/Card.svelte';
 	import FilterRarity from '$lib/components/FilterRarity.svelte';
@@ -10,6 +12,7 @@
 	import type { Card as CardData, SortField } from '$lib/types';
 	import DisplayFilter from '$lib/components/DisplayFilter.svelte';
 	import Modal from '$lib/components/Modal.svelte';
+	import Input from '$lib/components/Input.svelte';
 
 	const PAGE = 99;
 
@@ -169,19 +172,36 @@
 				<div class="info-section">
 					<img src={selectedCard.image} alt={selectedCard.number} />
 					<div style="display: flex; flex-direction: column; gap: 0.3rem;">
-						<span style="font-size: 0.72rem; color: var(--color-neutral-mid); font-family: Consolas, monospace;">{selectedCard.number}</span>
-						<span style="line-height: 1; font-size: 1.02rem; font-weight: 700; text-transform: uppercase;">{selectedCard.nameEn}</span>
+						<span
+							style="font-size: 0.72rem; color: var(--color-neutral-mid); font-family: Consolas, monospace;"
+							>{selectedCard.number}</span
+						>
+						<span
+							style="line-height: 1; font-size: 1.02rem; font-weight: 700; text-transform: uppercase;"
+							>{selectedCard.nameEn}</span
+						>
 						<div style="display: flex; gap: var(--gap); margin-top: 2px;">
 							<div class="tag active" style={`--color: ${lookupRarity(selectedCard.rarity)}`}>
 								{selectedCard.rarity}
 							</div>
-							<div class="tag active" style="--color: var(--color-main); text-transform: uppercase;">{selectedCard.set}</div>
+							<div
+								class="tag active"
+								style="--color: var(--color-main); text-transform: uppercase;"
+							>
+								{selectedCard.set}
+							</div>
 						</div>
-						<div style="display: flex;"><a href={selectedCard.url} rel="external">View on Yuyutei</a></div>
+						<div style="display: flex;">
+							<a href={selectedCard.url} rel="external">View on Yuyutei</a>
+						</div>
 					</div>
 				</div>
 				<!-- MODAL FORM -->
-				<div class="card-form"></div>
+				<div class="card-form">
+					<Input id="qty" type="text" placeholder="¥">
+						<Fa icon={faFlag} />
+					</Input>
+				</div>
 			</div>
 		{/if}
 	</Modal>
