@@ -1,6 +1,6 @@
 <script lang="ts">
-	import Fa from 'svelte-fa';
-	import { faFlag } from '@fortawesome/free-solid-svg-icons';
+	// import Fa from 'svelte-fa';
+	// import { faFlag } from '@fortawesome/free-solid-svg-icons';
 	import ClickableDiv from '$lib/components/ClickableDiv.svelte';
 	import Card from '$lib/components/Card.svelte';
 	import FilterRarity from '$lib/components/FilterRarity.svelte';
@@ -198,9 +198,33 @@
 				</div>
 				<!-- MODAL FORM -->
 				<div class="card-form">
-					<Input id="qty" type="text" placeholder="¥">
-						<Fa icon={faFlag} />
-					</Input>
+					<div class="card-row">
+						<div>
+							<div><label for="qty">QUANTITY</label></div>
+							<Input id="qty" type="text" placeholder="0" />
+						</div>
+						<div>
+							<div><label for="loc">LOCATION</label></div>
+							<Input id="loc" type="text" placeholder="Binder, box, sleeve ..." />
+						</div>
+					</div>
+					<div class="card-row">
+						<div>
+							<div><label for="bprice">BOUGHT PRICE</label></div>
+							<Input id="bprice" type="text" placeholder="¥" />
+						</div>
+						<div>
+							<div><label for="sprice">SOLD PRICE</label></div>
+							<Input id="sprice" type="text" placeholder="¥" />
+						</div>
+					</div>
+					<div>
+						<div><label for="mprice">MARKET PRICE</label></div>
+						<Input id="mprice" type="text" placeholder="¥" />
+					</div>
+					<div style="text-align: right; margin-top: 25px;">
+						<button class="button" onclick={() => {}}>Save</button>
+					</div>
 				</div>
 			</div>
 		{/if}
@@ -223,5 +247,21 @@
 	}
 	.modal-content .card-form {
 		margin-top: 0.95rem;
+	}
+	.card-form label {
+		font-size: 0.7rem;
+		font-weight: 800;
+		letter-spacing: 0.09rem;
+		color: var(--color-neutral-mid);
+	}
+	.card-form div:has(label) {
+		margin-bottom: 0.32rem;
+	}
+	.card-form .card-row {
+		display: flex;
+		gap: var(--gap);
+	}
+	.card-row > div {
+		flex: 1;
 	}
 </style>
