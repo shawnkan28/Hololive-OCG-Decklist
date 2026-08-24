@@ -5,7 +5,7 @@
 	import Card from '$lib/components/Card.svelte';
 	import FilterRarity from '$lib/components/FilterRarity.svelte';
 	import logo from '$lib/assets/favicon.png';
-	import { CARDS } from '$lib/data/card_data';
+	import { CARDS, SETS } from '$lib/data/card_data';
 	import { lookupRarity, search } from '$lib/format';
 	import FilterTalent from '$lib/components/FilterTalent.svelte';
 	import DropdownList from '$lib/components/DropdownList.svelte';
@@ -13,9 +13,15 @@
 	import DisplayFilter from '$lib/components/DisplayFilter.svelte';
 	import Modal from '$lib/components/Modal.svelte';
 	import Input from '$lib/components/Input.svelte';
+	import MultiDropdown from '$lib/components/MultiDropdown.svelte';
 
 	const PAGE = 99;
-
+	// TODO:
+	//  - Create Filter for SET NUMBER
+	//  - Save Inventory Details in a JSON file
+	//  - Buttons should be re organized. new class for buttons for clickable buttons.
+	//  - Make Clickable Div a button instead. Because i'm getting tired of using global css for Clickable Div.
+	//  - This button css will be blank. so by default buttons should be without any styling but when applying clickable button css it will have.
 	let query = $state('');
 	let rarity = $state([]);
 	let talents = $state([]);
@@ -161,6 +167,8 @@
 		<FilterRarity bind:value={rarity} />
 		<div class="sub-label" style="margin-top: var(--gap);">TALENT</div>
 		<FilterTalent bind:values={talents} />
+		<div class="sub-label" style="margin-top: var(--gap);">SET NUMBER</div>
+		<MultiDropdown elements={SETS.map(s => s.code)}/>
 	</div>
 {/snippet}
 
