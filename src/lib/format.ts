@@ -49,18 +49,24 @@ export function withCommas(value: number | string): string {
 	return fraction == null ? `${sign}${grouped}` : `${sign}${grouped}.${fraction}`;
 }
 
-export function search(list: Card[], options: { q: string, r: string[], t: string[], searchCol?: SearchField[], sortBy?: SortField }): Card[] {
+export function search(list: Card[], options: { q?: string, r?: string[], t?: string[], s?: string[], searchCol?: SearchField[], sortBy?: SortField }): Card[] {
 	const searchCol = options.searchCol ?? ["number", "nameEn", "rarity"];
 	const sortBy = options.sortBy ?? "number";
 
-	const q = options.q.toLowerCase();
+	const q = options.q?.toLowerCase() ?? "";
 
 	let filtered = list.filter(c => searchCol.some((key) => c[key].toLowerCase().includes(q)));
-	if (options.r.length > 0) {
+	// Rarity
+	if (options.r && options.r.length > 0) {
 		filtered = filtered.filter(c => options.r.some((r) => r.toLowerCase() === c['rarity'].toLowerCase()));
 	}
-	if (options.t.length > 0) {
-		filtered = filtered.filter(c => options.t.some((t) => c['talents'].includes(t)))
+	// Talent
+	if (options.t && options.t.length > 0) {
+		filtered = filtered.filter(c => options.t.some((t) => c['talents'].includes(t)));
+	}
+	// Set Number
+	if (options.s && options.s.length > 0) {
+		filtered = filtered.filter(c => options.s.some((s) => c['set'].toLowerCase() === s.toLowerCase()));
 	}
 
 	return filtered.sort((a: Card, b: Card) => {
