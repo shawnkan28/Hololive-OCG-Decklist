@@ -42,6 +42,7 @@ a {
     color: var(--color-main-dark-1);
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: underline;
 }
@@ -254,6 +255,12 @@ input {
 /* ####################################################################################################
     Global Buttons
    #################################################################################################### */
+button {
+    border: none;
+    background: inherit;
+    cursor: pointer;
+}
+
 .button {
     padding: 12px 15px;
     background: var(--color-main-0);

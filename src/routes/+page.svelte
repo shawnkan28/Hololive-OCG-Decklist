@@ -168,7 +168,7 @@
 		<div class="sub-label" style="margin-top: var(--gap);">TALENT</div>
 		<FilterTalent bind:values={talents} />
 		<div class="sub-label" style="margin-top: var(--gap);">SET NUMBER</div>
-		<MultiDropdown elements={SETS.map(s => s.code)}/>
+		<MultiDropdown elements={SETS.map((s) => ({ label: s.label, value: s.code }))} />
 	</div>
 {/snippet}
 
