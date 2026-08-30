@@ -175,7 +175,7 @@
 			bind:values={setNum}
 			placeholder="Find set - hbp01, Diva Fever ... "
 			defaultText="set number"
-			elements={SETS.map((s) => ({ label: s.label, value: s.code }))}
+			elements={SETS.map((s) => ({ label: s.nameEn, value: s.code, sublabel: s.label }))}
 		/>
 	</div>
 {/snippet}

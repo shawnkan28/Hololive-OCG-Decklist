@@ -21,6 +21,7 @@
 		justify-content: center;
 		height: 1rem;
 		width: 1rem;
+		flex-shrink: 0;
 		border: 1.5px solid var(--color-neutral-soft);
 		border-radius: 4px;
 	}

@@ -5,6 +5,7 @@
 
 	interface Element {
 		label: string;
+		sublabel: string;
 		value: string;
 	}
 
@@ -77,8 +78,11 @@
 							selectValue(element.value);
 						}}
 					>
-						<Checkbox isChecked={values.includes(element.value)} />
-						{element.label}
+						<span class="labels">
+							<Checkbox isChecked={values.includes(element.value)} />
+							<span class="text">{element.label}</span>
+						</span>
+						<span class="sublabel">{element.sublabel}</span>
 					</button>
 				{/each}
 			</div>
@@ -147,12 +151,35 @@
 		gap: 0.45rem;
 	}
 	.element {
+		box-sizing: border-box;
 		display: flex;
 		gap: var(--gap);
-		width: 100%;
 		align-items: center;
 		padding: 0.34rem 0.45rem;
 		font-size: 0.75rem;
+		align-items: center;
+		margin-right: 0.2rem;
+	}
+	.element:hover {
+		background-color: var(--color-neutral-soft-1);
+		border-radius: 7px;
+	}
+	.element .labels {
+		flex: 1;
+		display: flex;
+		gap: var(--gap);
+		align-items: center;
+		min-width: 0;
+	}
+	.element .labels .text {
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+	.element .sublabel {
+		font-size: 0.72rem;
+		white-space: nowrap;
+		color: var(--color-neutral-mid-1);
 	}
 	.panel-desc {
 		padding-top: 0.4rem;
@@ -166,6 +193,9 @@
 		overflow-y: auto;
 		scrollbar-color: auto;
 		scrollbar-width: auto;
+		overflow-x: hidden;
+		display: flex;
+		flex-direction: column;
 	}
 	.panel-list::-webkit-scrollbar {
 		width: 6.5px;
