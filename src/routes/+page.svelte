@@ -25,12 +25,15 @@
 	let query = $state('');
 	let rarity = $state([]);
 	let talents = $state([]);
+	let setNum = $state([]);
 	let sort: SortField = $state('rarity');
 	let cardLimit = $state(PAGE);
 	let selectedCard: CardData | null = $state(null);
 	let modalOpen = $state(false);
 
-	const cardList = $derived(search(CARDS, { q: query, r: rarity, t: talents, sortBy: sort }));
+	const cardList = $derived(
+		search(CARDS, { q: query, r: rarity, t: talents, s: setNum, sortBy: sort })
+	);
 	const cards = $derived(cardList.slice(0, cardLimit));
 	const hasMore = $derived(cardLimit < cardList.length);
 
@@ -168,7 +171,12 @@
 		<div class="sub-label" style="margin-top: var(--gap);">TALENT</div>
 		<FilterTalent bind:values={talents} />
 		<div class="sub-label" style="margin-top: var(--gap);">SET NUMBER</div>
-		<MultiDropdown elements={SETS.map((s) => ({ label: s.label, value: s.code }))} />
+		<MultiDropdown
+			bind:values={setNum}
+			placeholder="Find set - hbp01, Diva Fever ... "
+			defaultText="set number"
+			elements={SETS.map((s) => ({ label: s.label, value: s.code }))}
+		/>
 	</div>
 {/snippet}
 

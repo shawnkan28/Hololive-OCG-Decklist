@@ -11,8 +11,14 @@
 	let {
 		values = $bindable([]),
 		elements,
-		defaultText = 'elements'
-	}: { values?: string[]; elements: Element[]; defaultText: string } = $props();
+		defaultText = 'elements',
+		placeholder = 'Find element'
+	}: {
+		values?: string[];
+		elements: Element[];
+		defaultText: string;
+		placeholder: string;
+	} = $props();
 
 	let root: HTMLElement;
 	let isExpanded = $state(false);
@@ -45,21 +51,26 @@
 		<!-- Display talent name if only 1, more then one will show number of talents. If 0 will show "All talents" -->
 		<span>
 			{values.length === 0
-				? `All ${defaultText}`
+				? `All ${defaultText}s`
 				: values.length > 1
-					? `${values.length} ${defaultText}`
+					? `${values.length} ${defaultText}s`
 					: elements.filter((e) => e.value === values[0])[0].label}
 		</span>
 		{#if isExpanded}
-			<Fa icon={faCaretDown} />
-		{:else}
 			<Fa icon={faCaretUp} />
+		{:else}
+			<Fa icon={faCaretDown} />
 		{/if}
 	</button>
 	{#if isExpanded}
 		<div class="panel">
+			<div>
+				<input type="text" {placeholder} bind:value={searchText} />
+			</div>
 			<div class="panel-list">
-				{#each elements as element (element.value)}
+				{#each elements.filter((e) => e.label
+						.toLowerCase()
+						.includes(searchText)) as element (element.value)}
 					<button
 						class="element"
 						onclick={() => {
@@ -75,9 +86,14 @@
 				<div>
 					{#if values.length > 0}{values.length} selected -
 					{/if}{elements.length}
-					{defaultText}
+					{defaultText}s
 				</div>
-				<button id="clear">Clear</button>
+				<button
+					id="clear"
+					onclick={() => {
+						values = [];
+					}}>Clear</button
+				>
 			</div>
 		</div>
 	{/if}
@@ -180,5 +196,17 @@
 			scrollbar-width: thin;
 			scrollbar-color: var(--color-main) white;
 		}
+	}
+
+	/* #################################################################################################### */
+	/* INPUT SEARCH FIELD */
+	/* #################################################################################################### */
+	input {
+		background: var(--color-neutral-soft-1);
+		padding: 0.38rem 0.6rem;
+		border-radius: 7px;
+		border: 1px solid var(--color-neutral-soft);
+		width: 100%;
+		color: var(--color-neutral-dark);
 	}
 </style>

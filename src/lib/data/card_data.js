@@ -52685,6 +52685,83 @@ export const CARDS = [
 	{
 		set: 'heb01',
 		setLabel: 'hEB01',
+		rarity: 'SEC',
+		number: 'hEB01-001',
+		name: 'ときのそら(パラレル/箔押し)',
+		nameEn: 'Tokino Sora (Parallel/Foil)',
+		talents: ['sora'],
+		colors: ['red'],
+		price: '69,800 円',
+		marketprice: [{ date: '2026-08-30', price: 69800, src: 'yuyutei' }],
+		stock: '×',
+		stockCount: 0,
+		inStock: false,
+		url: 'https://yuyu-tei.jp/sell/hocg/card/heb01/10003',
+		image: 'https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-001_SEC.png',
+		cardType: 'Oshi',
+		life: 5
+	},
+	{
+		set: 'heb01',
+		setLabel: 'hEB01',
+		rarity: 'SEC',
+		number: 'hEB01-002',
+		name: '宝鐘マリン(パラレル/箔押し)',
+		nameEn: 'Houshou Marine (Parallel/Foil)',
+		talents: ['marine'],
+		colors: ['blue'],
+		price: '148,000 円',
+		marketprice: [{ date: '2026-08-30', price: 148000, src: 'yuyutei' }],
+		stock: '×',
+		stockCount: 0,
+		inStock: false,
+		url: 'https://yuyu-tei.jp/sell/hocg/card/heb01/10006',
+		image: 'https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-002_SEC.png',
+		cardType: 'Oshi',
+		life: 5,
+		oshiSkill: {
+			name: 'Ahoy!',
+			text: '[holo Power：-3]Ahoy![1/Turn]Bloom 1 of your holomem with #Gen 3 that bloomed this turn once more using a holomem from your hand.'
+		},
+		spOshiSkill: {
+			name: 'Set Sail~!',
+			text: "[holo Power：-2]Set Sail~![1/Game]Deal 50 special damage for each holomem stacked to your 〈Houshou Marine〉 center holomem to your opponent's center holomem or collab holomem."
+		},
+		officialName: 'Houshou Marine',
+		illustrator: 'NOMISAKI'
+	},
+	{
+		set: 'heb01',
+		setLabel: 'hEB01',
+		rarity: 'SEC',
+		number: 'hEB01-003',
+		name: '博衣こより(パラレル/箔押し)',
+		nameEn: 'Hakui Koyori (Parallel/Foil)',
+		talents: ['koyori'],
+		colors: ['yellow'],
+		price: '79,800 円',
+		marketprice: [{ date: '2026-08-30', price: 79800, src: 'yuyutei' }],
+		stock: '×',
+		stockCount: 0,
+		inStock: false,
+		url: 'https://yuyu-tei.jp/sell/hocg/card/heb01/10009',
+		image: 'https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-003_SEC.png',
+		cardType: 'Oshi',
+		life: 5,
+		oshiSkill: {
+			name: 'Koyori Experimenting',
+			text: '[holo Power：-2]Koyori Experimenting[1/Turn]During this turn, 1 of your 〈Hakui Koyori〉 that has a support card with #KOYO LABO attached gets Arts+30.'
+		},
+		spOshiSkill: {
+			name: 'Assistants, mmmwah!',
+			text: "[holo Power：-2]Assistants, mmmwah![1/Game]Usable if your 〈Hakui Koyori〉 with 〈Koyori's Assistants〉 attached would take damage from the opponent during the opponent's turn:1 of those holomem takes -100 damage."
+		},
+		officialName: 'Hakui Koyori',
+		illustrator: '砂利さや(か)'
+	},
+	{
+		set: 'heb01',
+		setLabel: 'hEB01',
 		rarity: 'OSR',
 		number: 'hEB01-001',
 		name: 'ときのそら',
