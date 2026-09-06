@@ -1,13 +1,10 @@
 <script lang="ts">
-	// import Fa from 'svelte-fa';
-	// import { faFlag } from '@fortawesome/free-solid-svg-icons';
 	import ClickableDiv from '$lib/components/ClickableDiv.svelte';
 	import Card from '$lib/components/Card.svelte';
 	import FilterRarity from '$lib/components/FilterRarity.svelte';
 	import logo from '$lib/assets/favicon.png';
-	import { CARDS, SETS } from '$lib/data/card_data';
+	import { CARDS, SETS, TALENTS } from '$lib/data/card_data';
 	import { lookupRarity, search } from '$lib/format';
-	import FilterTalent from '$lib/components/FilterTalent.svelte';
 	import DropdownList from '$lib/components/DropdownList.svelte';
 	import type { Card as CardData, SortField } from '$lib/types';
 	import DisplayFilter from '$lib/components/DisplayFilter.svelte';
@@ -169,7 +166,13 @@
 		</div>
 		<FilterRarity bind:value={rarity} />
 		<div class="sub-label" style="margin-top: var(--gap);">TALENT</div>
-		<FilterTalent bind:values={talents} />
+		<MultiDropdown
+			bind:values={talents}
+			placeholder="Find talent - mumei, fauna, ina..."
+			defaultText="talent"
+			elements={TALENTS.map((t) => ({ label: t.en, value: t.id, sublabel: t.jp }))}
+		/>
+		<!-- <FilterTalent bind:values={talents} /> -->
 		<div class="sub-label" style="margin-top: var(--gap);">SET NUMBER</div>
 		<MultiDropdown
 			bind:values={setNum}

@@ -42,9 +42,9 @@
 
 <svelte:document onclick={onDocumentClick} />
 
-<div bind:this={root} id="wrapper">
+<div bind:this={root} class="wrapper">
 	<button
-		id="dropdown"
+		class={isExpanded ? 'dropdown expanded' : 'dropdown'}
 		onclick={() => {
 			isExpanded = !isExpanded;
 		}}
@@ -64,11 +64,11 @@
 		{/if}
 	</button>
 	{#if isExpanded}
-		<div class="panel">
+		<div class="g-dropdown-panel">
 			<div>
 				<input type="text" {placeholder} bind:value={searchText} />
 			</div>
-			<div class="panel-list">
+			<div class="g-dropdown-panel-list">
 				{#each elements.filter((e) => e.label
 						.toLowerCase()
 						.includes(searchText)) as element (element.value)}
@@ -93,30 +93,32 @@
 					{defaultText}s
 				</div>
 				<button
-					id="clear"
+					class="clear"
 					onclick={() => {
 						values = [];
-					}}>Clear</button
+					}}
 				>
+					Clear
+				</button>
 			</div>
 		</div>
 	{/if}
 </div>
 
 <style>
-	#clear {
+	.clear {
 		padding: 0.2rem;
 		transition: 0.2s ease all;
 		font-size: 0.75rem;
 		color: inherit;
 	}
-	#clear:hover {
+	.clear:hover {
 		color: var(--color-main-dark-0);
 	}
-	#wrapper {
+	.wrapper {
 		position: relative;
 	}
-	#dropdown {
+	.dropdown {
 		border: 1px solid var(--color-neutral-soft);
 		background: white;
 		padding: 0.45rem 0.7rem;
@@ -127,28 +129,16 @@
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
+		transition: all ease 0.1s;
 	}
-	#wrapper :global(svg) {
+	.dropdown.expanded {
+		box-shadow: 0 0 0 3px var(--color-main-light-0);
+		border-color: var(--color-main);
+	}
+
+	.wrapper :global(svg) {
 		width: 0.8rem;
 		height: 0.8rem;
-	}
-	.panel {
-		position: absolute;
-		background-color: white;
-		z-index: 5;
-		left: 0;
-		right: 0;
-		top: 120%;
-		border: 1px solid var(--color-neutral-light-0);
-		border-radius: 7px;
-		font-size: 0.75rem;
-		padding: 0.5rem;
-		color: var(--color-neutral-dark);
-		max-height: 250px;
-		overflow: hidden;
-		display: flex;
-		flex-direction: column;
-		gap: 0.45rem;
 	}
 	.element {
 		box-sizing: border-box;
@@ -157,7 +147,6 @@
 		align-items: center;
 		padding: 0.34rem 0.45rem;
 		font-size: 0.75rem;
-		align-items: center;
 		margin-right: 0.2rem;
 	}
 	.element:hover {
@@ -188,44 +177,6 @@
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-	}
-	.panel-list {
-		overflow-y: auto;
-		scrollbar-color: auto;
-		scrollbar-width: auto;
-		overflow-x: hidden;
-		display: flex;
-		flex-direction: column;
-	}
-	.panel-list::-webkit-scrollbar {
-		width: 6.5px;
-	}
-
-	.panel-list::-webkit-scrollbar-track {
-		background: white;
-	}
-
-	.panel-list::-webkit-scrollbar-thumb {
-		background: var(--color-neutral-soft);
-		border-radius: 999px;
-	}
-
-	.panel-list::-webkit-scrollbar-thumb:hover {
-		background-color: var(--color-neutral-mid);
-	}
-
-	.panel-list::-webkit-scrollbar-button {
-		display: none;
-		width: 0;
-		height: 0;
-	}
-
-	/* this means run this if the selector does not support webkit-scrollbar */
-	@supports not selector(::-webkit-scrollbar) {
-		.panel-list {
-			scrollbar-width: thin;
-			scrollbar-color: var(--color-main) white;
-		}
 	}
 
 	/* #################################################################################################### */
