@@ -21,7 +21,7 @@
 
 <div class="navbar">
 	<div class="inner">
-		<!-- Whole Clickable Div si the title and icon  -->
+		<!-- LOGO -->
 		<button
 			class="title"
 			onclick={() => {
@@ -32,7 +32,7 @@
 			<div>Hololive OCG</div>
 			<div class="desc">Card Browser</div>
 		</button>
-		<!-- Other content like the searchbar and filter goes here. -->
+		<!-- Search Bar -->
 		<div style="display: flex; gap: var(--gap); align-items: center;">
 			<Input
 				id="global-search"

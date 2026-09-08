@@ -85,14 +85,12 @@
 		line-height: 1;
 	}
 
+	.wrapper:focus-within .icon {
+		color: var(--color-main);
+	}
+
 	.icon.leading {
 		font-size: 0.82rem;
 		user-select: none;
-	}
-
-	.wrapper :global(svg) {
-		display: block;
-		width: 14px;
-		height: 14px;
 	}
 </style>
