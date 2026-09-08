@@ -2,7 +2,6 @@
 	import Navbar from './Navbar.svelte';
 	import Sidebar from './Sidebar.svelte';
 	import { CARDS } from '$lib/data/card_data';
-	import Card from '$lib/components/Card.svelte';
 	import type { Card as CardData, SortField } from '$lib/types';
 	import { search } from '$lib/format';
 	import Gallery from './Gallery.svelte';
@@ -29,7 +28,20 @@
 <Navbar bind:query={q} bind:sort={sortBy} />
 <div class="wrapper">
 	<Sidebar bind:rarity={r} bind:talents={t} bind:setNum={s} />
-	<Gallery {cards} />
+	<div class="scroll-section">
+		<Gallery {cards} />
+		{#if hasMore}
+			<div class="footer">
+				<div class="line"></div>
+				<button
+					onclick={() => {
+						cardLimit += PAGE;
+					}}>Load More</button
+				>
+				<div class="line"></div>
+			</div>
+		{/if}
+	</div>
 </div>
 
 <style>
@@ -37,5 +49,9 @@
 		flex: 1;
 		display: flex;
 		min-height: 0;
+	}
+	.scroll-section {
+		flex: 1;
+		overflow-y: scroll;
 	}
 </style>

@@ -5,19 +5,13 @@
 	let { cards }: { cards: CardData[] } = $props();
 </script>
 
-<div class="gallery">
-	<div class="cards-list">
-		{#each cards as card (card.rarity + ' ' + card.nameEn + ' ' + card.number)}
-			<Card data={card} />
-		{/each}
-	</div>
+<div class="cards-list">
+	{#each cards as card (card.rarity + ' ' + card.nameEn + ' ' + card.number)}
+		<Card data={card} />
+	{/each}
 </div>
 
 <style>
-	.gallery {
-		flex: 1;
-		overflow-y: scroll;
-	}
 	.cards-list {
 		padding: 1.1rem 1.1rem 3rem;
 		display: grid;
