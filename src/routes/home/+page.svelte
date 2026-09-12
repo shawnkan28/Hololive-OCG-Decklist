@@ -1,12 +1,10 @@
 <script lang="ts">
 	import Navbar from './Navbar.svelte';
 	import Sidebar from './Sidebar.svelte';
-	import Input from '$lib/components/Input.svelte';
-	import Modal from '$lib/components/Modal.svelte';
 	import { CARDS } from '$lib/data/card_data';
 	import CardModal from './CardModal.svelte';
 	import type { Card as CardData, SortField } from '$lib/types';
-	import { lookupRarity, search } from '$lib/format';
+	import { search } from '$lib/format';
 	import Gallery from './Gallery.svelte';
 	import DisplayFilter from '$lib/components/DisplayFilter.svelte';
 
