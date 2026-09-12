@@ -28,14 +28,14 @@
 		{/if}
 	</div>
 	<FilterRarity bind:value={rarity} />
-	<div class="sub-label" style="margin-top: var(--gap);">TALENT</div>
+	<div class="sub-labels" style="margin-top: var(--gap);">TALENT</div>
 	<MultiDropdown
 		bind:values={talents}
 		placeholder="Find talent - mumei, fauna, ina..."
 		defaultText="talent"
 		elements={TALENTS.map((t) => ({ label: t.en, value: t.id, sublabel: t.jp }))}
 	/>
-	<div class="sub-label" style="margin-top: var(--gap);">SET NUMBER</div>
+	<div class="sub-labels" style="margin-top: var(--gap);">SET NUMBER</div>
 	<MultiDropdown
 		bind:values={setNum}
 		placeholder="Find set - hbp01, Diva Fever ... "

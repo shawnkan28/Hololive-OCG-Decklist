@@ -4,6 +4,7 @@
 	import Input from '$lib/components/Input.svelte';
 	import Modal from '$lib/components/Modal.svelte';
 	import { CARDS } from '$lib/data/card_data';
+	import CardModal from './CardModal.svelte';
 	import type { Card as CardData, SortField } from '$lib/types';
 	import { lookupRarity, search } from '$lib/format';
 	import Gallery from './Gallery.svelte';
@@ -46,11 +47,16 @@
 			bind:search={q}
 			bind:talents={t}
 		/>
-		<Gallery {cards} callback={(c) => {
-			selectedCard = c;
-			modalOpen = true;
-		}}/>
-		{@render cardModal()}
+		<Gallery
+			{cards}
+			callback={(c) => {
+				selectedCard = c;
+				modalOpen = true;
+			}}
+		/>
+
+		<CardModal bind:card={selectedCard} bind:isOpen={modalOpen} />
+
 		{#if hasMore}
 			<div class="footer">
 				<button
@@ -63,73 +69,6 @@
 		{/if}
 	</div>
 </div>
-
-{#snippet cardModal()}
-	<Modal bind:open={modalOpen}>
-		{#if selectedCard}
-			<div class="modal-content">
-				<!-- MODAL DETAILS -->
-				<div class="info-section">
-					<img src={selectedCard.image} alt={selectedCard.number} />
-					<div style="display: flex; flex-direction: column; gap: 0.3rem;">
-						<span
-							style="font-size: 0.72rem; color: var(--color-neutral-mid); font-family: Consolas, monospace;"
-							>{selectedCard.number}</span
-						>
-						<span
-							style="line-height: 1; font-size: 1.02rem; font-weight: 700; text-transform: uppercase;"
-							>{selectedCard.nameEn}</span
-						>
-						<div style="display: flex; gap: var(--gap); margin-top: 2px;">
-							<div class="tag active" style={`--color: ${lookupRarity(selectedCard.rarity)}`}>
-								{selectedCard.rarity}
-							</div>
-							<div
-								class="tag active"
-								style="--color: var(--color-main); text-transform: uppercase;"
-							>
-								{selectedCard.set}
-							</div>
-						</div>
-						<div style="display: flex;">
-							<a href={selectedCard.url} rel="external">View on Yuyutei</a>
-						</div>
-					</div>
-				</div>
-				<!-- MODAL FORM -->
-				<div class="card-form">
-					<div class="card-row">
-						<div>
-							<div><label for="qty">QUANTITY</label></div>
-							<Input id="qty" type="text" placeholder="0" />
-						</div>
-						<div>
-							<div><label for="loc">LOCATION</label></div>
-							<Input id="loc" type="text" placeholder="Binder, box, sleeve ..." />
-						</div>
-					</div>
-					<div class="card-row">
-						<div>
-							<div><label for="bprice">BOUGHT PRICE</label></div>
-							<Input id="bprice" type="text" placeholder="¥" />
-						</div>
-						<div>
-							<div><label for="sprice">SOLD PRICE</label></div>
-							<Input id="sprice" type="text" placeholder="¥" />
-						</div>
-					</div>
-					<div>
-						<div><label for="mprice">MARKET PRICE</label></div>
-						<Input id="mprice" type="text" placeholder="¥" />
-					</div>
-					<div style="text-align: right; margin-top: 25px;">
-						<button class="button" onclick={() => {}}>Save</button>
-					</div>
-				</div>
-			</div>
-		{/if}
-	</Modal>
-{/snippet}
 
 <style>
 	.wrapper {
