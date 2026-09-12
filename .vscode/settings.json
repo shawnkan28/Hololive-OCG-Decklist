@@ -1,0 +1,32 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^node --input-type=module -e \"import \\{ loadCards \\} from '\\./src/lib/data/bt26_card_data\\.js'; const cards=await loadCards\\(\\); console\\.log\\(\\{count:cards\\.length, first:cards\\[0\\], last:cards\\.at\\(-1\\)\\}\\);\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx prettier --check src/lib/data/bt26_card_data\\.js && node --input-type=module -e \"import \\{ CARDS \\} from '\\./src/lib/data/bt26_card_data\\.js'; console\\.log\\('BT26 cards:', CARDS\\.length\\);\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx prettier --write src/lib/data/bt26_card_data\\.js && npx prettier --check src/lib/data/bt26_card_data\\.js && node --input-type=module -e \"import \\{ CARDS \\} from '\\./src/lib/data/bt26_card_data\\.js'; console\\.log\\('BT26 cards:', CARDS\\.length\\);\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx prettier --check src/lib/data/bt26_card_data\\.js && node --input-type=module -e \"import \\{ CARDS, SET \\} from '\\./src/lib/data/bt26_card_data\\.js'; console\\.log\\(\\{set:SET\\.code,count:CARDS\\.length,first:CARDS\\[0\\]\\.number,last:CARDS\\.at\\(-1\\)\\.number\\}\\);\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx prettier --write src/lib/data/bt26_card_data\\.js && node --input-type=module -e \"import \\{ CARDS \\} from '\\./src/lib/data/bt26_card_data\\.js'; console\\.log\\('BT26 cards:', CARDS\\.length\\);\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx prettier --write src/lib/data/bt26_card_data\\.js && node --input-type=module -e \"import \\{ CARDS, SET \\} from '\\./src/lib/data/bt26_card_data\\.js'; console\\.log\\(\\{set:SET\\.code,count:CARDS\\.length\\}\\);\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^node --input-type=module -e \"import \\{ SET, CARDS \\} from '\\./src/lib/data/bt26_card_data\\.js'; process\\.stdout\\.write\\(JSON\\.stringify\\(\\{set:SET,cards:CARDS\\}, null, 2\\)\\);\" > src/lib/data/bt26_card_data\\.json && node -e \"const data=require\\('\\./src/lib/data/bt26_card_data\\.json'\\); console\\.log\\(\\{count:data\\.cards\\.length,set:data\\.set\\.code,first:data\\.cards\\[0\\]\\.number,last:data\\.cards\\.at\\(-1\\)\\.number\\}\\);\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
