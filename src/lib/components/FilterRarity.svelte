@@ -23,7 +23,7 @@
 				}
 				value.push(r.label);
 				if (value.length === rarities.length) value = [];
-			}}>{r.label}</ClickableDiv
+			}}><div>{r.label}</div></ClickableDiv
 		>
 	{/each}
 </div>

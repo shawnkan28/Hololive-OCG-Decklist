@@ -5,6 +5,7 @@
 	import type { Card as CardData, SortField } from '$lib/types';
 	import { search } from '$lib/format';
 	import Gallery from './Gallery.svelte';
+	import DisplayFilter from '$lib/components/DisplayFilter.svelte';
 
 	const PAGE = 99;
 
@@ -29,6 +30,13 @@
 <div class="wrapper">
 	<Sidebar bind:rarity={r} bind:talents={t} bind:setNum={s} />
 	<div class="scroll-section">
+		<DisplayFilter
+			total={CARDS.length}
+			bind:rarity={r}
+			numFiltered={cardList.length}
+			bind:search={q}
+			bind:talents={t}
+		/>
 		<Gallery {cards} />
 		{#if hasMore}
 			<div class="footer">
