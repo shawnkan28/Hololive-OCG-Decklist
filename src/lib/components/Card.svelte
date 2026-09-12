@@ -1,5 +1,4 @@
 <script lang="ts">
-	import ClickableDiv from '$lib/components/ClickableDiv.svelte';
 	import { colorToHex, lookupSet } from '$lib/format';
 	import type { Card } from '$lib/types';
 
