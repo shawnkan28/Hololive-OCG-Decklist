@@ -36,6 +36,7 @@ ENV HOST=0.0.0.0
 COPY --from=builder /app/build ./build
 COPY --from=builder /app/package.json ./
 COPY --from=builder /app/node_modules ./node_modules
+COPY --from=builder /app/data ./data
 
 EXPOSE 8081
 # So wth the Node Adapter, this will start the server. rather then npm run preview.

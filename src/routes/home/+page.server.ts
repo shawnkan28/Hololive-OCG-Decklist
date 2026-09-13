@@ -3,7 +3,7 @@ import type { OwnedCard } from '$lib/types';
 import path from 'node:path';
 import fs from 'node:fs/promises';
 
-const filePath = path.resolve('src/lib/data/app.json');
+const filePath = path.resolve('data/app.json');
 
 export const load: PageServerLoad = async () => {
 	const emptyJson = { ownedCards: [] };
