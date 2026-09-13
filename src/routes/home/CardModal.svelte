@@ -3,6 +3,7 @@
 	import Input from '$lib/components/Input.svelte';
 	import type { Card as cardData } from '$lib/types';
 	import { lookupRarity } from '$lib/format';
+	import Toggle from '$lib/components/Toggle.svelte';
 
 	let { card = $bindable(), isOpen = $bindable() }: { card?: cardData | null; isOpen: boolean } =
 		$props();
@@ -11,7 +12,7 @@
 <Modal bind:open={isOpen}>
 	{#if card}
 		<div class="modal-content">
-			<!-- MODAL DETAILS -->
+			<!-- Card General Details -->
 			<div class="info-section">
 				<img src={card.image} alt={card.number} />
 				<div style="display: flex; flex-direction: column; gap: 0.3rem;">
@@ -24,11 +25,11 @@
 						>{card.nameEn}</span
 					>
 					<div style="display: flex; gap: var(--gap); margin-top: 2px;">
-						<div class="tag active" style={`--color: ${lookupRarity(card.rarity)}`}>
-							{card.rarity}
+						<div class="tag active" style={`--color: ${lookupRarity(card.rarity)}; cursor: default;`}>
+							<div>{card.rarity}</div>
 						</div>
-						<div class="tag active" style="--color: var(--color-main); text-transform: uppercase;">
-							{card.set}
+						<div class="tag active" style="--color: var(--color-main); text-transform: uppercase; cursor: default;">
+							<div>{card.set}</div>
 						</div>
 					</div>
 					<div style="display: flex;">
@@ -36,8 +37,9 @@
 					</div>
 				</div>
 			</div>
-			<!-- MODAL FORM -->
+			<!-- Card Input Fields -->
 			<div class="card-form">
+				<div class="card-row"><Toggle options={["Not owned", "Owned"]}/></div>
 				<div class="card-row">
 					<div>
 						<div><label for="qty">QUANTITY</label></div>
@@ -86,5 +88,41 @@
 	}
 	.modal-content .card-form {
 		margin-top: 0.95rem;
+	}
+	.card-row {
+		display: flex;
+		gap: 1rem;
+		min-width: calc(500px + 1rem);
+	}
+	.card-row:not(last-child) {
+		margin-bottom: 1rem;
+	}
+	.card-row > div {
+		flex: 1;
+	}
+	label {
+		color: rgba(0, 0, 0, 0.7);
+		font-weight: 800;
+		font-size: 0.7rem;
+		margin-bottom: 0.5rem;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.button {
+		background: var(--color-main);
+		color: white;
+		border-radius: 999px;
+		min-width: 50px;
+		font-weight: bold;
+		font-size: 0.8rem;
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+		padding: 0.5rem 0.8rem;
+		transition: ease 0.5s all;
+	}
+	.button:hover {
+		background: var(--color-main-dark-0);
 	}
 </style>
