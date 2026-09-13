@@ -5,7 +5,7 @@
 	// -----------------------------------------------------------------------------------------
 	// PROPERTIES / LOCAL STATES
 	// -----------------------------------------------------------------------------------------
-	let { data, callback }: { data: Card; callback?: () => void } = $props();
+	let { isOwned, data, callback }: { isOwned: boolean, data: Card; callback?: () => void } = $props();
 
 	const hexColor = $derived(colorToHex(data.colors));
 	const styleStr = $derived(
@@ -27,7 +27,12 @@
 </script>
 
 <button style={styleStr} class={`card ${wrapperClass}`} onclick={clicked}>
-	<div class="img-wrapper"><img src={data.image} alt={data.number} /></div>
+	<div class="img-wrapper">
+		<img src={data.image} alt={data.number} />
+		{#if isOwned}
+			<span class="owned tag active"><div>OWNED</div></span>
+		{/if}
+	</div>
 	<div class="card-details">
 		<div class="card-name">{data.nameEn}</div>
 		<div class="set" style={setStyle}><span>{data.number}</span></div>
@@ -87,6 +92,17 @@
 	.card .img-wrapper {
 		aspect-ratio: 100 / 140;
 		overflow: hidden;
+		position: relative;
+	}
+	.owned {
+		position: absolute;
+		left: 0.3rem;
+		bottom: .3rem;
+		background: #54bf96;
+		border-color: #54bf96;
+		border-radius: 5px;
+		color: white;
+		letter-spacing: .1em;
 	}
 
 	.card .img-wrapper img {

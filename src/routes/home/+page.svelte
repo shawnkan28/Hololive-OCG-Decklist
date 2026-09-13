@@ -49,6 +49,7 @@
 			bind:talents={t}
 		/>
 		<Gallery
+			owned={data['ownedCards']}
 			{cards}
 			callback={(c) => {
 				selectedCard = c;

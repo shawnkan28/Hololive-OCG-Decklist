@@ -1,3 +1,7 @@
+export type OwnedCard = {
+	id: string;
+}
+
 export type CardSkill = {
 	name: string;
 	text: string;
