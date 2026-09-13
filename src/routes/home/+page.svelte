@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { tick } from 'svelte';
 	import type { PageData } from './$types';
 	import Navbar from './Navbar.svelte';
 	import Sidebar from './Sidebar.svelte';
@@ -25,6 +26,7 @@
 
 	// States
 	let selectedCard: CardData | null = $state(null);
+	let navBarComponent = $state<ReturnType<typeof Navbar> | null>(null);
 
 	// Manage Card List
 	const cardList = $derived(search(CARDS, data['ownedCards'], { q, r, t, s, ct, sortBy }));
@@ -36,9 +38,60 @@
 			cardLimit = PAGE;
 		}
 	});
+
+	function handleKeyDown(e: KeyboardEvent) {
+		const target = e.target as HTMLElement | null;
+		// Check if typing into a proper text field
+		const isTyping =
+			target &&
+			(target.tagName === 'INPUT' || target.tagName === 'TEXTAREA' || target.isContentEditable);
+
+		if (e.key === 'Enter' && !isTyping) {
+			e.preventDefault();
+			handleModal('enter');
+		} else if (e.key === 'Escape' && !isTyping) {
+			e.preventDefault();
+			handleModal('esc');
+		}
+	}
+	// Handle Modal when opening with Enter key press
+	function handleModal(type: 'enter' | 'esc') {
+		if (cards.length === 0) return;
+
+		// modal closed and attempt to open
+		if (!modalOpen && type === 'enter') {
+			selectedCard = cards[0];
+			selectedCard.owned = true;
+			modalOpen = true;
+		}
+		// modal is Open and attempt to save and close
+		else if (modalOpen && type === 'enter') {
+			modalOpen = false;
+			// Wait for DOM to destroy CardModal completely
+			tick().then(() => {
+				navBarComponent?.focusSearch();
+			});
+		}
+		// modal is open and attempt to close without saving
+		else if (modalOpen && type === 'esc') {
+			modalOpen = false;
+			// Wait for DOM to destroy CardModal completely
+			tick().then(() => {
+				navBarComponent?.focusSearch();
+			});
+		}
+	}
 </script>
 
-<Navbar bind:query={q} bind:sort={sortBy} />
+<!-- Event Handler for key press -->
+<svelte:window onkeydown={handleKeyDown} />
+
+<Navbar
+	bind:query={q}
+	bind:sort={sortBy}
+	bind:this={navBarComponent}
+	searchEnter={() => handleModal('enter')}
+/>
 <div class="wrapper">
 	<Sidebar bind:rarity={r} bind:talents={t} bind:setNum={s} />
 	<div class="scroll-section">

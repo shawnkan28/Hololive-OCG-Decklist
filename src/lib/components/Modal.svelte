@@ -15,6 +15,16 @@
 	onclose={() => {
 		open = false;
 	}}
+	oncancel={(e) => {
+		e.preventDefault();
+		e.stopPropagation();
+	}}
+	onkeydown={(e) => {
+		if(e instanceof KeyboardEvent && e.key !== 'Escape'){
+			return;
+		}
+		e.preventDefault();
+	}}
 	// What this does is, when background is clicked, it will run the onclose() instructions.
 	// Why we use e.target === dialog is because the background is part of the dialog. Those inside the dialog
 	// is considered not part of the dialog. So its opposite of a backdrop.

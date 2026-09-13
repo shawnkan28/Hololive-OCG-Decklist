@@ -7,7 +7,7 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
-	<title>Hololive OCG - Deck list</title>
+	<title>Hololive OCG - Collection</title>
 </svelte:head>
 
 {@render children()}

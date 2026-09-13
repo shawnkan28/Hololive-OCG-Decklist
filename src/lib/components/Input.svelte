@@ -6,18 +6,34 @@
 		id: string;
 		variant?: 'standard' | 'global';
 		value?: string;
+		onenter?: () => void;
 		leading?: Snippet;
 		children?: Snippet; // trailing icon
 	}
 
 	let {
 		id,
-		value = $bindable(""),
+		value = $bindable(''),
 		variant = 'standard',
+		onenter,
 		leading,
 		children,
 		...rest
 	}: Props = $props();
+	let inputRef = $state<HTMLInputElement | null>(null);
+
+	export function focus() {
+		inputRef?.focus();
+	}
+
+	function handleKeyDown(e: KeyboardEvent) {
+		if (e.key === 'Enter') {
+			event?.preventDefault();
+			event?.stopPropagation();
+
+			if (onenter) onenter();
+		}
+	}
 </script>
 
 <div
@@ -28,7 +44,7 @@
 	{#if leading}
 		<span class="icon leading">{@render leading()}</span>
 	{/if}
-	<input {id} bind:value {...rest} />
+	<input bind:this={inputRef} {id} bind:value onkeydown={handleKeyDown} {...rest} />
 	{#if children}
 		<span class="icon trailing">{@render children()}</span>
 	{/if}
@@ -47,7 +63,7 @@
 		font-size: 0.75rem;
 		color: var(--color-neutral-mid);
 	}
-	
+
 	.variant-global {
 		border-radius: 20px;
 		padding: 0 0.7rem;
@@ -68,7 +84,7 @@
 		font-size: inherit;
 		padding: 0.48rem 0;
 		color: var(--color-neutral-dark);
-		padding: .45rem 0;
+		padding: 0.45rem 0;
 		line-height: 1;
 	}
 

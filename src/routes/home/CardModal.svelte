@@ -11,12 +11,20 @@
 		$props();
 
 	let owned = $state('Not owned');
+	let qtyInput = $state<ReturnType<typeof Input> | null>(null);
 
 	$effect(() => {
 		if (card?.owned) {
 			owned = 'Owned';
 		} else {
 			owned = 'Not owned';
+		}
+	});
+
+	$effect(() => {
+		// When attempting to Open Modal
+		if (isOpen) {
+			qtyInput?.focus();
 		}
 	});
 
@@ -80,14 +88,14 @@
 				<div class="card-row">
 					<div>
 						<div><label for="qty">QUANTITY</label></div>
-						<Input id="qty" type="text" placeholder="0" />
+						<Input bind:this={qtyInput} id="qty" type="text" placeholder="0" />
 					</div>
 					<div>
 						<div><label for="loc">LOCATION</label></div>
 						<Input id="loc" type="text" placeholder="Binder, box, sleeve ..." />
 					</div>
 				</div>
-				<div class="card-row">
+				<!-- <div class="card-row">
 					<div>
 						<div><label for="bprice">BOUGHT PRICE</label></div>
 						<Input id="bprice" type="text" placeholder="¥" />
@@ -100,7 +108,7 @@
 				<div>
 					<div><label for="mprice">MARKET PRICE</label></div>
 					<Input id="mprice" type="text" placeholder="¥" />
-				</div>
+				</div> -->
 				<div style="text-align: right; margin-top: 25px;">
 					<button
 						class="button"

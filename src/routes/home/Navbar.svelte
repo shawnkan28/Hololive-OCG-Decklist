@@ -8,8 +8,12 @@
 	import { resolve } from '$app/paths';
 	import Input from '$lib/components/Input.svelte';
 
-	let { query = $bindable(''), sort = $bindable('rarity') }: { query?: string; sort?: SortField } =
-		$props();
+	let {
+		query = $bindable(''),
+		sort = $bindable('rarity'),
+		searchEnter
+	}: { query?: string; sort?: SortField; searchEnter?: () => void } = $props();
+	let searchInput = $state<ReturnType<typeof Input> | null>(null);
 
 	// 'number' | 'nameEn' | 'rarity' | 'addedDate';
 	const sortList = [
@@ -17,6 +21,10 @@
 		{ label: 'Name', value: 'nameEn' },
 		{ label: 'Rarity', value: 'rarity' }
 	];
+
+	export function focusSearch() {
+		searchInput?.focus();
+	}
 </script>
 
 <div class="navbar">
@@ -35,6 +43,8 @@
 		<!-- Search Bar -->
 		<div style="display: flex; gap: var(--gap); align-items: center;">
 			<Input
+				bind:this={searchInput}
+				onenter={searchEnter}
 				id="global-search"
 				variant="global"
 				bind:value={query}
