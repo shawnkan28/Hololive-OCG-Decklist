@@ -18,7 +18,7 @@
 	let r = $state([]); // Filter Rarity
 	let t = $state([]); // Filter Talents
 	let s = $state([]); // Filter by Set Num
-	let ct: CardType = $state("all cards"); // Search Card Type
+	let ct: CardType = $state('all cards'); // Search Card Type
 	let sortBy: SortField = $state('rarity');
 	let cardLimit = $state(PAGE);
 	let modalOpen = $state(false);

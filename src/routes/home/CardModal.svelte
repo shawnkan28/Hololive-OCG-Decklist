@@ -106,7 +106,10 @@
 						class="button"
 						onclick={() => {
 							save()
-								.then(() => console.log('Complete'))
+								.then(() => {
+									console.log('Complete');
+									isOpen = false;
+								})
 								.catch((err) => console.error(err));
 						}}>Save</button
 					>
