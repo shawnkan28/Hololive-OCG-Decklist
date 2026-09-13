@@ -32,7 +32,7 @@
 	const hasMore = $derived(cardLimit < cardList.length);
 
 	$effect(() => {
-		if (cardList) {
+		if (q || r || t || s || ct || sortBy) {
 			cardLimit = PAGE;
 		}
 	});
