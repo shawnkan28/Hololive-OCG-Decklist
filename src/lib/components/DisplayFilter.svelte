@@ -1,5 +1,7 @@
 <script lang="ts">
+	import type { CardType } from '$lib/types';
 	import { RARITIES } from '$lib/data/card_data';
+	import DropdownList from './DropdownList.svelte';
 	import Fa from 'svelte-fa';
 	import { faTimes } from '@fortawesome/free-solid-svg-icons';
 
@@ -8,6 +10,7 @@
 		rarity = $bindable([]),
 		search = $bindable(''),
 		talents = $bindable([]),
+		cardType = $bindable('all cards'),
 		numFiltered = 0
 	}: {
 		total?: number;
@@ -15,7 +18,14 @@
 		numFiltered?: number;
 		search?: string;
 		talents?: string[];
+		cardType?: CardType;
 	} = $props();
+
+	const cardTypeList = [
+		{ label: 'All Cards', value: 'all cards' },
+		{ label: 'Owned', value: 'owned' },
+		{ label: 'Missing', value: 'missing' }
+	];
 
 	function clearAll() {
 		rarity = [];
@@ -32,7 +42,7 @@
 <!-- ######################################################################################## -->
 <div class="filtered-vals">
 	<!-- Show total number of cards and number filtered -->
-	<div>
+	<div style="display: flex; align-items: center; gap: .3rem;">
 		<span style="font-weight: 700; color: var(--color-neutral-dark);">
 			{numFiltered === total ? total : numFiltered}
 		</span>
@@ -55,10 +65,23 @@
 	<!-- Talents Filtered -->
 	{@render displayTalent()}
 
+	<!-- Display Card Type -->
+	{#if cardType !== 'all cards'}
+		{@render displayCardType()}
+	{/if}
+
 	<!-- Clear all button to clear all filters -->
 	{#if numFiltered !== total}
-		<button onclick={clearAll} class="clear-btn">Clear All</button>
+		<button onclick={clearAll} class="clear-btn" style="font-size: 0.9rem;">Clear All</button>
 	{/if}
+
+	<!-- Empty -->
+	<div style="flex: 1;"></div>
+
+	<!-- Items Type -->
+	<div>
+		<DropdownList bind:value={cardType} elements={cardTypeList} />
+	</div>
 </div>
 
 <!-- ######################################################################################## -->
@@ -95,6 +118,15 @@
 			talents = [];
 		})}
 	{/if}
+{/snippet}
+
+<!-- ######################################################################################## -->
+<!-- DISPLAY Card Type -->
+<!-- ######################################################################################## -->
+{#snippet displayCardType()}
+	{@render tag(cardType.toUpperCase(), 'var(--color-main)', () => {
+		cardType = 'all cards';
+	})}
 {/snippet}
 
 <!-- ######################################################################################## -->

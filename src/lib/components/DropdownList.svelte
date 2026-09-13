@@ -32,7 +32,7 @@
 		class={isExpanded ? 'dropdown expanded' : 'dropdown'}
 		onclick={() => (isExpanded = !isExpanded)}
 	>
-		<span style="line-height: 1; color: black;">{elements.filter((e) => e.value === value)[0].label}</span>
+		<span style="line-height: 1; color: black;">{elements.filter((e) => e.value === value)[0]?.label ?? ""}</span>
 		{#if isExpanded}
 			<Fa icon={faCaretUp} />
 		{:else}

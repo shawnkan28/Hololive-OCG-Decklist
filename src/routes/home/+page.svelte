@@ -4,7 +4,7 @@
 	import Sidebar from './Sidebar.svelte';
 	import { CARDS } from '$lib/data/card_data';
 	import CardModal from './CardModal.svelte';
-	import type { Card as CardData, SortField } from '$lib/types';
+	import type { Card as CardData, CardType, SortField } from '$lib/types';
 	import { search } from '$lib/format';
 	import Gallery from './Gallery.svelte';
 	import DisplayFilter from '$lib/components/DisplayFilter.svelte';
@@ -18,6 +18,7 @@
 	let r = $state([]); // Filter Rarity
 	let t = $state([]); // Filter Talents
 	let s = $state([]); // Filter by Set Num
+	let ct: CardType = $state("all cards"); // Search Card Type
 	let sortBy: SortField = $state('rarity');
 	let cardLimit = $state(PAGE);
 	let modalOpen = $state(false);
@@ -26,7 +27,7 @@
 	let selectedCard: CardData | null = $state(null);
 
 	// Manage Card List
-	const cardList = $derived(search(CARDS, { q, r, t, s, sortBy }));
+	const cardList = $derived(search(CARDS, data['ownedCards'], { q, r, t, s, ct, sortBy }));
 	const cards = $derived(cardList.slice(0, cardLimit));
 	const hasMore = $derived(cardLimit < cardList.length);
 
@@ -47,6 +48,7 @@
 			numFiltered={cardList.length}
 			bind:search={q}
 			bind:talents={t}
+			bind:cardType={ct}
 		/>
 		<Gallery
 			owned={data['ownedCards']}

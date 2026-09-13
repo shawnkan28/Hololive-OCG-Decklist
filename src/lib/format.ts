@@ -1,5 +1,5 @@
 import { COLORS, RARITIES, SETS } from '$lib/data/card_data';
-import type { Card, RarityInfo, SearchField, SortField } from "$lib/types";
+import type { Card, CardType, RarityInfo, SearchField, SortField, OwnedCard } from '$lib/types';
 
 const COLOR_HEX = new Map<string, string>();
 for (const color of COLORS) {
@@ -49,31 +49,65 @@ export function withCommas(value: number | string): string {
 	return fraction == null ? `${sign}${grouped}` : `${sign}${grouped}.${fraction}`;
 }
 
-export function search(list: Card[], options: { q?: string, r?: string[], t?: string[], s?: string[], searchCol?: SearchField[], sortBy?: SortField }): Card[] {
-	const searchCol = options.searchCol ?? ["number", "nameEn", "rarity"];
-	const sortBy = options.sortBy ?? "number";
+export function search(
+	list: Card[],
+	ownedList: OwnedCard[],
+	options: {
+		ct: CardType;
+		q?: string;
+		r?: string[];
+		t?: string[];
+		s?: string[];
+		searchCol?: SearchField[];
+		sortBy?: SortField;
+	}
+): Card[] {
+	interface IdentifiedCard extends Card {
+		identifier?: string;
+	}
 
-	const q = options.q?.toLowerCase() ?? "";
+	const searchCol = options.searchCol ?? ['number', 'nameEn', 'rarity'];
+	const sortBy = options.sortBy ?? 'number';
 
-	let filtered = list.filter(c => searchCol.some((key) => c[key].toLowerCase().includes(q)));
+	const q = options.q?.toLowerCase() ?? '';
+
+	let filtered: IdentifiedCard[] = list.filter((c) =>
+		searchCol.some((key) => c[key].toLowerCase().includes(q))
+	);
+	filtered = filtered.map((c) => ({
+		...c,
+		identifier: `${c.number.toLowerCase()}-${c.rarity.toLowerCase()}-${c.set.toLowerCase()}-${c.nameEn.toLowerCase().includes('post-errata') ? 'v2' : 'v1'}`
+	}));
+	// Card Type
+	if (options.ct !== 'all cards') {
+		filtered = filtered.filter(
+			(c) =>
+				(options.ct === 'missing' && ownedList.filter((o) => o.id === c.identifier).length === 0) ||
+				(options.ct === 'owned' && ownedList.filter((o) => o.id === c.identifier).length > 0)
+		);
+	}
 	// Rarity
 	if (options.r && options.r.length > 0) {
-		filtered = filtered.filter(c => options.r.some((r) => r.toLowerCase() === c['rarity'].toLowerCase()));
+		filtered = filtered.filter((c) =>
+			options.r?.some((r) => r.toLowerCase() === c['rarity'].toLowerCase())
+		);
 	}
 	// Talent
 	if (options.t && options.t.length > 0) {
-		filtered = filtered.filter(c => options.t.some((t) => c['talents'].includes(t)));
+		filtered = filtered.filter((c) => options.t?.some((t) => c['talents'].includes(t)));
 	}
 	// Set Number
 	if (options.s && options.s.length > 0) {
-		filtered = filtered.filter(c => options.s.some((s) => c['set'].toLowerCase() === s.toLowerCase()));
+		filtered = filtered.filter((c) =>
+			options.s?.some((s) => c['set'].toLowerCase() === s.toLowerCase())
+		);
 	}
 
 	return filtered.sort((a: Card, b: Card) => {
 		// Rarity we sort by the id
-		if (sortBy === "rarity") {
-			const aObj: RarityInfo = RARITIES.filter(r => r.code === a.rarity)[0];
-			const bObj: RarityInfo = RARITIES.filter(r => r.code === b.rarity)[0];
+		if (sortBy === 'rarity') {
+			const aObj: RarityInfo = RARITIES.filter((r) => r.code === a.rarity)[0];
+			const bObj: RarityInfo = RARITIES.filter((r) => r.code === b.rarity)[0];
 			return bObj.id - aObj.id;
 		}
 
@@ -82,11 +116,11 @@ export function search(list: Card[], options: { q?: string, r?: string[], t?: st
 			return a[sortBy].getTime() - b[sortBy].getTime();
 		}
 		// Sort by Number columns
-		if (typeof a[sortBy] === 'number' && typeof b[sortBy] === "number") {
+		if (typeof a[sortBy] === 'number' && typeof b[sortBy] === 'number') {
 			return a[sortBy] - b[sortBy];
 		}
 		// Sort by string columnss
-		if (typeof a[sortBy] === "string" && typeof b[sortBy] === "string") {
+		if (typeof a[sortBy] === 'string' && typeof b[sortBy] === 'string') {
 			return a[sortBy].localeCompare(b[sortBy]);
 		}
 

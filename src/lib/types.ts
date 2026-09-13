@@ -75,3 +75,4 @@ export type TalentInfo = {
 
 export type SearchField = 'number' | 'nameEn' | 'rarity';
 export type SortField = 'number' | 'nameEn' | 'rarity' | 'addedDate';
+export type CardType = 'all cards' | 'owned' | 'missing';
