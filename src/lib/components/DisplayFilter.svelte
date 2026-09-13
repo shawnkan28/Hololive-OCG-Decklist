@@ -31,6 +31,7 @@
 		rarity = [];
 		search = '';
 		talents = [];
+		cardType = "all cards";
 	}
 	function removeRarity(value: string) {
 		rarity = rarity.filter((r) => r !== value);
