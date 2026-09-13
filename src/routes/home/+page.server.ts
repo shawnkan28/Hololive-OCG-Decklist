@@ -19,8 +19,6 @@ export const load: PageServerLoad = async () => {
 			console.log(`Path: ${filePath}, sending data to client.`);
 			return JSON.parse(content.trim());
 		}
-		// const fileContent = await fs.readFile(filePath, 'utf-8');
-		// return JSON.parse(fileContent);
 	} catch (err) {
 		console.error(err);
 		return {};
@@ -36,7 +34,12 @@ export const actions: Actions = {
 		const owned = formData.get('owned')?.toString();
 
 		const fileContent = await fs.readFile(filePath, 'utf-8');
-		const jData: { ownedCards: OwnedCard[] } = JSON.parse(fileContent);
+		let jData: { ownedCards: OwnedCard[] };
+		if (!fileContent.trim()) {
+			jData = { ownedCards: [] };
+		} else {
+			jData = JSON.parse(fileContent);
+		}
 
 		// Add Owned
 		if (owned === 'Owned') {
@@ -44,10 +47,10 @@ export const actions: Actions = {
 			if (!alrOwned && identifier) {
 				jData['ownedCards'].push({ id: identifier });
 			}
-		} 
+		}
 		// Remove Owned
 		else {
-			jData['ownedCards'] = jData['ownedCards'].filter(i => i.id !== identifier);
+			jData['ownedCards'] = jData['ownedCards'].filter((i) => i.id !== identifier);
 		}
 
 		await fs.writeFile(filePath, JSON.stringify(jData, null, 2), 'utf-8');
