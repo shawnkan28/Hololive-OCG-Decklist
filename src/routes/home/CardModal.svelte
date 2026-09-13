@@ -7,10 +7,18 @@
 
 	let { card = $bindable(), isOpen = $bindable() }: { card?: cardData | null; isOpen: boolean } =
 		$props();
-	
-	function save(){
-		
-	}
+
+	let owned = $state('Not owned');
+
+	$effect(() => {
+		if (card?.owned) {
+			owned = 'Owned';
+		} else {
+			owned = "Not owned";
+		}
+	});
+
+	function save() {}
 </script>
 
 <Modal bind:open={isOpen}>
@@ -29,10 +37,16 @@
 						>{card.nameEn}</span
 					>
 					<div style="display: flex; gap: var(--gap); margin-top: 2px;">
-						<div class="tag active" style={`--color: ${lookupRarity(card.rarity)}; cursor: default;`}>
+						<div
+							class="tag active"
+							style={`--color: ${lookupRarity(card.rarity)}; cursor: default;`}
+						>
 							<div>{card.rarity}</div>
 						</div>
-						<div class="tag active" style="--color: var(--color-main); text-transform: uppercase; cursor: default;">
+						<div
+							class="tag active"
+							style="--color: var(--color-main); text-transform: uppercase; cursor: default;"
+						>
 							<div>{card.set}</div>
 						</div>
 					</div>
@@ -43,7 +57,7 @@
 			</div>
 			<!-- Card Input Fields -->
 			<div class="card-form">
-				<div class="card-row"><Toggle options={["Not owned", "Owned"]}/></div>
+				<div class="card-row"><Toggle bind:value={owned} options={['Not owned', 'Owned']} /></div>
 				<div class="card-row">
 					<div>
 						<div><label for="qty">QUANTITY</label></div>

@@ -12,6 +12,7 @@
 			data={card}
 			callback={() => {
 				if (callback) {
+					card['owned'] = owned.filter(o => o.id === `${card.number.toLowerCase()}-${card.rarity.toLowerCase()}-${card.set.toLowerCase()}-${card.nameEn.toLowerCase().includes("post-errata") ? "v2" : "v1"}`).length > 0; 
 					callback(card);
 				}
 			}}

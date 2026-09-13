@@ -1,10 +1,15 @@
 <script lang="ts">
-	let { value = $bindable(''), options = ['True', 'False'] }: { value?: string; options?: string[] } =
-		$props();
+	let {
+		value = $bindable(''),
+		options = ['True', 'False']
+	}: { value?: string; options?: string[] } = $props();
 	let toggleRef = $state<HTMLInputElement>();
 
 	$effect(() => {
-		if (value === '') value = options[0];
+		if (value === '') {
+			value = options[0];
+		}
+		if (toggleRef) toggleRef.checked = value === options[1];
 	});
 
 	function onClick() {
@@ -35,14 +40,14 @@
 		border: 1px solid #cdd5e6;
 		position: relative;
 	}
-    span {
-        font-size: 0.82rem;
-        color: #656d80;
-        cursor: pointer;
-        transition: all 0.15s linear;
-        line-height: 18px;
-        height: 18px;
-    }
+	span {
+		font-size: 0.82rem;
+		color: #656d80;
+		cursor: pointer;
+		transition: all 0.15s linear;
+		line-height: 18px;
+		height: 18px;
+	}
 	input:checked + i {
 		background: #8a72d0;
 		border-color: #8a72d0;
@@ -64,8 +69,8 @@
 		transform: translateX(15px);
 		background: #fff;
 	}
-    input:checked ~ span {
-        color: #6c56b4;
-        font-weight: 600;
-    }
+	input:checked ~ span {
+		color: #6c56b4;
+		font-weight: 600;
+	}
 </style>
