@@ -4,6 +4,8 @@
 	import type { Card as cardData } from '$lib/types';
 	import { lookupRarity } from '$lib/format';
 	import Toggle from '$lib/components/Toggle.svelte';
+	import { getIdentifier } from '$lib/format';
+	import { invalidateAll } from '$app/navigation';
 
 	let { card = $bindable(), isOpen = $bindable() }: { card?: cardData | null; isOpen: boolean } =
 		$props();
@@ -14,11 +16,28 @@
 		if (card?.owned) {
 			owned = 'Owned';
 		} else {
-			owned = "Not owned";
+			owned = 'Not owned';
 		}
 	});
 
-	function save() {}
+	async function save() {
+		const formData = new FormData();
+		if (card) formData.append('identifier', getIdentifier(card));
+		formData.append('owned', owned);
+		try {
+			const response = await fetch('?/updateCollection', {
+				method: 'POST',
+				body: formData
+			});
+			if (response.ok) {
+				await invalidateAll();
+			} else {
+				console.error('Failed to update collection');
+			}
+		} catch (err) {
+			console.error('Network error saving card:', err);
+		}
+	}
 </script>
 
 <Modal bind:open={isOpen}>
@@ -83,7 +102,14 @@
 					<Input id="mprice" type="text" placeholder="¥" />
 				</div>
 				<div style="text-align: right; margin-top: 25px;">
-					<button class="button" onclick={save}>Save</button>
+					<button
+						class="button"
+						onclick={() => {
+							save()
+								.then(() => console.log('Complete'))
+								.catch((err) => console.error(err));
+						}}>Save</button
+					>
 				</div>
 			</div>
 		</div>

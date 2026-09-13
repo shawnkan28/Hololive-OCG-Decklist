@@ -127,3 +127,7 @@ export function search(
 		return 0;
 	});
 }
+
+export function getIdentifier(card: Card){
+	return `${card.number.toLowerCase()}-${card.rarity.toLowerCase()}-${card.set.toLowerCase()}-${card.nameEn.toLowerCase().includes("post-errata") ? "v2" : "v1"}`;
+}
