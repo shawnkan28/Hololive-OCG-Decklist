@@ -1,4 +1,5 @@
 <script lang="ts">
+	import type { PageData } from './$types';
 	import Navbar from './Navbar.svelte';
 	import Sidebar from './Sidebar.svelte';
 	import { CARDS } from '$lib/data/card_data';
@@ -8,7 +9,9 @@
 	import Gallery from './Gallery.svelte';
 	import DisplayFilter from '$lib/components/DisplayFilter.svelte';
 
+	// INIT
 	const PAGE = 99;
+	let { data }: { data: PageData } = $props();
 
 	// FILTER
 	let q = $state(''); // Search Query

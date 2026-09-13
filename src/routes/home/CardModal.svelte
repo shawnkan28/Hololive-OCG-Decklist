@@ -7,6 +7,10 @@
 
 	let { card = $bindable(), isOpen = $bindable() }: { card?: cardData | null; isOpen: boolean } =
 		$props();
+	
+	function save(){
+		
+	}
 </script>
 
 <Modal bind:open={isOpen}>
@@ -65,7 +69,7 @@
 					<Input id="mprice" type="text" placeholder="¥" />
 				</div>
 				<div style="text-align: right; margin-top: 25px;">
-					<button class="button" onclick={() => {}}>Save</button>
+					<button class="button" onclick={save}>Save</button>
 				</div>
 			</div>
 		</div>
