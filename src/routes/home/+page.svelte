@@ -65,15 +65,8 @@
 			modalOpen = true;
 		}
 		// modal is Open and attempt to save and close
-		else if (modalOpen && type === 'enter') {
-			modalOpen = false;
-			// Wait for DOM to destroy CardModal completely
-			tick().then(() => {
-				navBarComponent?.focusSearch();
-			});
-		}
 		// modal is open and attempt to close without saving
-		else if (modalOpen && type === 'esc') {
+		else if (modalOpen) {
 			modalOpen = false;
 			// Wait for DOM to destroy CardModal completely
 			tick().then(() => {
@@ -91,7 +84,7 @@
 	bind:sort={sortBy}
 	bind:this={navBarComponent}
 	searchEnter={() => handleModal('enter')}
-	searchEscape={() => console.log("ESC Press")}
+	searchEscape={() => console.log('ESC Press')}
 />
 <div class="wrapper">
 	<Sidebar bind:rarity={r} bind:talents={t} bind:setNum={s} />
@@ -113,7 +106,12 @@
 			}}
 		/>
 
-		<CardModal modalEscape={() => handleModal("esc")} bind:card={selectedCard} bind:isOpen={modalOpen} />
+		<CardModal
+			modalEnter={() => handleModal('enter')}
+			modalEscape={() => handleModal('esc')}
+			bind:card={selectedCard}
+			bind:isOpen={modalOpen}
+		/>
 
 		{#if hasMore}
 			<div class="footer">

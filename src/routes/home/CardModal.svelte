@@ -10,8 +10,14 @@
 	let {
 		card = $bindable(),
 		isOpen = $bindable(),
-		modalEscape
-	}: { card?: cardData | null; isOpen: boolean; modalEscape?: () => void } = $props();
+		modalEscape,
+		modalEnter
+	}: {
+		card?: cardData | null;
+		isOpen: boolean;
+		modalEscape?: () => void;
+		modalEnter?: () => void;
+	} = $props();
 
 	let owned = $state('Not owned');
 	let qtyInput = $state<ReturnType<typeof Input> | null>(null);
@@ -55,6 +61,15 @@
 	function escapePressed() {
 		if (modalEscape) modalEscape();
 	}
+	function enterPressed() {
+		save()
+			.then(() => {
+				if (modalEnter) modalEnter();
+			})
+			.catch((err) => {
+				console.error(err);
+			});
+	}
 </script>
 
 <Modal bind:open={isOpen}>
@@ -97,11 +112,24 @@
 				<div class="card-row">
 					<div>
 						<div><label for="qty">QUANTITY</label></div>
-						<Input onescape={escapePressed} bind:this={qtyInput} id="qty" type="text" placeholder="0" />
+						<Input
+							onenter={enterPressed}
+							onescape={escapePressed}
+							bind:this={qtyInput}
+							id="qty"
+							type="text"
+							placeholder="0"
+						/>
 					</div>
 					<div>
 						<div><label for="loc">LOCATION</label></div>
-						<Input onescape={escapePressed} id="loc" type="text" placeholder="Binder, box, sleeve ..." />
+						<Input
+							onenter={enterPressed}
+							onescape={escapePressed}
+							id="loc"
+							type="text"
+							placeholder="Binder, box, sleeve ..."
+						/>
 					</div>
 				</div>
 				<!-- <div class="card-row">
