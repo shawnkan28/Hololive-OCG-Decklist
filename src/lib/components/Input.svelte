@@ -7,6 +7,7 @@
 		variant?: 'standard' | 'global';
 		value?: string;
 		onenter?: () => void;
+		onescape?: () => void;
 		leading?: Snippet;
 		children?: Snippet; // trailing icon
 	}
@@ -16,14 +17,22 @@
 		value = $bindable(''),
 		variant = 'standard',
 		onenter,
+		onescape,
 		leading,
 		children,
 		...rest
 	}: Props = $props();
 	let inputRef = $state<HTMLInputElement | null>(null);
 
-	export function focus() {
+	export function focus(isSelect: boolean = false) {
+		inputRef?.blur();
 		inputRef?.focus();
+		if(isSelect){
+			inputRef?.select();
+		}
+	}
+	export function blur() {
+		inputRef?.blur();
 	}
 
 	function handleKeyDown(e: KeyboardEvent) {
@@ -32,6 +41,11 @@
 			event?.stopPropagation();
 
 			if (onenter) onenter();
+		} else if (e.key === 'Escape') {
+			event?.preventDefault();
+			event?.stopPropagation();
+
+			if (onescape) onescape();
 		}
 	}
 </script>

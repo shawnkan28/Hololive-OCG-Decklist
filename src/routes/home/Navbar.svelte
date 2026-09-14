@@ -11,8 +11,14 @@
 	let {
 		query = $bindable(''),
 		sort = $bindable('rarity'),
-		searchEnter
-	}: { query?: string; sort?: SortField; searchEnter?: () => void } = $props();
+		searchEnter,
+		searchEscape
+	}: {
+		query?: string;
+		sort?: SortField;
+		searchEnter?: () => void;
+		searchEscape?: () => void;
+	} = $props();
 	let searchInput = $state<ReturnType<typeof Input> | null>(null);
 
 	// 'number' | 'nameEn' | 'rarity' | 'addedDate';
@@ -23,7 +29,7 @@
 	];
 
 	export function focusSearch() {
-		searchInput?.focus();
+		searchInput?.focus(true);
 	}
 </script>
 
@@ -45,6 +51,7 @@
 			<Input
 				bind:this={searchInput}
 				onenter={searchEnter}
+				onescape={searchEscape}
 				id="global-search"
 				variant="global"
 				bind:value={query}

@@ -91,6 +91,7 @@
 	bind:sort={sortBy}
 	bind:this={navBarComponent}
 	searchEnter={() => handleModal('enter')}
+	searchEscape={() => console.log("ESC Press")}
 />
 <div class="wrapper">
 	<Sidebar bind:rarity={r} bind:talents={t} bind:setNum={s} />
@@ -112,7 +113,7 @@
 			}}
 		/>
 
-		<CardModal bind:card={selectedCard} bind:isOpen={modalOpen} />
+		<CardModal modalEscape={() => handleModal("esc")} bind:card={selectedCard} bind:isOpen={modalOpen} />
 
 		{#if hasMore}
 			<div class="footer">

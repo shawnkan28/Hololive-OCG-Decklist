@@ -7,8 +7,11 @@
 	import { getIdentifier } from '$lib/format';
 	import { invalidateAll } from '$app/navigation';
 
-	let { card = $bindable(), isOpen = $bindable() }: { card?: cardData | null; isOpen: boolean } =
-		$props();
+	let {
+		card = $bindable(),
+		isOpen = $bindable(),
+		modalEscape
+	}: { card?: cardData | null; isOpen: boolean; modalEscape?: () => void } = $props();
 
 	let owned = $state('Not owned');
 	let qtyInput = $state<ReturnType<typeof Input> | null>(null);
@@ -45,6 +48,12 @@
 		} catch (err) {
 			console.error('Network error saving card:', err);
 		}
+	}
+
+	// I need this function because i set for text input if esc is pressed, it does not
+	// Trigger the Listener for escape in root page.
+	function escapePressed() {
+		if (modalEscape) modalEscape();
 	}
 </script>
 
@@ -88,11 +97,11 @@
 				<div class="card-row">
 					<div>
 						<div><label for="qty">QUANTITY</label></div>
-						<Input bind:this={qtyInput} id="qty" type="text" placeholder="0" />
+						<Input onescape={escapePressed} bind:this={qtyInput} id="qty" type="text" placeholder="0" />
 					</div>
 					<div>
 						<div><label for="loc">LOCATION</label></div>
-						<Input id="loc" type="text" placeholder="Binder, box, sleeve ..." />
+						<Input onescape={escapePressed} id="loc" type="text" placeholder="Binder, box, sleeve ..." />
 					</div>
 				</div>
 				<!-- <div class="card-row">
