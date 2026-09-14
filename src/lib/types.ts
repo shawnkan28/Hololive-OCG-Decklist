@@ -1,5 +1,7 @@
 export type OwnedCard = {
 	id: string;
+	qty?: number;
+	location?: string;
 };
 
 export type CardSkill = {
@@ -44,6 +46,8 @@ export type Card = {
 	illustrator?: string;
 	addedDate?: Date;
 	owned?: boolean;
+	location?: string;
+	qty?: number;
 };
 
 export type SetInfo = {

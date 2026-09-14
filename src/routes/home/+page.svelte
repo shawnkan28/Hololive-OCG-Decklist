@@ -1,18 +1,17 @@
 <script lang="ts">
 	import { tick } from 'svelte';
-	import type { PageData } from './$types';
 	import Navbar from './Navbar.svelte';
 	import Sidebar from './Sidebar.svelte';
 	import { CARDS } from '$lib/data/card_data';
 	import CardModal from './CardModal.svelte';
-	import type { Card as CardData, CardType, SortField } from '$lib/types';
-	import { search } from '$lib/format';
+	import type { Card as CardData, CardType, SortField, OwnedCard } from '$lib/types';
+	import { getIdentifier, search } from '$lib/format';
 	import Gallery from './Gallery.svelte';
 	import DisplayFilter from '$lib/components/DisplayFilter.svelte';
 
 	// INIT
 	const PAGE = 99;
-	let { data }: { data: PageData } = $props();
+	let { data }: { data: { ownedCards: OwnedCard[] } } = $props();
 
 	// FILTER
 	let q = $state(''); // Search Query
@@ -60,8 +59,13 @@
 
 		// modal closed and attempt to open
 		if (!modalOpen && type === 'enter') {
+			const cardId = getIdentifier(cards[0]);
+			const ownedCard = data['ownedCards'].filter((d) => d.id === cardId);
+
 			selectedCard = cards[0];
 			selectedCard.owned = true;
+			selectedCard.qty = ownedCard.length > 0 ? ownedCard[0].qty : 0;
+			selectedCard.location = ownedCard.length > 0 ? ownedCard[0].location : '';
 			modalOpen = true;
 		}
 		// modal is Open and attempt to save and close
@@ -101,7 +105,12 @@
 			owned={data['ownedCards']}
 			{cards}
 			callback={(c) => {
+				const cardId = getIdentifier(c);
+				const ownedCard = data['ownedCards'].filter((d) => d.id === cardId);
+
 				selectedCard = c;
+				selectedCard.qty = ownedCard.length > 0 ? ownedCard[0].qty : 0;
+				selectedCard.location = ownedCard.length > 0 ? ownedCard[0].location : '';
 				modalOpen = true;
 			}}
 		/>

@@ -20,13 +20,15 @@
 	} = $props();
 
 	let owned = $state('Not owned');
+	let location = $state('');
+	let quantity = $state('0');
 	let qtyInput = $state<ReturnType<typeof Input> | null>(null);
 
 	$effect(() => {
-		if (card?.owned) {
-			owned = 'Owned';
-		} else {
-			owned = 'Not owned';
+		if (card) {
+			owned = card.owned ? 'Owned' : 'Not owned';
+			location = card.location ?? '';
+			quantity = card.qty?.toString() ?? '0';
 		}
 	});
 
@@ -41,6 +43,9 @@
 		const formData = new FormData();
 		if (card) formData.append('identifier', getIdentifier(card));
 		formData.append('owned', owned);
+		formData.append('location', location);
+		formData.append('quantity', quantity);
+
 		try {
 			const response = await fetch('?/updateCollection', {
 				method: 'POST',
@@ -113,17 +118,19 @@
 					<div>
 						<div><label for="qty">QUANTITY</label></div>
 						<Input
+							bind:value={quantity}
 							onenter={enterPressed}
 							onescape={escapePressed}
 							bind:this={qtyInput}
 							id="qty"
-							type="text"
+							type="number"
 							placeholder="0"
 						/>
 					</div>
 					<div>
 						<div><label for="loc">LOCATION</label></div>
 						<Input
+							bind:value={location}
 							onenter={enterPressed}
 							onescape={escapePressed}
 							id="loc"

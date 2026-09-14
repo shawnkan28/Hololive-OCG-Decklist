@@ -32,6 +32,8 @@ export const actions: Actions = {
 		const formData = await request.formData();
 		const identifier = formData.get('identifier')?.toString();
 		const owned = formData.get('owned')?.toString();
+		const quantity = Number(formData.get('quantity') ?? "0");
+		const location = formData.get('location')?.toString();
 
 		const fileContent = await fs.readFile(filePath, 'utf-8');
 		let jData: { ownedCards: OwnedCard[] };
@@ -45,14 +47,14 @@ export const actions: Actions = {
 		if (owned === 'Owned') {
 			const alrOwned = jData['ownedCards'].filter((i) => i.id === identifier).length > 0;
 			if (!alrOwned && identifier) {
-				jData['ownedCards'].push({ id: identifier });
+				jData['ownedCards'].push({ id: identifier, qty: quantity, location: location });
 			}
 		}
 		// Remove Owned
 		else {
 			jData['ownedCards'] = jData['ownedCards'].filter((i) => i.id !== identifier);
 		}
-
+		console.log(jData);
 		await fs.writeFile(filePath, JSON.stringify(jData, null, 2), 'utf-8');
 	}
 };
