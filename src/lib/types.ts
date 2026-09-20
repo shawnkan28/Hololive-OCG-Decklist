@@ -35,6 +35,7 @@ export type Card = {
 	hp?: number;
 	bloomLevel?: string;
 	batonPass?: string[];
+	stageSkill?: CardSkill;
 	oshiSkill?: CardSkill;
 	spOshiSkill?: CardSkill;
 	arts?: CardArt[];
