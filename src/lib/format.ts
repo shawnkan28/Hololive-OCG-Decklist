@@ -111,6 +111,11 @@ export function search(
 			return bObj.id - aObj.id;
 		}
 
+		// Layered sort, sort by Set Number then Sort by Card Number
+		if (sortBy === "number") {
+			return a['set'].localeCompare(b['set']) || a['number'].localeCompare(b['number']);
+		}
+
 		// Sort By Date
 		if (a[sortBy] instanceof Date && b[sortBy] instanceof Date) {
 			return a[sortBy].getTime() - b[sortBy].getTime();
