@@ -789,7 +789,8 @@
 			"stockCount": 2,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10024",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-010_UR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-010_UR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -812,7 +813,8 @@
 			"stockCount": 0,
 			"inStock": false,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10039",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-017_UR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-017_UR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -835,7 +837,8 @@
 			"stockCount": 1,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10054",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-024_UR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-024_UR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2604,7 +2607,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10011",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-004_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-004_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2627,7 +2631,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10013",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-005_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-005_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2650,7 +2655,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10015",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-006_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-006_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2673,7 +2679,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10017",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-007_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-007_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2696,7 +2703,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10019",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-008_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-008_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2719,7 +2727,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10021",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-009_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-009_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2742,7 +2751,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10023",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-010_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-010_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2765,7 +2775,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10026",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-011_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-011_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2788,7 +2799,8 @@
 			"stockCount": 9,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10028",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-012_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-012_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2811,7 +2823,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10030",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-013_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-013_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2834,7 +2847,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10032",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-014_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-014_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2857,7 +2871,8 @@
 			"stockCount": 2,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10034",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-015_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-015_SR.png",
+			"cardType": "Buzz holomem"
 		},
 		{
 			"set": "heb01",
@@ -2880,7 +2895,8 @@
 			"stockCount": 6,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10036",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-016_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-016_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2903,7 +2919,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10038",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-017_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-017_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2926,7 +2943,8 @@
 			"stockCount": 1,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10041",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-018_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-018_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2949,7 +2967,8 @@
 			"stockCount": 0,
 			"inStock": false,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10043",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-019_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-019_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2972,7 +2991,8 @@
 			"stockCount": 3,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10045",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-020_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-020_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -2995,7 +3015,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10047",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-021_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-021_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -3018,7 +3039,8 @@
 			"stockCount": 2,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10049",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-022_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-022_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -3041,7 +3063,8 @@
 			"stockCount": 8,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10051",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-023_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-023_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -3064,7 +3087,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10053",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-024_SR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-024_SR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -3087,7 +3111,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10179",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD02-006_SR_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD02-006_SR_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -3110,7 +3135,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10181",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD02-007_SR_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD02-007_SR_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -3133,7 +3159,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10183",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD03-007_SR_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD03-007_SR_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -3156,7 +3183,8 @@
 			"stockCount": 9,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10185",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD04-007_SR_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD04-007_SR_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -3179,7 +3207,8 @@
 			"stockCount": 1,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10187",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD05-007_SR_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD05-007_SR_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -3202,7 +3231,8 @@
 			"stockCount": 10,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10189",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD06-005_SR_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD06-005_SR_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -3225,7 +3255,8 @@
 			"stockCount": 4,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10191",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD08-007_SR_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD08-007_SR_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -3248,7 +3279,8 @@
 			"stockCount": 5,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10193",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD09-002_SR_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD09-002_SR_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -3823,7 +3855,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10022",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-010_RR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-010_RR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -3846,7 +3879,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10037",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-017_RR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-017_RR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -3869,7 +3903,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10052",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-024_RR.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-024_RR.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -4491,7 +4526,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10018",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-008_R.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-008_R.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -4514,7 +4550,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10020",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-009_R.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-009_R.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -4537,7 +4574,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10033",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-015_R.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-015_R.png",
+			"cardType": "Buzz holomem"
 		},
 		{
 			"set": "heb01",
@@ -4560,7 +4598,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10035",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-016_R.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-016_R.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -4583,7 +4622,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10048",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-022_R.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-022_R.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -4606,7 +4646,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10050",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-023_R.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-023_R.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5319,7 +5360,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10012",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-005_U.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-005_U.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5342,7 +5384,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10016",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-007_U.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-007_U.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5365,7 +5408,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10027",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-012_U.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-012_U.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5388,7 +5432,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10031",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-014_U.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-014_U.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5411,7 +5456,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10042",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-019_U.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-019_U.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5434,7 +5480,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10046",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-021_U.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-021_U.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5457,7 +5504,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10056",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-026_U.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-026_U.png",
+			"cardType": "Support・Event・LIMITED"
 		},
 		{
 			"set": "heb01",
@@ -5480,7 +5528,8 @@
 			"stockCount": 8,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10060",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-030_U.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-030_U.png",
+			"cardType": "Support・Event・LIMITED"
 		},
 		{
 			"set": "heb01",
@@ -5503,7 +5552,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10062",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-032_U.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-032_U.png",
+			"cardType": "Support・Event・LIMITED"
 		},
 		{
 			"set": "heb01",
@@ -5526,7 +5576,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10064",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-034_U.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-034_U.png",
+			"cardType": "Support・Tool"
 		},
 		{
 			"set": "heb01",
@@ -5549,7 +5600,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10180",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD02-007_U_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD02-007_U_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5572,7 +5624,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10182",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD03-007_U_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD03-007_U_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5595,7 +5648,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10184",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD04-007_U_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD04-007_U_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5618,7 +5672,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10186",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD05-007_U_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD05-007_U_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5641,7 +5696,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10192",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD09-002_U_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD09-002_U_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5806,7 +5862,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10010",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-004_C.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-004_C.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5829,7 +5886,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10014",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-006_C.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-006_C.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5852,7 +5910,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10025",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-011_C.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-011_C.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5875,7 +5934,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10029",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-013_C.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-013_C.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5898,7 +5958,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10040",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-018_C.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-018_C.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5921,7 +5982,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10044",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-020_C.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-020_C.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -5944,7 +6006,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10055",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-025_C.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-025_C.png",
+			"cardType": "Support・Item"
 		},
 		{
 			"set": "heb01",
@@ -5967,7 +6030,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10057",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-027_C.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-027_C.png",
+			"cardType": "Support・Event・LIMITED"
 		},
 		{
 			"set": "heb01",
@@ -5990,7 +6054,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10058",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-028_C.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-028_C.png",
+			"cardType": "Support・Event・LIMITED"
 		},
 		{
 			"set": "heb01",
@@ -6013,7 +6078,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10059",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-029_C.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-029_C.png",
+			"cardType": "Support・Event"
 		},
 		{
 			"set": "heb01",
@@ -6036,7 +6102,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10061",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-031_C.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-031_C.png",
+			"cardType": "Support・Event"
 		},
 		{
 			"set": "heb01",
@@ -6059,7 +6126,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10063",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-033_C.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-033_C.png",
+			"cardType": "Support・Tool"
 		},
 		{
 			"set": "heb01",
@@ -6082,7 +6150,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10178",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD02-006_C_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD02-006_C_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -6105,7 +6174,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10188",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD06-005_C_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD06-005_C_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
@@ -6128,7 +6198,8 @@
 			"stockCount": null,
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10190",
-			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD08-007_C_02.png"
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD08-007_C_02.png",
+			"cardType": "holomem"
 		},
 		{
 			"set": "heb01",
