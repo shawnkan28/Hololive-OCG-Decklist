@@ -7645,6 +7645,146 @@
 			"officialName": "Shiranui Flare",
 			"officialImage": "/wp-content/images/cardlist/hBP05/EN_hSD07-002_02_C.png",
 			"illustrator": "紅緒"
+		},
+		{
+			"set": "hbp05",
+			"setLabel": "hBP05",
+			"rarity": "SY",
+			"number": "hY01-007",
+			"name": "白エール(兎田ぺこら)",
+			"nameEn": "White Cheer (Usada Pekora)",
+			"talents": ["pekora"],
+			"colors": ["white"],
+			"price": "1,780 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10041",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY01-007_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp05",
+			"setLabel": "hBP05",
+			"rarity": "SY",
+			"number": "hY02-006",
+			"name": "緑エール(AZKi)",
+			"nameEn": "Green Cheer (AZKi)",
+			"talents": ["azki"],
+			"colors": ["green"],
+			"price": "1,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10042",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY02-006_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp05",
+			"setLabel": "hBP05",
+			"rarity": "SY",
+			"number": "hY03-009",
+			"name": "赤エール(百鬼あやめ)",
+			"nameEn": "Red Cheer (Nakiri Ayame)",
+			"talents": ["ayame"],
+			"colors": ["red"],
+			"price": "3,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10043",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY03-009_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp05",
+			"setLabel": "hBP05",
+			"rarity": "SY",
+			"number": "hY04-006",
+			"name": "青エール(猫又おかゆ)",
+			"nameEn": "Blue Cheer (Nekomata Okayu)",
+			"talents": ["okayu"],
+			"colors": ["blue"],
+			"price": "1,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10044",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY04-006_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp05",
+			"setLabel": "hBP05",
+			"rarity": "SY",
+			"number": "hY05-005",
+			"name": "紫エール(癒月ちょこ)",
+			"nameEn": "Purple Cheer (Yuzuki Choco)",
+			"talents": ["choco"],
+			"colors": ["purple"],
+			"price": "1,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10045",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY05-005_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp05",
+			"setLabel": "hBP05",
+			"rarity": "SY",
+			"number": "hY06-005",
+			"name": "黄エール(不知火フレア)",
+			"nameEn": "Yellow Cheer (Shiranui Flare)",
+			"talents": ["flare"],
+			"colors": ["yellow"],
+			"price": "1,780 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "3 点",
+			"stockCount": 3,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10046",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY06-005_SY.png",
+			"cardType": "Cheer"
 		}
 	]
 }

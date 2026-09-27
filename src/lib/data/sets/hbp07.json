@@ -8577,6 +8577,147 @@
 			"officialName": "Koganei Niko",
 			"officialImage": "/wp-content/images/cardlist/hBP06/EN_hSD11-002_C01.png",
 			"illustrator": "おげげ"
+		},
+		{
+			"set": "hbp07",
+			"setLabel": "hBP07",
+			"rarity": "SY",
+			"number": "hY01-012",
+			"name": "白エール(白銀ノエル)",
+			"nameEn": "White Cheer (Shirogane Noel)",
+			"talents": ["noel"],
+			"colors": ["white"],
+			"price": "1,780 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10053",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP07/hY01-012_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp07",
+			"setLabel": "hBP07",
+			"rarity": "SY",
+			"number": "hY02-010",
+			"name": "緑エール(輪堂千速)",
+			"nameEn": "Green Cheer (Wado Chisato)",
+			"talents": ["chisato"],
+			"colors": ["green"],
+			"price": "2,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 2980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10054",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP07/hY02-010_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp07",
+			"setLabel": "hBP07",
+			"rarity": "SY",
+			"number": "hY03-014",
+			"name": "赤エール(尾丸ポルカ)",
+			"nameEn": "Red Cheer (Omaru Polka)",
+			"talents": ["polka"],
+			"colors": ["red"],
+			"price": "1,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10055",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP07/hY03-014_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp07",
+			"setLabel": "hBP07",
+			"rarity": "SY",
+			"number": "hY04-011",
+			"name": "青エール(こぼ・かなえる)",
+			"nameEn": "Blue Cheer (Kobo Kanaeru)",
+			"talents": ["kobo"],
+			"colors": ["blue"],
+			"price": "1,280 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10056",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP07/hY04-011_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp07",
+			"setLabel": "hBP07",
+			"rarity": "SY",
+			"number": "hY05-009",
+			"name": "紫エール(古石ビジュー)",
+			"nameEn": "Purple Cheer (古石ビジュー)",
+			"talents": [],
+			"colors": ["purple"],
+			"price": "1,780 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10057",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP07/hY05-009_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp07",
+			"setLabel": "hBP07",
+			"rarity": "SY",
+			"number": "hY06-009",
+			"name": "黄エール(桃鈴ねね)",
+			"nameEn": "Yellow Cheer (Momosuzu Nene)",
+			"talents": ["nene"],
+			"colors": ["yellow"],
+			"price": "2,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 2480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10058",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP07/hY06-009_SY.png",
+			"cardType": "Cheer"
 		}
 	]
 }

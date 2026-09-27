@@ -8881,6 +8881,148 @@
 			"officialId": 2840,
 			"officialName": "綺々羅々ヴィヴィ",
 			"officialImage": "/wp-content/images/cardlist/hBP09/hSD10-007_C_02.png"
+		},
+		{
+			"set": "hbp09",
+			"setLabel": "hBP09",
+			"rarity": "SY",
+			"number": "hY01-015",
+			"name": "白エール(ベスティア・ゼータ)",
+			"nameEn": "White Cheer (Vestia Zeta)",
+			"talents": ["zeta"],
+			"colors": ["white"],
+			"price": "1,280 円",
+			"marketprice": [
+				{
+					"date": "2026-09-27",
+					"price": 1280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10077",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP09/hY01-015_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp09",
+			"setLabel": "hBP09",
+			"rarity": "SY",
+			"number": "hY02-013",
+			"name": "緑エール(大神ミオ)",
+			"nameEn": "Green Cheer (Ookami Mio)",
+			"talents": ["mio"],
+			"colors": ["green"],
+			"price": "1,780 円",
+			"marketprice": [
+				{
+					"date": "2026-09-27",
+					"price": 1780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10078",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP09/hY02-013_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp09",
+			"setLabel": "hBP09",
+			"rarity": "SY",
+			"number": "hY03-017",
+			"name": "赤エール(カエラ・コヴァルスキア)",
+			"nameEn": "Red Cheer (Kaela Kovalskia)",
+			"talents": ["kaela"],
+			"colors": ["red"],
+			"price": "1,480 円",
+			"marketprice": [
+				{
+					"date": "2026-09-27",
+					"price": 1480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10079",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP09/hY03-017_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp09",
+			"setLabel": "hBP09",
+			"rarity": "SY",
+			"number": "hY04-014",
+			"name": "青エール(オーロ・クロニー)",
+			"nameEn": "Blue Cheer (Ouro Kronii)",
+			"talents": ["kronii"],
+			"colors": ["blue"],
+			"price": "1,980 円",
+			"marketprice": [
+				{
+					"date": "2026-09-27",
+					"price": 1980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10080",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP09/hY04-014_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp09",
+			"setLabel": "hBP09",
+			"rarity": "SY",
+			"number": "hY05-012",
+			"name": "紫エール(ネリッサ・レイヴンクロフト)",
+			"nameEn": "Purple Cheer (Nerissa Ravencroft)",
+			"talents": ["nerissa"],
+			"colors": ["purple"],
+			"price": "1,980 円",
+			"marketprice": [
+				{
+					"date": "2026-09-27",
+					"price": 1980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10081",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP09/hY05-012_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp09",
+			"setLabel": "hBP09",
+			"rarity": "SY",
+			"number": "hY06-012",
+			"name": "黄エール(雪花ラミィ)",
+			"nameEn": "Yellow Cheer (Yukihana Lamy)",
+			"talents": ["lamy"],
+			"colors": ["yellow"],
+			"price": "2,480 円",
+			"marketprice": [
+				{
+					"date": "2026-09-27",
+					"price": 2480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10082",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP09/hY06-012_SY.png",
+			"cardType": "Cheer"
 		}
 	]
 }

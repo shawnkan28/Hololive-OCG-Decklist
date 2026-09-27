@@ -10157,6 +10157,413 @@
 			"cardType": "Support・Event・LIMITED",
 			"isLimited": true,
 			"officialName": "ReGLOSS"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY04",
+			"rarity": "S",
+			"number": "hY04-007",
+			"name": "青エール(ホロナツパラダイスver.)",
+			"nameEn": "Blue Cheer (ホロナツパラダイスver.)",
+			"talents": [],
+			"colors": ["blue"],
+			"price": "5,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 5980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10033",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY04-007_S.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY01",
+			"rarity": "P",
+			"number": "hY01-002",
+			"name": "白エール（魔法少女ホロウィッチ！）",
+			"nameEn": "White Cheer",
+			"talents": [],
+			"colors": ["white"],
+			"price": "1,280 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY01-002_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY01",
+			"rarity": "P",
+			"number": "hY01-005",
+			"name": "白エール(白上フブキ/ SUPER EXPO 2025)",
+			"nameEn": "White Cheer (Shirakami Fubuki / SUPER EXPO 2025)",
+			"talents": ["fubuki"],
+			"colors": ["white"],
+			"price": "3,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10013",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY01-005_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY01",
+			"rarity": "P",
+			"number": "hY01-009",
+			"name": "白エール(兎田ぺこら＆響咲リオナ)",
+			"nameEn": "White Cheer (Usada Pekora & Hizuka Riona)",
+			"talents": ["pekora", "riona"],
+			"colors": ["white"],
+			"price": "4,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 4980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10034",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY01-009_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY02",
+			"rarity": "P",
+			"number": "hY02-004",
+			"name": "緑エール(大神ミオ/ SUPER EXPO 2025)",
+			"nameEn": "Green Cheer (Ookami Mio / SUPER EXPO 2025)",
+			"talents": ["mio"],
+			"colors": ["green"],
+			"price": "3,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10014",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY02-004_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY02",
+			"rarity": "P",
+			"number": "hY02-007",
+			"name": "緑エール(星街すいせい＆風真いろは)",
+			"nameEn": "Green Cheer (Hoshimachi Suisei & Kazama Iroha)",
+			"talents": ["suisei", "iroha"],
+			"colors": ["green"],
+			"price": "9,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 9980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10035",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY02-007_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY03",
+			"rarity": "P",
+			"number": "hY03-005",
+			"name": "赤エール(みこだにぇー/背景赤)",
+			"nameEn": "Red Cheer (みこだにぇー/背景赤)",
+			"talents": [],
+			"colors": ["red"],
+			"price": "3,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "5 点",
+			"stockCount": 5,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10023",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY03-005_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY03",
+			"rarity": "P",
+			"number": "hY03-006",
+			"name": "赤エール(みこだにぇー/背景桜)",
+			"nameEn": "Red Cheer (みこだにぇー/背景桜)",
+			"talents": [],
+			"colors": ["red"],
+			"price": "3,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10024",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY03-006_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY03",
+			"rarity": "P",
+			"number": "hY03-007",
+			"name": "赤エール(みこだにぇー/暗)",
+			"nameEn": "Red Cheer (みこだにぇー/暗)",
+			"talents": [],
+			"colors": ["red"],
+			"price": "3,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10025",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY03-007_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY03",
+			"rarity": "P",
+			"number": "hY03-008",
+			"name": "赤エール(みこだにぇー/集中線)",
+			"nameEn": "Red Cheer (みこだにぇー/集中線)",
+			"talents": [],
+			"colors": ["red"],
+			"price": "3,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "3 点",
+			"stockCount": 3,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10026",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY03-008_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY03",
+			"rarity": "P",
+			"number": "hY03-011",
+			"name": "赤エール(一伊那尓栖&amp;一条莉々華)",
+			"nameEn": "Red Cheer (Ninomae Ina'nis)",
+			"talents": ["inanis"],
+			"colors": ["red"],
+			"price": "4,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 4980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10036",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY03-011_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY03",
+			"rarity": "P",
+			"number": "hY03-012",
+			"name": "赤エール(夏色まつり＆宝鐘マリン)",
+			"nameEn": "Red Cheer (Natsuiro Matsuri & Houshou Marine)",
+			"talents": ["matsuri", "marine"],
+			"colors": ["red"],
+			"price": "4,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 4980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10037",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY03-012_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY04",
+			"rarity": "P",
+			"number": "hY04-004",
+			"name": "青エール(猫又おかゆ/ SUPER EXPO 2025)",
+			"nameEn": "Blue Cheer (Nekomata Okayu / SUPER EXPO 2025)",
+			"talents": ["okayu"],
+			"colors": ["blue"],
+			"price": "3,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10015",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY04-004_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY04",
+			"rarity": "P",
+			"number": "hY04-009",
+			"name": "青エール(雪花ラミィ＆桃鈴ねね)",
+			"nameEn": "Blue Cheer (Yukihana Lamy & Momosuzu Nene)",
+			"talents": ["lamy", "nene"],
+			"colors": ["blue"],
+			"price": "4,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 4980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10038",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY04-009_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY05",
+			"rarity": "P",
+			"number": "hY05-007",
+			"name": "紫エール(クレイジー・オリー＆ハコス・ベールズ)",
+			"nameEn": "Purple Cheer (Kureiji Ollie & Hakos Baelz)",
+			"talents": ["ollie", "baelz"],
+			"colors": ["purple"],
+			"price": "3,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10039",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY05-007_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY06",
+			"rarity": "P",
+			"number": "hY06-003",
+			"name": "黄エール(戌神ころね/ SUPER EXPO 2025)",
+			"nameEn": "Yellow Cheer (Inugami Korone / SUPER EXPO 2025)",
+			"talents": ["korone"],
+			"colors": ["yellow"],
+			"price": "4,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 4980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10016",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY06-003_P.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "P",
+			"setLabel": "hY06",
+			"rarity": "P",
+			"number": "hY06-006",
+			"name": "黄エール(不知火フレア＆轟はじめ)",
+			"nameEn": "Yellow Cheer (Shiranui Flare & Todoki Hajime)",
+			"talents": ["flare", "hajime"],
+			"colors": ["yellow"],
+			"price": "3,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10040",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hY0/hY06-006_P.png",
+			"cardType": "Cheer"
 		}
 	]
 }

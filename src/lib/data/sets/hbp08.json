@@ -8743,6 +8743,147 @@
 			"officialName": "holoAN",
 			"officialImage": "/wp-content/images/cardlist/hBP08/hSD14-010_C_02.png",
 			"illustrator": "絹谷ゆたか"
+		},
+		{
+			"set": "hbp08",
+			"setLabel": "hBP08",
+			"rarity": "SY",
+			"number": "hY01-013",
+			"name": "白エール(ときのそら)",
+			"nameEn": "White Cheer (Tokino Sora)",
+			"talents": ["sora"],
+			"colors": ["white"],
+			"price": "1,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10059",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP08/hY01-013_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp08",
+			"setLabel": "hBP08",
+			"rarity": "SY",
+			"number": "hY02-011",
+			"name": "緑エール(アイラニ・イオフィフティーン)",
+			"nameEn": "Green Cheer (Airani Iofifteen)",
+			"talents": ["iofi"],
+			"colors": ["green"],
+			"price": "1,280 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10060",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP08/hY02-011_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp08",
+			"setLabel": "hBP08",
+			"rarity": "SY",
+			"number": "hY03-015",
+			"name": "赤エール(モココ・アビスガード)",
+			"nameEn": "Red Cheer (Mococo Abyssgard)",
+			"talents": ["mococo"],
+			"colors": ["red"],
+			"price": "2,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 2980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "3 点",
+			"stockCount": 3,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10061",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP08/hY03-015_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp08",
+			"setLabel": "hBP08",
+			"rarity": "SY",
+			"number": "hY04-012",
+			"name": "青エール(フワワ・アビスガード)",
+			"nameEn": "Blue Cheer (Fuwawa Abyssgard)",
+			"talents": ["fuwawa"],
+			"colors": ["blue"],
+			"price": "2,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 2480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10062",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP08/hY04-012_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp08",
+			"setLabel": "hBP08",
+			"rarity": "SY",
+			"number": "hY05-010",
+			"name": "紫エール(森カリオペ)",
+			"nameEn": "Purple Cheer (Mori Calliope)",
+			"talents": ["calliope"],
+			"colors": ["purple"],
+			"price": "1,780 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10063",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP08/hY05-010_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp08",
+			"setLabel": "hBP08",
+			"rarity": "SY",
+			"number": "hY06-010",
+			"name": "黄エール(虎金妃笑虎)",
+			"nameEn": "Yellow Cheer (虎金妃笑虎)",
+			"talents": [],
+			"colors": ["yellow"],
+			"price": "1,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10064",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP08/hY06-010_SY.png",
+			"cardType": "Cheer"
 		}
 	]
 }

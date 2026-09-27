@@ -8468,6 +8468,144 @@
 			"officialName": "Nakiri Ayame",
 			"officialImage": "/wp-content/images/cardlist/hBP06/EN_hSD02-002_C02.png",
 			"illustrator": "たまやい"
+		},
+		{
+			"set": "hbp06",
+			"setLabel": "hBP06",
+			"rarity": "SY",
+			"number": "hY01-010",
+			"name": "白エール(ラオーラ・パンテーラ)",
+			"nameEn": "White Cheer (Raora Panthera)",
+			"talents": ["raora"],
+			"colors": ["white"],
+			"price": "1,280 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10047",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP06/hY01-010_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp06",
+			"setLabel": "hBP06",
+			"rarity": "SY",
+			"number": "hY02-008",
+			"name": "緑エール(儒烏風亭らでん)",
+			"nameEn": "Green Cheer (Juufuutei Raden)",
+			"talents": ["raden"],
+			"colors": ["green"],
+			"price": "2,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 2480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10048",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP06/hY02-008_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp06",
+			"setLabel": "hBP06",
+			"rarity": "SY",
+			"number": "hY03-013",
+			"name": "赤エール(一条莉々華)",
+			"nameEn": "Red Cheer (Ichijou Ririka)",
+			"talents": ["ririka"],
+			"colors": ["red"],
+			"price": "1,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10049",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP06/hY03-013_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp06",
+			"setLabel": "hBP06",
+			"rarity": "SY",
+			"number": "hY04-010",
+			"name": "青エール(ムーナ・ホシノヴァ)",
+			"nameEn": "Blue Cheer (Moona Hoshinova)",
+			"talents": ["moona"],
+			"colors": ["blue"],
+			"price": "980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10050",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP06/hY04-010_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp06",
+			"setLabel": "hBP06",
+			"rarity": "SY",
+			"number": "hY05-008",
+			"name": "紫エール(ロボ子さん)",
+			"nameEn": "Purple Cheer (Roboco-san)",
+			"talents": ["roboco"],
+			"colors": ["purple"],
+			"price": "1,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10051",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP06/hY05-008_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "hbp06",
+			"setLabel": "hBP06",
+			"rarity": "SY",
+			"number": "hY06-007",
+			"name": "黄エール(夏色まつり)",
+			"nameEn": "Yellow Cheer (Natsuiro Matsuri)",
+			"talents": ["matsuri"],
+			"colors": ["yellow"],
+			"price": "1,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10052",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP06/hY06-007_SY.png",
+			"cardType": "Cheer"
 		}
 	]
 }

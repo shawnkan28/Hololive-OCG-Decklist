@@ -6129,6 +6129,150 @@
 			"inStock": true,
 			"url": "https://yuyu-tei.jp/sell/hocg/card/heb01/10190",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hSD08-007_C_02.png"
+		},
+		{
+			"set": "heb01",
+			"setLabel": "hEB01",
+			"rarity": "SY",
+			"number": "hY01-014",
+			"name": "白エール(IRyS)",
+			"nameEn": "White Cheer (IRyS)",
+			"talents": ["irys"],
+			"colors": ["white"],
+			"price": "1,780 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "4 点",
+			"stockCount": 4,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10071",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hY01-014_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "heb01",
+			"setLabel": "hEB01",
+			"rarity": "SY",
+			"number": "hY02-012",
+			"name": "緑エール(パヴォリア・レイネ)",
+			"nameEn": "Green Cheer (Pavolia Reine)",
+			"talents": ["reine"],
+			"colors": ["green"],
+			"price": "1,280 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10072",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hY02-012_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "heb01",
+			"setLabel": "hEB01",
+			"rarity": "SY",
+			"number": "hY03-016",
+			"name": "赤エール(小鳥遊キアラ)",
+			"nameEn": "Red Cheer (Takanashi Kiara)",
+			"talents": ["kiara"],
+			"colors": ["red"],
+			"price": "1,280 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "4 点",
+			"stockCount": 4,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10073",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hY03-016_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "heb01",
+			"setLabel": "hEB01",
+			"rarity": "SY",
+			"number": "hY04-013",
+			"name": "青エール(水宮枢)",
+			"nameEn": "Blue Cheer (Mizumiya Su)",
+			"talents": ["su"],
+			"colors": ["blue"],
+			"price": "3,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10074",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hY04-013_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "heb01",
+			"setLabel": "hEB01",
+			"rarity": "SY",
+			"number": "hY05-011",
+			"name": "紫エール(綺々羅々ヴィヴィ)",
+			"nameEn": "Purple Cheer (Kikirara Vivi)",
+			"talents": ["vivi"],
+			"colors": ["purple"],
+			"price": "2,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 2480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10075",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hY05-011_SY.png",
+			"cardType": "Cheer"
+		},
+		{
+			"set": "heb01",
+			"setLabel": "hEB01",
+			"rarity": "SY",
+			"number": "hY06-011",
+			"name": "黄エール(戌神ころね)",
+			"nameEn": "Yellow Cheer (Inugami Korone)",
+			"talents": ["korone"],
+			"colors": ["yellow"],
+			"price": "2,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 2480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/yell01/10076",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hY06-011_SY.png",
+			"cardType": "Cheer"
 		}
 	]
 }
