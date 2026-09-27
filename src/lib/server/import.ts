@@ -77,8 +77,6 @@ export function importIfEmpty(db: DB) {
 		for (const setName of setList) {
 			const cardList = cards.get(setName);
 			if (cardList) {
-				// TODO: Partially done
-				console.log(setName);
 				insertAll(
 					db,
 					'INSERT INTO cards (set_id, rarity, card_number, name_jp, name_en, url_yyt, url_img, card_type) VALUES (@set, @rarity, @number, @name, @nameEn, @url, @image, @cardType)',

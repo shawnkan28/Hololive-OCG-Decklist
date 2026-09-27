@@ -233,36 +233,12 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/s/special/7/"
 		},
 		{
-			"code": "promo-hbd24",
-			"label": "hBD24",
-			"name": "ホロライブ Birthday 24",
-			"nameEn": "Hololive Birthday 24",
-			"color": "#f472b6",
-			"url": "https://yuyu-tei.jp/sell/hocg/s/promo-hbd20"
-		},
-		{
-			"code": "promo-heb10",
-			"label": "hEB01–hEB10",
-			"name": "プロモーション hEB01～hEB10",
-			"nameEn": "Promo hEB01–hEB10",
-			"color": "#38bdf8",
-			"url": "https://yuyu-tei.jp/sell/hocg/s/promo-heb10"
-		},
-		{
-			"code": "promo-hbp10",
-			"label": "hBP01–hBP10",
-			"name": "プロモーション hBP01～hBP10",
-			"nameEn": "Promo hBP01–hBP10",
-			"color": "#3b82f6",
-			"url": "https://yuyu-tei.jp/sell/hocg/s/promo-hbp10"
-		},
-		{
-			"code": "promo-100",
-			"label": "hPR-001–hPR-100",
-			"name": "プロモーション hPR-001～hPR-100",
-			"nameEn": "Promo hPR-001–hPR-100",
+			"code": "P",
+			"label": "Promotional cards",
+			"name": "Promotional cards",
+			"nameEn": "Promotional cards",
 			"color": "#f59e0b",
-			"url": "https://yuyu-tei.jp/sell/hocg/s/promo-100"
+			"url": ""
 		},
 		{
 			"code": "yell01",
@@ -281,7 +257,7 @@
 		{ "code": "SR", "color": "#2980b9", "id": 10, "name": "Super Rare" },
 		{ "code": "S", "color": "#27ae60", "id": 9, "name": "Special" },
 		{ "code": "SY", "color": "#16a085", "id": 8, "name": "Symphony" },
-		{ "code": "OSR", "color": "#16a085", "id": 7, "name": "Oshi Special Rare"},
+		{ "code": "OSR", "color": "#16a085", "id": 7, "name": "Oshi Special Rare" },
 		{ "code": "OC", "color": "#1abc9c", "id": 6, "name": "Oshi Common" },
 		{ "code": "RR", "color": "#7f8c8d", "id": 5, "name": "Double Rare" },
 		{ "code": "R", "color": "#95a5a6", "id": 4, "name": "Rare" },
