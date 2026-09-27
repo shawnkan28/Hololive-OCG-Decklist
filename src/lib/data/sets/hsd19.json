@@ -15,12 +15,8 @@
 			"number": "hSD19-001",
 			"name": "大空スバル",
 			"nameEn": "Oozora Subaru",
-			"talents": [
-				"subaru"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["subaru"],
+			"colors": ["yellow"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD19-009",
 			"name": "大空スバル",
 			"nameEn": "Oozora Subaru",
-			"talents": [
-				"subaru"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["subaru"],
+			"colors": ["yellow"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -76,16 +68,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd19/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD19/hSD19-009_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#2期生",
-				"#トリ"
-			],
+			"tags": ["#JP", "#2期生", "#トリ"],
 			"hp": 180,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "ダンシング・プレアデス　80+\n自分のライフが2以下なら、このアーツ+10。"
@@ -103,12 +89,8 @@
 			"number": "hSD19-008",
 			"name": "大空スバル",
 			"nameEn": "Oozora Subaru",
-			"talents": [
-				"subaru"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["subaru"],
+			"colors": ["yellow"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -123,16 +105,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd19/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD19/hSD19-008_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#2期生",
-				"#トリ"
-			],
+			"tags": ["#JP", "#2期生", "#トリ"],
 			"hp": 150,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "萌え萌えギュン　20+\n[コラボポジション限定]相手のステージに2ndホロメンがいるなら、このアーツ+20。"
@@ -150,12 +126,8 @@
 			"number": "hSD19-005",
 			"name": "大空スバル",
 			"nameEn": "Oozora Subaru",
-			"talents": [
-				"subaru"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["subaru"],
+			"colors": ["yellow"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -170,16 +142,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd19/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD19/hSD19-005_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#2期生",
-				"#トリ"
-			],
+			"tags": ["#JP", "#2期生", "#トリ"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "いっちにー、ホワッ、ホワッ！　20"
@@ -197,12 +163,8 @@
 			"number": "hSD19-007",
 			"name": "大空スバル",
 			"nameEn": "Oozora Subaru",
-			"talents": [
-				"subaru"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["subaru"],
+			"colors": ["yellow"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -217,16 +179,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd19/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD19/hSD19-007_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#2期生",
-				"#トリ"
-			],
+			"tags": ["#JP", "#2期生", "#トリ"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "忘れてなんかやるもんか　30+\nこのホロメンにエールが2枚以上付いているなら、このアーツ+20。"
@@ -273,12 +229,8 @@
 			"number": "hSD19-002",
 			"name": "大空スバル",
 			"nameEn": "Oozora Subaru",
-			"talents": [
-				"subaru"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["subaru"],
+			"colors": ["yellow"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -293,16 +245,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd19/10002",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD19/hSD19-002_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#2期生",
-				"#トリ"
-			],
+			"tags": ["#JP", "#2期生", "#トリ"],
 			"hp": 90,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "あじまるあじまる～　10"
@@ -320,12 +266,8 @@
 			"number": "hSD19-003",
 			"name": "大空スバル",
 			"nameEn": "Oozora Subaru",
-			"talents": [
-				"subaru"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["subaru"],
+			"colors": ["yellow"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -340,16 +282,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd19/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD19/hSD19-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#2期生",
-				"#トリ"
-			],
+			"tags": ["#JP", "#2期生", "#トリ"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "今日もあなたのそばに -スバル-　20+\n自分のライフが2以下なら、このアーツ+10。"
@@ -366,12 +302,8 @@
 			"number": "hSD19-004",
 			"name": "大空スバル",
 			"nameEn": "Oozora Subaru",
-			"talents": [
-				"subaru"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["subaru"],
+			"colors": ["yellow"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -386,16 +318,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd19/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD19/hSD19-004_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#2期生",
-				"#トリ"
-			],
+			"tags": ["#JP", "#2期生", "#トリ"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "しゅばぁ　20"
@@ -413,12 +339,8 @@
 			"number": "hSD19-006",
 			"name": "大空スバル",
 			"nameEn": "Oozora Subaru",
-			"talents": [
-				"subaru"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["subaru"],
+			"colors": ["yellow"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -433,16 +355,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd19/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD19/hSD19-006_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#2期生",
-				"#トリ"
-			],
+			"tags": ["#JP", "#2期生", "#トリ"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "いっぱい頑張る！　20"
@@ -479,9 +395,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd19/10010",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD19/hSD19-010_C.png",
 			"cardType": "Support・Event",
-			"tags": [
-				"#食べ物"
-			],
+			"tags": ["#食べ物"],
 			"abilityText": "自分のホロメンのHP30回復。",
 			"officialId": 2128,
 			"officialName": "ごきげんカレー",

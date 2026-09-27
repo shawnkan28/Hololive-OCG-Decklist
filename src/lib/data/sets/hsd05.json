@@ -15,12 +15,8 @@
 			"number": "hSD05-001",
 			"name": "轟はじめ",
 			"nameEn": "Todoroki Hajime",
-			"talents": [
-				"hajime"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["hajime"],
+			"colors": ["white"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD05-009",
 			"name": "轟はじめ",
 			"nameEn": "Todoroki Hajime",
-			"talents": [
-				"hajime"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["hajime"],
+			"colors": ["white"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -76,16 +68,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-009_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#ReGLOSS",
-				"#Baby"
-			],
+			"tags": ["#DEV_IS", "#ReGLOSS", "#Baby"],
 			"hp": 180,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Thunder of Deep Purple　80+\nIf your stage has a holomem with #ReGLOSS other than 〈Todoroki Hajime〉, this Arts gets+30."
@@ -103,12 +89,8 @@
 			"number": "hSD05-008",
 			"name": "轟はじめ",
 			"nameEn": "Todoroki Hajime",
-			"talents": [
-				"hajime"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["hajime"],
+			"colors": ["white"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -123,16 +105,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-008_R.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#DEV_IS",
-				"#ReGLOSS",
-				"#Baby"
-			],
+			"tags": ["#DEV_IS", "#ReGLOSS", "#Baby"],
 			"hp": 230,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "……I'm Starting to Look Like a Real Badass!　50\nDuring this turn, 1 Debut holomem with #ReGLOSS on your stage gets Arts+40."
@@ -176,12 +152,8 @@
 			"number": "hSD05-004",
 			"name": "轟はじめ",
 			"nameEn": "Todoroki Hajime",
-			"talents": [
-				"hajime"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["hajime"],
+			"colors": ["white"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -196,16 +168,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-004_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#ReGLOSS",
-				"#Baby"
-			],
+			"tags": ["#DEV_IS", "#ReGLOSS", "#Baby"],
 			"hp": 120,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "ReGLOSS's resident badass　40"
@@ -223,12 +189,8 @@
 			"number": "hSD05-007",
 			"name": "轟はじめ",
 			"nameEn": "Todoroki Hajime",
-			"talents": [
-				"hajime"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["hajime"],
+			"colors": ["white"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -243,16 +205,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-007_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#ReGLOSS",
-				"#Baby"
-			],
+			"tags": ["#DEV_IS", "#ReGLOSS", "#Baby"],
 			"hp": 120,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Guts, Charm, and Being the Best　20"
@@ -269,12 +225,8 @@
 			"number": "hSD05-010",
 			"name": "儒烏風亭らでん",
 			"nameEn": "Juufuutei Raden",
-			"talents": [
-				"raden"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["raden"],
+			"colors": ["green"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -289,16 +241,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10010",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-010_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#ReGLOSS",
-				"#Alcohol"
-			],
+			"tags": ["#DEV_IS", "#ReGLOSS", "#Alcohol"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Lemme have a word　20\nYou may send 1 cheer from your archive to your holomem with #ReGLOSS."
@@ -316,12 +262,8 @@
 			"number": "hSD05-011",
 			"name": "一条莉々華",
 			"nameEn": "Ichijou Ririka",
-			"talents": [
-				"ririka"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ririka"],
+			"colors": ["red"],
 			"price": "280 円",
 			"marketprice": [
 				{
@@ -336,16 +278,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10011",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-011_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#ReGLOSS",
-				"#Cooking"
-			],
+			"tags": ["#DEV_IS", "#ReGLOSS", "#Cooking"],
 			"hp": 70,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "President's Oshi Duties　20"
@@ -363,12 +299,8 @@
 			"number": "hSD05-012",
 			"name": "火威青",
 			"nameEn": "Hiodoshi Ao",
-			"talents": [
-				"ao"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["ao"],
+			"colors": ["blue"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -383,16 +315,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10012",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-012_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#ReGLOSS",
-				"#Painting"
-			],
+			"tags": ["#DEV_IS", "#ReGLOSS", "#Painting"],
 			"hp": 70,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "You're the cutest in the world　20"
@@ -410,12 +336,8 @@
 			"number": "hSD05-013",
 			"name": "音乃瀬奏",
 			"nameEn": "Otonose Kanade",
-			"talents": [
-				"kanade"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["kanade"],
+			"colors": ["yellow"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -430,16 +352,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10013",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-013_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#ReGLOSS",
-				"#Singing"
-			],
+			"tags": ["#DEV_IS", "#ReGLOSS", "#Singing"],
 			"hp": 90,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Gahaha　20"
@@ -457,12 +373,8 @@
 			"number": "hSD05-002",
 			"name": "轟はじめ",
 			"nameEn": "Todoroki Hajime",
-			"talents": [
-				"hajime"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["hajime"],
+			"colors": ["white"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -477,16 +389,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10002",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-002_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#ReGLOSS",
-				"#Baby"
-			],
+			"tags": ["#DEV_IS", "#ReGLOSS", "#Baby"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Vroom, vroom, vroom!　30"
@@ -504,12 +410,8 @@
 			"number": "hSD05-003",
 			"name": "轟はじめ",
 			"nameEn": "Todoroki Hajime",
-			"talents": [
-				"hajime"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["hajime"],
+			"colors": ["white"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -524,16 +426,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#ReGLOSS",
-				"#Baby"
-			],
+			"tags": ["#DEV_IS", "#ReGLOSS", "#Baby"],
 			"hp": 60,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Stylish Badass　30"
@@ -551,12 +447,8 @@
 			"number": "hSD05-005",
 			"name": "轟はじめ",
 			"nameEn": "Todoroki Hajime",
-			"talents": [
-				"hajime"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["hajime"],
+			"colors": ["white"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -571,16 +463,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-005_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#ReGLOSS",
-				"#Baby"
-			],
+			"tags": ["#DEV_IS", "#ReGLOSS", "#Baby"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "YOROSHIKU!　40"
@@ -601,12 +487,8 @@
 			"number": "hSD05-006",
 			"name": "轟はじめ",
 			"nameEn": "Todoroki Hajime",
-			"talents": [
-				"hajime"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["hajime"],
+			"colors": ["white"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -621,16 +503,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-006_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#ReGLOSS",
-				"#Baby"
-			],
+			"tags": ["#DEV_IS", "#ReGLOSS", "#Baby"],
 			"hp": 100,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Light-Footed Todoroki Hajime　30"

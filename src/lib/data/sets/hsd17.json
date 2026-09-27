@@ -15,12 +15,8 @@
 			"number": "hSD17-001",
 			"name": "星街すいせい",
 			"nameEn": "Hoshimachi Suisei",
-			"talents": [
-				"suisei"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["suisei"],
+			"colors": ["blue"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD17-009",
 			"name": "星街すいせい",
 			"nameEn": "Hoshimachi Suisei",
-			"talents": [
-				"suisei"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["suisei"],
+			"colors": ["blue"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -76,16 +68,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-009_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#歌"
-			],
+			"tags": ["#JP", "#0期生", "#歌"],
 			"hp": 170,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "キラキラの向こう側へ　110"
@@ -103,12 +89,8 @@
 			"number": "hSD17-008",
 			"name": "星街すいせい",
 			"nameEn": "Hoshimachi Suisei",
-			"talents": [
-				"suisei"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["suisei"],
+			"colors": ["blue"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -123,16 +105,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-008_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#歌"
-			],
+			"tags": ["#JP", "#0期生", "#歌"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "あなたの一番星　40\n相手のバックホロメン1人に特殊ダメージ10を与える。"
@@ -150,12 +126,8 @@
 			"number": "hSD17-005",
 			"name": "星街すいせい",
 			"nameEn": "Hoshimachi Suisei",
-			"talents": [
-				"suisei"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["suisei"],
+			"colors": ["blue"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -170,16 +142,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-005_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#歌"
-			],
+			"tags": ["#JP", "#0期生", "#歌"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "よーし、レッスン開始だー！　20\n相手のバックホロメン1人に特殊ダメージ10を与える。"
@@ -197,12 +163,8 @@
 			"number": "hSD17-007",
 			"name": "星街すいせい",
 			"nameEn": "Hoshimachi Suisei",
-			"talents": [
-				"suisei"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["suisei"],
+			"colors": ["blue"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -217,16 +179,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-007_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#歌"
-			],
+			"tags": ["#JP", "#0期生", "#歌"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "バレンタイン……か……　30"
@@ -273,12 +229,8 @@
 			"number": "hSD17-002",
 			"name": "星街すいせい",
 			"nameEn": "Hoshimachi Suisei",
-			"talents": [
-				"suisei"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["suisei"],
+			"colors": ["blue"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -293,16 +245,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10002",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-002_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#歌"
-			],
+			"tags": ["#JP", "#0期生", "#歌"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "バーチャルアイドル・星街すいせい　20"
@@ -320,12 +266,8 @@
 			"number": "hSD17-003",
 			"name": "星街すいせい",
 			"nameEn": "Hoshimachi Suisei",
-			"talents": [
-				"suisei"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["suisei"],
+			"colors": ["blue"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -340,16 +282,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#歌"
-			],
+			"tags": ["#JP", "#0期生", "#歌"],
 			"hp": 70,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "今日もあなたのそばに -すいせい-　30"
@@ -366,12 +302,8 @@
 			"number": "hSD17-004",
 			"name": "星街すいせい",
 			"nameEn": "Hoshimachi Suisei",
-			"talents": [
-				"suisei"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["suisei"],
+			"colors": ["blue"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -386,16 +318,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-004_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#歌"
-			],
+			"tags": ["#JP", "#0期生", "#歌"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "私だけの輝き　20"
@@ -413,12 +339,8 @@
 			"number": "hSD17-006",
 			"name": "星街すいせい",
 			"nameEn": "Hoshimachi Suisei",
-			"talents": [
-				"suisei"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["suisei"],
+			"colors": ["blue"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -433,16 +355,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-006_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#歌"
-			],
+			"tags": ["#JP", "#0期生", "#歌"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "そろそろ始まるよ！　30"

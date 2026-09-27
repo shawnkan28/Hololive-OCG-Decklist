@@ -15,12 +15,8 @@
 			"number": "hY01-003",
 			"name": "白エール(白上フブキ)",
 			"nameEn": "White Cheer (Shirakami Fubuki)",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "2,980 円",
 			"marketprice": [
 				{
@@ -42,12 +38,8 @@
 			"number": "hY01-004",
 			"name": "白エール(姫森ルーナ)",
 			"nameEn": "White Cheer (Himemori Luna)",
-			"talents": [
-				"luna"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["luna"],
+			"colors": ["white"],
 			"price": "1,480 円",
 			"marketprice": [
 				{
@@ -69,12 +61,8 @@
 			"number": "hY01-006",
 			"name": "白エール(博衣こより)",
 			"nameEn": "White Cheer (Hakui Koyori)",
-			"talents": [
-				"koyori"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["koyori"],
+			"colors": ["white"],
 			"price": "2,480 円",
 			"marketprice": [
 				{
@@ -96,12 +84,8 @@
 			"number": "hY01-007",
 			"name": "白エール(兎田ぺこら)",
 			"nameEn": "White Cheer (Usada Pekora)",
-			"talents": [
-				"pekora"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["pekora"],
+			"colors": ["white"],
 			"price": "1,780 円",
 			"marketprice": [
 				{
@@ -123,12 +107,8 @@
 			"number": "hY01-010",
 			"name": "白エール(ラオーラ・パンテーラ)",
 			"nameEn": "White Cheer (Raora Panthera)",
-			"talents": [
-				"raora"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["raora"],
+			"colors": ["white"],
 			"price": "1,280 円",
 			"marketprice": [
 				{
@@ -150,12 +130,8 @@
 			"number": "hY01-012",
 			"name": "白エール(白銀ノエル)",
 			"nameEn": "White Cheer (Shirogane Noel)",
-			"talents": [
-				"noel"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["noel"],
+			"colors": ["white"],
 			"price": "1,780 円",
 			"marketprice": [
 				{
@@ -177,12 +153,8 @@
 			"number": "hY01-013",
 			"name": "白エール(ときのそら)",
 			"nameEn": "White Cheer (Tokino Sora)",
-			"talents": [
-				"sora"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["sora"],
+			"colors": ["white"],
 			"price": "1,980 円",
 			"marketprice": [
 				{
@@ -204,12 +176,8 @@
 			"number": "hY01-14",
 			"name": "白エール(IRyS)",
 			"nameEn": "White Cheer (IRyS)",
-			"talents": [
-				"irys"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["irys"],
+			"colors": ["white"],
 			"price": "1,780 円",
 			"marketprice": [
 				{
@@ -232,12 +200,8 @@
 			"number": "hY02-002",
 			"name": "緑エール(大神ミオ)",
 			"nameEn": "Green Cheer (Ookami Mio)",
-			"talents": [
-				"mio"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["mio"],
+			"colors": ["green"],
 			"price": "2,980 円",
 			"marketprice": [
 				{
@@ -260,12 +224,8 @@
 			"number": "hY02-003",
 			"name": "緑エール(風真いろは)",
 			"nameEn": "Green Cheer (Kazama Iroha)",
-			"talents": [
-				"iroha"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["iroha"],
+			"colors": ["green"],
 			"price": "3,980 円",
 			"marketprice": [
 				{
@@ -287,12 +247,8 @@
 			"number": "hY02-005",
 			"name": "緑エール(アキ・ローゼンタール)",
 			"nameEn": "Green Cheer (Aki Rosenthal)",
-			"talents": [
-				"aki"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["aki"],
+			"colors": ["green"],
 			"price": "1,480 円",
 			"marketprice": [
 				{
@@ -314,12 +270,8 @@
 			"number": "hY02-006",
 			"name": "緑エール(AZKi)",
 			"nameEn": "Green Cheer (AZKi)",
-			"talents": [
-				"azki"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["azki"],
+			"colors": ["green"],
 			"price": "1,980 円",
 			"marketprice": [
 				{
@@ -341,12 +293,8 @@
 			"number": "hY02-008",
 			"name": "緑エール(儒烏風亭らでん)",
 			"nameEn": "Green Cheer (Juufuutei Raden)",
-			"talents": [
-				"raden"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["raden"],
+			"colors": ["green"],
 			"price": "2,480 円",
 			"marketprice": [
 				{
@@ -368,12 +316,8 @@
 			"number": "hY02-010",
 			"name": "緑エール(輪堂千速)",
 			"nameEn": "Green Cheer (Wado Chisato)",
-			"talents": [
-				"chisato"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["chisato"],
+			"colors": ["green"],
 			"price": "2,980 円",
 			"marketprice": [
 				{
@@ -396,12 +340,8 @@
 			"number": "hY02-011",
 			"name": "緑エール(アイラニ・イオフィフティーン)",
 			"nameEn": "Green Cheer (Airani Iofifteen)",
-			"talents": [
-				"iofi"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["iofi"],
+			"colors": ["green"],
 			"price": "1,280 円",
 			"marketprice": [
 				{
@@ -423,12 +363,8 @@
 			"number": "hY02-12",
 			"name": "緑エール(パヴォリア・レイネ)",
 			"nameEn": "Green Cheer (Pavolia Reine)",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "1,280 円",
 			"marketprice": [
 				{
@@ -451,12 +387,8 @@
 			"number": "hY03-002",
 			"name": "赤エール(宝鐘マリン)",
 			"nameEn": "Red Cheer (Houshou Marine)",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "2,980 円",
 			"marketprice": [
 				{
@@ -478,12 +410,8 @@
 			"number": "hY03-003",
 			"name": "赤エール(さくらみこ)",
 			"nameEn": "Red Cheer (Sakura Miko)",
-			"talents": [
-				"miko"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["miko"],
+			"colors": ["red"],
 			"price": "2,980 円",
 			"marketprice": [
 				{
@@ -505,12 +433,8 @@
 			"number": "hY03-004",
 			"name": "赤エール(鷹嶺ルイ)",
 			"nameEn": "Red Cheer (Takane Lui)",
-			"talents": [
-				"lui"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["lui"],
+			"colors": ["red"],
 			"price": "1,980 円",
 			"marketprice": [
 				{
@@ -532,12 +456,8 @@
 			"number": "hY03-009",
 			"name": "赤エール(百鬼あやめ)",
 			"nameEn": "Red Cheer (Nakiri Ayame)",
-			"talents": [
-				"ayame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ayame"],
+			"colors": ["red"],
 			"price": "3,480 円",
 			"marketprice": [
 				{
@@ -559,12 +479,8 @@
 			"number": "hY03-013",
 			"name": "赤エール(一条莉々華)",
 			"nameEn": "Red Cheer (Ichijou Ririka)",
-			"talents": [
-				"ririka"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ririka"],
+			"colors": ["red"],
 			"price": "1,480 円",
 			"marketprice": [
 				{
@@ -586,12 +502,8 @@
 			"number": "hY03-014",
 			"name": "赤エール(尾丸ポルカ)",
 			"nameEn": "Red Cheer (Omaru Polka)",
-			"talents": [
-				"polka"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["polka"],
+			"colors": ["red"],
 			"price": "1,980 円",
 			"marketprice": [
 				{
@@ -614,12 +526,8 @@
 			"number": "hY03-015",
 			"name": "赤エール(モココ・アビスガード)",
 			"nameEn": "Red Cheer (Mococo Abyssgard)",
-			"talents": [
-				"mococo"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["mococo"],
+			"colors": ["red"],
 			"price": "2,980 円",
 			"marketprice": [
 				{
@@ -642,12 +550,8 @@
 			"number": "hY03-16",
 			"name": "赤エール(小鳥遊キアラ)",
 			"nameEn": "Red Cheer (Takanashi Kiara)",
-			"talents": [
-				"kiara"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["kiara"],
+			"colors": ["red"],
 			"price": "1,280 円",
 			"marketprice": [
 				{
@@ -670,12 +574,8 @@
 			"number": "hY04-002",
 			"name": "青エール(沙花叉クロヱ)",
 			"nameEn": "Blue Cheer (Sakamata Chloe)",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "2,480 円",
 			"marketprice": [
 				{
@@ -697,12 +597,8 @@
 			"number": "hY04-003",
 			"name": "青エール(星街すいせい)",
 			"nameEn": "Blue Cheer (Hoshimachi Suisei)",
-			"talents": [
-				"suisei"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["suisei"],
+			"colors": ["blue"],
 			"price": "3,980 円",
 			"marketprice": [
 				{
@@ -724,12 +620,8 @@
 			"number": "hY04-005",
 			"name": "青エール(雪花ラミィ)",
 			"nameEn": "Blue Cheer (Yukihana Lamy)",
-			"talents": [
-				"lamy"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["lamy"],
+			"colors": ["blue"],
 			"price": "2,980 円",
 			"marketprice": [
 				{
@@ -752,12 +644,8 @@
 			"number": "hY04-006",
 			"name": "青エール(猫又おかゆ)",
 			"nameEn": "Blue Cheer (Nekomata Okayu)",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "1,980 円",
 			"marketprice": [
 				{
@@ -779,12 +667,8 @@
 			"number": "hY04-010",
 			"name": "青エール(ムーナ・ホシノヴァ)",
 			"nameEn": "Blue Cheer (Moona Hoshinova)",
-			"talents": [
-				"moona"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["moona"],
+			"colors": ["blue"],
 			"price": "980 円",
 			"marketprice": [
 				{
@@ -806,12 +690,8 @@
 			"number": "hY04-011",
 			"name": "青エール(こぼ・かなえる)",
 			"nameEn": "Blue Cheer (Kobo Kanaeru)",
-			"talents": [
-				"kobo"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["kobo"],
+			"colors": ["blue"],
 			"price": "1,280 円",
 			"marketprice": [
 				{
@@ -834,12 +714,8 @@
 			"number": "hY04-012",
 			"name": "青エール(フワワ・アビスガード)",
 			"nameEn": "Blue Cheer (Fuwawa Abyssgard)",
-			"talents": [
-				"fuwawa"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["fuwawa"],
+			"colors": ["blue"],
 			"price": "2,480 円",
 			"marketprice": [
 				{
@@ -861,12 +737,8 @@
 			"number": "hY04-13",
 			"name": "青エール(水宮枢)",
 			"nameEn": "Blue Cheer (Mizumiya Su)",
-			"talents": [
-				"su"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["su"],
+			"colors": ["blue"],
 			"price": "3,480 円",
 			"marketprice": [
 				{
@@ -889,12 +761,8 @@
 			"number": "hY05-002",
 			"name": "紫エール(紫咲シオン)",
 			"nameEn": "Purple Cheer (Murasaki Shion)",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["shion"],
+			"colors": ["purple"],
 			"price": "1,780 円",
 			"marketprice": [
 				{
@@ -916,12 +784,8 @@
 			"number": "hY05-003",
 			"name": "紫エール(常闇トワ)",
 			"nameEn": "Purple Cheer (Tokoyami Towa)",
-			"talents": [
-				"towa"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["towa"],
+			"colors": ["purple"],
 			"price": "2,980 円",
 			"marketprice": [
 				{
@@ -943,12 +807,8 @@
 			"number": "hY05-004",
 			"name": "紫エール(ラプラス・ダークネス)",
 			"nameEn": "Purple Cheer (La+ Darknesss)",
-			"talents": [
-				"laplus"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["laplus"],
+			"colors": ["purple"],
 			"price": "2,980 円",
 			"marketprice": [
 				{
@@ -970,12 +830,8 @@
 			"number": "hY05-005",
 			"name": "紫エール(癒月ちょこ)",
 			"nameEn": "Purple Cheer (Yuzuki Choco)",
-			"talents": [
-				"choco"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["choco"],
+			"colors": ["purple"],
 			"price": "1,480 円",
 			"marketprice": [
 				{
@@ -998,12 +854,8 @@
 			"number": "hY05-008",
 			"name": "紫エール(ロボ子さん)",
 			"nameEn": "Purple Cheer (Roboco-san)",
-			"talents": [
-				"roboco"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["roboco"],
+			"colors": ["purple"],
 			"price": "1,480 円",
 			"marketprice": [
 				{
@@ -1026,9 +878,7 @@
 			"name": "紫エール(古石ビジュー)",
 			"nameEn": "Purple Cheer (古石ビジュー)",
 			"talents": [],
-			"colors": [
-				"purple"
-			],
+			"colors": ["purple"],
 			"price": "1,780 円",
 			"marketprice": [
 				{
@@ -1050,12 +900,8 @@
 			"number": "hY05-010",
 			"name": "紫エール(森カリオペ)",
 			"nameEn": "Purple Cheer (Mori Calliope)",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "1,780 円",
 			"marketprice": [
 				{
@@ -1078,12 +924,8 @@
 			"number": "hY05-11",
 			"name": "紫エール(綺々羅々ヴィヴィ)",
 			"nameEn": "Purple Cheer (Kikirara Vivi)",
-			"talents": [
-				"vivi"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["vivi"],
+			"colors": ["purple"],
 			"price": "2,480 円",
 			"marketprice": [
 				{
@@ -1106,12 +948,8 @@
 			"number": "hY06-002",
 			"name": "黄エール(角巻わため)",
 			"nameEn": "Yellow Cheer (Tsunomaki Watame)",
-			"talents": [
-				"watame"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["watame"],
+			"colors": ["yellow"],
 			"price": "2,780 円",
 			"marketprice": [
 				{
@@ -1134,12 +972,8 @@
 			"number": "hY06-004",
 			"name": "黄エール(大空スバル)",
 			"nameEn": "Yellow Cheer (Oozora Subaru)",
-			"talents": [
-				"subaru"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["subaru"],
+			"colors": ["yellow"],
 			"price": "2,980 円",
 			"marketprice": [
 				{
@@ -1161,12 +995,8 @@
 			"number": "hY06-005",
 			"name": "黄エール(不知火フレア)",
 			"nameEn": "Yellow Cheer (Shiranui Flare)",
-			"talents": [
-				"flare"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["flare"],
+			"colors": ["yellow"],
 			"price": "1,780 円",
 			"marketprice": [
 				{
@@ -1189,12 +1019,8 @@
 			"number": "hY06-007",
 			"name": "黄エール(夏色まつり)",
 			"nameEn": "Yellow Cheer (Natsuiro Matsuri)",
-			"talents": [
-				"matsuri"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["matsuri"],
+			"colors": ["yellow"],
 			"price": "1,480 円",
 			"marketprice": [
 				{
@@ -1216,12 +1042,8 @@
 			"number": "hY06-009",
 			"name": "黄エール(桃鈴ねね)",
 			"nameEn": "Yellow Cheer (Momosuzu Nene)",
-			"talents": [
-				"nene"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["nene"],
+			"colors": ["yellow"],
 			"price": "2,480 円",
 			"marketprice": [
 				{
@@ -1244,9 +1066,7 @@
 			"name": "黄エール(虎金妃笑虎)",
 			"nameEn": "Yellow Cheer (虎金妃笑虎)",
 			"talents": [],
-			"colors": [
-				"yellow"
-			],
+			"colors": ["yellow"],
 			"price": "1,480 円",
 			"marketprice": [
 				{
@@ -1269,12 +1089,8 @@
 			"number": "hY06-11",
 			"name": "黄エール(戌神ころね)",
 			"nameEn": "Yellow Cheer (Inugami Korone)",
-			"talents": [
-				"korone"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["korone"],
+			"colors": ["yellow"],
 			"price": "2,480 円",
 			"marketprice": [
 				{
@@ -1298,9 +1114,7 @@
 			"name": "白エール(S仕様)",
 			"nameEn": "White Cheer (S仕様)",
 			"talents": [],
-			"colors": [
-				"white"
-			],
+			"colors": ["white"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -1323,9 +1137,7 @@
 			"name": "緑エール(S仕様)",
 			"nameEn": "Green Cheer (S仕様)",
 			"talents": [],
-			"colors": [
-				"green"
-			],
+			"colors": ["green"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -1348,9 +1160,7 @@
 			"name": "赤エール(S仕様)",
 			"nameEn": "Red Cheer (S仕様)",
 			"talents": [],
-			"colors": [
-				"red"
-			],
+			"colors": ["red"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -1373,9 +1183,7 @@
 			"name": "青エール(ホロナツパラダイスver.)",
 			"nameEn": "Blue Cheer (ホロナツパラダイスver.)",
 			"talents": [],
-			"colors": [
-				"blue"
-			],
+			"colors": ["blue"],
 			"price": "5,980 円",
 			"marketprice": [
 				{
@@ -1399,9 +1207,7 @@
 			"name": "青エール(S仕様)",
 			"nameEn": "Blue Cheer (S仕様)",
 			"talents": [],
-			"colors": [
-				"blue"
-			],
+			"colors": ["blue"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -1424,9 +1230,7 @@
 			"name": "紫エール(S仕様)",
 			"nameEn": "Purple Cheer (S仕様)",
 			"talents": [],
-			"colors": [
-				"purple"
-			],
+			"colors": ["purple"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -1449,9 +1253,7 @@
 			"name": "黄エール(S仕様)",
 			"nameEn": "Yellow Cheer (S仕様)",
 			"talents": [],
-			"colors": [
-				"yellow"
-			],
+			"colors": ["yellow"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -1474,9 +1276,7 @@
 			"name": "白エール",
 			"nameEn": "White Cheer",
 			"talents": [],
-			"colors": [
-				"white"
-			],
+			"colors": ["white"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -1499,9 +1299,7 @@
 			"name": "緑エール",
 			"nameEn": "Green Cheer",
 			"talents": [],
-			"colors": [
-				"green"
-			],
+			"colors": ["green"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -1524,9 +1322,7 @@
 			"name": "赤エール",
 			"nameEn": "Red Cheer",
 			"talents": [],
-			"colors": [
-				"red"
-			],
+			"colors": ["red"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -1549,9 +1345,7 @@
 			"name": "青エール",
 			"nameEn": "Blue Cheer",
 			"talents": [],
-			"colors": [
-				"blue"
-			],
+			"colors": ["blue"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -1574,9 +1368,7 @@
 			"name": "紫エール",
 			"nameEn": "Purple Cheer",
 			"talents": [],
-			"colors": [
-				"purple"
-			],
+			"colors": ["purple"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -1599,9 +1391,7 @@
 			"name": "黄エール",
 			"nameEn": "Yellow Cheer",
 			"talents": [],
-			"colors": [
-				"yellow"
-			],
+			"colors": ["yellow"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -1624,9 +1414,7 @@
 			"name": "白エール（魔法少女ホロウィッチ！）",
 			"nameEn": "White Cheer",
 			"talents": [],
-			"colors": [
-				"white"
-			],
+			"colors": ["white"],
 			"price": "1,280 円",
 			"marketprice": [
 				{
@@ -1648,12 +1436,8 @@
 			"number": "hY01-005",
 			"name": "白エール(白上フブキ/ SUPER EXPO 2025)",
 			"nameEn": "White Cheer (Shirakami Fubuki / SUPER EXPO 2025)",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "3,980 円",
 			"marketprice": [
 				{
@@ -1676,13 +1460,8 @@
 			"number": "hY01-009",
 			"name": "白エール(兎田ぺこら＆響咲リオナ)",
 			"nameEn": "White Cheer (Usada Pekora & Hizuka Riona)",
-			"talents": [
-				"pekora",
-				"riona"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["pekora", "riona"],
+			"colors": ["white"],
 			"price": "4,980 円",
 			"marketprice": [
 				{
@@ -1705,12 +1484,8 @@
 			"number": "hY02-004",
 			"name": "緑エール(大神ミオ/ SUPER EXPO 2025)",
 			"nameEn": "Green Cheer (Ookami Mio / SUPER EXPO 2025)",
-			"talents": [
-				"mio"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["mio"],
+			"colors": ["green"],
 			"price": "3,980 円",
 			"marketprice": [
 				{
@@ -1733,13 +1508,8 @@
 			"number": "hY02-007",
 			"name": "緑エール(星街すいせい＆風真いろは)",
 			"nameEn": "Green Cheer (Hoshimachi Suisei & Kazama Iroha)",
-			"talents": [
-				"suisei",
-				"iroha"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["suisei", "iroha"],
+			"colors": ["green"],
 			"price": "9,980 円",
 			"marketprice": [
 				{
@@ -1763,9 +1533,7 @@
 			"name": "赤エール(みこだにぇー/背景赤)",
 			"nameEn": "Red Cheer (みこだにぇー/背景赤)",
 			"talents": [],
-			"colors": [
-				"red"
-			],
+			"colors": ["red"],
 			"price": "3,480 円",
 			"marketprice": [
 				{
@@ -1789,9 +1557,7 @@
 			"name": "赤エール(みこだにぇー/背景桜)",
 			"nameEn": "Red Cheer (みこだにぇー/背景桜)",
 			"talents": [],
-			"colors": [
-				"red"
-			],
+			"colors": ["red"],
 			"price": "3,980 円",
 			"marketprice": [
 				{
@@ -1815,9 +1581,7 @@
 			"name": "赤エール(みこだにぇー/暗)",
 			"nameEn": "Red Cheer (みこだにぇー/暗)",
 			"talents": [],
-			"colors": [
-				"red"
-			],
+			"colors": ["red"],
 			"price": "3,480 円",
 			"marketprice": [
 				{
@@ -1841,9 +1605,7 @@
 			"name": "赤エール(みこだにぇー/集中線)",
 			"nameEn": "Red Cheer (みこだにぇー/集中線)",
 			"talents": [],
-			"colors": [
-				"red"
-			],
+			"colors": ["red"],
 			"price": "3,980 円",
 			"marketprice": [
 				{
@@ -1866,12 +1628,8 @@
 			"number": "hY03-011",
 			"name": "赤エール(一伊那尓栖&amp;一条莉々華)",
 			"nameEn": "Red Cheer (Ninomae Ina'nis)",
-			"talents": [
-				"inanis"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["inanis"],
+			"colors": ["red"],
 			"price": "4,980 円",
 			"marketprice": [
 				{
@@ -1894,13 +1652,8 @@
 			"number": "hY03-012",
 			"name": "赤エール(夏色まつり＆宝鐘マリン)",
 			"nameEn": "Red Cheer (Natsuiro Matsuri & Houshou Marine)",
-			"talents": [
-				"matsuri",
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["matsuri", "marine"],
+			"colors": ["red"],
 			"price": "4,980 円",
 			"marketprice": [
 				{
@@ -1923,12 +1676,8 @@
 			"number": "hY04-004",
 			"name": "青エール(猫又おかゆ/ SUPER EXPO 2025)",
 			"nameEn": "Blue Cheer (Nekomata Okayu / SUPER EXPO 2025)",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "3,980 円",
 			"marketprice": [
 				{
@@ -1951,13 +1700,8 @@
 			"number": "hY04-009",
 			"name": "青エール(雪花ラミィ＆桃鈴ねね)",
 			"nameEn": "Blue Cheer (Yukihana Lamy & Momosuzu Nene)",
-			"talents": [
-				"lamy",
-				"nene"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["lamy", "nene"],
+			"colors": ["blue"],
 			"price": "4,980 円",
 			"marketprice": [
 				{
@@ -1980,13 +1724,8 @@
 			"number": "hY05-007",
 			"name": "紫エール(クレイジー・オリー＆ハコス・ベールズ)",
 			"nameEn": "Purple Cheer (Kureiji Ollie & Hakos Baelz)",
-			"talents": [
-				"ollie",
-				"baelz"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie", "baelz"],
+			"colors": ["purple"],
 			"price": "3,980 円",
 			"marketprice": [
 				{
@@ -2009,12 +1748,8 @@
 			"number": "hY06-003",
 			"name": "黄エール(戌神ころね/ SUPER EXPO 2025)",
 			"nameEn": "Yellow Cheer (Inugami Korone / SUPER EXPO 2025)",
-			"talents": [
-				"korone"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["korone"],
+			"colors": ["yellow"],
 			"price": "4,980 円",
 			"marketprice": [
 				{
@@ -2037,13 +1772,8 @@
 			"number": "hY06-006",
 			"name": "黄エール(不知火フレア＆轟はじめ)",
 			"nameEn": "Yellow Cheer (Shiranui Flare & Todoki Hajime)",
-			"talents": [
-				"flare",
-				"hajime"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["flare", "hajime"],
+			"colors": ["yellow"],
 			"price": "3,980 円",
 			"marketprice": [
 				{

@@ -15,12 +15,8 @@
 			"number": "hSD14-001",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD14-009",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -76,18 +68,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd14/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD14/hSD14-009_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#1期生",
-				"#ゲーマーズ",
-				"#ケモミミ",
-				"#絵"
-			],
+			"tags": ["#JP", "#1期生", "#ゲーマーズ", "#ケモミミ", "#絵"],
 			"hp": 170,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "胸を張って歌い続けるよ　90"
@@ -105,12 +89,8 @@
 			"number": "hSD14-008",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -125,18 +105,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd14/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD14/hSD14-008_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#1期生",
-				"#ゲーマーズ",
-				"#ケモミミ",
-				"#絵"
-			],
+			"tags": ["#JP", "#1期生", "#ゲーマーズ", "#ケモミミ", "#絵"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "一緒に行こう(๑•̀ㅂ•́)و✧　20+\n[コラボポジション限定]このホロメンにマスコットが付いているなら、このアーツ+20。"
@@ -154,12 +126,8 @@
 			"number": "hSD14-005",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -174,18 +142,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd14/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD14/hSD14-005_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#1期生",
-				"#ゲーマーズ",
-				"#ケモミミ",
-				"#絵"
-			],
+			"tags": ["#JP", "#1期生", "#ゲーマーズ", "#ケモミミ", "#絵"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "いつでもいけるよ！　20"
@@ -203,12 +163,8 @@
 			"number": "hSD14-007",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -223,18 +179,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd14/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD14/hSD14-007_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#1期生",
-				"#ゲーマーズ",
-				"#ケモミミ",
-				"#絵"
-			],
+			"tags": ["#JP", "#1期生", "#ゲーマーズ", "#ケモミミ", "#絵"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "あーまいーこのきーもちー　20"
@@ -281,12 +229,8 @@
 			"number": "hSD14-002",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -301,18 +245,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd14/10002",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD14/hSD14-002_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#1期生",
-				"#ゲーマーズ",
-				"#ケモミミ",
-				"#絵"
-			],
+			"tags": ["#JP", "#1期生", "#ゲーマーズ", "#ケモミミ", "#絵"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "はじまんぼう！　20"
@@ -330,12 +266,8 @@
 			"number": "hSD14-003",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -350,18 +282,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd14/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD14/hSD14-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#1期生",
-				"#ゲーマーズ",
-				"#ケモミミ",
-				"#絵"
-			],
+			"tags": ["#JP", "#1期生", "#ゲーマーズ", "#ケモミミ", "#絵"],
 			"hp": 70,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "今日もあなたのそばに -フブキ-　30"
@@ -378,12 +302,8 @@
 			"number": "hSD14-004",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -398,18 +318,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd14/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD14/hSD14-004_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#1期生",
-				"#ゲーマーズ",
-				"#ケモミミ",
-				"#絵"
-			],
+			"tags": ["#JP", "#1期生", "#ゲーマーズ", "#ケモミミ", "#絵"],
 			"hp": 90,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "ハイ　フレンズ！　20"
@@ -427,12 +339,8 @@
 			"number": "hSD14-006",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -447,18 +355,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd14/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD14/hSD14-006_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#1期生",
-				"#ゲーマーズ",
-				"#ケモミミ",
-				"#絵"
-			],
+			"tags": ["#JP", "#1期生", "#ゲーマーズ", "#ケモミミ", "#絵"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "ようやくキミに会えた！！！　30"
@@ -524,9 +424,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd14/10011",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD14/hSD14-011_C.png",
 			"cardType": "Support・Mascot",
-			"tags": [
-				"#白上'sキャラクター"
-			],
+			"tags": ["#白上'sキャラクター"],
 			"abilityText": "このマスコットが付いているホロメンのHP+10。\n\n◆〈白上フブキ〉に付いていたら能力追加\n\nこのホロメンが相手のホロメンをダウンさせた時、自分のエールデッキの上から1枚を自分のホロメンに送る。\n\nマスコットは、自分のホロメン1人につき1枚だけ付けられる。",
 			"officialId": 2075,
 			"officialName": "ありよりのアリゲーター",

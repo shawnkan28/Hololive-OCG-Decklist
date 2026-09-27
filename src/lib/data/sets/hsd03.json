@@ -15,12 +15,8 @@
 			"number": "hSD03-001",
 			"name": "猫又おかゆ",
 			"nameEn": "Nekomata Okayu",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD03-009",
 			"name": "猫又おかゆ",
 			"nameEn": "Nekomata Okayu",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -76,16 +68,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-009_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi"],
 			"hp": 190,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "NOM NOM　60"
@@ -106,12 +92,8 @@
 			"number": "hSD03-008",
 			"name": "猫又おかゆ",
 			"nameEn": "Nekomata Okayu",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -126,16 +108,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-008_R.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi"],
 			"hp": 240,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Greatest Nekomata Okayu~　60"
@@ -154,12 +130,8 @@
 			"number": "hSD03-004",
 			"name": "猫又おかゆ",
 			"nameEn": "Nekomata Okayu",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -174,16 +146,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-004_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Cat Student　20"
@@ -201,12 +167,8 @@
 			"number": "hSD03-007",
 			"name": "猫又おかゆ",
 			"nameEn": "Nekomata Okayu",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -221,16 +183,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-007_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi"],
 			"hp": 110,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Singing with My Whole Heart　20"
@@ -247,12 +203,8 @@
 			"number": "hSD03-010",
 			"name": "戌神ころね",
 			"nameEn": "Inugami Korone",
-			"talents": [
-				"korone"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["korone"],
+			"colors": ["colorless"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -267,16 +219,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10010",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-010_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi"],
 			"hp": 70,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Ere ya Go~　30"
@@ -294,12 +240,8 @@
 			"number": "hSD03-011",
 			"name": "ラプラス・ダークネス",
 			"nameEn": "La+ Darknesss",
-			"talents": [
-				"laplus"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["laplus"],
+			"colors": ["colorless"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -314,16 +256,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10011",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-011_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Shooter"
-			],
+			"tags": ["#JP", "#holoX", "#Shooter"],
 			"hp": 60,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Dorobo Construction's Minister of Agriculture　10"
@@ -373,12 +309,8 @@
 			"number": "hSD03-002",
 			"name": "猫又おかゆ",
 			"nameEn": "Nekomata Okayu",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -393,16 +325,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10002",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-002_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Nom Nom Okayu~　30"
@@ -420,12 +346,8 @@
 			"number": "hSD03-003",
 			"name": "猫又おかゆ",
 			"nameEn": "Nekomata Okayu",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -440,16 +362,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi"],
 			"hp": 70,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Please Allow me Into Your Home　10"
@@ -467,12 +383,8 @@
 			"number": "hSD03-005",
 			"name": "猫又おかゆ",
 			"nameEn": "Nekomata Okayu",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -487,16 +399,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-005_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi"],
 			"hp": 170,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Gimme a Hug♡　30"
@@ -517,12 +423,8 @@
 			"number": "hSD03-006",
 			"name": "猫又おかゆ",
 			"nameEn": "Nekomata Okayu",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -537,17 +439,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-006_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Singing"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi", "#Singing"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Cat That Swallowed the Canary　30"

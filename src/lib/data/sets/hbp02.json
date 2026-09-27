@@ -15,12 +15,8 @@
 			"number": "hBP02-001",
 			"name": "白上フブキ(パラレル/サイン)",
 			"nameEn": "Shirakami Fubuki (Parallel/Signed)",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "158,000 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hBP02-003",
 			"name": "宝鐘マリン(パラレル/サイン)(エラッタ前)",
 			"nameEn": "Houshou Marine (Parallel/Signed) (Pre-errata)",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "89,800 円",
 			"marketprice": [
 				{
@@ -97,12 +89,8 @@
 			"number": "hBP02-003",
 			"name": "宝鐘マリン(パラレル/サイン)(エラッタ後)",
 			"nameEn": "Houshou Marine (Parallel/Signed) (Post-errata)",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "89,800 円",
 			"marketprice": [
 				{
@@ -138,12 +126,8 @@
 			"number": "hBP02-004",
 			"name": "沙花叉クロヱ(パラレル/サイン)",
 			"nameEn": "Sakamata Chloe (Parallel/Signed)",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "99,800 円",
 			"marketprice": [
 				{
@@ -179,9 +163,7 @@
 			"number": "hBP02-084",
 			"name": "みっころね24(パラレル/箔押し)",
 			"nameEn": "Mikkorone 24 (Parallel/Hot stamp)",
-			"talents": [
-				"korone"
-			],
+			"talents": ["korone"],
 			"colors": [],
 			"price": "99,800 円",
 			"marketprice": [
@@ -210,12 +192,8 @@
 			"number": "hBP02-001",
 			"name": "白上フブキ(パラレル)",
 			"nameEn": "Shirakami Fubuki (Parallel)",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "34,800 円",
 			"marketprice": [
 				{
@@ -251,12 +229,8 @@
 			"number": "hBP02-002",
 			"name": "パヴォリア・レイネ(パラレル)",
 			"nameEn": "Pavolia Reine (Parallel)",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "5,980 円",
 			"marketprice": [
 				{
@@ -292,12 +266,8 @@
 			"number": "hBP02-003",
 			"name": "宝鐘マリン(パラレル)(エラッタ前)",
 			"nameEn": "Houshou Marine (Parallel) (Pre-errata)",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "12,800 円",
 			"marketprice": [
 				{
@@ -333,12 +303,8 @@
 			"number": "hBP02-003",
 			"name": "宝鐘マリン(パラレル)(エラッタ後)",
 			"nameEn": "Houshou Marine (Parallel) (Post-errata)",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "12,800 円",
 			"marketprice": [
 				{
@@ -374,12 +340,8 @@
 			"number": "hBP02-004",
 			"name": "沙花叉クロヱ(パラレル)",
 			"nameEn": "Sakamata Chloe (Parallel)",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "24,800 円",
 			"marketprice": [
 				{
@@ -415,12 +377,8 @@
 			"number": "hBP02-005",
 			"name": "紫咲シオン(パラレル)",
 			"nameEn": "Murasaki Shion (Parallel)",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["shion"],
+			"colors": ["purple"],
 			"price": "24,800 円",
 			"marketprice": [
 				{
@@ -456,12 +414,8 @@
 			"number": "hBP02-006",
 			"name": "クレイジー・オリー(パラレル)",
 			"nameEn": "Kureiji Ollie (Parallel)",
-			"talents": [
-				"ollie"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie"],
+			"colors": ["purple"],
 			"price": "9,980 円",
 			"marketprice": [
 				{
@@ -497,12 +451,8 @@
 			"number": "hBP02-007",
 			"name": "森カリオペ(パラレル)",
 			"nameEn": "Mori Calliope (Parallel)",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "19,800 円",
 			"marketprice": [
 				{
@@ -538,12 +488,8 @@
 			"number": "hBP02-013",
 			"name": "白上フブキ(パラレル)",
 			"nameEn": "Shirakami Fubuki (Parallel)",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "8,980 円",
 			"marketprice": [
 				{
@@ -558,19 +504,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10028",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-013_UR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"1",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Painting"
-			],
+			"tags": ["#JP", "#Gen", "1", "#GAMERS", "#Kemomimi", "#Painting"],
 			"hp": 180,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Mascots Feast　80+\nThis Arts gets +20 for each mascot on your stage."
@@ -588,12 +525,8 @@
 			"number": "hBP02-017",
 			"name": "白銀ノエル(パラレル)",
 			"nameEn": "Shirogane Noel (Parallel)",
-			"talents": [
-				"noel"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["noel"],
+			"colors": ["white"],
 			"price": "3,480 円",
 			"marketprice": [
 				{
@@ -608,17 +541,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10036",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-017_UR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Alcohol"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Alcohol"],
 			"hp": 260,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Soft & Fluffy Musclehead Lady Knight　50"
@@ -640,12 +566,8 @@
 			"number": "hBP02-023",
 			"name": "パヴォリア・レイネ(パラレル)",
 			"nameEn": "Pavolia Reine (Parallel)",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "3,480 円",
 			"marketprice": [
 				{
@@ -660,19 +582,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10048",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-023_UR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Bird",
-				"#Painting"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Bird", "#Painting"],
 			"hp": 190,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Peacock Dance　100+\nThis Arts gets +20 for every cheer color on your stage."
@@ -690,12 +603,8 @@
 			"number": "hBP02-027",
 			"name": "大神ミオ(パラレル)",
 			"nameEn": "Ookami Mio (Parallel)",
-			"talents": [
-				"mio"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["mio"],
+			"colors": ["green"],
 			"price": "3,980 円",
 			"marketprice": [
 				{
@@ -710,17 +619,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10056",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-027_UR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi", "#Cooking"],
 			"hp": 240,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Tarot's Guidance　60+\nYou may archive the top card of your deck:If the archived card is a holomem, this Arts gets +20. If it is a support card, this Arts gets +50."
@@ -739,12 +641,8 @@
 			"number": "hBP02-033",
 			"name": "宝鐘マリン(パラレル)",
 			"nameEn": "Houshou Marine (Parallel)",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "9,980 円",
 			"marketprice": [
 				{
@@ -759,18 +657,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10067",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-033_UR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Painting", "#Sea"],
 			"hp": 200,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "You Guys~? Isn't Your Captain Cute?　80+\nThis Arts gets +20 for each holomem stacked to this holomem."
@@ -788,12 +678,8 @@
 			"number": "hBP02-034",
 			"name": "百鬼あやめ(パラレル)",
 			"nameEn": "Nakiri Ayame (Parallel)",
-			"talents": [
-				"ayame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ayame"],
+			"colors": ["red"],
 			"price": "3,980 円",
 			"marketprice": [
 				{
@@ -808,17 +694,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10070",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-034_UR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2",
-				"#Shooter"
-			],
+			"tags": ["#JP", "#Gen", "2", "#Shooter"],
 			"hp": 250,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "I laugh　50"
@@ -840,12 +719,8 @@
 			"number": "hBP02-040",
 			"name": "沙花叉クロヱ(パラレル)",
 			"nameEn": "Sakamata Chloe (Parallel)",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "17,800 円",
 			"marketprice": [
 				{
@@ -860,16 +735,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10082",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-040_UR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Sea"
-			],
+			"tags": ["#JP", "#holoX", "#Sea"],
 			"hp": 190,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "holoX-lot　100+\nYou may reveal the top 3 cards of your deck:This Arts gets +20 for each holomem revealed. Then, archive the revealed cards."
@@ -887,12 +756,8 @@
 			"number": "hBP02-041",
 			"name": "猫又おかゆ(パラレル)",
 			"nameEn": "Nekomata Okayu (Parallel)",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "4,980 円",
 			"marketprice": [
 				{
@@ -907,17 +772,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10085",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-041_UR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Singing"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi", "#Singing"],
 			"hp": 230,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Poison Cat　50\nYou may archive 1 blue cheer from this holomem:Deal 20 special damage to your opponent's center holomem and 1 of their back holomem."
@@ -936,12 +794,8 @@
 			"number": "hBP02-047",
 			"name": "紫咲シオン(パラレル)",
 			"nameEn": "Murasaki Shion (Parallel)",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["shion"],
+			"colors": ["purple"],
 			"price": "4,980 円",
 			"marketprice": [
 				{
@@ -956,16 +810,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10096",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-047_UR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2"
-			],
+			"tags": ["#JP", "#Gen", "2"],
 			"hp": 200,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Violet Magic　80\nDeal 20 special damage for each of your opponent's center holomem's cheers to your opponent's center holomem and collab holomem."
@@ -983,12 +831,8 @@
 			"number": "hBP02-053",
 			"name": "クレイジー・オリー(パラレル)",
 			"nameEn": "Kureiji Ollie (Parallel)",
-			"talents": [
-				"ollie"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie"],
+			"colors": ["purple"],
 			"price": "1,280 円",
 			"marketprice": [
 				{
@@ -1003,18 +847,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10108",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-053_UR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Language"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Language"],
 			"hp": 190,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Calculated Strategy　100+\nIf you have 2 or more 2nd holomem with #ID Gen 2 on your stage, this Arts gets +40."
@@ -1032,12 +868,8 @@
 			"number": "hBP02-059",
 			"name": "森カリオペ(パラレル)",
 			"nameEn": "Mori Calliope (Parallel)",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "2,480 円",
 			"marketprice": [
 				{
@@ -1052,16 +884,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10120",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-059_UR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Myth", "#Singing"],
 			"hp": 200,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Featuring Myth　80+\nIf you have 4 or more holomem with #Myth in your archive, this Arts gets +40. Then, if you have 8 or more, this Arts gets +40."
@@ -1079,12 +905,8 @@
 			"number": "hBP02-064",
 			"name": "一伊那尓栖(パラレル)",
 			"nameEn": "Ninomae Ina'nis (Parallel)",
-			"talents": [
-				"inanis"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["inanis"],
+			"colors": ["purple"],
 			"price": "2,980 円",
 			"marketprice": [
 				{
@@ -1099,17 +921,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10130",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-064_UR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#EN", "#Myth", "#Painting", "#Sea"],
 			"hp": 250,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Archaic Smile　60+\nIf you have 5 or more holomem with #Myth in your archive, you may reattach 1 cheer from this holomem to your other holomem. Then, if you have 10 or more, this Arts gets +50."
@@ -1128,12 +943,8 @@
 			"number": "hBP02-012",
 			"name": "白上フブキ(パラレル)",
 			"nameEn": "Shirakami Fubuki (Parallel)",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "580 円",
 			"marketprice": [
 				{
@@ -1148,19 +959,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10025",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-012_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"1",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Painting"
-			],
+			"tags": ["#JP", "#Gen", "1", "#GAMERS", "#Kemomimi", "#Painting"],
 			"hp": 100,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Lend me your strength, okay?　50+\nDuring this turn, your [center holomem and collab holomem] with mascot attached get Arts+20."
@@ -1178,12 +980,8 @@
 			"number": "hBP02-013",
 			"name": "白上フブキ(パラレル)",
 			"nameEn": "Shirakami Fubuki (Parallel)",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "980 円",
 			"marketprice": [
 				{
@@ -1198,19 +996,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10027",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-013_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"1",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Painting"
-			],
+			"tags": ["#JP", "#Gen", "1", "#GAMERS", "#Kemomimi", "#Painting"],
 			"hp": 180,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Mascots Feast　80+\nThis Arts gets +20 for each mascot on your stage."
@@ -1228,12 +1017,8 @@
 			"number": "hBP02-017",
 			"name": "白銀ノエル(パラレル)",
 			"nameEn": "Shirogane Noel (Parallel)",
-			"talents": [
-				"noel"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["noel"],
+			"colors": ["white"],
 			"price": "500 円",
 			"marketprice": [
 				{
@@ -1248,17 +1033,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10035",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-017_SR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Alcohol"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Alcohol"],
 			"hp": 260,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Soft & Fluffy Musclehead Lady Knight　50"
@@ -1280,12 +1058,8 @@
 			"number": "hBP02-022",
 			"name": "パヴォリア・レイネ(パラレル)",
 			"nameEn": "Pavolia Reine (Parallel)",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "580 円",
 			"marketprice": [
 				{
@@ -1300,19 +1074,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10045",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-022_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Bird",
-				"#Painting"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Bird", "#Painting"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Spicy Night　40+\nIf your stage has 2 or more cheer colors, this Arts gets +20."
@@ -1330,12 +1095,8 @@
 			"number": "hBP02-023",
 			"name": "パヴォリア・レイネ(パラレル)",
 			"nameEn": "Pavolia Reine (Parallel)",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "500 円",
 			"marketprice": [
 				{
@@ -1350,19 +1111,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10047",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-023_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Bird",
-				"#Painting"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Bird", "#Painting"],
 			"hp": 190,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Peacock Dance　100+\nThis Arts gets +20 for every cheer color on your stage."
@@ -1380,12 +1132,8 @@
 			"number": "hBP02-027",
 			"name": "大神ミオ(パラレル)",
 			"nameEn": "Ookami Mio (Parallel)",
-			"talents": [
-				"mio"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["mio"],
+			"colors": ["green"],
 			"price": "780 円",
 			"marketprice": [
 				{
@@ -1400,17 +1148,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10055",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-027_SR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi", "#Cooking"],
 			"hp": 240,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Tarot's Guidance　60+\nYou may archive the top card of your deck:If the archived card is a holomem, this Arts gets +20. If it is a support card, this Arts gets +50."
@@ -1429,12 +1170,8 @@
 			"number": "hBP02-032",
 			"name": "宝鐘マリン(パラレル)",
 			"nameEn": "Houshou Marine (Parallel)",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "1,980 円",
 			"marketprice": [
 				{
@@ -1449,18 +1186,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10064",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-032_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Painting", "#Sea"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Keep 'Er Steady!　50"
@@ -1478,12 +1207,8 @@
 			"number": "hBP02-033",
 			"name": "宝鐘マリン(パラレル)",
 			"nameEn": "Houshou Marine (Parallel)",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "1,780 円",
 			"marketprice": [
 				{
@@ -1498,18 +1223,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10066",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-033_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Painting", "#Sea"],
 			"hp": 200,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "You Guys~? Isn't Your Captain Cute?　80+\nThis Arts gets +20 for each holomem stacked to this holomem."
@@ -1527,12 +1244,8 @@
 			"number": "hBP02-034",
 			"name": "百鬼あやめ(パラレル)",
 			"nameEn": "Nakiri Ayame (Parallel)",
-			"talents": [
-				"ayame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ayame"],
+			"colors": ["red"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -1547,17 +1260,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10069",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-034_SR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2",
-				"#Shooter"
-			],
+			"tags": ["#JP", "#Gen", "2", "#Shooter"],
 			"hp": 250,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "I laugh　50"
@@ -1579,12 +1285,8 @@
 			"number": "hBP02-039",
 			"name": "沙花叉クロヱ(パラレル)",
 			"nameEn": "Sakamata Chloe (Parallel)",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "580 円",
 			"marketprice": [
 				{
@@ -1599,16 +1301,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10079",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-039_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Sea"
-			],
+			"tags": ["#JP", "#holoX", "#Sea"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "holoX-lot　20+\nYou may reveal the top 3 cards of your deck:This Arts gets +20 for each holomem revealed. Then, archive the revealed cards."
@@ -1626,12 +1322,8 @@
 			"number": "hBP02-040",
 			"name": "沙花叉クロヱ(パラレル)",
 			"nameEn": "Sakamata Chloe (Parallel)",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "1,280 円",
 			"marketprice": [
 				{
@@ -1646,16 +1338,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10081",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-040_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Sea"
-			],
+			"tags": ["#JP", "#holoX", "#Sea"],
 			"hp": 190,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "holoX-lot　100+\nYou may reveal the top 3 cards of your deck:This Arts gets +20 for each holomem revealed. Then, archive the revealed cards."
@@ -1673,12 +1359,8 @@
 			"number": "hBP02-041",
 			"name": "猫又おかゆ(パラレル)",
 			"nameEn": "Nekomata Okayu (Parallel)",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "680 円",
 			"marketprice": [
 				{
@@ -1693,17 +1375,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10084",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-041_SR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Singing"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi", "#Singing"],
 			"hp": 230,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Poison Cat　50\nYou may archive 1 blue cheer from this holomem:Deal 20 special damage to your opponent's center holomem and 1 of their back holomem."
@@ -1722,12 +1397,8 @@
 			"number": "hBP02-046",
 			"name": "紫咲シオン(パラレル)",
 			"nameEn": "Murasaki Shion (Parallel)",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["shion"],
+			"colors": ["purple"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -1742,16 +1413,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10093",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-046_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2"
-			],
+			"tags": ["#JP", "#Gen", "2"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Change the Cheer　30\nYou may roll a die once:If it is 5 or greater, reattach 1 of your opponent's cheers from stage to your opponent's holomem."
@@ -1769,12 +1434,8 @@
 			"number": "hBP02-047",
 			"name": "紫咲シオン(パラレル)",
 			"nameEn": "Murasaki Shion (Parallel)",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["shion"],
+			"colors": ["purple"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -1789,16 +1450,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10095",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-047_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2"
-			],
+			"tags": ["#JP", "#Gen", "2"],
 			"hp": 200,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Violet Magic　80\nDeal 20 special damage for each of your opponent's center holomem's cheers to your opponent's center holomem and collab holomem."
@@ -1816,12 +1471,8 @@
 			"number": "hBP02-052",
 			"name": "クレイジー・オリー(パラレル)",
 			"nameEn": "Kureiji Ollie (Parallel)",
-			"talents": [
-				"ollie"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie"],
+			"colors": ["purple"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -1836,18 +1487,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10105",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-052_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Language"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Language"],
 			"hp": 120,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "In the Name of Justice, I Shall　40+\nIf a non-purple cheer is attached to this holomem, this Arts gets +20."
@@ -1865,12 +1508,8 @@
 			"number": "hBP02-053",
 			"name": "クレイジー・オリー(パラレル)",
 			"nameEn": "Kureiji Ollie (Parallel)",
-			"talents": [
-				"ollie"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie"],
+			"colors": ["purple"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -1885,18 +1524,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10107",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-053_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Language"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Language"],
 			"hp": 190,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Calculated Strategy　100+\nIf you have 2 or more 2nd holomem with #ID Gen 2 on your stage, this Arts gets +40."
@@ -1914,12 +1545,8 @@
 			"number": "hBP02-058",
 			"name": "森カリオペ(パラレル)",
 			"nameEn": "Mori Calliope (Parallel)",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -1934,16 +1561,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10117",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-058_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Myth", "#Singing"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Dead Beat　30+\nIf a tool or mascot is attached to this holomem, this Arts gets +30."
@@ -1961,12 +1582,8 @@
 			"number": "hBP02-059",
 			"name": "森カリオペ(パラレル)",
 			"nameEn": "Mori Calliope (Parallel)",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "500 円",
 			"marketprice": [
 				{
@@ -1981,16 +1598,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10119",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-059_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Myth", "#Singing"],
 			"hp": 200,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Featuring Myth　80+\nIf you have 4 or more holomem with #Myth in your archive, this Arts gets +40. Then, if you have 8 or more, this Arts gets +40."
@@ -2008,12 +1619,8 @@
 			"number": "hBP02-060",
 			"name": "癒月ちょこ(パラレル)",
 			"nameEn": "Yuzuki Choco (Parallel)",
-			"talents": [
-				"choco"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["choco"],
+			"colors": ["purple"],
 			"price": "580 円",
 			"marketprice": [
 				{
@@ -2028,17 +1635,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10122",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-060_SR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#Gen", "2", "#Cooking"],
 			"hp": 240,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Uncontainable Charm　80"
@@ -2057,12 +1657,8 @@
 			"number": "hBP02-064",
 			"name": "一伊那尓栖(パラレル)",
 			"nameEn": "Ninomae Ina'nis (Parallel)",
-			"talents": [
-				"inanis"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["inanis"],
+			"colors": ["purple"],
 			"price": "680 円",
 			"marketprice": [
 				{
@@ -2077,17 +1673,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10129",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-064_SR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#EN", "#Myth", "#Painting", "#Sea"],
 			"hp": 250,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Archaic Smile　60+\nIf you have 5 or more holomem with #Myth in your archive, you may reattach 1 cheer from this holomem to your other holomem. Then, if you have 10 or more, this Arts gets +50."
@@ -2106,12 +1695,8 @@
 			"number": "hBP02-068",
 			"name": "ネリッサ・レイヴンクロフト(パラレル)",
 			"nameEn": "Nerissa Ravencroft (Parallel)",
-			"talents": [
-				"nerissa"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["nerissa"],
+			"colors": ["purple"],
 			"price": "680 円",
 			"marketprice": [
 				{
@@ -2126,17 +1711,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10137",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-068_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Singing",
-				"#Bird"
-			],
+			"tags": ["#EN", "#Advent", "#Singing", "#Bird"],
 			"hp": 210,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "My Affections in a Song　80"
@@ -2154,12 +1732,8 @@
 			"number": "hBP02-069",
 			"name": "魔法少女みこ(パラレル)",
 			"nameEn": "Magical Girl Miko (Parallel)",
-			"talents": [
-				"miko"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["miko"],
+			"colors": ["colorless"],
 			"price": "500 円",
 			"marketprice": [
 				{
@@ -2174,17 +1748,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10139",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-069_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#holoWitches",
-				"#Gen",
-				"0",
-				"#Magic"
-			],
+			"tags": ["#holoWitches", "#Gen", "0", "#Magic"],
 			"hp": 60,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Shrine Maiden's holo!　20"
@@ -2203,12 +1770,8 @@
 			"number": "hBP02-070",
 			"name": "魔法少女かなた(パラレル)",
 			"nameEn": "Magical Girl Kanata (Parallel)",
-			"talents": [
-				"kanata"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["kanata"],
+			"colors": ["colorless"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -2223,17 +1786,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10141",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-070_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#holoWitches",
-				"#Gen",
-				"4",
-				"#Magic"
-			],
+			"tags": ["#holoWitches", "#Gen", "4", "#Magic"],
 			"hp": 60,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Angel's holo!　20"
@@ -2252,12 +1808,8 @@
 			"number": "hBP02-071",
 			"name": "魔法少女ルーナ(パラレル)",
 			"nameEn": "Magical Girl Luna (Parallel)",
-			"talents": [
-				"luna"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["luna"],
+			"colors": ["colorless"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -2272,17 +1824,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10143",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-071_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#holoWitches",
-				"#Gen",
-				"4",
-				"#Magic"
-			],
+			"tags": ["#holoWitches", "#Gen", "4", "#Magic"],
 			"hp": 60,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Princess' holo!　20"
@@ -2301,12 +1846,8 @@
 			"number": "hBP02-072",
 			"name": "魔法少女シオン(パラレル)",
 			"nameEn": "Magical Girl Shion (Parallel)",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["shion"],
+			"colors": ["colorless"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -2321,17 +1862,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10145",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-072_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#holoWitches",
-				"#Gen",
-				"2",
-				"#Magic"
-			],
+			"tags": ["#holoWitches", "#Gen", "2", "#Magic"],
 			"hp": 70,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Witch's holo!　20"
@@ -2350,12 +1884,8 @@
 			"number": "hBP02-073",
 			"name": "魔法少女マリン(パラレル)",
 			"nameEn": "Magical Girl Marine (Parallel)",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["marine"],
+			"colors": ["colorless"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -2370,17 +1900,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10147",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-073_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#holoWitches",
-				"#Gen",
-				"3",
-				"#Magic"
-			],
+			"tags": ["#holoWitches", "#Gen", "3", "#Magic"],
 			"hp": 70,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Pirate's holo!　20"
@@ -2399,12 +1922,8 @@
 			"number": "hBP02-074",
 			"name": "魔法少女クロヱ(パラレル)",
 			"nameEn": "Magical Girl Chloe (Parallel)",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["chloe"],
+			"colors": ["colorless"],
 			"price": "500 円",
 			"marketprice": [
 				{
@@ -2419,16 +1938,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10149",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-074_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#holoWitches",
-				"#holoX",
-				"#Magic"
-			],
+			"tags": ["#holoWitches", "#holoX", "#Magic"],
 			"hp": 70,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Orca's holo!　20"
@@ -2447,12 +1960,8 @@
 			"number": "hSD02-009",
 			"name": "百鬼あやめ(パラレル)",
 			"nameEn": "Nakiri Ayame (Parallel)",
-			"talents": [
-				"ayame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ayame"],
+			"colors": ["red"],
 			"price": "580 円",
 			"marketprice": [
 				{
@@ -2467,17 +1976,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10207",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-009_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2",
-				"#Shooter"
-			],
+			"tags": ["#JP", "#Gen", "2", "#Shooter"],
 			"hp": 180,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "AyaFubuMi's \"Aya\"　60"
@@ -2498,12 +2000,8 @@
 			"number": "hSD03-009",
 			"name": "猫又おかゆ(パラレル)",
 			"nameEn": "Nekomata Okayu (Parallel)",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -2518,16 +2016,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10208",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-009_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi"],
 			"hp": 190,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "MOGMOG　60"
@@ -2548,12 +2040,8 @@
 			"number": "hSD04-009",
 			"name": "癒月ちょこ(パラレル)",
 			"nameEn": "Yuzuki Choco (Parallel)",
-			"talents": [
-				"choco"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["choco"],
+			"colors": ["purple"],
 			"price": "580 円",
 			"marketprice": [
 				{
@@ -2568,17 +2056,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10209",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-009_SR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#Gen", "2", "#Cooking"],
 			"hp": 190,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "33… 22… 11…　50"
@@ -2599,12 +2080,8 @@
 			"number": "hBP02-010",
 			"name": "白上フブキ(パラレル)",
 			"nameEn": "Shirakami Fubuki (Parallel)",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "320 円",
 			"marketprice": [
 				{
@@ -2619,19 +2096,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10021",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-010_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"1",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Painting"
-			],
+			"tags": ["#JP", "#Gen", "1", "#GAMERS", "#Kemomimi", "#Painting"],
 			"hp": 150,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Osmanthus Flower Fubuki　40"
@@ -2652,12 +2120,8 @@
 			"number": "hBP02-011",
 			"name": "白上フブキ(パラレル)",
 			"nameEn": "Shirakami Fubuki (Parallel)",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "680 円",
 			"marketprice": [
 				{
@@ -2672,19 +2136,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10023",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-011_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"1",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Painting"
-			],
+			"tags": ["#JP", "#Gen", "1", "#GAMERS", "#Kemomimi", "#Painting"],
 			"hp": 120,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Nope, No Can Do!　40"
@@ -2702,12 +2157,8 @@
 			"number": "hBP02-015",
 			"name": "白銀ノエル(パラレル)",
 			"nameEn": "Shirogane Noel (Parallel)",
-			"talents": [
-				"noel"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["noel"],
+			"colors": ["white"],
 			"price": "280 円",
 			"marketprice": [
 				{
@@ -2722,17 +2173,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10031",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-015_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Alcohol"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Alcohol"],
 			"hp": 180,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Oha-Muscle~!　30"
@@ -2753,12 +2197,8 @@
 			"number": "hBP02-016",
 			"name": "白銀ノエル(パラレル)",
 			"nameEn": "Shirogane Noel (Parallel)",
-			"talents": [
-				"noel"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["noel"],
+			"colors": ["white"],
 			"price": "320 円",
 			"marketprice": [
 				{
@@ -2773,17 +2213,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10033",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-016_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Alcohol"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Alcohol"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Burn this Sight into Your Eyes♡　30"
@@ -2801,12 +2234,8 @@
 			"number": "hBP02-019",
 			"name": "パヴォリア・レイネ(パラレル)",
 			"nameEn": "Pavolia Reine (Parallel)",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "280 円",
 			"marketprice": [
 				{
@@ -2821,19 +2250,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10039",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-019_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Bird",
-				"#Painting"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Bird", "#Painting"],
 			"hp": 60,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Very Easy!　20"
@@ -2851,12 +2271,8 @@
 			"number": "hBP02-020",
 			"name": "パヴォリア・レイネ(パラレル)",
 			"nameEn": "Pavolia Reine (Parallel)",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -2871,19 +2287,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10041",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-020_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Bird",
-				"#Painting"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Bird", "#Painting"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Royal Halu Sleepover　50"
@@ -2901,12 +2308,8 @@
 			"number": "hBP02-021",
 			"name": "パヴォリア・レイネ(パラレル)",
 			"nameEn": "Pavolia Reine (Parallel)",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -2921,19 +2324,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10043",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-021_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Bird",
-				"#Painting"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Bird", "#Painting"],
 			"hp": 120,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Keep Your Eyes on Me, Okay? I Love You!　20\nYou may send 1 cheer from your archive to your holomem."
@@ -2950,12 +2344,8 @@
 			"number": "hBP02-025",
 			"name": "大神ミオ(パラレル)",
 			"nameEn": "Ookami Mio (Parallel)",
-			"talents": [
-				"mio"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["mio"],
+			"colors": ["green"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -2970,17 +2360,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10051",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-025_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi", "#Cooking"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Oha-Miooon　30"
@@ -3001,12 +2384,8 @@
 			"number": "hBP02-026",
 			"name": "大神ミオ(パラレル)",
 			"nameEn": "Ookami Mio (Parallel)",
-			"talents": [
-				"mio"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["mio"],
+			"colors": ["green"],
 			"price": "780 円",
 			"marketprice": [
 				{
@@ -3021,17 +2400,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10053",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-026_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi", "#Cooking"],
 			"hp": 100,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Please Watch Over Me This Year too!　20"
@@ -3049,12 +2421,8 @@
 			"number": "hBP02-030",
 			"name": "宝鐘マリン(パラレル)",
 			"nameEn": "Houshou Marine (Parallel)",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "500 円",
 			"marketprice": [
 				{
@@ -3069,18 +2437,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10060",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-030_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Painting", "#Sea"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "What's the Captain Gonna Do to Me?　40"
@@ -3101,12 +2461,8 @@
 			"number": "hBP02-031",
 			"name": "宝鐘マリン(パラレル)",
 			"nameEn": "Houshou Marine (Parallel)",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -3121,18 +2477,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10062",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-031_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Painting", "#Sea"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Let's Set Sail Together! (Wholesome)　30"
@@ -3150,12 +2498,8 @@
 			"number": "hBP02-036",
 			"name": "沙花叉クロヱ(パラレル)",
 			"nameEn": "Sakamata Chloe (Parallel)",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -3170,16 +2514,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10073",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-036_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Sea"
-			],
+			"tags": ["#JP", "#holoX", "#Sea"],
 			"hp": 60,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "A Reality Worth Spitting Out!　20"
@@ -3197,12 +2535,8 @@
 			"number": "hBP02-037",
 			"name": "沙花叉クロヱ(パラレル)",
 			"nameEn": "Sakamata Chloe (Parallel)",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "500 円",
 			"marketprice": [
 				{
@@ -3217,16 +2551,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10075",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-037_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Sea"
-			],
+			"tags": ["#JP", "#holoX", "#Sea"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Having the Beach to Ourselves　60"
@@ -3244,12 +2572,8 @@
 			"number": "hBP02-038",
 			"name": "沙花叉クロヱ(パラレル)",
 			"nameEn": "Sakamata Chloe (Parallel)",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "2,980 円",
 			"marketprice": [
 				{
@@ -3264,16 +2588,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10077",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-038_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Sea"
-			],
+			"tags": ["#JP", "#holoX", "#Sea"],
 			"hp": 110,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "(This is the Part Where You Cheer)　30"
@@ -3291,12 +2609,8 @@
 			"number": "hBP02-044",
 			"name": "紫咲シオン(パラレル)",
 			"nameEn": "Murasaki Shion (Parallel)",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["shion"],
+			"colors": ["purple"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -3311,17 +2625,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10089",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-044_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2",
-				"#Kemomimi"
-			],
+			"tags": ["#JP", "#Gen", "2", "#Kemomimi"],
 			"hp": 170,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "So Embarrassing　30"
@@ -3342,12 +2649,8 @@
 			"number": "hBP02-045",
 			"name": "紫咲シオン(パラレル)",
 			"nameEn": "Murasaki Shion (Parallel)",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["shion"],
+			"colors": ["purple"],
 			"price": "680 円",
 			"marketprice": [
 				{
@@ -3362,16 +2665,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10091",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-045_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2"
-			],
+			"tags": ["#JP", "#Gen", "2"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "I'm Super Duper Happy!!　40"
@@ -3389,12 +2686,8 @@
 			"number": "hBP02-049",
 			"name": "クレイジー・オリー(パラレル)",
 			"nameEn": "Kureiji Ollie (Parallel)",
-			"talents": [
-				"ollie"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie"],
+			"colors": ["purple"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -3409,18 +2702,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10099",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-049_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Language"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Language"],
 			"hp": 60,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Otsu-Kureiji!　20"
@@ -3438,12 +2723,8 @@
 			"number": "hBP02-050",
 			"name": "クレイジー・オリー(パラレル)",
 			"nameEn": "Kureiji Ollie (Parallel)",
-			"talents": [
-				"ollie"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie"],
+			"colors": ["purple"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -3458,18 +2739,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10101",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-050_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Language"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Language"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Junior Who Adores You　20"
@@ -3490,12 +2763,8 @@
 			"number": "hBP02-051",
 			"name": "クレイジー・オリー(パラレル)",
 			"nameEn": "Kureiji Ollie (Parallel)",
-			"talents": [
-				"ollie"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie"],
+			"colors": ["purple"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -3510,18 +2779,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10103",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-051_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Language"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Language"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Screaming My Lungs Out for My Oshi!!　20"
@@ -3539,12 +2800,8 @@
 			"number": "hBP02-055",
 			"name": "森カリオペ(パラレル)",
 			"nameEn": "Mori Calliope (Parallel)",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -3559,16 +2816,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10111",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-055_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Myth", "#Singing"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "My Stage　20"
@@ -3586,12 +2837,8 @@
 			"number": "hBP02-056",
 			"name": "森カリオペ(パラレル)",
 			"nameEn": "Mori Calliope (Parallel)",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -3606,16 +2853,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10113",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-056_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Myth", "#Singing"],
 			"hp": 110,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "\"Cash-Money\"　50"
@@ -3633,12 +2874,8 @@
 			"number": "hBP02-057",
 			"name": "森カリオペ(パラレル)",
 			"nameEn": "Mori Calliope (Parallel)",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "320 円",
 			"marketprice": [
 				{
@@ -3653,16 +2890,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10115",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-057_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Myth", "#Singing"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Hypin' It Up Together!　50"
@@ -3680,12 +2911,8 @@
 			"number": "hBP02-062",
 			"name": "一伊那尓栖(パラレル)",
 			"nameEn": "Ninomae Ina'nis (Parallel)",
-			"talents": [
-				"inanis"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["inanis"],
+			"colors": ["purple"],
 			"price": "320 円",
 			"marketprice": [
 				{
@@ -3700,17 +2927,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10125",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-062_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#EN", "#Myth", "#Painting", "#Sea"],
 			"hp": 180,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Takogram With You　60"
@@ -3728,12 +2948,8 @@
 			"number": "hBP02-063",
 			"name": "一伊那尓栖(パラレル)",
 			"nameEn": "Ninomae Ina'nis (Parallel)",
-			"talents": [
-				"inanis"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["inanis"],
+			"colors": ["purple"],
 			"price": "320 円",
 			"marketprice": [
 				{
@@ -3748,17 +2964,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10127",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-063_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#EN", "#Myth", "#Painting", "#Sea"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Let's have the Time of Our Lives!　30"
@@ -3776,12 +2985,8 @@
 			"number": "hBP02-066",
 			"name": "ネリッサ・レイヴンクロフト(パラレル)",
 			"nameEn": "Nerissa Ravencroft (Parallel)",
-			"talents": [
-				"nerissa"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["nerissa"],
+			"colors": ["purple"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -3796,17 +3001,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10133",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-066_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Singing",
-				"#Bird"
-			],
+			"tags": ["#EN", "#Advent", "#Singing", "#Bird"],
 			"hp": 150,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "That Has a Nice Ring to It　30"
@@ -3827,12 +3025,8 @@
 			"number": "hBP02-067",
 			"name": "ネリッサ・レイヴンクロフト(パラレル)",
 			"nameEn": "Nerissa Ravencroft (Parallel)",
-			"talents": [
-				"nerissa"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["nerissa"],
+			"colors": ["purple"],
 			"price": "580 円",
 			"marketprice": [
 				{
@@ -3847,17 +3041,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10135",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-067_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Singing",
-				"#Bird"
-			],
+			"tags": ["#EN", "#Advent", "#Singing", "#Bird"],
 			"hp": 120,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Tea Over Coffee　20"
@@ -3962,9 +3149,7 @@
 			"number": "hBP02-078",
 			"name": "かなた建設(パラレル)(エラッタ前)",
 			"nameEn": "Kanata Construction (Parallel) (Pre-errata)",
-			"talents": [
-				"kanata"
-			],
+			"talents": ["kanata"],
 			"colors": [],
 			"price": "180 円",
 			"marketprice": [
@@ -3993,9 +3178,7 @@
 			"number": "hBP02-078",
 			"name": "かなた建設(パラレル)(エラッタ後)",
 			"nameEn": "Kanata Construction (Parallel) (Post-errata)",
-			"talents": [
-				"kanata"
-			],
+			"talents": ["kanata"],
 			"colors": [],
 			"price": "280 円",
 			"marketprice": [
@@ -4040,9 +3223,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10159",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-079_U.png",
 			"cardType": "Support・Event",
-			"tags": [
-				"#Magic"
-			],
+			"tags": ["#Magic"],
 			"abilityText": "Deal 20 special damage to your opponent's center holomem or collab holomem. However, your opponent's life does not reduce even if downed. Only 1 of your event with #Magic can be used each turn.",
 			"officialId": 379,
 			"officialName": "Explosion Magic",
@@ -4159,9 +3340,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10167",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-083_U.png",
 			"cardType": "Support・Event",
-			"tags": [
-				"#Magic"
-			],
+			"tags": ["#Magic"],
 			"abilityText": "This card can only be used if you archive 1 of your holo Power.\n\nSend 1 purple cheer from your archive to your 〈Murasaki Shion〉. Only 1 of your event with #Magic can be used each turn.",
 			"officialId": 383,
 			"officialName": "Magic Dresser",
@@ -4175,9 +3354,7 @@
 			"number": "hBP02-084",
 			"name": "みっころね24(パラレル)",
 			"nameEn": "Mikkorone 24 (Parallel)",
-			"talents": [
-				"korone"
-			],
+			"talents": ["korone"],
 			"colors": [],
 			"price": "1,780 円",
 			"marketprice": [
@@ -4264,9 +3441,7 @@
 			"number": "hBP02-087",
 			"name": "紫咲シオンの魔法のステッキ(パラレル)",
 			"nameEn": "Murasaki Shion's Magic Wand (Parallel)",
-			"talents": [
-				"shion"
-			],
+			"talents": ["shion"],
 			"colors": [],
 			"price": "180 円",
 			"marketprice": [
@@ -4282,9 +3457,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10176",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-087_C.png",
 			"cardType": "Support・Tool",
-			"tags": [
-				"#Magic"
-			],
+			"tags": ["#Magic"],
 			"abilityText": "The holomem this tool is attached to gets Arts+10.\n\n◆Additional ability if attached to 1st or greater 〈Murasaki Shion〉\n\nIf this tool is attached to a center holomem, change [1/Turn] to [2/turn] for your Oshi Skill \"Heeeyyyyy\".\n\nOnly 1 tool can be attached to each of your holomem.",
 			"officialId": 387,
 			"officialName": "Murasaki Shion’s Magic Wand",
@@ -4298,9 +3471,7 @@
 			"number": "hBP02-088",
 			"name": "森カリオペの鎌(パラレル)",
 			"nameEn": "Mori Calliope's Scythe (Parallel)",
-			"talents": [
-				"calliope"
-			],
+			"talents": ["calliope"],
 			"colors": [],
 			"price": "420 円",
 			"marketprice": [
@@ -4345,10 +3516,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10180",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-089_C.png",
 			"cardType": "Support・Mascot",
-			"tags": [
-				"#Shirakami's",
-				"Character"
-			],
+			"tags": ["#Shirakami's", "Character"],
 			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to 〈Shirakami Fubuki〉\n\nWhen the holomem this mascot is attached to collabs, draw 1 card.\n\nOnly 1 mascot can be attached to each of your holomem.",
 			"officialId": 389,
 			"officialName": "Oruyanke",
@@ -4362,9 +3530,7 @@
 			"number": "hBP02-090",
 			"name": "ネジマキツネ(パラレル)",
 			"nameEn": "Nejima Kitsune (Parallel)",
-			"talents": [
-				"risu"
-			],
+			"talents": ["risu"],
 			"colors": [],
 			"price": "420 円",
 			"marketprice": [
@@ -4380,10 +3546,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10182",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-090_C.png",
 			"cardType": "Support・Mascot",
-			"tags": [
-				"#Shirakami's",
-				"Character"
-			],
+			"tags": ["#Shirakami's", "Character"],
 			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to 〈Shirakami Fubuki〉\n\nIf the holomem this mascot is attached to is downed, reattach 1 cheer from this holomem to your other holomem.\n\nOnly 1 mascot can be attached to each of your holomem.",
 			"officialId": 390,
 			"officialName": "Nejimakitsune",
@@ -4397,9 +3560,7 @@
 			"number": "hBP02-091",
 			"name": "フブチュン(パラレル)",
 			"nameEn": "Fubuchun (Parallel)",
-			"talents": [
-				"fubuki"
-			],
+			"talents": ["fubuki"],
 			"colors": [],
 			"price": "180 円",
 			"marketprice": [
@@ -4415,10 +3576,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10184",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-091_C.png",
 			"cardType": "Support・Mascot",
-			"tags": [
-				"#Shirakami's",
-				"Character"
-			],
+			"tags": ["#Shirakami's", "Character"],
 			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to 〈Shirakami Fubuki〉\n\nWhen the holomem this mascot is attached to collabs, you may return 1 mascot from your archive to hand.\n\nOnly 1 mascot can be attached to each of your holomem.",
 			"officialId": 391,
 			"officialName": "Fubu-chun",
@@ -4432,9 +3590,7 @@
 			"number": "hBP02-092",
 			"name": "フブラ(パラレル)",
 			"nameEn": "Fubura (Parallel)",
-			"talents": [
-				"fubuki"
-			],
+			"talents": ["fubuki"],
 			"colors": [],
 			"price": "180 円",
 			"marketprice": [
@@ -4450,10 +3606,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10186",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-092_U.png",
 			"cardType": "Support・Mascot",
-			"tags": [
-				"#Shirakami's",
-				"Character"
-			],
+			"tags": ["#Shirakami's", "Character"],
 			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to 〈Shirakami Fubuki〉\n\n[1/Turn]During your main phase, you may archive 2 cheers from your holomem:During this turn, this holomem gets Arts+50.\n\nOnly 1 mascot can be attached to each of your holomem.",
 			"officialId": 392,
 			"officialName": "Fubzilla",
@@ -4483,10 +3636,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10188",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-093_C.png",
 			"cardType": "Support・Mascot",
-			"tags": [
-				"#Shirakami's",
-				"Character"
-			],
+			"tags": ["#Shirakami's", "Character"],
 			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to 〈Shirakami Fubuki〉\n\n[Back Position Only]The holomem this mascot is attached to does not take damage from your opponent.\n\nOnly 1 mascot can be attached to each of your holomem.",
 			"officialId": 393,
 			"officialName": "Miteiru",
@@ -4661,10 +3811,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10200",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-099_C.png",
 			"cardType": "Support・Fan",
-			"tags": [
-				"#Shirakami's",
-				"Character"
-			],
+			"tags": ["#Shirakami's", "Character"],
 			"abilityText": "The holomem this fan is attached to gets +10 HP.\n\nYou may only attach this fan to your 〈Shirakami Fubuki〉, and you may attach any number of this fan per holomem.",
 			"officialId": 399,
 			"officialName": "Sukonbu",
@@ -4678,9 +3825,7 @@
 			"number": "hBP02-100",
 			"name": "白銀聖騎士団(パラレル)",
 			"nameEn": "Shirogane Holy Knights (Parallel)",
-			"talents": [
-				"noel"
-			],
+			"talents": ["noel"],
 			"colors": [],
 			"price": "220 円",
 			"marketprice": [
@@ -4709,9 +3854,7 @@
 			"number": "hBP02-101",
 			"name": "ミオファ(パラレル)",
 			"nameEn": "Miofa (Parallel)",
-			"talents": [
-				"mio"
-			],
+			"talents": ["mio"],
 			"colors": [],
 			"price": "680 円",
 			"marketprice": [
@@ -4798,12 +3941,8 @@
 			"number": "hBP02-001",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "1,480 円",
 			"marketprice": [
 				{
@@ -4839,12 +3978,8 @@
 			"number": "hBP02-002",
 			"name": "パヴォリア・レイネ",
 			"nameEn": "Pavolia Reine",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "320 円",
 			"marketprice": [
 				{
@@ -4880,12 +4015,8 @@
 			"number": "hBP02-003",
 			"name": "宝鐘マリン(エラッタ前)",
 			"nameEn": "Houshou Marine (Pre-errata)",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -4921,12 +4052,8 @@
 			"number": "hBP02-003",
 			"name": "宝鐘マリン(エラッタ後)",
 			"nameEn": "Houshou Marine (Post-errata)",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -4962,12 +4089,8 @@
 			"number": "hBP02-004",
 			"name": "沙花叉クロヱ",
 			"nameEn": "Sakamata Chloe",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "280 円",
 			"marketprice": [
 				{
@@ -5003,12 +4126,8 @@
 			"number": "hBP02-005",
 			"name": "紫咲シオン",
 			"nameEn": "Murasaki Shion",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["shion"],
+			"colors": ["purple"],
 			"price": "320 円",
 			"marketprice": [
 				{
@@ -5044,12 +4163,8 @@
 			"number": "hBP02-006",
 			"name": "クレイジー・オリー",
 			"nameEn": "Kureiji Ollie",
-			"talents": [
-				"ollie"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie"],
+			"colors": ["purple"],
 			"price": "320 円",
 			"marketprice": [
 				{
@@ -5085,12 +4200,8 @@
 			"number": "hBP02-007",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "780 円",
 			"marketprice": [
 				{
@@ -5126,12 +4237,8 @@
 			"number": "hBP02-013",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -5146,19 +4253,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10026",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-013_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"1",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Painting"
-			],
+			"tags": ["#JP", "#Gen", "1", "#GAMERS", "#Kemomimi", "#Painting"],
 			"hp": 180,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Mascots Feast　80+\nThis Arts gets +20 for each mascot on your stage."
@@ -5176,12 +4274,8 @@
 			"number": "hBP02-017",
 			"name": "白銀ノエル",
 			"nameEn": "Shirogane Noel",
-			"talents": [
-				"noel"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["noel"],
+			"colors": ["white"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -5196,17 +4290,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10034",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-017_RR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Alcohol"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Alcohol"],
 			"hp": 260,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Soft & Fluffy Musclehead Lady Knight　50"
@@ -5228,12 +4315,8 @@
 			"number": "hBP02-023",
 			"name": "パヴォリア・レイネ",
 			"nameEn": "Pavolia Reine",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -5248,19 +4331,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10046",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-023_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Bird",
-				"#Painting"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Bird", "#Painting"],
 			"hp": 190,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Peacock Dance　100+\nThis Arts gets +20 for every cheer color on your stage."
@@ -5278,12 +4352,8 @@
 			"number": "hBP02-027",
 			"name": "大神ミオ",
 			"nameEn": "Ookami Mio",
-			"talents": [
-				"mio"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["mio"],
+			"colors": ["green"],
 			"price": "320 円",
 			"marketprice": [
 				{
@@ -5298,17 +4368,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10054",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-027_RR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi", "#Cooking"],
 			"hp": 240,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Tarot's Guidance　60+\nYou may archive the top card of your deck:If the archived card is a holomem, this Arts gets +20. If it is a support card, this Arts gets +50."
@@ -5327,12 +4390,8 @@
 			"number": "hBP02-033",
 			"name": "宝鐘マリン",
 			"nameEn": "Houshou Marine",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "580 円",
 			"marketprice": [
 				{
@@ -5347,18 +4406,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10065",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-033_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Painting", "#Sea"],
 			"hp": 200,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "You Guys~? Isn't Your Captain Cute?　80+\nThis Arts gets +20 for each holomem stacked to this holomem."
@@ -5376,12 +4427,8 @@
 			"number": "hBP02-034",
 			"name": "百鬼あやめ",
 			"nameEn": "Nakiri Ayame",
-			"talents": [
-				"ayame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ayame"],
+			"colors": ["red"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -5396,17 +4443,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10068",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-034_RR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2",
-				"#Shooter"
-			],
+			"tags": ["#JP", "#Gen", "2", "#Shooter"],
 			"hp": 250,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "I laugh　50"
@@ -5428,12 +4468,8 @@
 			"number": "hBP02-040",
 			"name": "沙花叉クロヱ",
 			"nameEn": "Sakamata Chloe",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "320 円",
 			"marketprice": [
 				{
@@ -5448,16 +4484,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10080",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-040_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Sea"
-			],
+			"tags": ["#JP", "#holoX", "#Sea"],
 			"hp": 190,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "holoX-lot　100+\nYou may reveal the top 3 cards of your deck:This Arts gets +20 for each holomem revealed. Then, archive the revealed cards."
@@ -5475,12 +4505,8 @@
 			"number": "hBP02-041",
 			"name": "猫又おかゆ",
 			"nameEn": "Nekomata Okayu",
-			"talents": [
-				"okayu"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["okayu"],
+			"colors": ["blue"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -5495,17 +4521,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10083",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-041_RR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Singing"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi", "#Singing"],
 			"hp": 230,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Poison Cat　50\nYou may archive 1 blue cheer from this holomem:Deal 20 special damage to your opponent's center holomem and 1 of their back holomem."
@@ -5524,12 +4543,8 @@
 			"number": "hBP02-047",
 			"name": "紫咲シオン",
 			"nameEn": "Murasaki Shion",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["shion"],
+			"colors": ["purple"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -5544,16 +4559,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10094",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-047_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2"
-			],
+			"tags": ["#JP", "#Gen", "2"],
 			"hp": 200,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Violet Magic　80\nDeal 20 special damage for each of your opponent's center holomem's cheers to your opponent's center holomem and collab holomem."
@@ -5571,12 +4580,8 @@
 			"number": "hBP02-053",
 			"name": "クレイジー・オリー",
 			"nameEn": "Kureiji Ollie",
-			"talents": [
-				"ollie"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie"],
+			"colors": ["purple"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -5591,18 +4596,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10106",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-053_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Language"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Language"],
 			"hp": 190,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Calculated Strategy　100+\nIf you have 2 or more 2nd holomem with #ID Gen 2 on your stage, this Arts gets +40."
@@ -5620,12 +4617,8 @@
 			"number": "hBP02-059",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -5640,16 +4633,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10118",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-059_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Myth", "#Singing"],
 			"hp": 200,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Featuring Myth　80+\nIf you have 4 or more holomem with #Myth in your archive, this Arts gets +40. Then, if you have 8 or more, this Arts gets +40."
@@ -5667,12 +4654,8 @@
 			"number": "hBP02-064",
 			"name": "一伊那尓栖",
 			"nameEn": "Ninomae Ina'nis",
-			"talents": [
-				"inanis"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["inanis"],
+			"colors": ["purple"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -5687,17 +4670,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10128",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-064_RR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#EN", "#Myth", "#Painting", "#Sea"],
 			"hp": 250,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Archaic Smile　60+\nIf you have 5 or more holomem with #Myth in your archive, you may reattach 1 cheer from this holomem to your other holomem. Then, if you have 10 or more, this Arts gets +50."
@@ -5716,12 +4692,8 @@
 			"number": "hBP02-012",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -5736,19 +4708,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10024",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-012_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"1",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Painting"
-			],
+			"tags": ["#JP", "#Gen", "1", "#GAMERS", "#Kemomimi", "#Painting"],
 			"hp": 100,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Lend me your strength, okay?　50+\nDuring this turn, your [center holomem and collab holomem] with mascot attached get Arts+20."
@@ -5766,12 +4729,8 @@
 			"number": "hBP02-022",
 			"name": "パヴォリア・レイネ",
 			"nameEn": "Pavolia Reine",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -5786,19 +4745,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10044",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-022_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Bird",
-				"#Painting"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Bird", "#Painting"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Spicy Night　40+\nIf your stage has 2 or more cheer colors, this Arts gets +20."
@@ -5816,12 +4766,8 @@
 			"number": "hBP02-032",
 			"name": "宝鐘マリン",
 			"nameEn": "Houshou Marine",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -5836,18 +4782,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10063",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-032_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Painting", "#Sea"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Keep 'Er Steady!　50"
@@ -5865,12 +4803,8 @@
 			"number": "hBP02-039",
 			"name": "沙花叉クロヱ",
 			"nameEn": "Sakamata Chloe",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -5885,16 +4819,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10078",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-039_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Sea"
-			],
+			"tags": ["#JP", "#holoX", "#Sea"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "holoX-lot　20+\nYou may reveal the top 3 cards of your deck:This Arts gets +20 for each holomem revealed. Then, archive the revealed cards."
@@ -5912,12 +4840,8 @@
 			"number": "hBP02-046",
 			"name": "紫咲シオン",
 			"nameEn": "Murasaki Shion",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["shion"],
+			"colors": ["purple"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -5932,16 +4856,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10092",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-046_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2"
-			],
+			"tags": ["#JP", "#Gen", "2"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Change the Cheer　30\nYou may roll a die once:If it is 5 or greater, reattach 1 of your opponent's cheers from stage to your opponent's holomem."
@@ -5959,12 +4877,8 @@
 			"number": "hBP02-052",
 			"name": "クレイジー・オリー",
 			"nameEn": "Kureiji Ollie",
-			"talents": [
-				"ollie"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie"],
+			"colors": ["purple"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -5979,18 +4893,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10104",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-052_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Language"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Language"],
 			"hp": 120,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "In the Name of Justice, I Shall　40+\nIf a non-purple cheer is attached to this holomem, this Arts gets +20."
@@ -6008,12 +4914,8 @@
 			"number": "hBP02-058",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -6028,16 +4930,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10116",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-058_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Myth", "#Singing"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Dead Beat　30+\nIf a tool or mascot is attached to this holomem, this Arts gets +30."
@@ -6055,12 +4951,8 @@
 			"number": "hBP02-060",
 			"name": "癒月ちょこ",
 			"nameEn": "Yuzuki Choco",
-			"talents": [
-				"choco"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["choco"],
+			"colors": ["purple"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -6075,17 +4967,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10121",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-060_R.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#Gen", "2", "#Cooking"],
 			"hp": 240,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Uncontainable Charm　80"
@@ -6104,12 +4989,8 @@
 			"number": "hBP02-068",
 			"name": "ネリッサ・レイヴンクロフト",
 			"nameEn": "Nerissa Ravencroft",
-			"talents": [
-				"nerissa"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["nerissa"],
+			"colors": ["purple"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -6124,17 +5005,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10136",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-068_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Singing",
-				"#Bird"
-			],
+			"tags": ["#EN", "#Advent", "#Singing", "#Bird"],
 			"hp": 210,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "My Affections in a Song　80"
@@ -6152,12 +5026,8 @@
 			"number": "hBP02-069",
 			"name": "魔法少女みこ",
 			"nameEn": "Magical Girl Miko",
-			"talents": [
-				"miko"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["miko"],
+			"colors": ["colorless"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -6172,17 +5042,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10138",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-069_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#holoWitches",
-				"#Gen",
-				"0",
-				"#Magic"
-			],
+			"tags": ["#holoWitches", "#Gen", "0", "#Magic"],
 			"hp": 60,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Shrine Maiden's holo!　20"
@@ -6201,12 +5064,8 @@
 			"number": "hBP02-070",
 			"name": "魔法少女かなた",
 			"nameEn": "Magical Girl Kanata",
-			"talents": [
-				"kanata"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["kanata"],
+			"colors": ["colorless"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -6221,17 +5080,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10140",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-070_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#holoWitches",
-				"#Gen",
-				"4",
-				"#Magic"
-			],
+			"tags": ["#holoWitches", "#Gen", "4", "#Magic"],
 			"hp": 60,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Angel's holo!　20"
@@ -6250,12 +5102,8 @@
 			"number": "hBP02-071",
 			"name": "魔法少女ルーナ",
 			"nameEn": "Magical Girl Luna",
-			"talents": [
-				"luna"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["luna"],
+			"colors": ["colorless"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -6270,17 +5118,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10142",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-071_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#holoWitches",
-				"#Gen",
-				"4",
-				"#Magic"
-			],
+			"tags": ["#holoWitches", "#Gen", "4", "#Magic"],
 			"hp": 60,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Princess' holo!　20"
@@ -6299,12 +5140,8 @@
 			"number": "hBP02-072",
 			"name": "魔法少女シオン",
 			"nameEn": "Magical Girl Shion",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["shion"],
+			"colors": ["colorless"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -6319,17 +5156,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10144",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-072_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#holoWitches",
-				"#Gen",
-				"2",
-				"#Magic"
-			],
+			"tags": ["#holoWitches", "#Gen", "2", "#Magic"],
 			"hp": 70,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Witch's holo!　20"
@@ -6348,12 +5178,8 @@
 			"number": "hBP02-073",
 			"name": "魔法少女マリン",
 			"nameEn": "Magical Girl Marine",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["marine"],
+			"colors": ["colorless"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -6368,17 +5194,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10146",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-073_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#holoWitches",
-				"#Gen",
-				"3",
-				"#Magic"
-			],
+			"tags": ["#holoWitches", "#Gen", "3", "#Magic"],
 			"hp": 70,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Pirate's holo!　20"
@@ -6397,12 +5216,8 @@
 			"number": "hBP02-074",
 			"name": "魔法少女クロヱ",
 			"nameEn": "Magical Girl Chloe",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["chloe"],
+			"colors": ["colorless"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -6417,16 +5232,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10148",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-074_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#holoWitches",
-				"#holoX",
-				"#Magic"
-			],
+			"tags": ["#holoWitches", "#holoX", "#Magic"],
 			"hp": 70,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Orca's holo!　20"
@@ -6445,12 +5254,8 @@
 			"number": "hBP02-009",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -6465,19 +5270,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10019",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-009_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"1",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Painting"
-			],
+			"tags": ["#JP", "#Gen", "1", "#GAMERS", "#Kemomimi", "#Painting"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Otsukon　20"
@@ -6495,12 +5291,8 @@
 			"number": "hBP02-011",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -6515,19 +5307,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10022",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-011_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"1",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Painting"
-			],
+			"tags": ["#JP", "#Gen", "1", "#GAMERS", "#Kemomimi", "#Painting"],
 			"hp": 120,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Nope, No Can Do!　40"
@@ -6545,12 +5328,8 @@
 			"number": "hBP02-016",
 			"name": "白銀ノエル",
 			"nameEn": "Shirogane Noel",
-			"talents": [
-				"noel"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["noel"],
+			"colors": ["white"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -6565,17 +5344,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10032",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-016_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Alcohol"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Alcohol"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Burn this Sight into Your Eyes♡　30"
@@ -6593,12 +5365,8 @@
 			"number": "hBP02-019",
 			"name": "パヴォリア・レイネ",
 			"nameEn": "Pavolia Reine",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -6613,19 +5381,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10038",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-019_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Bird",
-				"#Painting"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Bird", "#Painting"],
 			"hp": 60,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Very Easy!　20"
@@ -6643,12 +5402,8 @@
 			"number": "hBP02-021",
 			"name": "パヴォリア・レイネ",
 			"nameEn": "Pavolia Reine",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -6663,19 +5418,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10042",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-021_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Bird",
-				"#Painting"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Bird", "#Painting"],
 			"hp": 120,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Keep Your Eyes on Me, Okay? I Love You!　20\nYou may send 1 cheer from your archive to your holomem."
@@ -6692,12 +5438,8 @@
 			"number": "hBP02-026",
 			"name": "大神ミオ",
 			"nameEn": "Ookami Mio",
-			"talents": [
-				"mio"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["mio"],
+			"colors": ["green"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -6712,17 +5454,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10052",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-026_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi", "#Cooking"],
 			"hp": 100,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Please Watch Over Me This Year too!　20"
@@ -6740,12 +5475,8 @@
 			"number": "hBP02-029",
 			"name": "宝鐘マリン",
 			"nameEn": "Houshou Marine",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -6760,19 +5491,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10058",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-029_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Painting",
-				"#Sea",
-				"#Alcohol"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Painting", "#Sea", "#Alcohol"],
 			"hp": 70,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "It's \"Captain\" Marine, Got it!?　30"
@@ -6790,12 +5512,8 @@
 			"number": "hBP02-031",
 			"name": "宝鐘マリン",
 			"nameEn": "Houshou Marine",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -6810,18 +5528,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10061",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-031_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Painting", "#Sea"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Let's Set Sail Together! (Wholesome)　30"
@@ -6839,12 +5549,8 @@
 			"number": "hBP02-036",
 			"name": "沙花叉クロヱ",
 			"nameEn": "Sakamata Chloe",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -6859,16 +5565,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10072",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-036_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Sea"
-			],
+			"tags": ["#JP", "#holoX", "#Sea"],
 			"hp": 60,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "A Reality Worth Spitting Out!　20"
@@ -6886,12 +5586,8 @@
 			"number": "hBP02-038",
 			"name": "沙花叉クロヱ",
 			"nameEn": "Sakamata Chloe",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "280 円",
 			"marketprice": [
 				{
@@ -6906,16 +5602,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10076",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-038_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Sea"
-			],
+			"tags": ["#JP", "#holoX", "#Sea"],
 			"hp": 110,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "(This is the Part Where You Cheer)　30"
@@ -6933,12 +5623,8 @@
 			"number": "hBP02-043",
 			"name": "紫咲シオン",
 			"nameEn": "Murasaki Shion",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["shion"],
+			"colors": ["purple"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -6953,16 +5639,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10087",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-043_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2"
-			],
+			"tags": ["#JP", "#Gen", "2"],
 			"hp": 50,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Let's Go Together　30"
@@ -6980,12 +5660,8 @@
 			"number": "hBP02-045",
 			"name": "紫咲シオン",
 			"nameEn": "Murasaki Shion",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["shion"],
+			"colors": ["purple"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -7000,16 +5676,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10090",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-045_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2"
-			],
+			"tags": ["#JP", "#Gen", "2"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "I'm Super Duper Happy!!　40"
@@ -7027,12 +5697,8 @@
 			"number": "hBP02-049",
 			"name": "クレイジー・オリー",
 			"nameEn": "Kureiji Ollie",
-			"talents": [
-				"ollie"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie"],
+			"colors": ["purple"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -7047,18 +5713,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10098",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-049_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Language"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Language"],
 			"hp": 60,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Otsu-Kureiji!　20"
@@ -7076,12 +5734,8 @@
 			"number": "hBP02-051",
 			"name": "クレイジー・オリー",
 			"nameEn": "Kureiji Ollie",
-			"talents": [
-				"ollie"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie"],
+			"colors": ["purple"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -7096,18 +5750,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10102",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-051_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Language"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Language"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Screaming My Lungs Out for My Oshi!!　20"
@@ -7125,12 +5771,8 @@
 			"number": "hBP02-055",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -7145,16 +5787,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10110",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-055_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Myth", "#Singing"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "My Stage　20"
@@ -7172,12 +5808,8 @@
 			"number": "hBP02-057",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -7192,16 +5824,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10114",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-057_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Myth", "#Singing"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Hypin' It Up Together!　50"
@@ -7219,12 +5845,8 @@
 			"number": "hBP02-063",
 			"name": "一伊那尓栖",
 			"nameEn": "Ninomae Ina'nis",
-			"talents": [
-				"inanis"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["inanis"],
+			"colors": ["purple"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -7239,17 +5861,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10126",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-063_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#EN", "#Myth", "#Painting", "#Sea"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Let's have the Time of Our Lives!　30"
@@ -7267,12 +5882,8 @@
 			"number": "hBP02-067",
 			"name": "ネリッサ・レイヴンクロフト",
 			"nameEn": "Nerissa Ravencroft",
-			"talents": [
-				"nerissa"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["nerissa"],
+			"colors": ["purple"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -7287,17 +5898,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10134",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-067_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Singing",
-				"#Bird"
-			],
+			"tags": ["#EN", "#Advent", "#Singing", "#Bird"],
 			"hp": 120,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Tea Over Coffee　20"
@@ -7344,9 +5948,7 @@
 			"number": "hBP02-078",
 			"name": "かなた建設(エラッタ前)",
 			"nameEn": "Kanata Construction (Pre-errata)",
-			"talents": [
-				"kanata"
-			],
+			"talents": ["kanata"],
 			"colors": [],
 			"price": "80 円",
 			"marketprice": [
@@ -7375,9 +5977,7 @@
 			"number": "hBP02-078",
 			"name": "かなた建設(エラッタ後)",
 			"nameEn": "Kanata Construction (Post-errata)",
-			"talents": [
-				"kanata"
-			],
+			"talents": ["kanata"],
 			"colors": [],
 			"price": "80 円",
 			"marketprice": [
@@ -7422,9 +6022,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10158",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-079_U.png",
 			"cardType": "Support・Event",
-			"tags": [
-				"#Magic"
-			],
+			"tags": ["#Magic"],
 			"abilityText": "Deal 20 special damage to your opponent's center holomem or collab holomem. However, your opponent's life does not reduce even if downed. Only 1 of your event with #Magic can be used each turn.",
 			"officialId": 379,
 			"officialName": "Explosion Magic",
@@ -7541,9 +6139,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10166",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-083_U.png",
 			"cardType": "Support・Event",
-			"tags": [
-				"#Magic"
-			],
+			"tags": ["#Magic"],
 			"abilityText": "This card can only be used if you archive 1 of your holo Power.\n\nSend 1 purple cheer from your archive to your 〈Murasaki Shion〉. Only 1 of your event with #Magic can be used each turn.",
 			"officialId": 383,
 			"officialName": "Magic Dresser",
@@ -7557,9 +6153,7 @@
 			"number": "hBP02-084",
 			"name": "みっころね24",
 			"nameEn": "Mikkorone 24",
-			"talents": [
-				"korone"
-			],
+			"talents": ["korone"],
 			"colors": [],
 			"price": "120 円",
 			"marketprice": [
@@ -7617,9 +6211,7 @@
 			"number": "hBP02-088",
 			"name": "森カリオペの鎌",
 			"nameEn": "Mori Calliope's Scythe",
-			"talents": [
-				"calliope"
-			],
+			"talents": ["calliope"],
 			"colors": [],
 			"price": "30 円",
 			"marketprice": [
@@ -7648,9 +6240,7 @@
 			"number": "hBP02-092",
 			"name": "フブラ",
 			"nameEn": "Fubura",
-			"talents": [
-				"fubuki"
-			],
+			"talents": ["fubuki"],
 			"colors": [],
 			"price": "50 円",
 			"marketprice": [
@@ -7666,10 +6256,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10185",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-092_U.png",
 			"cardType": "Support・Mascot",
-			"tags": [
-				"#Shirakami's",
-				"Character"
-			],
+			"tags": ["#Shirakami's", "Character"],
 			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to 〈Shirakami Fubuki〉\n\n[1/Turn]During your main phase, you may archive 2 cheers from your holomem:During this turn, this holomem gets Arts+50.\n\nOnly 1 mascot can be attached to each of your holomem.",
 			"officialId": 392,
 			"officialName": "Fubzilla",
@@ -7683,12 +6270,8 @@
 			"number": "hBP02-008",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -7703,19 +6286,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10018",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-008_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"1",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Painting"
-			],
+			"tags": ["#JP", "#Gen", "1", "#GAMERS", "#Kemomimi", "#Painting"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Kon-Kon Kitsune!　30"
@@ -7734,12 +6308,8 @@
 			"number": "hBP02-010",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["fubuki"],
+			"colors": ["white"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -7754,19 +6324,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10020",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-010_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"1",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Painting"
-			],
+			"tags": ["#JP", "#Gen", "1", "#GAMERS", "#Kemomimi", "#Painting"],
 			"hp": 150,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Osmanthus Flower Fubuki　40"
@@ -7787,12 +6348,8 @@
 			"number": "hBP02-014",
 			"name": "白銀ノエル",
 			"nameEn": "Shirogane Noel",
-			"talents": [
-				"noel"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["noel"],
+			"colors": ["white"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -7807,17 +6364,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10029",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-014_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Alcohol"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Alcohol"],
 			"hp": 130,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Kon-Muscle~!　20"
@@ -7836,12 +6386,8 @@
 			"number": "hBP02-015",
 			"name": "白銀ノエル",
 			"nameEn": "Shirogane Noel",
-			"talents": [
-				"noel"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["noel"],
+			"colors": ["white"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -7856,17 +6402,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10030",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-015_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Alcohol"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Alcohol"],
 			"hp": 180,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Oha-Muscle~!　30"
@@ -7887,12 +6426,8 @@
 			"number": "hBP02-018",
 			"name": "パヴォリア・レイネ",
 			"nameEn": "Pavolia Reine",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -7907,19 +6442,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10037",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-018_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Bird",
-				"#Painting"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Bird", "#Painting"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Perhatian!　30"
@@ -7937,12 +6463,8 @@
 			"number": "hBP02-020",
 			"name": "パヴォリア・レイネ",
 			"nameEn": "Pavolia Reine",
-			"talents": [
-				"reine"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["reine"],
+			"colors": ["green"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -7957,19 +6479,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10040",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-020_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Bird",
-				"#Painting"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Bird", "#Painting"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Royal Halu Sleepover　50"
@@ -7987,12 +6500,8 @@
 			"number": "hBP02-024",
 			"name": "大神ミオ",
 			"nameEn": "Ookami Mio",
-			"talents": [
-				"mio"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["mio"],
+			"colors": ["green"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -8007,17 +6516,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10049",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-024_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi", "#Cooking"],
 			"hp": 90,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Hey hey, it's me~ Ookami Mio~　10\nYou may reattach 1 cheer from your stage to your holomem with #JP."
@@ -8035,12 +6537,8 @@
 			"number": "hBP02-025",
 			"name": "大神ミオ",
 			"nameEn": "Ookami Mio",
-			"talents": [
-				"mio"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["mio"],
+			"colors": ["green"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -8055,17 +6553,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10050",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-025_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi", "#Cooking"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Oha-Miooon　30"
@@ -8086,12 +6577,8 @@
 			"number": "hBP02-028",
 			"name": "宝鐘マリン",
 			"nameEn": "Houshou Marine",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -8106,18 +6593,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10057",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-028_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Painting", "#Sea"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "I'm Houshou Marine, Captain of the Houshou Pirates!　30"
@@ -8135,12 +6614,8 @@
 			"number": "hBP02-030",
 			"name": "宝鐘マリン",
 			"nameEn": "Houshou Marine",
-			"talents": [
-				"marine"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["marine"],
+			"colors": ["red"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -8155,18 +6630,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10059",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-030_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"3",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#JP", "#Gen", "3", "#Painting", "#Sea"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "What's the Captain Gonna Do to Me?　40"
@@ -8187,12 +6654,8 @@
 			"number": "hBP02-035",
 			"name": "沙花叉クロヱ",
 			"nameEn": "Sakamata Chloe",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "680 円",
 			"marketprice": [
 				{
@@ -8207,16 +6670,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10071",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-035_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Sea"
-			],
+			"tags": ["#JP", "#holoX", "#Sea"],
 			"hp": 110,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Chomp, Chomp, Chooomp!　30"
@@ -8235,12 +6692,8 @@
 			"number": "hBP02-037",
 			"name": "沙花叉クロヱ",
 			"nameEn": "Sakamata Chloe",
-			"talents": [
-				"chloe"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["chloe"],
+			"colors": ["blue"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -8255,16 +6708,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10074",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-037_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Sea"
-			],
+			"tags": ["#JP", "#holoX", "#Sea"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Having the Beach to Ourselves　60"
@@ -8282,12 +6729,8 @@
 			"number": "hBP02-042",
 			"name": "紫咲シオン",
 			"nameEn": "Murasaki Shion",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["shion"],
+			"colors": ["purple"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -8302,16 +6745,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10086",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-042_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2"
-			],
+			"tags": ["#JP", "#Gen", "2"],
 			"hp": 130,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Hey There~　20"
@@ -8330,12 +6767,8 @@
 			"number": "hBP02-044",
 			"name": "紫咲シオン",
 			"nameEn": "Murasaki Shion",
-			"talents": [
-				"shion"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["shion"],
+			"colors": ["purple"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -8350,17 +6783,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10088",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-044_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen",
-				"2",
-				"#Kemomimi"
-			],
+			"tags": ["#JP", "#Gen", "2", "#Kemomimi"],
 			"hp": 170,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "So Embarrassing　30"
@@ -8381,12 +6807,8 @@
 			"number": "hBP02-048",
 			"name": "クレイジー・オリー",
 			"nameEn": "Kureiji Ollie",
-			"talents": [
-				"ollie"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie"],
+			"colors": ["purple"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -8401,18 +6823,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10097",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-048_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Language"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Language"],
 			"hp": 120,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Zombanwa!　20"
@@ -8431,12 +6845,8 @@
 			"number": "hBP02-050",
 			"name": "クレイジー・オリー",
 			"nameEn": "Kureiji Ollie",
-			"talents": [
-				"ollie"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["ollie"],
+			"colors": ["purple"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -8451,18 +6861,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10100",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-050_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID",
-				"Gen",
-				"2",
-				"#Language"
-			],
+			"tags": ["#ID", "#ID", "Gen", "2", "#Language"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Junior Who Adores You　20"
@@ -8483,12 +6885,8 @@
 			"number": "hBP02-054",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -8503,16 +6901,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10109",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-054_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Myth", "#Singing"],
 			"hp": 90,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "First Disciple of the Grim Reaper　30+\nIf your archive has holomem, this Arts gets +10."
@@ -8531,12 +6923,8 @@
 			"number": "hBP02-056",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -8551,16 +6939,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10112",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-056_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Myth", "#Singing"],
 			"hp": 110,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "\"Cash-Money\"　50"
@@ -8578,12 +6960,8 @@
 			"number": "hBP02-061",
 			"name": "一伊那尓栖",
 			"nameEn": "Ninomae Ina'nis",
-			"talents": [
-				"inanis"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["inanis"],
+			"colors": ["purple"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -8598,17 +6976,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10123",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-061_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#EN", "#Myth", "#Painting", "#Sea"],
 			"hp": 140,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "WAH!　10"
@@ -8627,12 +6998,8 @@
 			"number": "hBP02-062",
 			"name": "一伊那尓栖",
 			"nameEn": "Ninomae Ina'nis",
-			"talents": [
-				"inanis"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["inanis"],
+			"colors": ["purple"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -8647,17 +7014,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10124",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-062_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#Painting",
-				"#Sea"
-			],
+			"tags": ["#EN", "#Myth", "#Painting", "#Sea"],
 			"hp": 180,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Takogram With You　60"
@@ -8675,12 +7035,8 @@
 			"number": "hBP02-065",
 			"name": "ネリッサ・レイヴンクロフト",
 			"nameEn": "Nerissa Ravencroft",
-			"talents": [
-				"nerissa"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["nerissa"],
+			"colors": ["purple"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -8695,17 +7051,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10131",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-065_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Singing",
-				"#Bird"
-			],
+			"tags": ["#EN", "#Advent", "#Singing", "#Bird"],
 			"hp": 90,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Hiya darlings!　30+\nIf a red cheer is attached to this holomem, this Arts gets +10."
@@ -8724,12 +7073,8 @@
 			"number": "hBP02-066",
 			"name": "ネリッサ・レイヴンクロフト",
 			"nameEn": "Nerissa Ravencroft",
-			"talents": [
-				"nerissa"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["nerissa"],
+			"colors": ["purple"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -8744,17 +7089,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10132",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-066_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Singing",
-				"#Bird"
-			],
+			"tags": ["#EN", "#Advent", "#Singing", "#Bird"],
 			"hp": 150,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "That Has a Nice Ring to It　30"
@@ -8862,9 +7200,7 @@
 			"number": "hBP02-087",
 			"name": "紫咲シオンの魔法のステッキ",
 			"nameEn": "Murasaki Shion's Magic Wand",
-			"talents": [
-				"shion"
-			],
+			"talents": ["shion"],
 			"colors": [],
 			"price": "30 円",
 			"marketprice": [
@@ -8880,9 +7216,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10175",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-087_C.png",
 			"cardType": "Support・Tool",
-			"tags": [
-				"#Magic"
-			],
+			"tags": ["#Magic"],
 			"abilityText": "The holomem this tool is attached to gets Arts+10.\n\n◆Additional ability if attached to 1st or greater 〈Murasaki Shion〉\n\nIf this tool is attached to a center holomem, change [1/Turn] to [2/turn] for your Oshi Skill \"Heeeyyyyy\".\n\nOnly 1 tool can be attached to each of your holomem.",
 			"officialId": 387,
 			"officialName": "Murasaki Shion’s Magic Wand",
@@ -8912,10 +7246,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10179",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-089_C.png",
 			"cardType": "Support・Mascot",
-			"tags": [
-				"#Shirakami's",
-				"Character"
-			],
+			"tags": ["#Shirakami's", "Character"],
 			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to 〈Shirakami Fubuki〉\n\nWhen the holomem this mascot is attached to collabs, draw 1 card.\n\nOnly 1 mascot can be attached to each of your holomem.",
 			"officialId": 389,
 			"officialName": "Oruyanke",
@@ -8929,9 +7260,7 @@
 			"number": "hBP02-090",
 			"name": "ネジマキツネ",
 			"nameEn": "Nejima Kitsune",
-			"talents": [
-				"risu"
-			],
+			"talents": ["risu"],
 			"colors": [],
 			"price": "50 円",
 			"marketprice": [
@@ -8947,10 +7276,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10181",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-090_C.png",
 			"cardType": "Support・Mascot",
-			"tags": [
-				"#Shirakami's",
-				"Character"
-			],
+			"tags": ["#Shirakami's", "Character"],
 			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to 〈Shirakami Fubuki〉\n\nIf the holomem this mascot is attached to is downed, reattach 1 cheer from this holomem to your other holomem.\n\nOnly 1 mascot can be attached to each of your holomem.",
 			"officialId": 390,
 			"officialName": "Nejimakitsune",
@@ -8964,9 +7290,7 @@
 			"number": "hBP02-091",
 			"name": "フブチュン",
 			"nameEn": "Fubuchun",
-			"talents": [
-				"fubuki"
-			],
+			"talents": ["fubuki"],
 			"colors": [],
 			"price": "50 円",
 			"marketprice": [
@@ -8982,10 +7306,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10183",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-091_C.png",
 			"cardType": "Support・Mascot",
-			"tags": [
-				"#Shirakami's",
-				"Character"
-			],
+			"tags": ["#Shirakami's", "Character"],
 			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to 〈Shirakami Fubuki〉\n\nWhen the holomem this mascot is attached to collabs, you may return 1 mascot from your archive to hand.\n\nOnly 1 mascot can be attached to each of your holomem.",
 			"officialId": 391,
 			"officialName": "Fubu-chun",
@@ -9015,10 +7336,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10187",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-093_C.png",
 			"cardType": "Support・Mascot",
-			"tags": [
-				"#Shirakami's",
-				"Character"
-			],
+			"tags": ["#Shirakami's", "Character"],
 			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to 〈Shirakami Fubuki〉\n\n[Back Position Only]The holomem this mascot is attached to does not take damage from your opponent.\n\nOnly 1 mascot can be attached to each of your holomem.",
 			"officialId": 393,
 			"officialName": "Miteiru",
@@ -9193,10 +7511,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp02/10199",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-099_C.png",
 			"cardType": "Support・Fan",
-			"tags": [
-				"#Shirakami's",
-				"Character"
-			],
+			"tags": ["#Shirakami's", "Character"],
 			"abilityText": "The holomem this fan is attached to gets +10 HP.\n\nYou may only attach this fan to your 〈Shirakami Fubuki〉, and you may attach any number of this fan per holomem.",
 			"officialId": 399,
 			"officialName": "Sukonbu",
@@ -9210,9 +7525,7 @@
 			"number": "hBP02-100",
 			"name": "白銀聖騎士団",
 			"nameEn": "Shirogane Holy Knights",
-			"talents": [
-				"noel"
-			],
+			"talents": ["noel"],
 			"colors": [],
 			"price": "50 円",
 			"marketprice": [
@@ -9241,9 +7554,7 @@
 			"number": "hBP02-101",
 			"name": "ミオファ",
 			"nameEn": "Miofa",
-			"talents": [
-				"mio"
-			],
+			"talents": ["mio"],
 			"colors": [],
 			"price": "30 円",
 			"marketprice": [

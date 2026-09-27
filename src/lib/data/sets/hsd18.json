@@ -15,12 +15,8 @@
 			"number": "hSD18-001",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD18-009",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -76,16 +68,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-009_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#歌"
-			],
+			"tags": ["#EN", "#Myth", "#歌"],
 			"hp": 160,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "刻むぞ冥界のビート　90"
@@ -103,12 +89,8 @@
 			"number": "hSD18-008",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -123,16 +105,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-008_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#歌"
-			],
+			"tags": ["#EN", "#Myth", "#歌"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "OK、もう一曲行こう！　40\n[センターポジション限定]自分のアーカイブのツール1枚を手札に戻す。"
@@ -150,12 +126,8 @@
 			"number": "hSD18-005",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -170,16 +142,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-005_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#歌"
-			],
+			"tags": ["#EN", "#Myth", "#歌"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "一緒に、どう？　20"
@@ -197,12 +163,8 @@
 			"number": "hSD18-007",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -217,16 +179,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-007_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#歌"
-			],
+			"tags": ["#EN", "#Myth", "#歌"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "手伝ってもらって助かるよ　30+\nこのホロメンにツールが付いているなら、このアーツ+10。"
@@ -273,12 +229,8 @@
 			"number": "hSD18-002",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -293,16 +245,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10002",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-002_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#歌"
-			],
+			"tags": ["#EN", "#Myth", "#歌"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Nice to reap you　20"
@@ -320,12 +266,8 @@
 			"number": "hSD18-003",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -340,16 +282,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#歌"
-			],
+			"tags": ["#EN", "#Myth", "#歌"],
 			"hp": 70,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "今日もあなたのそばに -カリオペ-　30"
@@ -366,12 +302,8 @@
 			"number": "hSD18-004",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -386,16 +318,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-004_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#歌"
-			],
+			"tags": ["#EN", "#Myth", "#歌"],
 			"hp": 90,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "あたためて貰えますか…？　20"
@@ -413,12 +339,8 @@
 			"number": "hSD18-006",
 			"name": "森カリオペ",
 			"nameEn": "Mori Calliope",
-			"talents": [
-				"calliope"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["calliope"],
+			"colors": ["purple"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -433,16 +355,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-006_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Myth",
-				"#歌"
-			],
+			"tags": ["#EN", "#Myth", "#歌"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "これから、頑張る。　30"

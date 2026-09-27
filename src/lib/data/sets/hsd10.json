@@ -15,12 +15,8 @@
 			"number": "hSD10-001",
 			"name": "輪堂千速",
 			"nameEn": "Wado Chisato",
-			"talents": [
-				"chisato"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["chisato"],
+			"colors": ["green"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD10-006",
 			"name": "輪堂千速",
 			"nameEn": "Wado Chisato",
-			"talents": [
-				"chisato"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["chisato"],
+			"colors": ["green"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -76,15 +68,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-006_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#FLOW GLOW"
-			],
+			"tags": ["#DEV_IS", "#FLOW GLOW"],
 			"hp": 200,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "鼓動の操縦者　80+\nこのターンに自分のホロメンがBloomしていたなら、このアーツ+50。"
@@ -105,12 +92,8 @@
 			"number": "hSD10-009",
 			"name": "綺々羅々ヴィヴィ",
 			"nameEn": "Kikirara Vivi",
-			"talents": [
-				"vivi"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["vivi"],
+			"colors": ["purple"],
 			"price": "680 円",
 			"marketprice": [
 				{
@@ -125,15 +108,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-009_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#FLOW GLOW"
-			],
+			"tags": ["#DEV_IS", "#FLOW GLOW"],
 			"hp": 200,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "ヴィジランスヴィーナス　80+\n相手の手札1枚につき、このアーツ+10。"
@@ -151,12 +129,8 @@
 			"number": "hSD10-010",
 			"name": "響咲リオナ",
 			"nameEn": "Hizuka Riona",
-			"talents": [
-				"riona"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["riona"],
+			"colors": ["colorless"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -171,10 +145,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10010",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-010_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#FLOW GLOW"
-			],
+			"tags": ["#DEV_IS", "#FLOW GLOW"],
 			"hp": 170,
 			"bloomLevel": "Spot",
 			"arts": [
@@ -195,12 +166,8 @@
 			"number": "hSD10-004",
 			"name": "輪堂千速",
 			"nameEn": "Wado Chisato",
-			"talents": [
-				"chisato"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["chisato"],
+			"colors": ["green"],
 			"price": "680 円",
 			"marketprice": [
 				{
@@ -215,15 +182,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-004_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#FLOW GLOW"
-			],
+			"tags": ["#DEV_IS", "#FLOW GLOW"],
 			"hp": 150,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "パワフルな運転手だよ！　50\n自分のステージに#FLOW GLOWを持つホロメンが3人以上いるなら、自分のエールデッキの上から1枚を自分のバックホロメンに送れる。"
@@ -241,12 +203,8 @@
 			"number": "hSD10-005",
 			"name": "輪堂千速",
 			"nameEn": "Wado Chisato",
-			"talents": [
-				"chisato"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["chisato"],
+			"colors": ["green"],
 			"price": "420 円",
 			"marketprice": [
 				{
@@ -261,15 +219,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-005_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#FLOW GLOW"
-			],
+			"tags": ["#DEV_IS", "#FLOW GLOW"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "行きます！！！！　20+\nこのターンに自分のホロメンがBloomしていたなら、このターンの間、自分のステージの〈輪堂千速〉1人のアーツ+20。"
@@ -345,12 +298,8 @@
 			"number": "hSD10-002",
 			"name": "輪堂千速",
 			"nameEn": "Wado Chisato",
-			"talents": [
-				"chisato"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["chisato"],
+			"colors": ["green"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -365,15 +314,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10002",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-002_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#FLOW GLOW"
-			],
+			"tags": ["#DEV_IS", "#FLOW GLOW"],
 			"hp": 110,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "はじまりんど～～～！　30"
@@ -392,12 +336,8 @@
 			"number": "hSD10-003",
 			"name": "輪堂千速",
 			"nameEn": "Wado Chisato",
-			"talents": [
-				"chisato"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["chisato"],
+			"colors": ["green"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -412,15 +352,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#FLOW GLOW"
-			],
+			"tags": ["#DEV_IS", "#FLOW GLOW"],
 			"hp": 170,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "エンジン全開 演じない自然体　30"
@@ -441,12 +376,8 @@
 			"number": "hSD10-007",
 			"name": "綺々羅々ヴィヴィ",
 			"nameEn": "Kikirara Vivi",
-			"talents": [
-				"vivi"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["vivi"],
+			"colors": ["purple"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -461,15 +392,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-007_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#FLOW GLOW"
-			],
+			"tags": ["#DEV_IS", "#FLOW GLOW"],
 			"hp": 120,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "ん〜〜〜〜〜ッヴィヴィ〜！　20"
@@ -488,12 +414,8 @@
 			"number": "hSD10-008",
 			"name": "綺々羅々ヴィヴィ",
 			"nameEn": "Kikirara Vivi",
-			"talents": [
-				"vivi"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["vivi"],
+			"colors": ["purple"],
 			"price": "320 円",
 			"marketprice": [
 				{
@@ -508,15 +430,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-008_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#DEV_IS",
-				"#FLOW GLOW"
-			],
+			"tags": ["#DEV_IS", "#FLOW GLOW"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "そこに愛はあるんや！　30"

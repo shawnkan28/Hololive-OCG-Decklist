@@ -15,12 +15,8 @@
 			"number": "hSD12-001",
 			"name": "シオリ・ノヴェラ",
 			"nameEn": "Shiori Novella",
-			"talents": [
-				"novella"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["novella"],
+			"colors": ["blue"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -57,9 +53,7 @@
 			"name": "古石ビジュー",
 			"nameEn": "Koseki Bijou",
 			"talents": [],
-			"colors": [
-				"purple"
-			],
+			"colors": ["purple"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -95,12 +89,8 @@
 			"number": "hSD12-007",
 			"name": "シオリ・ノヴェラ",
 			"nameEn": "Shiori Novella",
-			"talents": [
-				"novella"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["novella"],
+			"colors": ["blue"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -115,15 +105,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-007_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent"
-			],
+			"tags": ["#EN", "#Advent"],
 			"hp": 200,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Could You Refrain from Underestimating Us?　110\nDeal 10 special damage to 1 of your opponent's holomem other than Debut for each holomem with #Advent on your stage."
@@ -142,9 +127,7 @@
 			"name": "古石ビジュー",
 			"nameEn": "Koseki Bijou",
 			"talents": [],
-			"colors": [
-				"purple"
-			],
+			"colors": ["purple"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -159,16 +142,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10011",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-011_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Baby"
-			],
+			"tags": ["#EN", "#Advent", "#Baby"],
 			"hp": 200,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Behold the Sparkle!　110\nThis Arts requires -1 colorless for each different color among cheers in both players' archives."
@@ -186,12 +163,8 @@
 			"number": "hSD12-006",
 			"name": "シオリ・ノヴェラ",
 			"nameEn": "Shiori Novella",
-			"talents": [
-				"novella"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["novella"],
+			"colors": ["blue"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -206,15 +179,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-006_R.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#EN",
-				"#Advent"
-			],
+			"tags": ["#EN", "#Advent"],
 			"hp": 250,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Elementary　40\nDeal 20 special damage to 1 of your opponent's holomem."
@@ -233,12 +201,8 @@
 			"number": "hSD12-005",
 			"name": "シオリ・ノヴェラ",
 			"nameEn": "Shiori Novella",
-			"talents": [
-				"novella"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["novella"],
+			"colors": ["blue"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -253,15 +217,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-005_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent"
-			],
+			"tags": ["#EN", "#Advent"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Look Out the Window, the Stars Are Beautiful　40"
@@ -280,9 +239,7 @@
 			"name": "古石ビジュー",
 			"nameEn": "Koseki Bijou",
 			"talents": [],
-			"colors": [
-				"purple"
-			],
+			"colors": ["purple"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -297,16 +254,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10010",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-010_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Baby"
-			],
+			"tags": ["#EN", "#Advent", "#Baby"],
 			"hp": 170,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Fading Radiance　30"
@@ -356,12 +307,8 @@
 			"number": "hBP04-050",
 			"name": "シオリ・ノヴェラ(パラレル/SD12)",
 			"nameEn": "Shiori Novella",
-			"talents": [
-				"novella"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["novella"],
+			"colors": ["blue"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -376,15 +323,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10017",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hBP04-050_02_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent"
-			],
+			"tags": ["#EN", "#Advent"],
 			"hp": 110,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Shiori~n!　30"
@@ -404,9 +346,7 @@
 			"name": "古石ビジュー(パラレル/SD12)",
 			"nameEn": "Koseki Bijou",
 			"talents": [],
-			"colors": [
-				"purple"
-			],
+			"colors": ["purple"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -421,16 +361,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10018",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hBP04-063_02_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Baby"
-			],
+			"tags": ["#EN", "#Advent", "#Baby"],
 			"hp": 110,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Bon-Bijou!　20"
@@ -478,12 +412,8 @@
 			"number": "hSD12-003",
 			"name": "シオリ・ノヴェラ",
 			"nameEn": "Shiori Novella",
-			"talents": [
-				"novella"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["novella"],
+			"colors": ["blue"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -498,15 +428,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent"
-			],
+			"tags": ["#EN", "#Advent"],
 			"hp": 130,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Adieu, Dear Listener　20"
@@ -524,12 +449,8 @@
 			"number": "hSD12-004",
 			"name": "シオリ・ノヴェラ",
 			"nameEn": "Shiori Novella",
-			"talents": [
-				"novella"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["novella"],
+			"colors": ["blue"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -544,15 +465,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-004_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent"
-			],
+			"tags": ["#EN", "#Advent"],
 			"hp": 170,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Unsettling Warning　20\nThis Arts can target your opponent's back holomem too."
@@ -574,9 +490,7 @@
 			"name": "古石ビジュー",
 			"nameEn": "Koseki Bijou",
 			"talents": [],
-			"colors": [
-				"purple"
-			],
+			"colors": ["purple"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -591,16 +505,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-008_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Baby"
-			],
+			"tags": ["#EN", "#Advent", "#Baby"],
 			"hp": 110,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "I've... Been Dreaming a Lot Lately.　30"
@@ -619,9 +527,7 @@
 			"name": "古石ビジュー",
 			"nameEn": "Koseki Bijou",
 			"talents": [],
-			"colors": [
-				"purple"
-			],
+			"colors": ["purple"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -636,16 +542,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-009_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Baby"
-			],
+			"tags": ["#EN", "#Advent", "#Baby"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "That Is What I Am Grateful For　30"
@@ -663,12 +563,8 @@
 			"number": "hSD12-012",
 			"name": "ネリッサ・レイヴンクロフト",
 			"nameEn": "Nerissa Ravencroft",
-			"talents": [
-				"nerissa"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["nerissa"],
+			"colors": ["purple"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -683,17 +579,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10012",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-012_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Singing",
-				"#Bird"
-			],
+			"tags": ["#EN", "#Advent", "#Singing", "#Bird"],
 			"hp": 140,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Transient Blues　80\nIf your life is 3 or less, this Arts requires -2 colorless."
@@ -711,12 +600,8 @@
 			"number": "hSD12-013",
 			"name": "モココ・アビスガード",
 			"nameEn": "Mococo Abyssgard",
-			"talents": [
-				"mococo"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["mococo"],
+			"colors": ["red"],
 			"price": "1,280 円",
 			"marketprice": [
 				{
@@ -731,16 +616,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10013",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-013_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Kemomimi"
-			],
+			"tags": ["#EN", "#Advent", "#Kemomimi"],
 			"hp": 130,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "I Totally Totally Mean It!!　30"
@@ -758,12 +637,8 @@
 			"number": "hSD12-014",
 			"name": "フワワ・アビスガード",
 			"nameEn": "Fuwawa Abyssgard",
-			"talents": [
-				"fuwawa"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["fuwawa"],
+			"colors": ["blue"],
 			"price": "980 円",
 			"marketprice": [
 				{
@@ -778,11 +653,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10014",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-014_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Advent",
-				"#Kemomimi"
-			],
+			"tags": ["#EN", "#Advent", "#Kemomimi"],
 			"hp": 100,
 			"bloomLevel": "Debut",
 			"arts": [

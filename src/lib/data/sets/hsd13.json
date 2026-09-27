@@ -15,12 +15,8 @@
 			"number": "hSD13-001",
 			"name": "エリザベス・ローズ・ブラッドフレイム",
 			"nameEn": "Elizabeth Rose Bloodflame",
-			"talents": [
-				"bloodflame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["bloodflame"],
+			"colors": ["red"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD13-002",
 			"name": "ジジ・ムリン",
 			"nameEn": "Gigi Murin",
-			"talents": [
-				"gigi"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["gigi"],
+			"colors": ["yellow"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -97,12 +89,8 @@
 			"number": "hSD13-007",
 			"name": "エリザベス・ローズ・ブラッドフレイム",
 			"nameEn": "Elizabeth Rose Bloodflame",
-			"talents": [
-				"bloodflame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["bloodflame"],
+			"colors": ["red"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -117,16 +105,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-007_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Justice",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Justice", "#Singing"],
 			"hp": 180,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Baneslayer Cadenza　100+\nThis Arts gets +20 for each cheer attached to this holomem. If this Arts downed your opponent's holomem, send the top card of your cheer deck to this holomem."
@@ -144,12 +126,8 @@
 			"number": "hSD13-013",
 			"name": "ジジ・ムリン",
 			"nameEn": "Gigi Murin",
-			"talents": [
-				"gigi"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["gigi"],
+			"colors": ["yellow"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -164,15 +142,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10013",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-013_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Justice"
-			],
+			"tags": ["#EN", "#Justice"],
 			"hp": 210,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Shatter Riot　90+\nThis Arts gets +90 if there are no holomem stacked to this holomem."
@@ -190,12 +163,8 @@
 			"number": "hSD13-005",
 			"name": "エリザベス・ローズ・ブラッドフレイム",
 			"nameEn": "Elizabeth Rose Bloodflame",
-			"talents": [
-				"bloodflame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["bloodflame"],
+			"colors": ["red"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -210,16 +179,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-005_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Justice",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Justice", "#Singing"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Lovely to See You, to See You, Lovely~♡　50"
@@ -237,12 +200,8 @@
 			"number": "hSD13-006",
 			"name": "エリザベス・ローズ・ブラッドフレイム",
 			"nameEn": "Elizabeth Rose Bloodflame",
-			"talents": [
-				"bloodflame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["bloodflame"],
+			"colors": ["red"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -257,16 +216,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-006_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Justice",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Justice", "#Singing"],
 			"hp": 150,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Things Worth Protecting　30"
@@ -284,12 +237,8 @@
 			"number": "hSD13-011",
 			"name": "ジジ・ムリン",
 			"nameEn": "Gigi Murin",
-			"talents": [
-				"gigi"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["gigi"],
+			"colors": ["yellow"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -304,15 +253,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10011",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-011_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Justice"
-			],
+			"tags": ["#EN", "#Justice"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "In Search of What It All Means　40+\nThis Arts gets +20 if there are no holomem stacked to this holomem."
@@ -330,12 +274,8 @@
 			"number": "hSD13-012",
 			"name": "ジジ・ムリン",
 			"nameEn": "Gigi Murin",
-			"talents": [
-				"gigi"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["gigi"],
+			"colors": ["yellow"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -350,15 +290,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10012",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-012_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Justice"
-			],
+			"tags": ["#EN", "#Justice"],
 			"hp": 170,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Losing's Not an Option　60"
@@ -434,12 +369,8 @@
 			"number": "hSD13-003",
 			"name": "エリザベス・ローズ・ブラッドフレイム",
 			"nameEn": "Elizabeth Rose Bloodflame",
-			"talents": [
-				"bloodflame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["bloodflame"],
+			"colors": ["red"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -454,16 +385,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Justice",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Justice", "#Singing"],
 			"hp": 140,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Oh! Ho-ho-ho!　30"
@@ -482,12 +407,8 @@
 			"number": "hSD13-004",
 			"name": "エリザベス・ローズ・ブラッドフレイム",
 			"nameEn": "Elizabeth Rose Bloodflame",
-			"talents": [
-				"bloodflame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["bloodflame"],
+			"colors": ["red"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -502,16 +423,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-004_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Justice",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Justice", "#Singing"],
 			"hp": 170,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Roses Are Red　40"
@@ -532,12 +447,8 @@
 			"number": "hSD13-008",
 			"name": "ジジ・ムリン",
 			"nameEn": "Gigi Murin",
-			"talents": [
-				"gigi"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["gigi"],
+			"colors": ["yellow"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -552,15 +463,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-008_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Justice"
-			],
+			"tags": ["#EN", "#Justice"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "GI MURIN!!!!　20"
@@ -579,12 +485,8 @@
 			"number": "hSD13-009",
 			"name": "ジジ・ムリン",
 			"nameEn": "Gigi Murin",
-			"talents": [
-				"gigi"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["gigi"],
+			"colors": ["yellow"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -599,15 +501,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-009_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Justice"
-			],
+			"tags": ["#EN", "#Justice"],
 			"hp": 120,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "YIPPEEE　20"
@@ -625,12 +522,8 @@
 			"number": "hSD13-010",
 			"name": "ジジ・ムリン",
 			"nameEn": "Gigi Murin",
-			"talents": [
-				"gigi"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["gigi"],
+			"colors": ["yellow"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -645,15 +538,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10010",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-010_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Justice"
-			],
+			"tags": ["#EN", "#Justice"],
 			"hp": 180,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Source of Headaches for Those Around Her　40"
@@ -674,12 +562,8 @@
 			"number": "hSD13-014",
 			"name": "セシリア・イマーグリーン",
 			"nameEn": "Cecilia Immergreen",
-			"talents": [
-				"cecilia"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["cecilia"],
+			"colors": ["colorless"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -694,16 +578,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10014",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-014_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Justice",
-				"#Language"
-			],
+			"tags": ["#EN", "#Justice", "#Language"],
 			"hp": 160,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Have Some Tea!　40\nSend the top card of your cheer deck to 1 of your holomem with #Justice."
@@ -721,12 +599,8 @@
 			"number": "hSD13-015",
 			"name": "ラオーラ・パンテーラ",
 			"nameEn": "Raora Panthera",
-			"talents": [
-				"raora"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["raora"],
+			"colors": ["colorless"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -741,17 +615,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10015",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-015_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Justice",
-				"#Kemomimi",
-				"#Painting"
-			],
+			"tags": ["#EN", "#Justice", "#Kemomimi", "#Painting"],
 			"hp": 160,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Have Some Coffee!　30+\nIf your [center holomem and collab holomem] with #Justice each have cheers of different colors attached, this Arts gets +20."

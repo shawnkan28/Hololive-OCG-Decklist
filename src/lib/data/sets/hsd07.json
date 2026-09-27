@@ -15,12 +15,8 @@
 			"number": "hSD07-001",
 			"name": "不知火フレア",
 			"nameEn": "Shiranui Flare",
-			"talents": [
-				"flare"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["flare"],
+			"colors": ["yellow"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD07-009",
 			"name": "不知火フレア",
 			"nameEn": "Shiranui Flare",
-			"talents": [
-				"flare"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["flare"],
+			"colors": ["yellow"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -76,16 +68,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd07/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD07/hSD07-009_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 3",
-				"#Half-Elf"
-			],
+			"tags": ["#JP", "#Gen 3", "#Half-Elf"],
 			"hp": 180,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Passionate Stage　70+\nIf your life is 3 or less, this Arts gets +70."
@@ -103,12 +89,8 @@
 			"number": "hSD07-008",
 			"name": "不知火フレア",
 			"nameEn": "Shiranui Flare",
-			"talents": [
-				"flare"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["flare"],
+			"colors": ["yellow"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -123,16 +105,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd07/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD07/hSD07-008_R.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#Gen 3",
-				"#Half-Elf"
-			],
+			"tags": ["#JP", "#Gen 3", "#Half-Elf"],
 			"hp": 250,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Elfriend Party　50\nYou may attach 1 〈Elfriend〉 from your archive to this holomem."
@@ -151,12 +127,8 @@
 			"number": "hSD07-004",
 			"name": "不知火フレア",
 			"nameEn": "Shiranui Flare",
-			"talents": [
-				"flare"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["flare"],
+			"colors": ["yellow"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -171,16 +143,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd07/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD07/hSD07-004_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 3",
-				"#Half-Elf"
-			],
+			"tags": ["#JP", "#Gen 3", "#Half-Elf"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Wonderful Life　30+\nIf your hand has less cards than your opponent's, this Arts gets +10."
@@ -198,12 +164,8 @@
 			"number": "hSD07-007",
 			"name": "不知火フレア(エラッタ前)",
 			"nameEn": "Shiranui Flare (Pre-errata)",
-			"talents": [
-				"flare"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["flare"],
+			"colors": ["yellow"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -218,16 +180,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd07/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD07/hSD07-007_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 3",
-				"#Half-Elf"
-			],
+			"tags": ["#JP", "#Gen 3", "#Half-Elf"],
 			"hp": 150,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Keep your Eyes on Me!　40"
@@ -244,12 +200,8 @@
 			"number": "hSD07-007",
 			"name": "不知火フレア(エラッタ後)",
 			"nameEn": "Shiranui Flare (Post-errata)",
-			"talents": [
-				"flare"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["flare"],
+			"colors": ["yellow"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -264,16 +216,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd07/10017",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD07/hSD07-007_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 3",
-				"#Half-Elf"
-			],
+			"tags": ["#JP", "#Gen 3", "#Half-Elf"],
 			"hp": 150,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Keep your Eyes on Me!　40"
@@ -290,12 +236,8 @@
 			"number": "hSD07-010",
 			"name": "白銀ノエル",
 			"nameEn": "Shirogane Noel",
-			"talents": [
-				"noel"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["noel"],
+			"colors": ["white"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -310,16 +252,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd07/10010",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD07/hSD07-010_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 3",
-				"#Alcohol"
-			],
+			"tags": ["#JP", "#Gen 3", "#Alcohol"],
 			"hp": 70,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "I want to Build Lots of Things　20"
@@ -336,12 +272,8 @@
 			"number": "hSD07-011",
 			"name": "さくらみこ",
 			"nameEn": "Sakura Miko",
-			"talents": [
-				"miko"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["miko"],
+			"colors": ["red"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -356,16 +288,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd07/10011",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD07/hSD07-011_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 0",
-				"#Baby"
-			],
+			"tags": ["#JP", "#Gen 0", "#Baby"],
 			"hp": 60,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "The Demon Lord's Army is Gone　20"
@@ -382,12 +308,8 @@
 			"number": "hSD07-012",
 			"name": "尾丸ポルカ",
 			"nameEn": "Omaru Polka",
-			"talents": [
-				"polka"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["polka"],
+			"colors": ["red"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -402,11 +324,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd07/10012",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD07/hSD07-012_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 5",
-				"#Kemomimi"
-			],
+			"tags": ["#JP", "#Gen 5", "#Kemomimi"],
 			"hp": 50,
 			"bloomLevel": "Debut",
 			"arts": [
@@ -425,12 +343,8 @@
 			"number": "hSD07-013",
 			"name": "星街すいせい",
 			"nameEn": "Hoshimachi Suisei",
-			"talents": [
-				"suisei"
-			],
-			"colors": [
-				"blue"
-			],
+			"talents": ["suisei"],
+			"colors": ["blue"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -445,16 +359,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd07/10013",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD07/hSD07-013_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 0",
-				"#Singing"
-			],
+			"tags": ["#JP", "#Gen 0", "#Singing"],
 			"hp": 70,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Please hire me!!　20"
@@ -500,12 +408,8 @@
 			"number": "hSD07-002",
 			"name": "不知火フレア",
 			"nameEn": "Shiranui Flare",
-			"talents": [
-				"flare"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["flare"],
+			"colors": ["yellow"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -520,16 +424,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd07/10002",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD07/hSD07-002_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 3",
-				"#Half-Elf"
-			],
+			"tags": ["#JP", "#Gen 3", "#Half-Elf"],
 			"hp": 110,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Noon-nui!　20"
@@ -550,12 +448,8 @@
 			"number": "hSD07-003",
 			"name": "不知火フレア(エラッタ前)",
 			"nameEn": "Shiranui Flare (Pre-errata)",
-			"talents": [
-				"flare"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["flare"],
+			"colors": ["yellow"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -570,16 +464,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd07/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD07/hSD07-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 3",
-				"#Half-Elf"
-			],
+			"tags": ["#JP", "#Gen 3", "#Half-Elf"],
 			"hp": 50,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Going out with you　20"
@@ -597,12 +485,8 @@
 			"number": "hSD07-003",
 			"name": "不知火フレア(エラッタ後)",
 			"nameEn": "Shiranui Flare (Post-errata)",
-			"talents": [
-				"flare"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["flare"],
+			"colors": ["yellow"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -617,16 +501,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd07/10016",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD07/hSD07-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 3",
-				"#Half-Elf"
-			],
+			"tags": ["#JP", "#Gen 3", "#Half-Elf"],
 			"hp": 50,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Going out with you　20"
@@ -644,12 +522,8 @@
 			"number": "hSD07-005",
 			"name": "不知火フレア",
 			"nameEn": "Shiranui Flare",
-			"talents": [
-				"flare"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["flare"],
+			"colors": ["yellow"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -664,16 +538,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd07/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD07/hSD07-005_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 3",
-				"#Half-Elf"
-			],
+			"tags": ["#JP", "#Gen 3", "#Half-Elf"],
 			"hp": 170,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "From Me To You　30"
@@ -694,12 +562,8 @@
 			"number": "hSD07-006",
 			"name": "不知火フレア",
 			"nameEn": "Shiranui Flare",
-			"talents": [
-				"flare"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["flare"],
+			"colors": ["yellow"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -714,16 +578,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd07/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD07/hSD07-006_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 3",
-				"#Half-Elf"
-			],
+			"tags": ["#JP", "#Gen 3", "#Half-Elf"],
 			"hp": 120,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "I Love you the Most~ ♡　30+\nIf your life is 3 or less, this Arts gets +30."

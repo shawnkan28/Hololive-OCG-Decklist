@@ -15,12 +15,8 @@
 			"number": "hSD08-001",
 			"name": "天音かなた",
 			"nameEn": "Amane Kanata",
-			"talents": [
-				"kanata"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["kanata"],
+			"colors": ["white"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD08-004",
 			"name": "天音かなた",
 			"nameEn": "Amane Kanata",
-			"talents": [
-				"kanata"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["kanata"],
+			"colors": ["white"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -76,16 +68,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd08/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD08/hSD08-004_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#4期生",
-				"#歌"
-			],
+			"tags": ["#JP", "#4期生", "#歌"],
 			"hp": 180,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "きみの背中に追いつけるように　120\n[ターンに1回]このアーツで相手のセンターホロメンをダウンさせた時、相手の2ndホロメン1人に特殊ダメージ40を与える。"
@@ -103,12 +89,8 @@
 			"number": "hSD08-003",
 			"name": "天音かなた",
 			"nameEn": "Amane Kanata",
-			"talents": [
-				"kanata"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["kanata"],
+			"colors": ["white"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -123,16 +105,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd08/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD08/hSD08-003_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#4期生",
-				"#歌"
-			],
+			"tags": ["#JP", "#4期生", "#歌"],
 			"hp": 200,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "みんなのスパダリ　100+\n自分のステージの#サマーを持つホロメン1人につき、このアーツ+10。"
@@ -179,12 +155,8 @@
 			"number": "hSD08-002",
 			"name": "天音かなた",
 			"nameEn": "Amane Kanata",
-			"talents": [
-				"kanata"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["kanata"],
+			"colors": ["white"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -199,17 +171,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd08/10002",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD08/hSD08-002_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#4期生",
-				"#歌",
-				"#サマー"
-			],
+			"tags": ["#JP", "#4期生", "#歌", "#サマー"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "浴衣似合うでしょ　20"
@@ -256,12 +221,8 @@
 			"number": "hSD08-005",
 			"name": "姫森ルーナ",
 			"nameEn": "Himemori Luna",
-			"talents": [
-				"luna"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["luna"],
+			"colors": ["white"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -276,17 +237,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd08/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD08/hSD08-005_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#4期生",
-				"#ベイビー",
-				"#サマー"
-			],
+			"tags": ["#JP", "#4期生", "#ベイビー", "#サマー"],
 			"hp": 90,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "お祭りなのら　30"
@@ -304,12 +258,8 @@
 			"number": "hSD08-006",
 			"name": "常闇トワ",
 			"nameEn": "Tokoyami Towa",
-			"talents": [
-				"towa"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["towa"],
+			"colors": ["purple"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -324,18 +274,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd08/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD08/hSD08-006_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#4期生",
-				"#歌",
-				"#シューター",
-				"#サマー"
-			],
+			"tags": ["#JP", "#4期生", "#歌", "#シューター", "#サマー"],
 			"hp": 90,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "トワに見惚れちゃった？　20"
@@ -353,12 +295,8 @@
 			"number": "hSD08-007",
 			"name": "角巻わため",
 			"nameEn": "Tsunomaki Watame",
-			"talents": [
-				"watame"
-			],
-			"colors": [
-				"yellow"
-			],
+			"talents": ["watame"],
+			"colors": ["yellow"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -373,18 +311,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd08/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD08/hSD08-007_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#4期生",
-				"#ケモミミ",
-				"#歌",
-				"#サマー"
-			],
+			"tags": ["#JP", "#4期生", "#ケモミミ", "#歌", "#サマー"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "わたあめおいしいねぇ　10"

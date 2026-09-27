@@ -15,12 +15,8 @@
 			"number": "hSD06-001",
 			"name": "風真いろは",
 			"nameEn": "Kazama Iroha",
-			"talents": [
-				"iroha"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["iroha"],
+			"colors": ["green"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD06-007",
 			"name": "風真いろは",
 			"nameEn": "Kazama Iroha",
-			"talents": [
-				"iroha"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["iroha"],
+			"colors": ["green"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -76,15 +68,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-007_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX"
-			],
+			"tags": ["#JP", "#holoX"],
 			"hp": 180,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "A genius, aren't I?　70+\nIf your stage has 5 or more cheers, this Arts gets +50."
@@ -102,12 +89,8 @@
 			"number": "hSD06-006",
 			"name": "風真いろは",
 			"nameEn": "Kazama Iroha",
-			"talents": [
-				"iroha"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["iroha"],
+			"colors": ["green"],
 			"price": "320 円",
 			"marketprice": [
 				{
@@ -122,15 +105,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-006_R.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#holoX"
-			],
+			"tags": ["#JP", "#holoX"],
 			"hp": 220,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Ye will Rust on Thy Blade!　50"
@@ -149,12 +127,8 @@
 			"number": "hBP01-050",
 			"name": "風真いろは(パラレル/hSD06)",
 			"nameEn": "Kazama Iroha",
-			"talents": [
-				"iroha"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["iroha"],
+			"colors": ["green"],
 			"price": "320 円",
 			"marketprice": [
 				{
@@ -169,15 +143,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10014",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-050_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX"
-			],
+			"tags": ["#JP", "#holoX"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Bringing You Energy at Full Power!　20\nSend the top card of your cheer deck to your holomem with #holoX other than 〈Kazama Iroha〉."
@@ -195,12 +164,8 @@
 			"number": "hSD06-003",
 			"name": "風真いろは",
 			"nameEn": "Kazama Iroha",
-			"talents": [
-				"iroha"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["iroha"],
+			"colors": ["green"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -215,15 +180,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-003_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX"
-			],
+			"tags": ["#JP", "#holoX"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Deadly Swing of the Blade　30+\nIf your center holomem's HP is reduced, this Arts gets +10."
@@ -241,12 +201,8 @@
 			"number": "hSD06-008",
 			"name": "博衣こより",
 			"nameEn": "Hakui Koyori",
-			"talents": [
-				"koyori"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["koyori"],
+			"colors": ["white"],
 			"price": "280 円",
 			"marketprice": [
 				{
@@ -261,16 +217,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-008_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Kemomimi"
-			],
+			"tags": ["#JP", "#holoX", "#Kemomimi"],
 			"hp": 70,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "How's That!　10"
@@ -288,12 +238,8 @@
 			"number": "hSD06-009",
 			"name": "鷹嶺ルイ",
 			"nameEn": "Takane Lui",
-			"talents": [
-				"lui"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["lui"],
+			"colors": ["red"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -308,17 +254,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-009_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Bird",
-				"#Alcohol"
-			],
+			"tags": ["#JP", "#holoX", "#Bird", "#Alcohol"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Reliable Female Officer　20\nYou may return 1 Debut holomem with #holoX from your archive to hand."
@@ -336,12 +275,8 @@
 			"number": "hSD06-010",
 			"name": "ラプラス・ダークネス",
 			"nameEn": "La+ Darknesss",
-			"talents": [
-				"laplus"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["laplus"],
+			"colors": ["purple"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -356,16 +291,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10010",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-010_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Shooter"
-			],
+			"tags": ["#JP", "#holoX", "#Shooter"],
 			"hp": 60,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Banquet of Madness　30+\n[Collab Position Only]If you used your SP Oshi skill during your main phase this turn, this Arts gets +50."
@@ -383,12 +312,8 @@
 			"number": "hBP01-048",
 			"name": "風真いろは(パラレル/hSD06)",
 			"nameEn": "Kazama Iroha",
-			"talents": [
-				"iroha"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["iroha"],
+			"colors": ["green"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -403,15 +328,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10013",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-048_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX"
-			],
+			"tags": ["#JP", "#holoX"],
 			"hp": 120,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Hear ye, it is I, Kazama Iroha!　20"
@@ -430,12 +350,8 @@
 			"number": "hSD06-002",
 			"name": "風真いろは",
 			"nameEn": "Kazama Iroha",
-			"talents": [
-				"iroha"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["iroha"],
+			"colors": ["green"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -450,15 +366,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10002",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-002_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX"
-			],
+			"tags": ["#JP", "#holoX"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Yes! Shing-Shing!!　20"
@@ -476,12 +387,8 @@
 			"number": "hSD06-004",
 			"name": "風真いろは",
 			"nameEn": "Kazama Iroha",
-			"talents": [
-				"iroha"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["iroha"],
+			"colors": ["green"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -496,15 +403,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-004_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX"
-			],
+			"tags": ["#JP", "#holoX"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Shy Bodyguard　60"
@@ -522,12 +424,8 @@
 			"number": "hSD06-005",
 			"name": "風真いろは",
 			"nameEn": "Kazama Iroha",
-			"talents": [
-				"iroha"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["iroha"],
+			"colors": ["green"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -542,15 +440,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-005_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX"
-			],
+			"tags": ["#JP", "#holoX"],
 			"hp": 120,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Together with Kazama!　30"

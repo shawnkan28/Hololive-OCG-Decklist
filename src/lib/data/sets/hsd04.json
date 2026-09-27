@@ -15,12 +15,8 @@
 			"number": "hSD04-001",
 			"name": "癒月ちょこ",
 			"nameEn": "Yuzuki Choco",
-			"talents": [
-				"choco"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["choco"],
+			"colors": ["purple"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD04-009",
 			"name": "癒月ちょこ",
 			"nameEn": "Yuzuki Choco",
-			"talents": [
-				"choco"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["choco"],
+			"colors": ["purple"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -76,16 +68,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-009_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#Gen 2", "#Cooking"],
 			"hp": 190,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "33… 22… 11…　50"
@@ -106,12 +92,8 @@
 			"number": "hSD04-008",
 			"name": "癒月ちょこ",
 			"nameEn": "Yuzuki Choco",
-			"talents": [
-				"choco"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["choco"],
+			"colors": ["purple"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -126,16 +108,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-008_R.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#Gen 2", "#Cooking"],
 			"hp": 230,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "I Worked Hard to Make This　40"
@@ -157,12 +133,8 @@
 			"number": "hSD04-004",
 			"name": "癒月ちょこ",
 			"nameEn": "Yuzuki Choco",
-			"talents": [
-				"choco"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["choco"],
+			"colors": ["purple"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -177,16 +149,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-004_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#Gen 2", "#Cooking"],
 			"hp": 60,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Eat a Lot, Okay♡　20"
@@ -204,12 +170,8 @@
 			"number": "hSD04-007",
 			"name": "癒月ちょこ",
 			"nameEn": "Yuzuki Choco",
-			"talents": [
-				"choco"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["choco"],
+			"colors": ["purple"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -224,16 +186,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-007_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#Gen 2", "#Cooking"],
 			"hp": 110,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "I Love You! Mwah♡　30\nRestore 20 HP to 1 of your back holomem."
@@ -250,12 +206,8 @@
 			"number": "hSD04-010",
 			"name": "大空スバル",
 			"nameEn": "Oozora Subaru",
-			"talents": [
-				"subaru"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["subaru"],
+			"colors": ["colorless"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -270,15 +222,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10010",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-010_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2"
-			],
+			"tags": ["#JP", "#Gen 2"],
 			"hp": 60,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "I'll Make You Draw the Hell Lottery　20"
@@ -296,12 +243,8 @@
 			"number": "hSD04-011",
 			"name": "姫森ルーナ",
 			"nameEn": "Himemori Luna",
-			"talents": [
-				"luna"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["luna"],
+			"colors": ["colorless"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -316,15 +259,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10011",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-011_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 4"
-			],
+			"tags": ["#JP", "#Gen 4"],
 			"hp": 60,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Nna~~~~~~~~　10"
@@ -371,12 +309,8 @@
 			"number": "hSD04-002",
 			"name": "癒月ちょこ",
 			"nameEn": "Yuzuki Choco",
-			"talents": [
-				"choco"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["choco"],
+			"colors": ["purple"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -391,16 +325,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10002",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-002_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#Gen 2", "#Cooking"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Nurse of the Underworld　30"
@@ -418,12 +346,8 @@
 			"number": "hSD04-003",
 			"name": "癒月ちょこ",
 			"nameEn": "Yuzuki Choco",
-			"talents": [
-				"choco"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["choco"],
+			"colors": ["purple"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -438,16 +362,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#Gen 2", "#Cooking"],
 			"hp": 60,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "My Cute Students~　30"
@@ -465,12 +383,8 @@
 			"number": "hSD04-005",
 			"name": "癒月ちょこ",
 			"nameEn": "Yuzuki Choco",
-			"talents": [
-				"choco"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["choco"],
+			"colors": ["purple"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -485,11 +399,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-005_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#Gen 2", "#Cooking"],
 			"hp": 140,
 			"bloomLevel": "1st",
 			"arts": [
@@ -512,12 +422,8 @@
 			"number": "hSD04-006",
 			"name": "癒月ちょこ",
 			"nameEn": "Yuzuki Choco",
-			"talents": [
-				"choco"
-			],
-			"colors": [
-				"purple"
-			],
+			"talents": ["choco"],
+			"colors": ["purple"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -532,11 +438,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-006_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#Gen 2", "#Cooking"],
 			"hp": 130,
 			"bloomLevel": "1st",
 			"arts": [
@@ -572,9 +474,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10013",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-013_C.png",
 			"cardType": "Support・Event",
-			"tags": [
-				"#Food"
-			],
+			"tags": ["#Food"],
 			"abilityText": "Choose 1 of your holomem. Restore 20 HP to the chosen holomem. Then, if your stage has a holomem with #Cooking, during this turn, the chosen holomem gets Arts+20.",
 			"officialId": 556,
 			"officialName": "Choco's Omurice",

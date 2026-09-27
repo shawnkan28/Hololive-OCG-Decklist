@@ -15,12 +15,8 @@
 			"number": "hSD16-001",
 			"name": "さくらみこ",
 			"nameEn": "Sakura Miko",
-			"talents": [
-				"miko"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["miko"],
+			"colors": ["red"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD16-009",
 			"name": "さくらみこ",
 			"nameEn": "Sakura Miko",
-			"talents": [
-				"miko"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["miko"],
+			"colors": ["red"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -76,16 +68,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-009_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#ベイビー"
-			],
+			"tags": ["#JP", "#0期生", "#ベイビー"],
 			"hp": 170,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "この瞬間を見せてあげたいなって　100"
@@ -103,12 +89,8 @@
 			"number": "hSD16-008",
 			"name": "さくらみこ",
 			"nameEn": "Sakura Miko",
-			"talents": [
-				"miko"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["miko"],
+			"colors": ["red"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -123,16 +105,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-008_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#ベイビー"
-			],
+			"tags": ["#JP", "#0期生", "#ベイビー"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "いっぱい遊ぼっ　30"
@@ -150,12 +126,8 @@
 			"number": "hSD16-005",
 			"name": "さくらみこ",
 			"nameEn": "Sakura Miko",
-			"talents": [
-				"miko"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["miko"],
+			"colors": ["red"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -170,16 +142,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-005_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#ベイビー"
-			],
+			"tags": ["#JP", "#0期生", "#ベイビー"],
 			"hp": 100,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "桜風ランニング　20\nサイコロを1回振る。3か5なら、自分のデッキを1枚引く。"
@@ -197,12 +163,8 @@
 			"number": "hSD16-007",
 			"name": "さくらみこ",
 			"nameEn": "Sakura Miko",
-			"talents": [
-				"miko"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["miko"],
+			"colors": ["red"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -217,16 +179,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-007_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#ベイビー"
-			],
+			"tags": ["#JP", "#0期生", "#ベイビー"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "みこの耳かきスキルに蕩けちゃえ　30+\n[センターポジション限定]サイコロを1回振る。3か5なら、このアーツ+10。"
@@ -273,12 +229,8 @@
 			"number": "hSD16-002",
 			"name": "さくらみこ",
 			"nameEn": "Sakura Miko",
-			"talents": [
-				"miko"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["miko"],
+			"colors": ["red"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -293,16 +245,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10002",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-002_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#ベイビー"
-			],
+			"tags": ["#JP", "#0期生", "#ベイビー"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "さくらみこだよ～　20"
@@ -320,12 +266,8 @@
 			"number": "hSD16-003",
 			"name": "さくらみこ",
 			"nameEn": "Sakura Miko",
-			"talents": [
-				"miko"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["miko"],
+			"colors": ["red"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -340,16 +282,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#ベイビー"
-			],
+			"tags": ["#JP", "#0期生", "#ベイビー"],
 			"hp": 70,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "エリート巫女アイドル！ さくらみこだよ～　30"
@@ -366,12 +302,8 @@
 			"number": "hSD16-004",
 			"name": "さくらみこ",
 			"nameEn": "Sakura Miko",
-			"talents": [
-				"miko"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["miko"],
+			"colors": ["red"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -386,16 +318,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-004_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#ベイビー"
-			],
+			"tags": ["#JP", "#0期生", "#ベイビー"],
 			"hp": 80,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "でゃまれ！　20"
@@ -413,12 +339,8 @@
 			"number": "hSD16-006",
 			"name": "さくらみこ",
 			"nameEn": "Sakura Miko",
-			"talents": [
-				"miko"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["miko"],
+			"colors": ["red"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -433,16 +355,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-006_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#ベイビー"
-			],
+			"tags": ["#JP", "#0期生", "#ベイビー"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "みんなみててにぇ　20"

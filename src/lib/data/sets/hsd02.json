@@ -15,12 +15,8 @@
 			"number": "hSD02-001",
 			"name": "百鬼あやめ",
 			"nameEn": "Nakiri Ayame",
-			"talents": [
-				"ayame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ayame"],
+			"colors": ["red"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD02-009",
 			"name": "百鬼あやめ",
 			"nameEn": "Nakiri Ayame",
-			"talents": [
-				"ayame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ayame"],
+			"colors": ["red"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -76,16 +68,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-009_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Shooter"
-			],
+			"tags": ["#JP", "#Gen 2", "#Shooter"],
 			"hp": 180,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "AyaFubuMi's \"Aya\"　60"
@@ -106,12 +92,8 @@
 			"number": "hSD02-008",
 			"name": "百鬼あやめ",
 			"nameEn": "Nakiri Ayame",
-			"talents": [
-				"ayame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ayame"],
+			"colors": ["red"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -126,16 +108,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-008_R.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Shooter"
-			],
+			"tags": ["#JP", "#Gen 2", "#Shooter"],
 			"hp": 230,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Fancy Birthday　40"
@@ -157,12 +133,8 @@
 			"number": "hSD02-004",
 			"name": "百鬼あやめ",
 			"nameEn": "Nakiri Ayame",
-			"talents": [
-				"ayame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ayame"],
+			"colors": ["red"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -177,11 +149,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-004_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Shooter"
-			],
+			"tags": ["#JP", "#Gen 2", "#Shooter"],
 			"hp": 60,
 			"bloomLevel": "Debut",
 			"arts": [
@@ -201,12 +169,8 @@
 			"number": "hSD02-007",
 			"name": "百鬼あやめ",
 			"nameEn": "Nakiri Ayame",
-			"talents": [
-				"ayame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ayame"],
+			"colors": ["red"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -221,16 +185,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-007_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Shooter"
-			],
+			"tags": ["#JP", "#Gen 2", "#Shooter"],
 			"hp": 120,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Don't Look Away when I Shine~~!!　30"
@@ -247,12 +205,8 @@
 			"number": "hSD02-010",
 			"name": "白上フブキ",
 			"nameEn": "Shirakami Fubuki",
-			"talents": [
-				"fubuki"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["fubuki"],
+			"colors": ["colorless"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -267,18 +221,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10010",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-010_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 1",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Painting"
-			],
+			"tags": ["#JP", "#Gen 1", "#GAMERS", "#Kemomimi", "#Painting"],
 			"hp": 80,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "AyaFubuMi's \"Fubu\"　20\nYou may archive 1~3 cards from your hand:Deal 40 special damage to your opponent's center holomem for each card archived."
@@ -296,12 +242,8 @@
 			"number": "hSD02-011",
 			"name": "大神ミオ",
 			"nameEn": "Ookami Mio",
-			"talents": [
-				"mio"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["mio"],
+			"colors": ["colorless"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -316,17 +258,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10011",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-011_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#GAMERS",
-				"#Kemomimi",
-				"#Cooking"
-			],
+			"tags": ["#JP", "#GAMERS", "#Kemomimi", "#Cooking"],
 			"hp": 50,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "AyaFubuMi's \"Mi\"　10"
@@ -373,12 +308,8 @@
 			"number": "hSD02-002",
 			"name": "百鬼あやめ",
 			"nameEn": "Nakiri Ayame",
-			"talents": [
-				"ayame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ayame"],
+			"colors": ["red"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -393,11 +324,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10002",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-002_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Shooter"
-			],
+			"tags": ["#JP", "#Gen 2", "#Shooter"],
 			"hp": 90,
 			"bloomLevel": "Debut",
 			"arts": [
@@ -417,12 +344,8 @@
 			"number": "hSD02-003",
 			"name": "百鬼あやめ",
 			"nameEn": "Nakiri Ayame",
-			"talents": [
-				"ayame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ayame"],
+			"colors": ["red"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -437,11 +360,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Shooter"
-			],
+			"tags": ["#JP", "#Gen 2", "#Shooter"],
 			"hp": 70,
 			"bloomLevel": "Debut",
 			"arts": [
@@ -461,12 +380,8 @@
 			"number": "hSD02-005",
 			"name": "百鬼あやめ",
 			"nameEn": "Nakiri Ayame",
-			"talents": [
-				"ayame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ayame"],
+			"colors": ["red"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -481,11 +396,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-005_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Shooter"
-			],
+			"tags": ["#JP", "#Gen 2", "#Shooter"],
 			"hp": 140,
 			"bloomLevel": "1st",
 			"arts": [
@@ -508,12 +419,8 @@
 			"number": "hSD02-006",
 			"name": "百鬼あやめ",
 			"nameEn": "Nakiri Ayame",
-			"talents": [
-				"ayame"
-			],
-			"colors": [
-				"red"
-			],
+			"talents": ["ayame"],
+			"colors": ["red"],
 			"price": "280 円",
 			"marketprice": [
 				{
@@ -528,16 +435,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-006_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 2",
-				"#Shooter"
-			],
+			"tags": ["#JP", "#Gen 2", "#Shooter"],
 			"hp": 140,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Let's Celebrate Together　30"
@@ -600,9 +501,7 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10014",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-014_C.png",
 			"cardType": "Support・Mascot",
-			"tags": [
-				"#Shirakami's Character"
-			],
+			"tags": ["#Shirakami's Character"],
 			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to 〈Nakiri Ayame〉\n\nWhen the holomem this mascot is attached to blooms, draw 1 card.\n\nOnly 1 mascot can be attached to each of your holomem.",
 			"officialId": 529,
 			"officialName": "Poyoyo",

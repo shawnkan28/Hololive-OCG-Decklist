@@ -15,12 +15,8 @@
 			"number": "hSD01-001",
 			"name": "ときのそら",
 			"nameEn": "Tokino Sora",
-			"talents": [
-				"sora"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["sora"],
+			"colors": ["white"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -56,12 +52,8 @@
 			"number": "hSD01-002",
 			"name": "AZKi",
 			"nameEn": "AZKi",
-			"talents": [
-				"azki"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["azki"],
+			"colors": ["green"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -97,12 +89,8 @@
 			"number": "hSD01-006",
 			"name": "ときのそら",
 			"nameEn": "Tokino Sora",
-			"talents": [
-				"sora"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["sora"],
+			"colors": ["white"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -117,16 +105,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10006",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-006_RR.png",
 			"cardType": "Buzz holomem",
-			"tags": [
-				"#JP",
-				"#Gen 0",
-				"#Singing"
-			],
+			"tags": ["#JP", "#Gen 0", "#Singing"],
 			"hp": 240,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Dream Live　50"
@@ -148,12 +130,8 @@
 			"number": "hSD01-011",
 			"name": "AZKi",
 			"nameEn": "AZKi",
-			"talents": [
-				"azki"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["azki"],
+			"colors": ["green"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -168,16 +146,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10011",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-011_RR.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 0",
-				"#Singing"
-			],
+			"tags": ["#JP", "#Gen 0", "#Singing"],
 			"hp": 190,
 			"bloomLevel": "2nd",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "SorAZ Gravity　60\nIf a 〈Tokino Sora〉 holomem is on your stage, send the top card of your cheer deck to your holomem."
@@ -198,12 +170,8 @@
 			"number": "hSD01-004",
 			"name": "ときのそら",
 			"nameEn": "Tokino Sora",
-			"talents": [
-				"sora"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["sora"],
+			"colors": ["white"],
 			"price": "120 円",
 			"marketprice": [
 				{
@@ -218,16 +186,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10004",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-004_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 0",
-				"#Singing"
-			],
+			"tags": ["#JP", "#Gen 0", "#Singing"],
 			"hp": 50,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "On Stage!　20"
@@ -245,12 +207,8 @@
 			"number": "hSD01-009",
 			"name": "AZKi",
 			"nameEn": "AZKi",
-			"talents": [
-				"azki"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["azki"],
+			"colors": ["green"],
 			"price": "320 円",
 			"marketprice": [
 				{
@@ -265,16 +223,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10009",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-009_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 0",
-				"#Singing"
-			],
+			"tags": ["#JP", "#Gen 0", "#Singing"],
 			"hp": 60,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "And then and then　10"
@@ -293,10 +245,7 @@
 			"name": "SorAZ",
 			"nameEn": "SorAZ",
 			"talents": [],
-			"colors": [
-				"white",
-				"green"
-			],
+			"colors": ["white", "green"],
 			"price": "220 円",
 			"marketprice": [
 				{
@@ -311,16 +260,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10013",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-013_R.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 0",
-				"#Singing"
-			],
+			"tags": ["#JP", "#Gen 0", "#Singing"],
 			"hp": 130,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "A Future I Want to Surpass　50\nYou may roll a die once：If it is odd, send the top card of your cheer deck to this holomem. If it is even, draw 1 card from your deck."
@@ -339,12 +282,8 @@
 			"number": "hSD01-005",
 			"name": "ときのそら",
 			"nameEn": "Tokino Sora",
-			"talents": [
-				"sora"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["sora"],
+			"colors": ["white"],
 			"price": "80 円",
 			"marketprice": [
 				{
@@ -359,16 +298,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10005",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-005_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 0",
-				"#Singing"
-			],
+			"tags": ["#JP", "#Gen 0", "#Singing"],
 			"hp": 150,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Noon Noon Together!　30"
@@ -389,12 +322,8 @@
 			"number": "hSD01-010",
 			"name": "AZKi",
 			"nameEn": "AZKi",
-			"talents": [
-				"azki"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["azki"],
+			"colors": ["green"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -409,16 +338,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10010",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-010_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 0",
-				"#Singing"
-			],
+			"tags": ["#JP", "#Gen 0", "#Singing"],
 			"hp": 160,
 			"bloomLevel": "1st",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "A Journey with No Destination with You　50"
@@ -436,12 +359,8 @@
 			"number": "hSD01-014",
 			"name": "天音かなた",
 			"nameEn": "Amane Kanata",
-			"talents": [
-				"kanata"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["kanata"],
+			"colors": ["colorless"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -456,16 +375,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10014",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-014_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#Gen 4",
-				"#Singing"
-			],
+			"tags": ["#JP", "#Gen 4", "#Singing"],
 			"hp": 150,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Hey　30"
@@ -483,12 +396,8 @@
 			"number": "hSD01-015",
 			"name": "博衣こより",
 			"nameEn": "Hakui Koyori",
-			"talents": [
-				"koyori"
-			],
-			"colors": [
-				"colorless"
-			],
+			"talents": ["koyori"],
+			"colors": ["colorless"],
 			"price": "50 円",
 			"marketprice": [
 				{
@@ -503,16 +412,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10015",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-015_U.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#holoX",
-				"#Kemomimi"
-			],
+			"tags": ["#JP", "#holoX", "#Kemomimi"],
 			"hp": 50,
 			"bloomLevel": "Spot",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Pure Pure Pure~　10"
@@ -530,12 +433,8 @@
 			"number": "hSD01-003",
 			"name": "ときのそら",
 			"nameEn": "Tokino Sora",
-			"talents": [
-				"sora"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["sora"],
+			"colors": ["white"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -550,16 +449,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10003",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-003_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#歌"
-			],
+			"tags": ["#JP", "#0期生", "#歌"],
 			"hp": 60,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "(๑╹ᆺ╹)ぬんぬん　30"
@@ -577,12 +470,8 @@
 			"number": "hSD01-007",
 			"name": "IRyS",
 			"nameEn": "IRyS",
-			"talents": [
-				"irys"
-			],
-			"colors": [
-				"white"
-			],
+			"talents": ["irys"],
+			"colors": ["white"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -597,16 +486,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10007",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-007_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#EN",
-				"#Promise",
-				"#Singing"
-			],
+			"tags": ["#EN", "#Promise", "#Singing"],
 			"hp": 50,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Embodiment of Hope　20"
@@ -623,12 +506,8 @@
 			"number": "hSD01-008",
 			"name": "AZKi",
 			"nameEn": "AZKi",
-			"talents": [
-				"azki"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["azki"],
+			"colors": ["green"],
 			"price": "30 円",
 			"marketprice": [
 				{
@@ -643,16 +522,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10008",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-008_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#JP",
-				"#0期生",
-				"#歌"
-			],
+			"tags": ["#JP", "#0期生", "#歌"],
 			"hp": 70,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "がんばれてえらい！　20"
@@ -670,12 +543,8 @@
 			"number": "hSD01-012",
 			"name": "アイラニ・イオフィフティーン",
 			"nameEn": "Airani Iofifteen",
-			"talents": [
-				"iofi"
-			],
-			"colors": [
-				"green"
-			],
+			"talents": ["iofi"],
+			"colors": ["green"],
 			"price": "180 円",
 			"marketprice": [
 				{
@@ -690,16 +559,10 @@
 			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10012",
 			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-012_C.png",
 			"cardType": "holomem",
-			"tags": [
-				"#ID",
-				"#ID Gen 1",
-				"#Painting"
-			],
+			"tags": ["#ID", "#ID Gen 1", "#Painting"],
 			"hp": 70,
 			"bloomLevel": "Debut",
-			"batonPass": [
-				"colorless"
-			],
+			"batonPass": ["colorless"],
 			"arts": [
 				{
 					"text": "Drawing is so fun!　20"
