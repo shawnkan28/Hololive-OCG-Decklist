@@ -11,7 +11,8 @@
 
 	// INIT
 	const PAGE = 99;
-	let { data }: { data: { ownedCards: OwnedCard[] } } = $props();
+	let { data }: { data: { carddata: {ownedCards: OwnedCard[]} } } = $props();
+	const card_data = $derived(data.carddata);
 
 	// FILTER
 	let q = $state(''); // Search Query
@@ -28,7 +29,7 @@
 	let navBarComponent = $state<ReturnType<typeof Navbar> | null>(null);
 
 	// Manage Card List
-	const cardList = $derived(search(CARDS, data['ownedCards'], { q, r, t, s, ct, sortBy }));
+	const cardList = $derived(search(CARDS, card_data['ownedCards'], { q, r, t, s, ct, sortBy }));
 	const cards = $derived(cardList.slice(0, cardLimit));
 	const hasMore = $derived(cardLimit < cardList.length);
 
@@ -60,7 +61,7 @@
 		// modal closed and attempt to open
 		if (!modalOpen && type === 'enter') {
 			const cardId = getIdentifier(cards[0]);
-			const ownedCard = data['ownedCards'].filter((d) => d.id === cardId);
+			const ownedCard = card_data['ownedCards'].filter((d) => d.id === cardId);
 
 			selectedCard = cards[0];
 			selectedCard.owned = true;
@@ -102,11 +103,11 @@
 			bind:cardType={ct}
 		/>
 		<Gallery
-			owned={data['ownedCards']}
+			owned={card_data['ownedCards']}
 			{cards}
 			callback={(c) => {
 				const cardId = getIdentifier(c);
-				const ownedCard = data['ownedCards'].filter((d) => d.id === cardId);
+				const ownedCard = card_data['ownedCards'].filter((d) => d.id === cardId);
 
 				selectedCard = c;
 				selectedCard.qty = ownedCard.length > 0 ? ownedCard[0].qty : 0;

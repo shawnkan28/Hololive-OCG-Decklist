@@ -19,6 +19,8 @@ Thumbs.db
 !.env.test
 
 *.json
+*.sqlite
+*.sqlite-*
 
 # Vite
 vite.config.js.timestamp-*

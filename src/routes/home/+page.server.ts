@@ -2,10 +2,15 @@ import type { PageServerLoad, Actions } from './$types';
 import type { OwnedCard } from '$lib/types';
 import path from 'node:path';
 import fs from 'node:fs/promises';
+import db from '$lib/server/db';
 
 const filePath = path.resolve('data/app.json');
 
 export const load: PageServerLoad = async () => {
+	const d = db.prepare("select * from sets");
+	console.log(d);
+	// const users = db.prepare('SELECT id, name FROM users').all();
+
 	const emptyJson = { ownedCards: [] };
 	const fileHandle = await fs.open(filePath, 'a+');
 
@@ -14,14 +19,14 @@ export const load: PageServerLoad = async () => {
 		// Empty File
 		if (!content.trim()) {
 			console.warn(`Path: ${filePath}, no data found.`);
-			return emptyJson;
+			return { carddata: emptyJson };
 		} else {
 			console.log(`Path: ${filePath}, sending data to client.`);
-			return JSON.parse(content.trim());
+			return { carddata: JSON.parse(content.trim()), users: [] };
 		}
 	} catch (err) {
 		console.error(err);
-		return {};
+		return { carddata: emptyJson };
 	} finally {
 		await fileHandle.close();
 	}
@@ -32,7 +37,7 @@ export const actions: Actions = {
 		const formData = await request.formData();
 		const identifier = formData.get('identifier')?.toString();
 		const owned = formData.get('owned')?.toString();
-		const quantity = Number(formData.get('quantity') ?? "0");
+		const quantity = Number(formData.get('quantity') ?? '0');
 		const location = formData.get('location')?.toString();
 
 		const fileContent = await fs.readFile(filePath, 'utf-8');
