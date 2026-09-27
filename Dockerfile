@@ -1,6 +1,6 @@
 # The following script is used for SVELTE
 # define the engine to create the image. use the following to build node apps
-FROM node:22-alpine AS builder
+FROM node:24-alpine AS builder
 # This is not the name of the app but just specifying to the name of the container to do its work in.
 WORKDIR /app 
 
@@ -23,7 +23,7 @@ RUN npm prune --omit=dev
 
 # Run the app. We seperate them because we only need what was built.
 # we dont need the source code for running the app. We only need the built files.
-FROM node:22-alpine AS runner
+FROM node:24-alpine AS runner
 WORKDIR /app
 
 # These env variables are used by the Node Adapter in Svelte.
