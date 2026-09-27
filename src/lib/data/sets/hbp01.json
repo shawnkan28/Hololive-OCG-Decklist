@@ -1,0 +1,6562 @@
+{
+	"set": {
+		"code": "hbp01",
+		"label": "hBP01",
+		"name": "ブルーミングレディアンス",
+		"nameEn": "Blooming Radiance",
+		"color": "#3b82f6",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hbp01"
+	},
+	"cards": [
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "SEC",
+			"number": "hBP01-006",
+			"name": "小鳥遊キアラ(パラレル/サイン)",
+			"nameEn": "Takanashi Kiara (Parallel/Signed)",
+			"talents": [
+				"kiara"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "29,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 29800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10013",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-006_SEC.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Phoenix Tail",
+				"text": "[holo Power：-2]Phoenix Tail[1/Turn]Return 1 holomem from your archive to hand."
+			},
+			"spOshiSkill": {
+				"name": "Rise from the ashes",
+				"text": "[holo Power：-2]Rise from the ashes[1/Game]Usable if your red holomem is downed during your opponent's turn:You take -1 Life Damage. Then, choose 1 downed card, and return all of the stacked holomem including that holomem to hand."
+			},
+			"officialId": 36,
+			"officialName": "Takanashi Kiara",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-006_OSR.png",
+			"illustrator": "水鈴"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "SEC",
+			"number": "hBP01-007",
+			"name": "星街すいせい(パラレル/サイン)",
+			"nameEn": "Hoshimachi Suisei (Parallel/Signed)",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "99,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 99800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10016",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-007_SEC.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Comet",
+				"text": "[holo Power：-2]Comet[1/Turn]Usable when this Oshi holomem or your blue holomem deals Damage to your opponent's back holomem:Deal 50 Special Damage to that back holomem."
+			},
+			"spOshiSkill": {
+				"name": "Shooting Star",
+				"text": "[holo Power：-2]Shooting Star[1/Game]Usable when your blue holomem deals Damage to your opponent's center holomem or collab holomem:Deal the same amount of Special Damage to 1 of your opponent's back holomem."
+			},
+			"officialId": 37,
+			"officialName": "Hoshimachi Suisei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-007_OSR.png",
+			"illustrator": "水鈴"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OUR",
+			"number": "hBP01-001",
+			"name": "天音かなた(パラレル)",
+			"nameEn": "Amane Kanata (Parallel)",
+			"talents": [
+				"kanata"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "24,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 24800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-001_OUR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Squish Squish",
+				"text": "[holo Power：-3]Squish Squish[1/Turn]Set the opponent's center holomem's remaining HP to 50."
+			},
+			"spOshiSkill": {
+				"name": "I'll squish you!",
+				"text": "[holo Power：-2]I'll squish you![1/Game]During this turn, 1 of your holomem gets Arts+50. Then, if that holomem's color is white, it gets Arts+50."
+			},
+			"officialId": 31,
+			"officialName": "Amane Kanata",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-001_OSR.png",
+			"illustrator": "Hiroko"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OUR",
+			"number": "hBP01-002",
+			"name": "七詩ムメイ(パラレル)",
+			"nameEn": "Nanashi Mumei (Parallel)",
+			"talents": [
+				"mumei"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "17,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 17800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-002_OUR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Guardian of Civilization",
+				"text": "[holo Power：-2]Guardian of Civilization[1/Turn]Usable if your holomem with #Promise would take Damage from the opponent during the opponent's turn:1 of those holomem takes -50 Damage."
+			},
+			"spOshiSkill": {
+				"name": "Amazing Drawing",
+				"text": "[holo Power：-2]Amazing Drawing[1/Game]Reveal 1 event from your deck, and add it to hand. Then, shuffle the deck."
+			},
+			"officialId": 32,
+			"officialName": "Nanashi Mumei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-002_OSR.png",
+			"illustrator": "Hiroko"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OUR",
+			"number": "hBP01-003",
+			"name": "アキ・ローゼンタール(パラレル)",
+			"nameEn": "Aki Rosenthal (Parallel)",
+			"talents": [
+				"aki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "6,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 6980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-003_OUR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Survival Power",
+				"text": "[holo Power：-2]Survival Power[1/Turn]Reveal 1 〈Stone Axe〉 from your deck, and attach it to your green holomem. Then, shuffle the deck."
+			},
+			"spOshiSkill": {
+				"name": "Song of the Earth",
+				"text": "[holo Power：-2]Song of the Earth[1/Game]Restore all HP of your green center holomem."
+			},
+			"officialId": 33,
+			"officialName": "Aki Rosenthal",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-003_OSR.png",
+			"illustrator": "Hiroko"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OUR",
+			"number": "hBP01-004",
+			"name": "兎田ぺこら(パラレル)",
+			"nameEn": "Usada Pekora (Parallel)",
+			"talents": [
+				"pekora"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "34,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 34800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-004_OUR.png",
+			"cardType": "Oshi",
+			"life": 6,
+			"oshiSkill": {
+				"name": "Little Wild Rabbits~",
+				"text": "[holo Power：-2]Little Wild Rabbits~[1/Turn]Usable if your holomem is downed during the opponent's turn:Reattach all green cheers from 1 of your downed holomem divided as you choose to your other holomems."
+			},
+			"spOshiSkill": {
+				"name": "Lucky Rabbit",
+				"text": "[holo Power：-3]Lucky Rabbit[1/Game]During this turn, regard all numbers on the faces of your dice as 6."
+			},
+			"officialId": 34,
+			"officialName": "Usada Pekora",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-004_OSR.png",
+			"illustrator": "神奈ぺろん"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OUR",
+			"number": "hBP01-005",
+			"name": "鷹嶺ルイ(パラレル)",
+			"nameEn": "Takane Lui (Parallel)",
+			"talents": [
+				"lui"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "9,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 9980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-005_OUR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Female Commanding Officer",
+				"text": "[holo Power：-X]Female Commanding Officer[1/Turn]Usable if you would archive cards from hand by your red holomem's ability:You may archive 1 of your holo Power instead for each hand card to be archived."
+			},
+			"spOshiSkill": {
+				"name": "Hawkeye",
+				"text": "[holo Power：-2]Hawkeye[1/Game]During your opponent's next turn, your opponent's center holomem and collab holomem cannot Baton Pass, move, or swap."
+			},
+			"officialId": 35,
+			"officialName": "Takane Lui",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-005_OSR.png",
+			"illustrator": "須王 彩"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OUR",
+			"number": "hBP01-006",
+			"name": "小鳥遊キアラ(パラレル)",
+			"nameEn": "Takanashi Kiara (Parallel)",
+			"talents": [
+				"kiara"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "5,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 5980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10012",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-006_OUR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Phoenix Tail",
+				"text": "[holo Power：-2]Phoenix Tail[1/Turn]Return 1 holomem from your archive to hand."
+			},
+			"spOshiSkill": {
+				"name": "Rise from the ashes",
+				"text": "[holo Power：-2]Rise from the ashes[1/Game]Usable if your red holomem is downed during your opponent's turn:You take -1 Life Damage. Then, choose 1 downed card, and return all of the stacked holomem including that holomem to hand."
+			},
+			"officialId": 36,
+			"officialName": "Takanashi Kiara",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-006_OSR.png",
+			"illustrator": "水鈴"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OUR",
+			"number": "hBP01-007",
+			"name": "星街すいせい(パラレル)",
+			"nameEn": "Hoshimachi Suisei (Parallel)",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "29,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 29800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10015",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-007_OUR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Comet",
+				"text": "[holo Power：-2]Comet[1/Turn]Usable when this Oshi holomem or your blue holomem deals Damage to your opponent's back holomem:Deal 50 Special Damage to that back holomem."
+			},
+			"spOshiSkill": {
+				"name": "Shooting Star",
+				"text": "[holo Power：-2]Shooting Star[1/Game]Usable when your blue holomem deals Damage to your opponent's center holomem or collab holomem:Deal the same amount of Special Damage to 1 of your opponent's back holomem."
+			},
+			"officialId": 37,
+			"officialName": "Hoshimachi Suisei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-007_OSR.png",
+			"illustrator": "水鈴"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OUR",
+			"number": "hBP01-008",
+			"name": "こぼ・かなえる(パラレル)",
+			"nameEn": "Kobo Kanaeru (Parallel)",
+			"talents": [
+				"kobo"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "14,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 14800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10018",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-008_OUR.png",
+			"cardType": "Oshi",
+			"life": 6,
+			"oshiSkill": {
+				"name": "Rain Shamanism",
+				"text": "[holo Power：-1]Rain Shamanism[1/Turn]Usable when your blue holomem's ability archives a cheer:Deal 20 Special Damage to 1 of your opponent's holomem."
+			},
+			"spOshiSkill": {
+				"name": "Rainmaking",
+				"text": "[holo Power：-3]Rainmaking[1/Game]Send 1~5 cheers from your archive divided as you choose to your holomems with #ID."
+			},
+			"officialId": 38,
+			"officialName": "Kobo Kanaeru",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-008_OSR.png",
+			"illustrator": "タスキブ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "UR",
+			"number": "hBP01-014",
+			"name": "天音かなた(パラレル)",
+			"nameEn": "Amane Kanata (Parallel)",
+			"talents": [
+				"kanata"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10025",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-014_UR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"4",
+				"#Singing"
+			],
+			"hp": 200,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Wings Darker than Black　100\nIf your opponent's holomem is downed by this Arts, and the dealt Damage was greater than the remaining HP by 50 or more, your opponent gets Life-1."
+				}
+			],
+			"officialId": 44,
+			"officialName": "Amane Kanata",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-014_RR.png",
+			"illustrator": "ノーマル：須王 彩\nパラレル：うなぽっぽ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "UR",
+			"number": "hBP01-023",
+			"name": "ときのそら(パラレル)",
+			"nameEn": "Tokino Sora (Parallel)",
+			"talents": [
+				"sora"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "780 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10035",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-023_UR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 210,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Not gonna stop　80\nYou may roll a die once:If it is odd, use this Arts once more on the same holomem (This Arts may be repeated until that holomem is downed)."
+				}
+			],
+			"officialId": 52,
+			"officialName": "Tokino Sora",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-023_RR_02.png",
+			"illustrator": "タスキブ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "UR",
+			"number": "hBP01-027",
+			"name": "ベスティア・ゼータ(パラレル)",
+			"nameEn": "Vestia Zeta (Parallel)",
+			"talents": [
+				"zeta"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "780 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10040",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-027_UR.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"3"
+			],
+			"hp": 200,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Access Code: ID　70+\nIf your center holomem has #ID, this Arts gets +50."
+				}
+			],
+			"extra": "If this holomem is downed, you get Life-2",
+			"officialId": 56,
+			"officialName": "Vestia Zeta",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-027_RR_02.png",
+			"illustrator": "いかけ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "UR",
+			"number": "hBP01-043",
+			"name": "兎田ぺこら(パラレル)",
+			"nameEn": "Usada Pekora (Parallel)",
+			"talents": [
+				"pekora"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "680 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 680,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10057",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-043_UR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"3",
+				"#Kemomimi"
+			],
+			"hp": 200,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Operation: Bunnify Humanity　60+\nYou may roll a die 3 times:This Arts gets +10x the total number rolled."
+				}
+			],
+			"officialId": 72,
+			"officialName": "Usada Pekora",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-043_RR_02.png",
+			"illustrator": "須王 彩"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "UR",
+			"number": "hBP01-047",
+			"name": "AZKi(パラレル)",
+			"nameEn": "AZKi (Parallel)",
+			"talents": [
+				"azki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "680 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 680,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10062",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-047_UR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 220,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "A New Map　120"
+				}
+			],
+			"officialId": 75,
+			"officialName": "AZKi",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-047_RR_02.png",
+			"illustrator": "ノーマル：チェリ子\nパラレル：Hachi"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "UR",
+			"number": "hBP01-051",
+			"name": "風真いろは(パラレル)",
+			"nameEn": "Kazama Iroha (Parallel)",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "680 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 680,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10067",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-051_UR.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#JP",
+				"#holoX"
+			],
+			"hp": 250,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "A Bundle of Cheers　50+\n[Collab Position Only]This Arts gets +20 for each of this holomem's cheer. However, only up to 5 cheers are counted."
+				},
+				{
+					"text": "Radiance of the Windflower　70"
+				}
+			],
+			"extra": "If this holomem is downed, you get Life-2",
+			"officialId": 79,
+			"officialName": "Kazama Iroha",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-051_RR.png",
+			"illustrator": "ノーマル：でいりー\nパラレル：さまてる"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "UR",
+			"number": "hBP01-067",
+			"name": "小鳥遊キアラ(パラレル)",
+			"nameEn": "Takanashi Kiara (Parallel)",
+			"talents": [
+				"kiara"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "780 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10084",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-067_UR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#Bird"
+			],
+			"hp": 200,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Guidance of the Flame　70"
+				},
+				{
+					"text": "Majestic Phoenix　80+\nThis Arts gets +10 for each holomem in your archive. Then, return 6 holomem from your archive to deck and shuffle it."
+				}
+			],
+			"officialId": 95,
+			"officialName": "Takanashi Kiara",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-067_RR.png",
+			"illustrator": "タスキブ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "UR",
+			"number": "hBP01-071",
+			"name": "尾丸ポルカ(パラレル)",
+			"nameEn": "Omaru Polka (Parallel)",
+			"talents": [
+				"polka"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10089",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-071_UR.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"5",
+				"#Kemomimi"
+			],
+			"hp": 240,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Polka Circus　50+\nThis Arts gets +20 for each fan attached to all of your holomem."
+				}
+			],
+			"extra": "If this holomem is downed, you get Life-2",
+			"officialId": 99,
+			"officialName": "Omaru Polka",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-071_RR.png",
+			"illustrator": "ノーマル：さとうさなえ\nパラレル：南野あき"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "UR",
+			"number": "hBP01-081",
+			"name": "星街すいせい(パラレル)(エラッタ前)",
+			"nameEn": "Hoshimachi Suisei (Parallel) (Pre-errata)",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "780 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "6 点",
+			"stockCount": 6,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10100",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-081_UR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 210,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Shining Comet　60+\nYou may archive 2 blue cheers from this holomem:This Arts gets +60 for each holomem that is stacked to this holomem (This Arts can target your opponent's back holomem too)."
+				}
+			],
+			"officialId": 109,
+			"officialName": "Hoshimachi Suisei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-081_RR.png",
+			"illustrator": "ノーマル：でいりー\nパラレル："
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "UR",
+			"number": "hBP01-081",
+			"name": "星街すいせい(パラレル)(エラッタ後)",
+			"nameEn": "Hoshimachi Suisei (Parallel) (Post-errata)",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "780 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10148",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-081_UR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 210,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Shining Comet　60+\nYou may archive 2 blue cheers from this holomem:This Arts gets +60 for each holomem that is stacked to this holomem (This Arts can target your opponent's back holomem too)."
+				}
+			],
+			"officialId": 109,
+			"officialName": "Hoshimachi Suisei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-081_RR.png",
+			"illustrator": "ノーマル：でいりー\nパラレル："
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "UR",
+			"number": "hBP01-091",
+			"name": "ムーナ・ホシノヴァ(パラレル)",
+			"nameEn": "Moona Hoshinova (Parallel)",
+			"talents": [
+				"moona"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "680 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 680,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10111",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-091_UR.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"1",
+				"#Singing"
+			],
+			"hp": 240,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "The Moon is for the Night.　50"
+				},
+				{
+					"text": "Moon Night Diva　80\nYou may archive 1 [green cheer or blue cheer] from this holomem:Deal 30 Special Damage to 1 of your opponent's back holomem."
+				}
+			],
+			"extra": "If this holomem is downed, you get Life-2",
+			"officialId": 119,
+			"officialName": "Moona Hoshinova",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-091_RR.png",
+			"illustrator": "高崎律"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OSR",
+			"number": "hBP01-001",
+			"name": "天音かなた",
+			"nameEn": "Amane Kanata",
+			"talents": [
+				"kanata"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-001_OSR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Squish Squish",
+				"text": "[holo Power：-3]Squish Squish[1/Turn]Set the opponent's center holomem's remaining HP to 50."
+			},
+			"spOshiSkill": {
+				"name": "I'll squish you!",
+				"text": "[holo Power：-2]I'll squish you![1/Game]During this turn, 1 of your holomem gets Arts+50. Then, if that holomem's color is white, it gets Arts+50."
+			},
+			"officialId": 31,
+			"officialName": "Amane Kanata",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-001_OSR.png",
+			"illustrator": "Hiroko"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OSR",
+			"number": "hBP01-002",
+			"name": "七詩ムメイ",
+			"nameEn": "Nanashi Mumei",
+			"talents": [
+				"mumei"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "320 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 320,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "3 点",
+			"stockCount": 3,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-002_OSR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Guardian of Civilization",
+				"text": "[holo Power：-2]Guardian of Civilization[1/Turn]Usable if your holomem with #Promise would take Damage from the opponent during the opponent's turn:1 of those holomem takes -50 Damage."
+			},
+			"spOshiSkill": {
+				"name": "Amazing Drawing",
+				"text": "[holo Power：-2]Amazing Drawing[1/Game]Reveal 1 event from your deck, and add it to hand. Then, shuffle the deck."
+			},
+			"officialId": 32,
+			"officialName": "Nanashi Mumei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-002_OSR.png",
+			"illustrator": "Hiroko"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OSR",
+			"number": "hBP01-003",
+			"name": "アキ・ローゼンタール",
+			"nameEn": "Aki Rosenthal",
+			"talents": [
+				"aki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-003_OSR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Survival Power",
+				"text": "[holo Power：-2]Survival Power[1/Turn]Reveal 1 〈Stone Axe〉 from your deck, and attach it to your green holomem. Then, shuffle the deck."
+			},
+			"spOshiSkill": {
+				"name": "Song of the Earth",
+				"text": "[holo Power：-2]Song of the Earth[1/Game]Restore all HP of your green center holomem."
+			},
+			"officialId": 33,
+			"officialName": "Aki Rosenthal",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-003_OSR.png",
+			"illustrator": "Hiroko"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OSR",
+			"number": "hBP01-004",
+			"name": "兎田ぺこら",
+			"nameEn": "Usada Pekora",
+			"talents": [
+				"pekora"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "780 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-004_OSR.png",
+			"cardType": "Oshi",
+			"life": 6,
+			"oshiSkill": {
+				"name": "Little Wild Rabbits~",
+				"text": "[holo Power：-2]Little Wild Rabbits~[1/Turn]Usable if your holomem is downed during the opponent's turn:Reattach all green cheers from 1 of your downed holomem divided as you choose to your other holomems."
+			},
+			"spOshiSkill": {
+				"name": "Lucky Rabbit",
+				"text": "[holo Power：-3]Lucky Rabbit[1/Game]During this turn, regard all numbers on the faces of your dice as 6."
+			},
+			"officialId": 34,
+			"officialName": "Usada Pekora",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-004_OSR.png",
+			"illustrator": "神奈ぺろん"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OSR",
+			"number": "hBP01-005",
+			"name": "鷹嶺ルイ",
+			"nameEn": "Takane Lui",
+			"talents": [
+				"lui"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "320 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 320,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-005_OSR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Female Commanding Officer",
+				"text": "[holo Power：-X]Female Commanding Officer[1/Turn]Usable if you would archive cards from hand by your red holomem's ability:You may archive 1 of your holo Power instead for each hand card to be archived."
+			},
+			"spOshiSkill": {
+				"name": "Hawkeye",
+				"text": "[holo Power：-2]Hawkeye[1/Game]During your opponent's next turn, your opponent's center holomem and collab holomem cannot Baton Pass, move, or swap."
+			},
+			"officialId": 35,
+			"officialName": "Takane Lui",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-005_OSR.png",
+			"illustrator": "須王 彩"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OSR",
+			"number": "hBP01-006",
+			"name": "小鳥遊キアラ",
+			"nameEn": "Takanashi Kiara",
+			"talents": [
+				"kiara"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "280 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10011",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-006_OSR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Phoenix Tail",
+				"text": "[holo Power：-2]Phoenix Tail[1/Turn]Return 1 holomem from your archive to hand."
+			},
+			"spOshiSkill": {
+				"name": "Rise from the ashes",
+				"text": "[holo Power：-2]Rise from the ashes[1/Game]Usable if your red holomem is downed during your opponent's turn:You take -1 Life Damage. Then, choose 1 downed card, and return all of the stacked holomem including that holomem to hand."
+			},
+			"officialId": 36,
+			"officialName": "Takanashi Kiara",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-006_OSR.png",
+			"illustrator": "水鈴"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OSR",
+			"number": "hBP01-007",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "1,780 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 1780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10014",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-007_OSR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Comet",
+				"text": "[holo Power：-2]Comet[1/Turn]Usable when this Oshi holomem or your blue holomem deals Damage to your opponent's back holomem:Deal 50 Special Damage to that back holomem."
+			},
+			"spOshiSkill": {
+				"name": "Shooting Star",
+				"text": "[holo Power：-2]Shooting Star[1/Game]Usable when your blue holomem deals Damage to your opponent's center holomem or collab holomem:Deal the same amount of Special Damage to 1 of your opponent's back holomem."
+			},
+			"officialId": 37,
+			"officialName": "Hoshimachi Suisei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-007_OSR.png",
+			"illustrator": "水鈴"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "OSR",
+			"number": "hBP01-008",
+			"name": "こぼ・かなえる",
+			"nameEn": "Kobo Kanaeru",
+			"talents": [
+				"kobo"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "280 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10017",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-008_OSR.png",
+			"cardType": "Oshi",
+			"life": 6,
+			"oshiSkill": {
+				"name": "Rain Shamanism",
+				"text": "[holo Power：-1]Rain Shamanism[1/Turn]Usable when your blue holomem's ability archives a cheer:Deal 20 Special Damage to 1 of your opponent's holomem."
+			},
+			"spOshiSkill": {
+				"name": "Rainmaking",
+				"text": "[holo Power：-3]Rainmaking[1/Game]Send 1~5 cheers from your archive divided as you choose to your holomems with #ID."
+			},
+			"officialId": 38,
+			"officialName": "Kobo Kanaeru",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-008_OSR.png",
+			"illustrator": "タスキブ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "RR",
+			"number": "hBP01-014",
+			"name": "天音かなた",
+			"nameEn": "Amane Kanata",
+			"talents": [
+				"kanata"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10024",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-014_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"4",
+				"#Singing"
+			],
+			"hp": 200,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Wings Darker than Black　100\nIf your opponent's holomem is downed by this Arts, and the dealt Damage was greater than the remaining HP by 50 or more, your opponent gets Life-1."
+				}
+			],
+			"officialId": 44,
+			"officialName": "Amane Kanata",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-014_RR.png",
+			"illustrator": "ノーマル：須王 彩\nパラレル：うなぽっぽ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "RR",
+			"number": "hBP01-023",
+			"name": "ときのそら",
+			"nameEn": "Tokino Sora",
+			"talents": [
+				"sora"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10034",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-023_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 210,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Not gonna stop　80\nYou may roll a die once:If it is odd, use this Arts once more on the same holomem (This Arts may be repeated until that holomem is downed)."
+				}
+			],
+			"officialId": 52,
+			"officialName": "Tokino Sora",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-023_RR_02.png",
+			"illustrator": "タスキブ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "RR",
+			"number": "hBP01-027",
+			"name": "ベスティア・ゼータ",
+			"nameEn": "Vestia Zeta",
+			"talents": [
+				"zeta"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10039",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-027_RR.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"3"
+			],
+			"hp": 200,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Access Code: ID　70+\nIf your center holomem has #ID, this Arts gets +50."
+				}
+			],
+			"extra": "If this holomem is downed, you get Life-2",
+			"officialId": 56,
+			"officialName": "Vestia Zeta",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-027_RR_02.png",
+			"illustrator": "いかけ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "RR",
+			"number": "hBP01-043",
+			"name": "兎田ぺこら",
+			"nameEn": "Usada Pekora",
+			"talents": [
+				"pekora"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10056",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-043_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"3",
+				"#Kemomimi"
+			],
+			"hp": 200,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Operation: Bunnify Humanity　60+\nYou may roll a die 3 times:This Arts gets +10x the total number rolled."
+				}
+			],
+			"officialId": 72,
+			"officialName": "Usada Pekora",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-043_RR_02.png",
+			"illustrator": "須王 彩"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "RR",
+			"number": "hBP01-047",
+			"name": "AZKi",
+			"nameEn": "AZKi",
+			"talents": [
+				"azki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10061",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-047_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 220,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "A New Map　120"
+				}
+			],
+			"officialId": 75,
+			"officialName": "AZKi",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-047_RR_02.png",
+			"illustrator": "ノーマル：チェリ子\nパラレル：Hachi"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "RR",
+			"number": "hBP01-051",
+			"name": "風真いろは",
+			"nameEn": "Kazama Iroha",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10066",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-051_RR.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#JP",
+				"#holoX"
+			],
+			"hp": 250,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "A Bundle of Cheers　50+\n[Collab Position Only]This Arts gets +20 for each of this holomem's cheer. However, only up to 5 cheers are counted."
+				},
+				{
+					"text": "Radiance of the Windflower　70"
+				}
+			],
+			"extra": "If this holomem is downed, you get Life-2",
+			"officialId": 79,
+			"officialName": "Kazama Iroha",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-051_RR.png",
+			"illustrator": "ノーマル：でいりー\nパラレル：さまてる"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "RR",
+			"number": "hBP01-067",
+			"name": "小鳥遊キアラ",
+			"nameEn": "Takanashi Kiara",
+			"talents": [
+				"kiara"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10083",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-067_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#Bird"
+			],
+			"hp": 200,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Guidance of the Flame　70"
+				},
+				{
+					"text": "Majestic Phoenix　80+\nThis Arts gets +10 for each holomem in your archive. Then, return 6 holomem from your archive to deck and shuffle it."
+				}
+			],
+			"officialId": 95,
+			"officialName": "Takanashi Kiara",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-067_RR.png",
+			"illustrator": "タスキブ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "RR",
+			"number": "hBP01-071",
+			"name": "尾丸ポルカ",
+			"nameEn": "Omaru Polka",
+			"talents": [
+				"polka"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10088",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-071_RR.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"5",
+				"#Kemomimi"
+			],
+			"hp": 240,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Polka Circus　50+\nThis Arts gets +20 for each fan attached to all of your holomem."
+				}
+			],
+			"extra": "If this holomem is downed, you get Life-2",
+			"officialId": 99,
+			"officialName": "Omaru Polka",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-071_RR.png",
+			"illustrator": "ノーマル：さとうさなえ\nパラレル：南野あき"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "RR",
+			"number": "hBP01-081",
+			"name": "星街すいせい(エラッタ前)",
+			"nameEn": "Hoshimachi Suisei (Pre-errata)",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10099",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-081_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 210,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Shining Comet　60+\nYou may archive 2 blue cheers from this holomem:This Arts gets +60 for each holomem that is stacked to this holomem (This Arts can target your opponent's back holomem too)."
+				}
+			],
+			"officialId": 109,
+			"officialName": "Hoshimachi Suisei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-081_RR.png",
+			"illustrator": "ノーマル：でいりー\nパラレル："
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "RR",
+			"number": "hBP01-081",
+			"name": "星街すいせい(エラッタ後)",
+			"nameEn": "Hoshimachi Suisei (Post-errata)",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10147",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-081_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 210,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Shining Comet　60+\nYou may archive 2 blue cheers from this holomem:This Arts gets +60 for each holomem that is stacked to this holomem (This Arts can target your opponent's back holomem too)."
+				}
+			],
+			"officialId": 109,
+			"officialName": "Hoshimachi Suisei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-081_RR.png",
+			"illustrator": "ノーマル：でいりー\nパラレル："
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "RR",
+			"number": "hBP01-091",
+			"name": "ムーナ・ホシノヴァ",
+			"nameEn": "Moona Hoshinova",
+			"talents": [
+				"moona"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10110",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-091_RR.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"1",
+				"#Singing"
+			],
+			"hp": 240,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "The Moon is for the Night.　50"
+				},
+				{
+					"text": "Moon Night Diva　80\nYou may archive 1 [green cheer or blue cheer] from this holomem:Deal 30 Special Damage to 1 of your opponent's back holomem."
+				}
+			],
+			"extra": "If this holomem is downed, you get Life-2",
+			"officialId": 119,
+			"officialName": "Moona Hoshinova",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-091_RR.png",
+			"illustrator": "高崎律"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-013",
+			"name": "天音かなた",
+			"nameEn": "Amane Kanata",
+			"talents": [
+				"kanata"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10023",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-013_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"4",
+				"#Singing"
+			],
+			"hp": 100,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Angel Stage　50"
+				}
+			],
+			"officialId": 43,
+			"officialName": "Amane Kanata",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-013_R.png",
+			"illustrator": "須王 彩"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-020",
+			"name": "七詩ムメイ",
+			"nameEn": "Nanashi Mumei",
+			"talents": [
+				"mumei"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10031",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-020_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Bird",
+				"#Painting"
+			],
+			"hp": 190,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Everyone Together　70+\nDuring this turn, your center holomem and collab holomem get Arts+10 for each of your back holomem."
+				}
+			],
+			"officialId": 50,
+			"officialName": "Nanashi Mumei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-020_R.png",
+			"illustrator": "高崎律"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-031",
+			"name": "IRyS",
+			"nameEn": "IRyS",
+			"talents": [
+				"irys"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10044",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-031_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Singing"
+			],
+			"hp": 200,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Power of Promise　50+\nThis Arts gets +20 for each of your holomem with #Promise."
+				}
+			],
+			"officialId": 60,
+			"officialName": "IRyS",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-031_R.png",
+			"illustrator": "mizu"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-037",
+			"name": "アキ・ローゼンタール",
+			"nameEn": "Aki Rosenthal",
+			"talents": [
+				"aki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10050",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-037_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"1",
+				"#Half-Elf",
+				"#Alcohol"
+			],
+			"hp": 190,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Secret Shared Key　70+\nIf a tool is attached to this holomem, this Arts gets +50."
+				}
+			],
+			"officialId": 66,
+			"officialName": "Aki Rosenthal",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-037_R.png",
+			"illustrator": "りんけてん"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-042",
+			"name": "兎田ぺこら",
+			"nameEn": "Usada Pekora",
+			"talents": [
+				"pekora"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10055",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-042_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"3",
+				"#Kemomimi"
+			],
+			"hp": 120,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "White Sand Beach and the Bunny Girl　40"
+				},
+				{
+					"text": "It's Heweree　50+\nYou may roll a die once:This Arts gets +10x the number rolled."
+				}
+			],
+			"officialId": 71,
+			"officialName": "Usada Pekora",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-042_R_02.png",
+			"illustrator": "憂姫はぐれ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-055",
+			"name": "アイラニ・イオフィフティーン",
+			"nameEn": "Airani Iofifteen",
+			"talents": [
+				"iofi"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10071",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-055_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"1",
+				"#Painting"
+			],
+			"hp": 180,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Relation Sky　100+\nIf your stage has a holomem with #ID other than 〈Airani Iofifteen〉, this Arts gets +50."
+				}
+			],
+			"officialId": 83,
+			"officialName": "Airani Iofifteen",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-055_R_02.png",
+			"illustrator": "高崎律"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-061",
+			"name": "鷹嶺ルイ",
+			"nameEn": "Takane Lui",
+			"talents": [
+				"lui"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "280 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10077",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-061_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX",
+				"#Bird",
+				"#Alcohol"
+			],
+			"hp": 190,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Hawk Rave　60\nYou may archive 1~5 cards from your hand:Deal 20 Special Damage for each archived card to your opponent's center holomem or collab holomem."
+				}
+			],
+			"officialId": 89,
+			"officialName": "Takane Lui",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-061_R.png",
+			"illustrator": "でいりー"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-066",
+			"name": "小鳥遊キアラ",
+			"nameEn": "Takanashi Kiara",
+			"talents": [
+				"kiara"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10082",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-066_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#Bird"
+			],
+			"hp": 120,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Phoenix Sword Princess　50"
+				},
+				{
+					"text": "Kneel Before Me.　40\nYou may archive 1 holomem that is stacked to this holomem:Deal 40 Special Damage to your opponent's collab holomem."
+				}
+			],
+			"officialId": 94,
+			"officialName": "Takanashi Kiara",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-066_R.png",
+			"illustrator": "タスキブ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-075",
+			"name": "ハコス・ベールズ",
+			"nameEn": "Hakos Baelz",
+			"talents": [
+				"baelz"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "280 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10093",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-075_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Kemomimi"
+			],
+			"hp": 180,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Disorder　100"
+				}
+			],
+			"officialId": 103,
+			"officialName": "Hakos Baelz",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-075_R.png",
+			"illustrator": "COGA"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-080",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10098",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-080_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 110,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Maid Fighter　70"
+				}
+			],
+			"officialId": 108,
+			"officialName": "Hoshimachi Suisei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-080_R_02.png",
+			"illustrator": "でいりー"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-087",
+			"name": "こぼ・かなえる",
+			"nameEn": "Kobo Kanaeru",
+			"talents": [
+				"kobo"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10106",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-087_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"3"
+			],
+			"hp": 200,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Rain Mantra　40\nYou may archive 1 cheer from this holomem:Deal 20 Special Damage to all of your opponent's back holomem. However, your opponent's Life does not reduce even if downed."
+				},
+				{
+					"text": "Wave Mantra　40\nYou may archive 2 cheers from this holomem:Deal the same amount of Special Damage to the opponent's center holomem as the total number of Damage taken by all of your opponent's back holomem."
+				}
+			],
+			"officialId": 115,
+			"officialName": "Kobo Kanaeru",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-087_R.png",
+			"illustrator": "高崎律"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-095",
+			"name": "オーロ・クロニー",
+			"nameEn": "Ouro Kronii",
+			"talents": [
+				"kronii"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "280 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10115",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-095_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise"
+			],
+			"hp": 200,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Fast Forward　60\nYou may Bloom a 1st holomem from your hand on 1 of your Debut back holomem placed this turn."
+				}
+			],
+			"officialId": 123,
+			"officialName": "Ouro Kronii",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-095_R.png",
+			"illustrator": "syow"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-096",
+			"name": "兎田ぺこら",
+			"nameEn": "Usada Pekora",
+			"talents": [
+				"pekora"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10116",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-096_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"3",
+				"#Kemomimi"
+			],
+			"hp": 80,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Pekora~ Beyond the Door~　10"
+				}
+			],
+			"extra": "This holomem cannot Bloom",
+			"officialId": 124,
+			"officialName": "Usada Pekora",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-096_R_02.png",
+			"illustrator": "mono"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-097",
+			"name": "不知火フレア",
+			"nameEn": "Shiranui Flare",
+			"talents": [
+				"flare"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10117",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-097_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"3",
+				"#Half-Elf"
+			],
+			"hp": 80,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Flare~ Beyond the Door~　20"
+				}
+			],
+			"extra": "This holomem cannot Bloom",
+			"officialId": 125,
+			"officialName": "Shiranui Flare",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-097_R.png",
+			"illustrator": "mono"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-098",
+			"name": "白銀ノエル",
+			"nameEn": "Shirogane Noel",
+			"talents": [
+				"noel"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10118",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-098_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"3",
+				"#Alcohol"
+			],
+			"hp": 90,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Noel~ Beyond the Door~　20"
+				}
+			],
+			"extra": "This holomem cannot Bloom",
+			"officialId": 126,
+			"officialName": "Shirogane Noel",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-098_R.png",
+			"illustrator": "mono"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "R",
+			"number": "hBP01-099",
+			"name": "宝鐘マリン",
+			"nameEn": "Houshou Marine",
+			"talents": [
+				"marine"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10119",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-099_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"3",
+				"#Painting",
+				"#Sea"
+			],
+			"hp": 70,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Marine~ Beyond the Door~　10"
+				}
+			],
+			"extra": "This holomem cannot Bloom",
+			"officialId": 127,
+			"officialName": "Houshou Marine",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-099_R_02.png",
+			"illustrator": "mono"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-010",
+			"name": "天音かなた",
+			"nameEn": "Amane Kanata",
+			"talents": [
+				"kanata"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10020",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-010_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"4",
+				"#Singing"
+			],
+			"hp": 60,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "I'm off!　20"
+				}
+			],
+			"officialId": 40,
+			"officialName": "Amane Kanata",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-010_U.png",
+			"illustrator": "さとうぽて"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-012",
+			"name": "天音かなた",
+			"nameEn": "Amane Kanata",
+			"talents": [
+				"kanata"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10022",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-012_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"4",
+				"#Singing"
+			],
+			"hp": 120,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Give Me All Your Support!　40"
+				}
+			],
+			"officialId": 42,
+			"officialName": "Amane Kanata",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-012_U_02.png",
+			"illustrator": "おしおしお"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-016",
+			"name": "七詩ムメイ",
+			"nameEn": "Nanashi Mumei",
+			"talents": [
+				"mumei"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10027",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-016_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Bird",
+				"#Painting"
+			],
+			"hp": 60,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Relax Time　10"
+				}
+			],
+			"officialId": 46,
+			"officialName": "Nanashi Mumei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-016_U.png",
+			"illustrator": "うなぽっぽ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-019",
+			"name": "七詩ムメイ",
+			"nameEn": "Nanashi Mumei",
+			"talents": [
+				"mumei"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10030",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-019_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Bird",
+				"#Painting"
+			],
+			"hp": 100,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Thank you for always supporting me!　30"
+				}
+			],
+			"officialId": 49,
+			"officialName": "Nanashi Mumei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-019_U.png",
+			"illustrator": "WERI"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-022",
+			"name": "ときのそら",
+			"nameEn": "Tokino Sora",
+			"talents": [
+				"sora"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10033",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-022_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 110,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Let's make it the best day ever♪　40"
+				}
+			],
+			"officialId": 51,
+			"officialName": "Tokino Sora",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-022_U.png"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-026",
+			"name": "ベスティア・ゼータ",
+			"nameEn": "Vestia Zeta",
+			"talents": [
+				"zeta"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10038",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-026_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"3"
+			],
+			"hp": 110,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "The Stages are all \"Mine\"　30"
+				}
+			],
+			"officialId": 55,
+			"officialName": "Vestia Zeta",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-026_U.png",
+			"illustrator": "タスキブ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-030",
+			"name": "IRyS",
+			"nameEn": "IRyS",
+			"talents": [
+				"irys"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10043",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-030_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Singing"
+			],
+			"hp": 110,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "I'll sing with all my heart, so watch me!　40"
+				}
+			],
+			"officialId": 59,
+			"officialName": "IRyS",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-030_U.png"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-033",
+			"name": "アキ・ローゼンタール",
+			"nameEn": "Aki Rosenthal",
+			"talents": [
+				"aki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10046",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-033_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"1",
+				"#Half-Elf",
+				"#Alcohol"
+			],
+			"hp": 50,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "After Party　20"
+				}
+			],
+			"officialId": 62,
+			"officialName": "Aki Rosenthal",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-033_U_02.png",
+			"illustrator": "安曇アキタケ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-036",
+			"name": "アキ・ローゼンタール",
+			"nameEn": "Aki Rosenthal",
+			"talents": [
+				"aki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10049",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-036_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"1",
+				"#Half-Elf",
+				"#Alcohol"
+			],
+			"hp": 100,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "We've aRose & Ready to Slay Today!　30"
+				}
+			],
+			"officialId": 65,
+			"officialName": "Aki Rosenthal",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-036_U.png",
+			"illustrator": "mizu"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-039",
+			"name": "兎田ぺこら",
+			"nameEn": "Usada Pekora",
+			"talents": [
+				"pekora"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10052",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-039_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"3",
+				"#Kemomimi"
+			],
+			"hp": 60,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Zero-Gravity Jump!　30"
+				}
+			],
+			"officialId": 68,
+			"officialName": "Usada Pekora",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-039_U_02.png",
+			"illustrator": "憂姫はぐれ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-041",
+			"name": "兎田ぺこら",
+			"nameEn": "Usada Pekora",
+			"talents": [
+				"pekora"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10054",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-041_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"3",
+				"#Kemomimi"
+			],
+			"hp": 90,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Don't you dare miss it, Peko!　30"
+				}
+			],
+			"officialId": 70,
+			"officialName": "Usada Pekora",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-041_U.png"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-045",
+			"name": "AZKi",
+			"nameEn": "AZKi",
+			"talents": [
+				"azki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10059",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-045_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 50,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "By the Seaside Town, with You　20"
+				}
+			],
+			"officialId": 73,
+			"officialName": "AZKi",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-045_U.png",
+			"illustrator": "美和野らぐ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-050",
+			"name": "風真いろは",
+			"nameEn": "Kazama Iroha",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10065",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-050_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Bringing You Energy at Full Power!　20\nSend the top card of your cheer deck to your holomem with #holoX other than 〈Kazama Iroha〉."
+				}
+			],
+			"officialId": 78,
+			"officialName": "Kazama Iroha",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-050_U.png",
+			"illustrator": "須王 彩"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-054",
+			"name": "アイラニ・イオフィフティーン",
+			"nameEn": "Airani Iofifteen",
+			"talents": [
+				"iofi"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10070",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-054_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"1",
+				"#Painting"
+			],
+			"hp": 120,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "I'm Looking Forward to It!　30"
+				}
+			],
+			"officialId": 82,
+			"officialName": "Airani Iofifteen",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-054_U.png",
+			"illustrator": "チェリ子"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-057",
+			"name": "鷹嶺ルイ",
+			"nameEn": "Takane Lui",
+			"talents": [
+				"lui"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10073",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-057_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX",
+				"#Bird",
+				"#Alcohol"
+			],
+			"hp": 60,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "I'll Lure You in with Wings Darker than Black　20\nDeal 10 Special Damage to your opponent's collab holomem."
+				}
+			],
+			"officialId": 85,
+			"officialName": "Takane Lui",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-057_U.png",
+			"illustrator": "TAiGA"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-060",
+			"name": "鷹嶺ルイ",
+			"nameEn": "Takane Lui",
+			"talents": [
+				"lui"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "320 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 320,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10076",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-060_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX",
+				"#Bird",
+				"#Alcohol"
+			],
+			"hp": 100,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Make Sure to Keep Up with Me!　40"
+				}
+			],
+			"officialId": 88,
+			"officialName": "Takane Lui",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-060_U.png",
+			"illustrator": "さまてる"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-063",
+			"name": "小鳥遊キアラ",
+			"nameEn": "Takanashi Kiara",
+			"talents": [
+				"kiara"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10079",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-063_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#Bird"
+			],
+			"hp": 60,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Fluffy Time　20"
+				}
+			],
+			"officialId": 91,
+			"officialName": "Takanashi Kiara",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-063_U.png",
+			"illustrator": "Akizone"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-065",
+			"name": "小鳥遊キアラ",
+			"nameEn": "Takanashi Kiara",
+			"talents": [
+				"kiara"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10081",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-065_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#Bird"
+			],
+			"hp": 110,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Gonna Hype Things Up!　40"
+				}
+			],
+			"officialId": 93,
+			"officialName": "Takanashi Kiara",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-065_U.png"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-070",
+			"name": "尾丸ポルカ",
+			"nameEn": "Omaru Polka",
+			"talents": [
+				"polka"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10087",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-070_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"5",
+				"#Kemomimi"
+			],
+			"hp": 110,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Codependency　70\nThis Arts can only be used if a 〈Troupe Member〉 is attached to this holomem."
+				}
+			],
+			"officialId": 98,
+			"officialName": "Omaru Polka",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-070_U.png",
+			"illustrator": "でいりー"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-074",
+			"name": "ハコス・ベールズ",
+			"nameEn": "Hakos Baelz",
+			"talents": [
+				"baelz"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10092",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-074_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Kemomimi"
+			],
+			"hp": 90,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "The Fun Times Begin!　30"
+				}
+			],
+			"officialId": 102,
+			"officialName": "Hakos Baelz",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-074_U.png"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-077",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10095",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-077_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "New Outfit　30"
+				}
+			],
+			"officialId": 105,
+			"officialName": "Hoshimachi Suisei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-077_U.png",
+			"illustrator": "ひなつ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-079",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10097",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-079_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 120,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Sui-chan is as Cute as Always!!　50"
+				}
+			],
+			"officialId": 107,
+			"officialName": "Hoshimachi Suisei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-079_U.png",
+			"illustrator": "スコッティ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-083",
+			"name": "こぼ・かなえる",
+			"nameEn": "Kobo Kanaeru",
+			"talents": [
+				"kobo"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10102",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-083_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"3"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Waves~! Let’s Swim~!　10"
+				}
+			],
+			"officialId": 111,
+			"officialName": "Kobo Kanaeru",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-083_U_02.png",
+			"illustrator": "ぽんかん⑧"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-086",
+			"name": "こぼ・かなえる",
+			"nameEn": "Kobo Kanaeru",
+			"talents": [
+				"kobo"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10105",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-086_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"3"
+			],
+			"hp": 110,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "OnAeru　40"
+				}
+			],
+			"officialId": 114,
+			"officialName": "Kobo Kanaeru",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-086_U.png",
+			"illustrator": "COGA"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-090",
+			"name": "ムーナ・ホシノヴァ",
+			"nameEn": "Moona Hoshinova",
+			"talents": [
+				"moona"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10109",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-090_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"1",
+				"#Singing"
+			],
+			"hp": 110,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Look Forward to It!!　20"
+				}
+			],
+			"officialId": 118,
+			"officialName": "Moona Hoshinova",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-090_U.png"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-094",
+			"name": "オーロ・クロニー",
+			"nameEn": "Ouro Kronii",
+			"talents": [
+				"kronii"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "680 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 680,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10114",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-094_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise"
+			],
+			"hp": 120,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Let’s Make It an Unforgettable Fes!　40"
+				}
+			],
+			"officialId": 122,
+			"officialName": "Ouro Kronii",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-094_U.png"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-102",
+			"name": "アイドルマイク",
+			"nameEn": "Idol Mic",
+			"talents": [],
+			"colors": [],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10122",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-102_U.png",
+			"cardType": "Support・Item・LIMITED",
+			"abilityText": "This card can only be used if you have 6 or less cards in hand excluding this card.\n\nLook at the top 4 cards of your deck. Reveal any number of holomem with #Singing from among them, and add the revealed holomem to hand. Then, return the remaining cards to the bottom of the deck in any order.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 130,
+			"officialName": "Idol Microphone",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-102_U.png",
+			"illustrator": "JinArt KABAKURA"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-103",
+			"name": "ゲーミングパソコン",
+			"nameEn": "Gaming PC",
+			"talents": [],
+			"colors": [],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10123",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-103_U.png",
+			"cardType": "Support・Item・LIMITED",
+			"abilityText": "This card can only be used if you archive 1 of your holo Powers.\n\nReveal 1 [Debut holomem or 1st holomem] other than Buzz from your deck with the same color as your Oshi holomem, and add it to hand. Then, shuffle the deck.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 131,
+			"officialName": "Gaming PC",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-103_U.png",
+			"illustrator": "JinArt こばやかわやまと"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-105",
+			"name": "ペンライト",
+			"nameEn": "Penlight",
+			"talents": [],
+			"colors": [],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10125",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-105_U.png",
+			"cardType": "Support・Item・LIMITED",
+			"abilityText": "This card can only be used if you archive 1 of your holo Powers.\n\nReveal 1 cheer from your cheer deck with the same color as 1 of your holomem, and send it to your holomem. Then, shuffle the cheer deck.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 132,
+			"officialName": "Penlight",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-105_U.png",
+			"illustrator": "JinArt KABAKURA"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-106",
+			"name": "あとは任せた！",
+			"nameEn": "I'll Leave the Rest to You!",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10126",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-106_U.png",
+			"cardType": "Support・Event",
+			"abilityText": "Swap your center holomem with 1 non-resting back holomem.",
+			"officialId": 133,
+			"officialName": "I leave the rest to you!",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-106_U.png",
+			"illustrator": "JinArt KABAKURA"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-108",
+			"name": "じゃあ敵だね",
+			"nameEn": "Then You're the Enemy",
+			"talents": [],
+			"colors": [],
+			"price": "320 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 320,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10128",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-108_U.png",
+			"cardType": "Support・Event・LIMITED",
+			"abilityText": "Swap your opponent's center holomem with 1 back holomem.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 135,
+			"officialName": "So, That Makes You My Enemy",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-108_U.png"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-109",
+			"name": "月と兎の物語",
+			"nameEn": "The Tale of the Moon and the Rabbit",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10129",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-109_U.png",
+			"cardType": "Support・Event・LIMITED",
+			"abilityText": "This card can only be used if you have 6 or less cards in hand excluding this card.\n\nLook at the top 4 cards of your deck. Reveal any number of 〈Usada Pekora〉 and/or 〈Moona Hoshinova〉 from among them, and add the revealed holomem to hand. Then, return the remaining cards to the bottom of the deck in any order.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 136,
+			"officialName": "Tale of the Moon and the Rabbit",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-109_U.png",
+			"illustrator": "JinArt こばやかわやまと"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-110",
+			"name": "鈍器でぶっ叩くわよ！",
+			"nameEn": "I'll Beat You With a Blunt Weapon!",
+			"talents": [],
+			"colors": [],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10130",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-110_U.png",
+			"cardType": "Support・Event・LIMITED",
+			"abilityText": "Roll a die once:If it is 3 or less, archive 1 of your opponent's holomem's cheers.\n\n◆If your Oshi holomem is 〈Nanashi Mumei〉, you may Ability Shift\n\n[1/Game]Archive 2 of your opponent's center holomem's cheers.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 137,
+			"officialName": "I'll smack you with a blunt weapon!",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-110_U_02.png",
+			"illustrator": "mono"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-111",
+			"name": "ホロライブインドネシア3期生",
+			"nameEn": "hololive Indonesia 3rd Generation",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10131",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-111_U.png",
+			"cardType": "Support・Event・LIMITED",
+			"abilityText": "This card can only be used if you have 6 or less cards in hand excluding this card.\n\nLook at the top 4 cards of your deck. Reveal any number of holomem with #ID Gen 3 from among them, and add the revealed holomem to hand. Then, return the remaining cards to the bottom of the deck in any order.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 138,
+			"officialName": "hololive Indonesia Gen ３",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-111_U.png",
+			"illustrator": "SAKON"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-112",
+			"name": "わくわくいたずらタイム",
+			"nameEn": "Exciting Prank Time",
+			"talents": [],
+			"colors": [],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10132",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-112_U.png",
+			"cardType": "Support・Event",
+			"abilityText": "Roll a die once:If it is 4 or greater, deal 20 Special Damage to 1 of your opponent's back holomem. However, your opponent's Life does not reduce even if downed.",
+			"officialId": 139,
+			"officialName": "Exciting Prank Time",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-112_U_02.png",
+			"illustrator": "mono"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-113",
+			"name": "Promise",
+			"nameEn": "Promise",
+			"talents": [],
+			"colors": [],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10133",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-113_U.png",
+			"cardType": "Support・Event・LIMITED",
+			"abilityText": "This card can only be used if you have 6 or less cards in hand excluding this card.\n\nLook at the top 4 cards of your deck. Reveal any number of holomem with #Promise from among them, and add the revealed holomem to hand. Then, return the remaining cards to the bottom of the deck in any order.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 140,
+			"officialName": "Promise",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-113_U.png",
+			"illustrator": "mono"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "U",
+			"number": "hBP01-115",
+			"name": "星街すいせいのマイク",
+			"nameEn": "Hoshimachi Suisei's Mic",
+			"talents": [
+				"suisei"
+			],
+			"colors": [],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10135",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-115_U.png",
+			"cardType": "Support・Tool",
+			"abilityText": "The holomem this tool is attached to gets Arts+10.\n\n◆Additional ability if attached to a 1st or greater 〈Hoshimachi Suisei〉\n\nIf the holomem this tool is attached to downed your opponent's holomem, send 1 card from the top of your cheer deck to this holomem.\n\nOnly 1 tool can be attached to each of your holomem.",
+			"officialId": 142,
+			"officialName": "Hoshimachi Suisei's Microphone",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-115_U.png",
+			"illustrator": "JinArt こばやかわやまと"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-009",
+			"name": "天音かなた",
+			"nameEn": "Amane Kanata",
+			"talents": [
+				"kanata"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10019",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-009_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"4",
+				"#Singing"
+			],
+			"hp": 90,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "KonKanata~　40\nThis Arts can only target the opponent's center holomem."
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 39,
+			"officialName": "Amane Kanata",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-009_C.png",
+			"illustrator": "タスキブ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-011",
+			"name": "天音かなた",
+			"nameEn": "Amane Kanata",
+			"talents": [
+				"kanata"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10021",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-011_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"4",
+				"#Singing"
+			],
+			"hp": 150,
+			"bloomLevel": "1st",
+			"arts": [
+				{
+					"text": "Kanataso Giving the Cold Shoulder　20"
+				}
+			],
+			"officialId": 41,
+			"officialName": "Amane Kanata",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-011_C.png",
+			"illustrator": "おしおしお"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-015",
+			"name": "七詩ムメイ",
+			"nameEn": "Nanashi Mumei",
+			"talents": [
+				"mumei"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10026",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-015_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Bird",
+				"#Painting"
+			],
+			"hp": 90,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Oh,Hi　10+\nIf you have used a Support Card this turn, this Arts gets +20."
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 45,
+			"officialName": "Nanashi Mumei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-015_C.png",
+			"illustrator": "須王 彩"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-017",
+			"name": "七詩ムメイ",
+			"nameEn": "Nanashi Mumei",
+			"talents": [
+				"mumei"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10028",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-017_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Bird",
+				"#Painting"
+			],
+			"hp": 130,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Going Out Together　20"
+				},
+				{
+					"text": "Coffee Break　60"
+				}
+			],
+			"officialId": 47,
+			"officialName": "Nanashi Mumei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-017_C.png",
+			"illustrator": "WERI"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-018",
+			"name": "七詩ムメイ",
+			"nameEn": "Nanashi Mumei",
+			"talents": [
+				"mumei"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10029",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-018_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Bird",
+				"#Painting"
+			],
+			"hp": 120,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Fragments of Memories　20+\nYou may reveal the top card of your deck:If the revealed card has #Promise, this Arts gets +20. Then, add the revealed card to hand."
+				}
+			],
+			"officialId": 48,
+			"officialName": "Nanashi Mumei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-018_C.png",
+			"illustrator": "あずーる"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-021",
+			"name": "ときのそら",
+			"nameEn": "Tokino Sora",
+			"talents": [
+				"sora"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "280 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10032",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-021_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Everyone~ Konsome~　30"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 3,
+			"officialName": "Tokino Sora",
+			"officialImage": "/wp-content/images/cardlist/COMMON/EN_hBP01-021_C.png",
+			"illustrator": "はこに"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-024",
+			"name": "ベスティア・ゼータ",
+			"nameEn": "Vestia Zeta",
+			"talents": [
+				"zeta"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10036",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-024_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"3"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Mission Start　30"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 53,
+			"officialName": "Vestia Zeta",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-024_C.png"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-025",
+			"name": "ベスティア・ゼータ",
+			"nameEn": "Vestia Zeta",
+			"talents": [
+				"zeta"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10037",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-025_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"3"
+			],
+			"hp": 160,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Don't Drink the Hot Spring Water!　40"
+				},
+				{
+					"text": "A Day to Relax in the Hot Springs　60"
+				}
+			],
+			"officialId": 54,
+			"officialName": "Vestia Zeta",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-025_C.png",
+			"illustrator": "あるてら"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-028",
+			"name": "IRyS",
+			"nameEn": "IRyS",
+			"talents": [
+				"irys"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10041",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-028_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Singing"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "HiRyS!　30"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 57,
+			"officialName": "IRyS",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-028_C.png"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-029",
+			"name": "IRyS",
+			"nameEn": "IRyS",
+			"talents": [
+				"irys"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "10 点",
+			"stockCount": 10,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10042",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-029_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Singing"
+			],
+			"hp": 160,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "I'm a Pure Nephilim!　50"
+				}
+			],
+			"officialId": 58,
+			"officialName": "IRyS",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-029_C.png",
+			"illustrator": "トロメラ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-032",
+			"name": "アキ・ローゼンタール",
+			"nameEn": "Aki Rosenthal",
+			"talents": [
+				"aki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10045",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-032_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"1",
+				"#Half-Elf",
+				"#Alcohol"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Alo~na!　30"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 61,
+			"officialName": "Aki Rosenthal",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-032_C.png",
+			"illustrator": "いかけ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-034",
+			"name": "アキ・ローゼンタール",
+			"nameEn": "Aki Rosenthal",
+			"talents": [
+				"aki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10047",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-034_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"1",
+				"#Half-Elf",
+				"#Alcohol"
+			],
+			"hp": 160,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Oh Dear　30"
+				},
+				{
+					"text": "Mugyu Mugyu Chatting　50"
+				}
+			],
+			"officialId": 63,
+			"officialName": "Aki Rosenthal",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-034_C.png",
+			"illustrator": "千種みのり"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-035",
+			"name": "アキ・ローゼンタール",
+			"nameEn": "Aki Rosenthal",
+			"talents": [
+				"aki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10048",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-035_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"1",
+				"#Half-Elf",
+				"#Alcohol"
+			],
+			"hp": 120,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "AkiRose Fantasia　40\nIf a tool is attached to this holomem, send the top card of your cheer deck to your holomem."
+				}
+			],
+			"officialId": 64,
+			"officialName": "Aki Rosenthal",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-035_C.png",
+			"illustrator": "夏炉"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-038",
+			"name": "兎田ぺこら",
+			"nameEn": "Usada Pekora",
+			"talents": [
+				"pekora"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10051",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-038_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"3",
+				"#Kemomimi"
+			],
+			"hp": 90,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Konpeko~!　20+\nYou may roll a die once:If it is even, this Arts gets +20."
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 67,
+			"officialName": "Usada Pekora",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-038_C_02.png",
+			"illustrator": "安曇アキタケ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-040",
+			"name": "兎田ぺこら",
+			"nameEn": "Usada Pekora",
+			"talents": [
+				"pekora"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10053",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-040_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"3",
+				"#Kemomimi"
+			],
+			"hp": 150,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Otsupeko deshita　60"
+				}
+			],
+			"officialId": 69,
+			"officialName": "Usada Pekora",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-040_C.png",
+			"illustrator": "憂姫はぐれ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-044",
+			"name": "AZKi",
+			"nameEn": "AZKi",
+			"talents": [
+				"azki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10058",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-044_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Konazuki~　20"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 8,
+			"officialName": "AZKi",
+			"officialImage": "/wp-content/images/cardlist/COMMON/EN_hBP01-044_C.png",
+			"illustrator": "はこに"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-046",
+			"name": "AZKi",
+			"nameEn": "AZKi",
+			"talents": [
+				"azki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10060",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-046_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 100,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "I’ve Made It to Such a Wonderful World!　30"
+				}
+			],
+			"officialId": 74,
+			"officialName": "AZKi",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-046_C.png",
+			"illustrator": "憂姫はぐれ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-048",
+			"name": "風真いろは",
+			"nameEn": "Kazama Iroha",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10063",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-048_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX"
+			],
+			"hp": 120,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Hear ye, it is I, Kazama Iroha!　20"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 76,
+			"officialName": "Kazama Iroha",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-048_C.png",
+			"illustrator": "憂姫はぐれ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-049",
+			"name": "風真いろは",
+			"nameEn": "Kazama Iroha",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10064",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-049_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX"
+			],
+			"hp": 180,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Freshly Picked Eggplant　30"
+				},
+				{
+					"text": "Would You Like One?　50"
+				}
+			],
+			"officialId": 77,
+			"officialName": "Kazama Iroha",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-049_C.png",
+			"illustrator": "はな森"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-052",
+			"name": "アイラニ・イオフィフティーン",
+			"nameEn": "Airani Iofifteen",
+			"talents": [
+				"iofi"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10068",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-052_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"1",
+				"#Painting"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Selamat Pagi!　10\nYou may reattach 1 cheer from your stage to your holomem with #ID."
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 80,
+			"officialName": "Airani Iofifteen",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-052_C.png",
+			"illustrator": "美和野らぐ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-053",
+			"name": "アイラニ・イオフィフティーン",
+			"nameEn": "Airani Iofifteen",
+			"talents": [
+				"iofi"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10069",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-053_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"1",
+				"#Painting"
+			],
+			"hp": 170,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Your Beloved Alien　50"
+				}
+			],
+			"officialId": 81,
+			"officialName": "Airani Iofifteen",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-053_C.png",
+			"illustrator": "夜ノみつき"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-056",
+			"name": "鷹嶺ルイ",
+			"nameEn": "Takane Lui",
+			"talents": [
+				"lui"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10072",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-056_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX",
+				"#Bird",
+				"#Alcohol"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Did I Luive You Waiting?　30"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 84,
+			"officialName": "Takane Lui",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-056_C.png"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-058",
+			"name": "鷹嶺ルイ",
+			"nameEn": "Takane Lui",
+			"talents": [
+				"lui"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10074",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-058_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX",
+				"#Bird",
+				"#Alcohol"
+			],
+			"hp": 170,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Kon LuiLui　30"
+				},
+				{
+					"text": "Otsu-LuiLui　50"
+				}
+			],
+			"officialId": 86,
+			"officialName": "Takane Lui",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-058_C.png",
+			"illustrator": "MyungYi"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-059",
+			"name": "鷹嶺ルイ",
+			"nameEn": "Takane Lui",
+			"talents": [
+				"lui"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10075",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-059_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX",
+				"#Bird",
+				"#Alcohol"
+			],
+			"hp": 130,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Welcome to the Party　30"
+				},
+				{
+					"text": "Lui’s Party　50\nYou may archive 1 card from your hand:Reveal 1 1st holomem other than Buzz from your deck, and add it to hand. Then, shuffle the deck."
+				}
+			],
+			"officialId": 87,
+			"officialName": "Takane Lui",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-059_C.png",
+			"illustrator": "ごろー＊"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-062",
+			"name": "小鳥遊キアラ",
+			"nameEn": "Takanashi Kiara",
+			"talents": [
+				"kiara"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10078",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-062_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#Bird"
+			],
+			"hp": 90,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Kikkeriki!　20+\nYou may archive 1 card from your hand:This Arts gets +20."
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 90,
+			"officialName": "Takanashi Kiara",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-062_C.png",
+			"illustrator": "夜ノみつき"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-064",
+			"name": "小鳥遊キアラ",
+			"nameEn": "Takanashi Kiara",
+			"talents": [
+				"kiara"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10080",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-064_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#Bird"
+			],
+			"hp": 130,
+			"bloomLevel": "1st",
+			"arts": [
+				{
+					"text": "auf Wiedersehen!　20"
+				}
+			],
+			"officialId": 92,
+			"officialName": "Takanashi Kiara",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-064_C.png",
+			"illustrator": "スコッティ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-068",
+			"name": "尾丸ポルカ",
+			"nameEn": "Omaru Polka",
+			"talents": [
+				"polka"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10085",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-068_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"5",
+				"#Kemomimi"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"arts": [
+				{
+					"text": "Is Polka on the Dot? Yes She is!　20"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 96,
+			"officialName": "Omaru Polka",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-068_C.png",
+			"illustrator": "ごろー＊"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-069",
+			"name": "尾丸ポルカ",
+			"nameEn": "Omaru Polka",
+			"talents": [
+				"polka"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10086",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-069_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"5",
+				"#Kemomimi"
+			],
+			"hp": 180,
+			"bloomLevel": "1st",
+			"arts": [
+				{
+					"text": "OhaPol　20"
+				},
+				{
+					"text": "OsoPol　40"
+				}
+			],
+			"officialId": 97,
+			"officialName": "Omaru Polka",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-069_C.png",
+			"illustrator": "スコッティ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-072",
+			"name": "ハコス・ベールズ",
+			"nameEn": "Hakos Baelz",
+			"talents": [
+				"baelz"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10090",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-072_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Kemomimi"
+			],
+			"hp": 80,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "WAZZUP!!　20\nIf a red cheer is attached to this holomem, you may roll a die once:If it is odd, deal 20 Special Damage to your opponent's collab holomem."
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 100,
+			"officialName": "Hakos Baelz",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-072_C_02.png",
+			"illustrator": "Akizone"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-073",
+			"name": "ハコス・ベールズ",
+			"nameEn": "Hakos Baelz",
+			"talents": [
+				"baelz"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10091",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-073_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Kemomimi"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "WITNESS ME!!　60"
+				}
+			],
+			"officialId": 101,
+			"officialName": "Hakos Baelz",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-073_C.png",
+			"illustrator": "おしるこ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-076",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10094",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-076_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 90,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "The Unpolished Star　20\nDeal 10 Special Damage to 1 of your opponent's back holomem. However, your opponent's Life does not reduce even if downed."
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 104,
+			"officialName": "Hoshimachi Suisei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-076_C.png",
+			"illustrator": "タスキブ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-078",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10096",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-078_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen",
+				"0",
+				"#Singing"
+			],
+			"hp": 150,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Street Snap　30"
+				},
+				{
+					"text": "A Moment under Sunlight Shining through the Trees　50"
+				}
+			],
+			"officialId": 106,
+			"officialName": "Hoshimachi Suisei",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-078_C.png",
+			"illustrator": "うごんば"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-082",
+			"name": "こぼ・かなえる",
+			"nameEn": "Kobo Kanaeru",
+			"talents": [
+				"kobo"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10101",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-082_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"3"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Boko Boko Boko Bo　30"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 110,
+			"officialName": "Kobo Kanaeru",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-082_C.png",
+			"illustrator": "南野あき"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-084",
+			"name": "こぼ・かなえる",
+			"nameEn": "Kobo Kanaeru",
+			"talents": [
+				"kobo"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10103",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-084_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"3"
+			],
+			"hp": 180,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Turning into a Cat~　50"
+				}
+			],
+			"officialId": 112,
+			"officialName": "Kobo Kanaeru",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-084_C.png",
+			"illustrator": "ゆづあ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-085",
+			"name": "こぼ・かなえる",
+			"nameEn": "Kobo Kanaeru",
+			"talents": [
+				"kobo"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10104",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-085_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"3"
+			],
+			"hp": 120,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "perayaan　40"
+				},
+				{
+					"text": "Raindrops　50\nDeal 10 Special Damage to 3 of your opponent's back holomem. However, your opponent's Life does not reduce even if downed."
+				}
+			],
+			"officialId": 113,
+			"officialName": "Kobo Kanaeru",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-085_C.png",
+			"illustrator": "Salmon88"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-088",
+			"name": "ムーナ・ホシノヴァ",
+			"nameEn": "Moona Hoshinova",
+			"talents": [
+				"moona"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10107",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-088_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"1",
+				"#Singing"
+			],
+			"hp": 90,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Moon Moon, It's Moona!　10\nYou may roll a die once:If it is even, deal 20 Special Damage to 1 of your opponent's back holomem. However, your opponent's Life does not reduce even if downed."
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 116,
+			"officialName": "Moona Hoshinova",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-088_C_02.png",
+			"illustrator": "ひなつ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-089",
+			"name": "ムーナ・ホシノヴァ",
+			"nameEn": "Moona Hoshinova",
+			"talents": [
+				"moona"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10108",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-089_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID",
+				"Gen",
+				"1",
+				"#Singing"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "OtsuMoona　60"
+				}
+			],
+			"officialId": 117,
+			"officialName": "Moona Hoshinova",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-089_C.png",
+			"illustrator": "により"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-092",
+			"name": "オーロ・クロニー",
+			"nameEn": "Ouro Kronii",
+			"talents": [
+				"kronii"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10112",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-092_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Kronii-Chiwa~　10\nYou may reattach 1 cheer from this holomem to your other holomem with #Promise."
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 120,
+			"officialName": "Ouro Kronii",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-092_C.png",
+			"illustrator": "でいりー"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-093",
+			"name": "オーロ・クロニー",
+			"nameEn": "Ouro Kronii",
+			"talents": [
+				"kronii"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10113",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-093_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise"
+			],
+			"hp": 160,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "KroYasumi~　40"
+				},
+				{
+					"text": "Good Night, KroTime　60"
+				}
+			],
+			"officialId": 121,
+			"officialName": "Ouro Kronii",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-093_C.png",
+			"illustrator": "ワダアルコ"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-100",
+			"name": "森カリオペ",
+			"nameEn": "Mori Calliope",
+			"talents": [
+				"calliope"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10120",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-100_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#Singing"
+			],
+			"hp": 70,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Soul Guidance　30"
+				}
+			],
+			"extra": "This holomem cannot Bloom",
+			"officialId": 128,
+			"officialName": "Mori Calliope",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-100_C.png"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-101",
+			"name": "ワトソン・アメリア",
+			"nameEn": "Watson Amelia",
+			"talents": [
+				"amelia"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10121",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-101_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth"
+			],
+			"hp": 80,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "It's the Basics, Innit?　20"
+				}
+			],
+			"extra": "This holomem cannot Bloom",
+			"officialId": 129,
+			"officialName": "Watson Amelia",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-101_C.png",
+			"illustrator": "により"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-104",
+			"name": "ふつうのパソコン",
+			"nameEn": "Regular PC",
+			"talents": [],
+			"colors": [],
+			"price": "500 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 500,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "6 点",
+			"stockCount": 6,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10124",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-104_C.png",
+			"cardType": "Support・Item",
+			"abilityText": "Reveal 1 Debut holomem from your deck, and place it on Stage. Then, shuffle the deck.",
+			"officialId": 18,
+			"officialName": "Normal PC",
+			"officialImage": "/wp-content/images/cardlist/COMMON/EN_hBP01-104_C.png",
+			"illustrator": "JinArt KABAKURA"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-107",
+			"name": "アンコール",
+			"nameEn": "Encore",
+			"talents": [],
+			"colors": [],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10127",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-107_C.png",
+			"cardType": "Support・Event",
+			"abilityText": "Return 1~3 cheers from your archive to the cheer deck. Then, shuffle the cheer deck.",
+			"officialId": 134,
+			"officialName": "Encore",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-107_C.png",
+			"illustrator": "JinArt こばやかわやまと"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-114",
+			"name": "石の斧",
+			"nameEn": "Stone Axe",
+			"talents": [],
+			"colors": [],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10134",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-114_C.png",
+			"cardType": "Support・Tool",
+			"abilityText": "■The holomem this tool is attached to gets Arts+20.\n\n■When the holomem this tool is attached to uses Arts, deal 10 Special Damage to this holomem.\n\n◆Additional ability if attached to a 1st or greater 〈Aki Rosenthal〉\n\n[1/Turn]When this holomem is restored by your ability, draw 1 card from the deck.\n\nOnly 1 tool can be attached to each of your holomem.",
+			"officialId": 141,
+			"officialName": "Stone Axe",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-114_C.png",
+			"illustrator": "JinArt こばやかわやまと"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-116",
+			"name": "うぱお",
+			"nameEn": "Upao",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10136",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-116_C.png",
+			"cardType": "Support・Mascot",
+			"abilityText": "The holomem this mascot is attached to gets Arts+10.\n\n◆Additional ability if attached to 〈Amane Kanata〉\n\n[1/Turn]During your opponent's turn, when the holomem this mascot is attached to takes Damage, deal 20 Special Damage to your opponent's center holomem.\n\nOnly 1 mascot can be attached to each of your holomem.",
+			"officialId": 143,
+			"officialName": "Upao",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-116_C.png",
+			"illustrator": "JinArt KABAKURA"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-117",
+			"name": "フレンド",
+			"nameEn": "Friend",
+			"talents": [],
+			"colors": [],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10137",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-117_C.png",
+			"cardType": "Support・Mascot",
+			"abilityText": "The holomem this mascot is attached to gets Arts+10.\n\n◆Additional ability if attached to 〈Nanashi Mumei〉\n\nDuring your opponent's turn, if the holomem this mascot is attached to would take Damage, you may archive this mascot:The holomem this mascot was attached to takes -30 Damage.\n\nOnly 1 mascot can be attached to each of your holomem.",
+			"officialId": 144,
+			"officialName": "Friend",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-117_C.png",
+			"illustrator": "JinArt こばやかわやまと"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-118",
+			"name": "あん肝",
+			"nameEn": "Ankimo",
+			"talents": [],
+			"colors": [],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10138",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-118_C.png",
+			"cardType": "Support・Mascot",
+			"abilityText": "The holomem this mascot is attached to gets +10 HP.\n\n◆Additional ability if attached to 〈Tokino Sora〉\n\nIf the holomem this mascot is attached to would use Arts, this mascot is also regarded as a white cheer.\n\nOnly 1 mascot can be attached to each of your holomem.",
+			"officialId": 145,
+			"officialName": "Ankimo",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-118_C.png",
+			"illustrator": "JinArt こばやかわやまと"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-119",
+			"name": "ジョブズ",
+			"nameEn": "Jobs",
+			"talents": [],
+			"colors": [],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10139",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-119_C.png",
+			"cardType": "Support・Mascot",
+			"abilityText": "The holomem this mascot is attached to gets +10 HP.\n\n◆Additional ability if attached to 〈Aki Rosenthal〉\n\nWhen the holomem this mascot is attached to uses Arts, restore 10 HP to 1 of your holomem.\n\nOnly 1 mascot can be attached to each of your holomem.",
+			"officialId": 146,
+			"officialName": "Jobs",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-119_C.png",
+			"illustrator": "JinArt KABAKURA"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-120",
+			"name": "がんも",
+			"nameEn": "Ganmo",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10140",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-120_C.png",
+			"cardType": "Support・Mascot",
+			"abilityText": "The holomem this mascot is attached to gets Arts+10.\n\n◆Additional ability if attached to 〈Takane Lui〉\n\nWhen the holomem this mascot is attached to uses Arts in the Center Position, draw 1 card from your deck.\n\nOnly 1 mascot can be attached to each of your holomem.",
+			"officialId": 147,
+			"officialName": "Ganmo",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-120_C.png",
+			"illustrator": "JinArt KABAKURA"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-121",
+			"name": "Kotori",
+			"nameEn": "Kotori",
+			"talents": [],
+			"colors": [],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10141",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-121_C.png",
+			"cardType": "Support・Mascot",
+			"abilityText": "The holomem this mascot is attached to in the Center Position or Collab Position takes -10 Damage.\n\n◆Additional ability if attached to 〈Takanashi Kiara〉\n\nWhen the Bloom level of the holomem this mascot is attached to increases, draw 1 card from your deck.\n\nOnly 1 mascot can be attached to each of your holomem.",
+			"officialId": 148,
+			"officialName": "Kotori",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-121_C.png",
+			"illustrator": "JinArt こばやかわやまと"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-122",
+			"name": "ロゼ隊",
+			"nameEn": "Rose Squad",
+			"talents": [],
+			"colors": [],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10142",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-122_C.png",
+			"cardType": "Support・Fan",
+			"abilityText": "During your opponent's turn, if the holomem this fan is attached to is downed, send the top card of your cheer deck to your 〈Aki Rosenthal〉.\n\nYou may only attach this fan to your 〈Aki Rosenthal〉, and you may attach any number of this fan per holomem.",
+			"officialId": 149,
+			"officialName": "Rose Knights",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-122_C.png",
+			"illustrator": "JinArt KABAKURA"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-123",
+			"name": "野うさぎ同盟",
+			"nameEn": "Nousagi Alliance",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10143",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-123_C.png",
+			"cardType": "Support・Fan",
+			"abilityText": "If the holomem this fan is attached to rolled a die by an ability, you may archive this fan:Ignore the previous results, and reroll the die.\n\nYou may only attach this fan to your 〈Usada Pekora〉, and you may attach any number of this fan per holomem.",
+			"officialId": 150,
+			"officialName": "Wild Rabbit Alliance",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-123_C_02.png",
+			"illustrator": "JinArt こばやかわやまと"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-124",
+			"name": "開拓者",
+			"nameEn": "Pioneer",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10144",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-124_C.png",
+			"cardType": "Support・Fan",
+			"abilityText": "During your opponent's turn, if the holomem this fan is attached to is downed, reattach 1 cheer from the holomem this fan is attached to to your other holomem.\n\nYou may only attach this fan to your 〈AZKi〉, and you may attach any number of this fan per holomem.",
+			"officialId": 151,
+			"officialName": "Pioneers",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-124_C.png",
+			"illustrator": "JinArt こばやかわやまと"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-125",
+			"name": "KFP",
+			"nameEn": "KFP",
+			"talents": [],
+			"colors": [],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10145",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-125_C.png",
+			"cardType": "Support・Fan",
+			"abilityText": "When this fan is attached from hand to a holomem, you may archive 1 card from your hand:Draw 1 card from your deck.\n\nYou may only attach this fan to your 〈Takanashi Kiara〉, and you may attach any number of this fan per holomem.",
+			"officialId": 152,
+			"officialName": "KFP",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-125_C.png",
+			"illustrator": "JinArt こばやかわやまと"
+		},
+		{
+			"set": "hbp01",
+			"setLabel": "hBP01",
+			"rarity": "C",
+			"number": "hBP01-126",
+			"name": "座員",
+			"nameEn": "Troupe Member",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hbp01/10146",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-126_C.png",
+			"cardType": "Support・Fan",
+			"abilityText": "■If the holomem this fan is attached to would use Arts, this fan is also regarded as a red cheer.\n\n■The holomem this fan is attached to takes +10 Damage.\n\nYou may only attach this fan to your 〈Omaru Polka〉, and you may attach any number of this fan per holomem.",
+			"officialId": 153,
+			"officialName": "Troupe Member",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-126_C.png",
+			"illustrator": "JinArt KABAKURA"
+		}
+	]
+}

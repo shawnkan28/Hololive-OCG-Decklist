@@ -1,0 +1,623 @@
+{
+	"set": {
+		"code": "hsd06",
+		"label": "hSD06",
+		"name": "風真いろは",
+		"nameEn": "Kazama Iroha",
+		"color": "#4caf50",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd06"
+	},
+	"cards": [
+		{
+			"set": "hsd06",
+			"setLabel": "hSD06",
+			"rarity": "OC",
+			"number": "hSD06-001",
+			"name": "風真いろは",
+			"nameEn": "Kazama Iroha",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-001_OC.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Green Microphone",
+				"text": "[holo Power：-2]Green Microphone[1/Turn]During this turn, your green center holomem gets Arts+20."
+			},
+			"spOshiSkill": {
+				"name": "We'll Do our Best!",
+				"text": "[holo Power：-1]We'll Do our Best![1/Game]Restore 20 HP to all of your green holomem."
+			},
+			"officialId": 833,
+			"officialName": "Kazama Iroha",
+			"officialImage": "/wp-content/images/cardlist/hSD06/EN_hSD06-001_OC.png",
+			"illustrator": "松尾 省吾"
+		},
+		{
+			"set": "hsd06",
+			"setLabel": "hSD06",
+			"rarity": "RR",
+			"number": "hSD06-007",
+			"name": "風真いろは",
+			"nameEn": "Kazama Iroha",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-007_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX"
+			],
+			"hp": 180,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "A genius, aren't I?　70+\nIf your stage has 5 or more cheers, this Arts gets +50."
+				}
+			],
+			"officialId": 841,
+			"officialName": "Kazama Iroha",
+			"officialImage": "/wp-content/images/cardlist/hSD06/EN_hSD06-007_RR.png",
+			"illustrator": "しろみにみ"
+		},
+		{
+			"set": "hsd06",
+			"setLabel": "hSD06",
+			"rarity": "R",
+			"number": "hSD06-006",
+			"name": "風真いろは",
+			"nameEn": "Kazama Iroha",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "320 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 320,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-006_R.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#JP",
+				"#holoX"
+			],
+			"hp": 220,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Ye will Rust on Thy Blade!　50"
+				}
+			],
+			"extra": "If this holomem is downed, you get life-2",
+			"officialId": 840,
+			"officialName": "Kazama Iroha",
+			"officialImage": "/wp-content/images/cardlist/hSD06/EN_hSD06-006_R.png",
+			"illustrator": "黒井ススム"
+		},
+		{
+			"set": "hsd06",
+			"setLabel": "hSD06",
+			"rarity": "U",
+			"number": "hBP01-050",
+			"name": "風真いろは(パラレル/hSD06)",
+			"nameEn": "Kazama Iroha",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "320 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 320,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10014",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-050_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Bringing You Energy at Full Power!　20\nSend the top card of your cheer deck to your holomem with #holoX other than 〈Kazama Iroha〉."
+				}
+			],
+			"officialId": 78,
+			"officialName": "Kazama Iroha",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-050_U.png",
+			"illustrator": "須王 彩"
+		},
+		{
+			"set": "hsd06",
+			"setLabel": "hSD06",
+			"rarity": "U",
+			"number": "hSD06-003",
+			"name": "風真いろは",
+			"nameEn": "Kazama Iroha",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "5 点",
+			"stockCount": 5,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-003_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX"
+			],
+			"hp": 80,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Deadly Swing of the Blade　30+\nIf your center holomem's HP is reduced, this Arts gets +10."
+				}
+			],
+			"officialId": 836,
+			"officialName": "Kazama Iroha",
+			"officialImage": "/wp-content/images/cardlist/hSD06/EN_hSD06-003_U.png",
+			"illustrator": "TAiGA"
+		},
+		{
+			"set": "hsd06",
+			"setLabel": "hSD06",
+			"rarity": "U",
+			"number": "hSD06-008",
+			"name": "博衣こより",
+			"nameEn": "Hakui Koyori",
+			"talents": [
+				"koyori"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "280 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-008_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX",
+				"#Kemomimi"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "How's That!　10"
+				}
+			],
+			"officialId": 842,
+			"officialName": "Hakui Koyori",
+			"officialImage": "/wp-content/images/cardlist/hSD06/EN_hSD06-008_U.png",
+			"illustrator": "広江礼威"
+		},
+		{
+			"set": "hsd06",
+			"setLabel": "hSD06",
+			"rarity": "U",
+			"number": "hSD06-009",
+			"name": "鷹嶺ルイ",
+			"nameEn": "Takane Lui",
+			"talents": [
+				"lui"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-009_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX",
+				"#Bird",
+				"#Alcohol"
+			],
+			"hp": 80,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Reliable Female Officer　20\nYou may return 1 Debut holomem with #holoX from your archive to hand."
+				}
+			],
+			"officialId": 843,
+			"officialName": "Takane Lui",
+			"officialImage": "/wp-content/images/cardlist/hSD06/EN_hSD06-009_U.png",
+			"illustrator": "広江礼威"
+		},
+		{
+			"set": "hsd06",
+			"setLabel": "hSD06",
+			"rarity": "U",
+			"number": "hSD06-010",
+			"name": "ラプラス・ダークネス",
+			"nameEn": "La+ Darknesss",
+			"talents": [
+				"laplus"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-010_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX",
+				"#Shooter"
+			],
+			"hp": 60,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Banquet of Madness　30+\n[Collab Position Only]If you used your SP Oshi skill during your main phase this turn, this Arts gets +50."
+				}
+			],
+			"officialId": 844,
+			"officialName": "La+ Darknesss",
+			"officialImage": "/wp-content/images/cardlist/hSD06/EN_hSD06-010_U.png",
+			"illustrator": "広江礼威"
+		},
+		{
+			"set": "hsd06",
+			"setLabel": "hSD06",
+			"rarity": "C",
+			"number": "hBP01-048",
+			"name": "風真いろは(パラレル/hSD06)",
+			"nameEn": "Kazama Iroha",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "5 点",
+			"stockCount": 5,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10013",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP01/hBP01-048_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX"
+			],
+			"hp": 120,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Hear ye, it is I, Kazama Iroha!　20"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 76,
+			"officialName": "Kazama Iroha",
+			"officialImage": "/wp-content/images/cardlist/hBP01/EN_hBP01-048_C.png",
+			"illustrator": "憂姫はぐれ"
+		},
+		{
+			"set": "hsd06",
+			"setLabel": "hSD06",
+			"rarity": "C",
+			"number": "hSD06-002",
+			"name": "風真いろは",
+			"nameEn": "Kazama Iroha",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-002_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX"
+			],
+			"hp": 80,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Yes! Shing-Shing!!　20"
+				}
+			],
+			"officialId": 835,
+			"officialName": "Kazama Iroha",
+			"officialImage": "/wp-content/images/cardlist/hSD06/EN_hSD06-002_C.png",
+			"illustrator": "広江礼威"
+		},
+		{
+			"set": "hsd06",
+			"setLabel": "hSD06",
+			"rarity": "C",
+			"number": "hSD06-004",
+			"name": "風真いろは",
+			"nameEn": "Kazama Iroha",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-004_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX"
+			],
+			"hp": 160,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Shy Bodyguard　60"
+				}
+			],
+			"officialId": 837,
+			"officialName": "Kazama Iroha",
+			"officialImage": "/wp-content/images/cardlist/hSD06/EN_hSD06-004_C.png",
+			"illustrator": "ぴ助"
+		},
+		{
+			"set": "hsd06",
+			"setLabel": "hSD06",
+			"rarity": "C",
+			"number": "hSD06-005",
+			"name": "風真いろは",
+			"nameEn": "Kazama Iroha",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-005_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX"
+			],
+			"hp": 120,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Together with Kazama!　30"
+				}
+			],
+			"officialId": 838,
+			"officialName": "Kazama Iroha",
+			"officialImage": "/wp-content/images/cardlist/hSD06/EN_hSD06-005_C.png",
+			"illustrator": "猫屋敷ぷしお"
+		},
+		{
+			"set": "hsd06",
+			"setLabel": "hSD06",
+			"rarity": "C",
+			"number": "hSD06-011",
+			"name": "ﾁｬｷ丸",
+			"nameEn": "Chakimaru",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10011",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-011_C.png",
+			"cardType": "Support・Tool",
+			"abilityText": "The holomem this tool is attached to gets Arts+10.\n\n ◆Additional ability if attached to a 1st or greater holomem 〈Kazama Iroha〉\n\n [1/Turn] During your opponent's turn, when this holomem takes damage, deal 20 special damage to your opponent's center holomem. However, your opponent's life does not reduce even if downed.\n\n Only 1 tool can be attached to each of your holomem.",
+			"officialId": 845,
+			"officialName": "Chakimaru",
+			"officialImage": "/wp-content/images/cardlist/hSD06/EN_hSD06-011_C.png",
+			"illustrator": "なかだ絵眞"
+		},
+		{
+			"set": "hsd06",
+			"setLabel": "hSD06",
+			"rarity": "C",
+			"number": "hSD06-012",
+			"name": "ぽこべぇ",
+			"nameEn": "Pokobe",
+			"talents": [],
+			"colors": [],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd06/10012",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD06/hSD06-012_C.png",
+			"cardType": "Support・Mascot",
+			"abilityText": "The holomem this mascot is attached to gets +10 HP.\n\n◆Additional ability if attached to 〈Kazama Iroha〉\n\nThe holomem this mascot is attached to gets +20 HP.\n\nOnly 1 mascot can be attached to each of your holomem.",
+			"officialId": 846,
+			"officialName": "Pokobe",
+			"officialImage": "/wp-content/images/cardlist/hSD06/EN_hSD06-012_C.png",
+			"illustrator": "JinArt こばやかわやまと"
+		}
+	]
+}

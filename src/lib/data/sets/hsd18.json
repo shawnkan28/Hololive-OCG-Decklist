@@ -1,0 +1,460 @@
+{
+	"set": {
+		"code": "hsd18",
+		"label": "hSD18",
+		"name": "森カリオペ",
+		"nameEn": "Mori Calliope",
+		"color": "#9257c4",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd18"
+	},
+	"cards": [
+		{
+			"set": "hsd18",
+			"setLabel": "hSD18",
+			"rarity": "OC",
+			"number": "hSD18-001",
+			"name": "森カリオペ",
+			"nameEn": "Mori Calliope",
+			"talents": [
+				"calliope"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-001_OC.png",
+			"cardType": "Oshi",
+			"life": 4,
+			"oshiSkill": {
+				"name": "ライミング",
+				"text": "[ホロパワー:-2]ライミング[ターンに1回]自分のデッキの上から2枚をアーカイブする。その後、自分のデッキを1枚引く。"
+			},
+			"spOshiSkill": {
+				"name": "世界を繋げるラップ",
+				"text": "[ホロパワー:-2]世界を繋げるラップ[ゲームに1回]自分のアーカイブにホロメンが6枚以上あるなら、このターンの間、自分のステージの〈森カリオペ〉全員のアーツ+30。"
+			},
+			"officialId": 2109,
+			"officialName": "森カリオペ",
+			"officialImage": "/wp-content/images/cardlist/hSD18/hSD18-001_OC.png",
+			"illustrator": "古弥月"
+		},
+		{
+			"set": "hsd18",
+			"setLabel": "hSD18",
+			"rarity": "RR",
+			"number": "hSD18-009",
+			"name": "森カリオペ",
+			"nameEn": "Mori Calliope",
+			"talents": [
+				"calliope"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-009_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#歌"
+			],
+			"hp": 160,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "刻むぞ冥界のビート　90"
+				}
+			],
+			"officialId": 2117,
+			"officialName": "森カリオペ",
+			"officialImage": "/wp-content/images/cardlist/hSD18/hSD18-009_RR.png",
+			"illustrator": "green322"
+		},
+		{
+			"set": "hsd18",
+			"setLabel": "hSD18",
+			"rarity": "R",
+			"number": "hSD18-008",
+			"name": "森カリオペ",
+			"nameEn": "Mori Calliope",
+			"talents": [
+				"calliope"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-008_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#歌"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "OK、もう一曲行こう！　40\n[センターポジション限定]自分のアーカイブのツール1枚を手札に戻す。"
+				}
+			],
+			"officialId": 2116,
+			"officialName": "森カリオペ",
+			"officialImage": "/wp-content/images/cardlist/hSD18/hSD18-008_R.png",
+			"illustrator": "green322"
+		},
+		{
+			"set": "hsd18",
+			"setLabel": "hSD18",
+			"rarity": "U",
+			"number": "hSD18-005",
+			"name": "森カリオペ",
+			"nameEn": "Mori Calliope",
+			"talents": [
+				"calliope"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-005_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#歌"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "一緒に、どう？　20"
+				}
+			],
+			"officialId": 2113,
+			"officialName": "森カリオペ",
+			"officialImage": "/wp-content/images/cardlist/hSD18/hSD18-005_U.png",
+			"illustrator": "ぱとり"
+		},
+		{
+			"set": "hsd18",
+			"setLabel": "hSD18",
+			"rarity": "U",
+			"number": "hSD18-007",
+			"name": "森カリオペ",
+			"nameEn": "Mori Calliope",
+			"talents": [
+				"calliope"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-007_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#歌"
+			],
+			"hp": 130,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "手伝ってもらって助かるよ　30+\nこのホロメンにツールが付いているなら、このアーツ+10。"
+				}
+			],
+			"officialId": 2115,
+			"officialName": "森カリオペ",
+			"officialImage": "/wp-content/images/cardlist/hSD18/hSD18-007_U.png",
+			"illustrator": "はねゆき"
+		},
+		{
+			"set": "hsd18",
+			"setLabel": "hSD18",
+			"rarity": "C",
+			"number": "hBP01-104",
+			"name": "ふつうのパソコン(パラレル/hSD18 森カリオペ)",
+			"nameEn": "Regular PC",
+			"talents": [],
+			"colors": [],
+			"price": "420 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 420,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hBP01-104_06_C.png",
+			"cardType": "Support・Item",
+			"abilityText": "Reveal 1 Debut holomem from your deck, and place it on Stage. Then, shuffle the deck.",
+			"officialId": 18,
+			"officialName": "Normal PC",
+			"officialImage": "/wp-content/images/cardlist/COMMON/EN_hBP01-104_C.png",
+			"illustrator": "JinArt KABAKURA"
+		},
+		{
+			"set": "hsd18",
+			"setLabel": "hSD18",
+			"rarity": "C",
+			"number": "hSD18-002",
+			"name": "森カリオペ",
+			"nameEn": "Mori Calliope",
+			"talents": [
+				"calliope"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-002_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#歌"
+			],
+			"hp": 80,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Nice to reap you　20"
+				}
+			],
+			"officialId": 2110,
+			"officialName": "森カリオペ",
+			"officialImage": "/wp-content/images/cardlist/hSD18/hSD18-002_C.png",
+			"illustrator": "七海喜つゆり"
+		},
+		{
+			"set": "hsd18",
+			"setLabel": "hSD18",
+			"rarity": "C",
+			"number": "hSD18-003",
+			"name": "森カリオペ",
+			"nameEn": "Mori Calliope",
+			"talents": [
+				"calliope"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-003_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#歌"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "今日もあなたのそばに -カリオペ-　30"
+				}
+			],
+			"officialId": 2111,
+			"officialName": "森カリオペ",
+			"officialImage": "/wp-content/images/cardlist/hSD18/hSD18-003_C.png"
+		},
+		{
+			"set": "hsd18",
+			"setLabel": "hSD18",
+			"rarity": "C",
+			"number": "hSD18-004",
+			"name": "森カリオペ",
+			"nameEn": "Mori Calliope",
+			"talents": [
+				"calliope"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-004_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#歌"
+			],
+			"hp": 90,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "あたためて貰えますか…？　20"
+				}
+			],
+			"officialId": 2112,
+			"officialName": "森カリオペ",
+			"officialImage": "/wp-content/images/cardlist/hSD18/hSD18-004_C.png",
+			"illustrator": "ぷらこ"
+		},
+		{
+			"set": "hsd18",
+			"setLabel": "hSD18",
+			"rarity": "C",
+			"number": "hSD18-006",
+			"name": "森カリオペ",
+			"nameEn": "Mori Calliope",
+			"talents": [
+				"calliope"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd18/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD18/hSD18-006_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Myth",
+				"#歌"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "これから、頑張る。　30"
+				},
+				{
+					"text": "負けない。諦めない。　50"
+				}
+			],
+			"officialId": 2114,
+			"officialName": "森カリオペ",
+			"officialImage": "/wp-content/images/cardlist/hSD18/hSD18-006_C.png",
+			"illustrator": "げぜるん。"
+		}
+	]
+}

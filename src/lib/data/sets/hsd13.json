@@ -1,0 +1,795 @@
+{
+	"set": {
+		"code": "hsd13",
+		"label": "hSD13",
+		"name": "Justice",
+		"nameEn": "Justice",
+		"color": "#f2c037",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd13"
+	},
+	"cards": [
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "OSR",
+			"number": "hSD13-001",
+			"name": "エリザベス・ローズ・ブラッドフレイム",
+			"nameEn": "Elizabeth Rose Bloodflame",
+			"talents": [
+				"bloodflame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "6 点",
+			"stockCount": 6,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-001_OSR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Harbinger of Order",
+				"text": "[holo Power：-3]Harbinger of Order[1/Turn] If 1 of your holomem would take Arts damage from your opponent, you may choose 1 red [Buzz or 2nd] holomem from your stage: The chosen holomem takes that damage instead."
+			},
+			"spOshiSkill": {
+				"name": "JUST LIKE THAT",
+				"text": "[holo Power：-3]JUST LIKE THAT[1/Game] Place 1 holomem with #Justice from your archive on stage. Then, send 1~5 cheers from your archive to that holomem."
+			},
+			"officialId": 1703,
+			"officialName": "Elizabeth Rose Bloodflame",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-001_OSR.png",
+			"illustrator": "絢芽"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "OSR",
+			"number": "hSD13-002",
+			"name": "ジジ・ムリン",
+			"nameEn": "Gigi Murin",
+			"talents": [
+				"gigi"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "3 点",
+			"stockCount": 3,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-002_OSR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Boat Goes Binted",
+				"text": "[holo Power：-1]Boat Goes Binted[1/Turn] Swap your opponent's center holomem and collab holomem."
+			},
+			"spOshiSkill": {
+				"name": "Free-Spirited Chaser",
+				"text": "[holo Power：-3]Free-Spirited Chaser[1/Game] Reveal 2 2nd holomem 〈Gigi Murin〉 from your deck, and place them on stage. Then, shuffle the deck. Send 1 cheer from your archive to each of your holomem."
+			},
+			"officialId": 1704,
+			"officialName": "Gigi Murin",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-002_OSR.png",
+			"illustrator": "BISAI"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "RR",
+			"number": "hSD13-007",
+			"name": "エリザベス・ローズ・ブラッドフレイム",
+			"nameEn": "Elizabeth Rose Bloodflame",
+			"talents": [
+				"bloodflame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-007_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Justice",
+				"#Singing"
+			],
+			"hp": 180,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Baneslayer Cadenza　100+\nThis Arts gets +20 for each cheer attached to this holomem. If this Arts downed your opponent's holomem, send the top card of your cheer deck to this holomem."
+				}
+			],
+			"officialId": 1709,
+			"officialName": "Elizabeth Rose Bloodflame",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-007_RR.png",
+			"illustrator": "たうた"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "RR",
+			"number": "hSD13-013",
+			"name": "ジジ・ムリン",
+			"nameEn": "Gigi Murin",
+			"talents": [
+				"gigi"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10013",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-013_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Justice"
+			],
+			"hp": 210,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Shatter Riot　90+\nThis Arts gets +90 if there are no holomem stacked to this holomem."
+				}
+			],
+			"officialId": 1715,
+			"officialName": "Gigi Murin",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-013_RR.png",
+			"illustrator": "たうた"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "U",
+			"number": "hSD13-005",
+			"name": "エリザベス・ローズ・ブラッドフレイム",
+			"nameEn": "Elizabeth Rose Bloodflame",
+			"talents": [
+				"bloodflame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "6 点",
+			"stockCount": 6,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-005_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Justice",
+				"#Singing"
+			],
+			"hp": 160,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Lovely to See You, to See You, Lovely~♡　50"
+				}
+			],
+			"officialId": 1707,
+			"officialName": "Elizabeth Rose Bloodflame",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-005_U.png",
+			"illustrator": "sena"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "U",
+			"number": "hSD13-006",
+			"name": "エリザベス・ローズ・ブラッドフレイム",
+			"nameEn": "Elizabeth Rose Bloodflame",
+			"talents": [
+				"bloodflame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-006_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Justice",
+				"#Singing"
+			],
+			"hp": 150,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Things Worth Protecting　30"
+				}
+			],
+			"officialId": 1708,
+			"officialName": "Elizabeth Rose Bloodflame",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-006_U.png",
+			"illustrator": "VIGORE"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "U",
+			"number": "hSD13-011",
+			"name": "ジジ・ムリン",
+			"nameEn": "Gigi Murin",
+			"talents": [
+				"gigi"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10011",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-011_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Justice"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "In Search of What It All Means　40+\nThis Arts gets +20 if there are no holomem stacked to this holomem."
+				}
+			],
+			"officialId": 1713,
+			"officialName": "Gigi Murin",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-011_U.png",
+			"illustrator": "VIGORE"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "U",
+			"number": "hSD13-012",
+			"name": "ジジ・ムリン",
+			"nameEn": "Gigi Murin",
+			"talents": [
+				"gigi"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10012",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-012_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Justice"
+			],
+			"hp": 170,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Losing's Not an Option　60"
+				}
+			],
+			"officialId": 1714,
+			"officialName": "Gigi Murin",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-012_U.png",
+			"illustrator": "加川壱互"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "U",
+			"number": "hSD13-016",
+			"name": "Justice",
+			"nameEn": "Justice",
+			"talents": [],
+			"colors": [],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "5 点",
+			"stockCount": 5,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10016",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-016_U.png",
+			"cardType": "Support・Event・LIMITED",
+			"abilityText": "This card can only be used if you have 6 or less cards in hand excluding this card.\n\nLook at the top 4 cards of your deck. Reveal any number of holomem with #Justice from among them, and add the revealed holomem to hand. Then, return the remaining cards to the bottom of the deck in any order.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 1718,
+			"officialName": "Justice",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-016_U.png",
+			"illustrator": "PORO"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "U",
+			"number": "hSD13-017",
+			"name": "JUSTICE, JUST LIKE THAT!!!!",
+			"nameEn": "JUSTICE, JUST LIKE THAT!!!!",
+			"talents": [],
+			"colors": [],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "5 点",
+			"stockCount": 5,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10017",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-017_U.png",
+			"cardType": "Support・Event・LIMITED",
+			"abilityText": "This card can only be used if all holomem on your stage are holomem with #Justice.\n\nChoose 1 holomem on your stage. Return 1~2 stacked holomem from the chosen holomem to hand. During this turn, the chosen holomem gets Arts+20 for each holomem returned by this ability.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 1719,
+			"officialName": "JUSTICE, JUST LIKE THAT!!!!",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-017_U.png",
+			"illustrator": "黒井ススム"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "C",
+			"number": "hSD13-003",
+			"name": "エリザベス・ローズ・ブラッドフレイム",
+			"nameEn": "Elizabeth Rose Bloodflame",
+			"talents": [
+				"bloodflame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-003_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Justice",
+				"#Singing"
+			],
+			"hp": 140,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Oh! Ho-ho-ho!　30"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 1705,
+			"officialName": "Elizabeth Rose Bloodflame",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-003_C.png",
+			"illustrator": "めふぃすと"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "C",
+			"number": "hSD13-004",
+			"name": "エリザベス・ローズ・ブラッドフレイム",
+			"nameEn": "Elizabeth Rose Bloodflame",
+			"talents": [
+				"bloodflame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-004_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Justice",
+				"#Singing"
+			],
+			"hp": 170,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Roses Are Red　40"
+				},
+				{
+					"text": "The Fire of My Heart Is Blue　140"
+				}
+			],
+			"officialId": 1706,
+			"officialName": "Elizabeth Rose Bloodflame",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-004_C.png",
+			"illustrator": "chyan"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "C",
+			"number": "hSD13-008",
+			"name": "ジジ・ムリン",
+			"nameEn": "Gigi Murin",
+			"talents": [
+				"gigi"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "3 点",
+			"stockCount": 3,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-008_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Justice"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "GI MURIN!!!!　20"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 1710,
+			"officialName": "Gigi Murin",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-008_C.png",
+			"illustrator": "巻羊"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "C",
+			"number": "hSD13-009",
+			"name": "ジジ・ムリン",
+			"nameEn": "Gigi Murin",
+			"talents": [
+				"gigi"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "3 点",
+			"stockCount": 3,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-009_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Justice"
+			],
+			"hp": 120,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "YIPPEEE　20"
+				}
+			],
+			"officialId": 1711,
+			"officialName": "Gigi Murin",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-009_C.png",
+			"illustrator": "なかゥま"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "C",
+			"number": "hSD13-010",
+			"name": "ジジ・ムリン",
+			"nameEn": "Gigi Murin",
+			"talents": [
+				"gigi"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-010_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Justice"
+			],
+			"hp": 180,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Source of Headaches for Those Around Her　40"
+				},
+				{
+					"text": "Mischievous Gremlin　60"
+				}
+			],
+			"officialId": 1712,
+			"officialName": "Gigi Murin",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-010_C.png",
+			"illustrator": "chyan"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "C",
+			"number": "hSD13-014",
+			"name": "セシリア・イマーグリーン",
+			"nameEn": "Cecilia Immergreen",
+			"talents": [
+				"cecilia"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "10 点",
+			"stockCount": 10,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10014",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-014_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Justice",
+				"#Language"
+			],
+			"hp": 160,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Have Some Tea!　40\nSend the top card of your cheer deck to 1 of your holomem with #Justice."
+				}
+			],
+			"extra": "This holomem cannot Bloom",
+			"officialId": 1716,
+			"officialName": "Cecilia Immergreen",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-014_C.png"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "C",
+			"number": "hSD13-015",
+			"name": "ラオーラ・パンテーラ",
+			"nameEn": "Raora Panthera",
+			"talents": [
+				"raora"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10015",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-015_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Justice",
+				"#Kemomimi",
+				"#Painting"
+			],
+			"hp": 160,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Have Some Coffee!　30+\nIf your [center holomem and collab holomem] with #Justice each have cheers of different colors attached, this Arts gets +20."
+				}
+			],
+			"extra": "This holomem cannot Bloom",
+			"officialId": 1717,
+			"officialName": "Raora Panthera",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-015_C.png"
+		},
+		{
+			"set": "hsd13",
+			"setLabel": "hSD13",
+			"rarity": "C",
+			"number": "hSD13-018",
+			"name": "Popo",
+			"nameEn": "Popo",
+			"talents": [],
+			"colors": [],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "4 点",
+			"stockCount": 4,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd13/10018",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD13/hSD13-018_C.png",
+			"cardType": "Support・Mascot",
+			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to 〈Gigi Murin〉\n\nIf there are no holomem stacked to this holomem, this holomem gets Arts+20.\n\nOnly 1 mascot can be attached to each of your holomem.",
+			"officialId": 1720,
+			"officialName": "Popo",
+			"officialImage": "/wp-content/images/cardlist/hSD13/EN_hSD13-018_C.png",
+			"illustrator": "888BUN"
+		}
+	]
+}

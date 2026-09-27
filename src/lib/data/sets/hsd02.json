@@ -1,0 +1,613 @@
+{
+	"set": {
+		"code": "hsd02",
+		"label": "hSD02",
+		"name": "百鬼あやめ",
+		"nameEn": "Nakiri Ayame",
+		"color": "#e23d3d",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd02"
+	},
+	"cards": [
+		{
+			"set": "hsd02",
+			"setLabel": "hSD02",
+			"rarity": "OC",
+			"number": "hSD02-001",
+			"name": "百鬼あやめ",
+			"nameEn": "Nakiri Ayame",
+			"talents": [
+				"ayame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-001_OC.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Red Microphone",
+				"text": "[holo Power：-2]Red Microphone[1/Turn]During this turn, your red center holomem gets Arts+20."
+			},
+			"spOshiSkill": {
+				"name": "Now! Once More!",
+				"text": "[holo Power：-1]Now! Once More![1/Game]Return 1 red holomem from your archive to hand."
+			},
+			"officialId": 516,
+			"officialName": "Nakiri Ayame",
+			"officialImage": "/wp-content/images/cardlist/hSD02/EN_hSD02-001_OC.png",
+			"illustrator": "松尾 省吾"
+		},
+		{
+			"set": "hsd02",
+			"setLabel": "hSD02",
+			"rarity": "RR",
+			"number": "hSD02-009",
+			"name": "百鬼あやめ",
+			"nameEn": "Nakiri Ayame",
+			"talents": [
+				"ayame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-009_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Shooter"
+			],
+			"hp": 180,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "AyaFubuMi's \"Aya\"　60"
+				},
+				{
+					"text": "Tis I!　40\nYou may archive 1~3 cards from your hand:Deal 40 special damage to your opponent's center holomem for each card archived."
+				}
+			],
+			"officialId": 524,
+			"officialName": "Nakiri Ayame",
+			"officialImage": "/wp-content/images/cardlist/hSD02/EN_hSD02-009_RR.png",
+			"illustrator": "soriya"
+		},
+		{
+			"set": "hsd02",
+			"setLabel": "hSD02",
+			"rarity": "R",
+			"number": "hSD02-008",
+			"name": "百鬼あやめ",
+			"nameEn": "Nakiri Ayame",
+			"talents": [
+				"ayame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-008_R.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Shooter"
+			],
+			"hp": 230,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Fancy Birthday　40"
+				},
+				{
+					"text": "I Wonder what's Inside the Present?　50\nYou may archive 1 card from your hand:Deal 50 special damage to your opponent's center holomem or collab holomem."
+				}
+			],
+			"extra": "If this holomem is downed, you get life-2",
+			"officialId": 523,
+			"officialName": "Nakiri Ayame",
+			"officialImage": "/wp-content/images/cardlist/hSD02/EN_hSD02-008_R.png",
+			"illustrator": "和錆"
+		},
+		{
+			"set": "hsd02",
+			"setLabel": "hSD02",
+			"rarity": "U",
+			"number": "hSD02-004",
+			"name": "百鬼あやめ",
+			"nameEn": "Nakiri Ayame",
+			"talents": [
+				"ayame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-004_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Shooter"
+			],
+			"hp": 60,
+			"bloomLevel": "Debut",
+			"arts": [
+				{
+					"text": "Dango Tastes So Good　30"
+				}
+			],
+			"officialId": 519,
+			"officialName": "Nakiri Ayame",
+			"officialImage": "/wp-content/images/cardlist/hSD02/EN_hSD02-004_U.png",
+			"illustrator": "ななかぐら"
+		},
+		{
+			"set": "hsd02",
+			"setLabel": "hSD02",
+			"rarity": "U",
+			"number": "hSD02-007",
+			"name": "百鬼あやめ",
+			"nameEn": "Nakiri Ayame",
+			"talents": [
+				"ayame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-007_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Shooter"
+			],
+			"hp": 120,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Don't Look Away when I Shine~~!!　30"
+				}
+			],
+			"officialId": 522,
+			"officialName": "Nakiri Ayame",
+			"officialImage": "/wp-content/images/cardlist/hSD02/EN_hSD02-007_U.png"
+		},
+		{
+			"set": "hsd02",
+			"setLabel": "hSD02",
+			"rarity": "U",
+			"number": "hSD02-010",
+			"name": "白上フブキ",
+			"nameEn": "Shirakami Fubuki",
+			"talents": [
+				"fubuki"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-010_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 1",
+				"#GAMERS",
+				"#Kemomimi",
+				"#Painting"
+			],
+			"hp": 80,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "AyaFubuMi's \"Fubu\"　20\nYou may archive 1~3 cards from your hand:Deal 40 special damage to your opponent's center holomem for each card archived."
+				}
+			],
+			"extra": "This holomem cannot bloom",
+			"officialId": 525,
+			"officialName": "Shirakami Fubuki",
+			"officialImage": "/wp-content/images/cardlist/hSD02/EN_hSD02-010_U.png"
+		},
+		{
+			"set": "hsd02",
+			"setLabel": "hSD02",
+			"rarity": "U",
+			"number": "hSD02-011",
+			"name": "大神ミオ",
+			"nameEn": "Ookami Mio",
+			"talents": [
+				"mio"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10011",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-011_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#GAMERS",
+				"#Kemomimi",
+				"#Cooking"
+			],
+			"hp": 50,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "AyaFubuMi's \"Mi\"　10"
+				}
+			],
+			"extra": "This holomem cannot bloom",
+			"officialId": 526,
+			"officialName": "Ookami Mio",
+			"officialImage": "/wp-content/images/cardlist/hSD02/EN_hSD02-011_U.png"
+		},
+		{
+			"set": "hsd02",
+			"setLabel": "hSD02",
+			"rarity": "U",
+			"number": "hSD02-012",
+			"name": "いろはにほへっと あやふぶみ",
+			"nameEn": "Irohanihohetto AyaFubuMi",
+			"talents": [],
+			"colors": [],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10012",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-012_U.png",
+			"cardType": "Support・Event・LIMITED",
+			"abilityText": "This card can only be used if you have 6 or less cards in hand excluding this card.\n\nLook at the top 4 cards of your deck. Reveal any number of 〈Shirakami Fubuki〉, 〈Ookami Mio〉 and 〈Nakiri Ayame〉 from among them, and add the revealed holomem to hand. Then, return the remaining cards to the bottom of the deck in any order.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 527,
+			"officialName": "Irohanihohetto AyaFubuMi",
+			"officialImage": "/wp-content/images/cardlist/hSD02/EN_hSD02-012_U.png",
+			"illustrator": "林けゐ"
+		},
+		{
+			"set": "hsd02",
+			"setLabel": "hSD02",
+			"rarity": "C",
+			"number": "hSD02-002",
+			"name": "百鬼あやめ",
+			"nameEn": "Nakiri Ayame",
+			"talents": [
+				"ayame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-002_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Shooter"
+			],
+			"hp": 90,
+			"bloomLevel": "Debut",
+			"arts": [
+				{
+					"text": "Kon-Nakiri~　30"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 517,
+			"officialName": "Nakiri Ayame",
+			"officialImage": "/wp-content/images/cardlist/hSD02/EN_hSD02-002_C.png"
+		},
+		{
+			"set": "hsd02",
+			"setLabel": "hSD02",
+			"rarity": "C",
+			"number": "hSD02-003",
+			"name": "百鬼あやめ",
+			"nameEn": "Nakiri Ayame",
+			"talents": [
+				"ayame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-003_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Shooter"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"arts": [
+				{
+					"text": "Shiranui　30"
+				}
+			],
+			"officialId": 518,
+			"officialName": "Nakiri Ayame",
+			"officialImage": "/wp-content/images/cardlist/hSD02/EN_hSD02-003_C.png",
+			"illustrator": "うさの"
+		},
+		{
+			"set": "hsd02",
+			"setLabel": "hSD02",
+			"rarity": "C",
+			"number": "hSD02-005",
+			"name": "百鬼あやめ",
+			"nameEn": "Nakiri Ayame",
+			"talents": [
+				"ayame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-005_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Shooter"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"arts": [
+				{
+					"text": "I'm Gonna Sleep~　20"
+				},
+				{
+					"text": "OtsuNakiri　60"
+				}
+			],
+			"officialId": 520,
+			"officialName": "Nakiri Ayame",
+			"officialImage": "/wp-content/images/cardlist/hSD02/EN_hSD02-005_C.png",
+			"illustrator": "ななかぐら"
+		},
+		{
+			"set": "hsd02",
+			"setLabel": "hSD02",
+			"rarity": "C",
+			"number": "hSD02-006",
+			"name": "百鬼あやめ",
+			"nameEn": "Nakiri Ayame",
+			"talents": [
+				"ayame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "280 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "4 点",
+			"stockCount": 4,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-006_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Shooter"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Let's Celebrate Together　30"
+				}
+			],
+			"officialId": 521,
+			"officialName": "Nakiri Ayame",
+			"officialImage": "/wp-content/images/cardlist/hSD02/EN_hSD02-006_C.png",
+			"illustrator": "ななかぐら"
+		},
+		{
+			"set": "hsd02",
+			"setLabel": "hSD02",
+			"rarity": "C",
+			"number": "hSD02-013",
+			"name": "阿修羅＆羅刹",
+			"nameEn": "Asura & Rakshasa",
+			"talents": [],
+			"colors": [],
+			"price": "320 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 320,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10013",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-013_C.png",
+			"cardType": "Support・Tool",
+			"abilityText": "The holomem this tool is attached to gets Arts+10.\n\n◆Additional ability if attached to 1st or greater 〈Nakiri Ayame〉\n\nThe holomem this tool is attached to gets Arts+10.\n\nOnly 1 tool can be attached to each of your holomem.",
+			"officialId": 528,
+			"officialName": "Asura & Rakshasa",
+			"officialImage": "/wp-content/images/cardlist/hSD02/EN_hSD02-013_C.png",
+			"illustrator": "はずき"
+		},
+		{
+			"set": "hsd02",
+			"setLabel": "hSD02",
+			"rarity": "C",
+			"number": "hSD02-014",
+			"name": "ぽよ余",
+			"nameEn": "Poyoyo",
+			"talents": [],
+			"colors": [],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd02/10014",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD02/hSD02-014_C.png",
+			"cardType": "Support・Mascot",
+			"tags": [
+				"#Shirakami's Character"
+			],
+			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to 〈Nakiri Ayame〉\n\nWhen the holomem this mascot is attached to blooms, draw 1 card.\n\nOnly 1 mascot can be attached to each of your holomem.",
+			"officialId": 529,
+			"officialName": "Poyoyo",
+			"officialImage": "/wp-content/images/cardlist/hSD02/EN_hSD02-014_C.png",
+			"illustrator": "はずき"
+		}
+	]
+}

@@ -1,0 +1,828 @@
+{
+	"set": {
+		"code": "hsd12",
+		"label": "hSD12",
+		"name": "Advent",
+		"nameEn": "Advent",
+		"color": "#3c82d8",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd12"
+	},
+	"cards": [
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "OSR",
+			"number": "hSD12-001",
+			"name": "シオリ・ノヴェラ",
+			"nameEn": "Shiori Novella",
+			"talents": [
+				"novella"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-001_OSR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "The Archiver",
+				"text": "[holo Power：-1]The Archiver[1/Turn] Look at the top 3 cards of your deck. Reveal 1 support card from among them, and add it to hand. Then, return the remaining cards to the bottom of the deck in any order."
+			},
+			"spOshiSkill": {
+				"name": "Rebellion",
+				"text": "[holo Power：-3]Rebellion[1/Game] Deal 10 special damage to 1 of your opponent's back holomem other than Debut for each support card in your archive."
+			},
+			"officialId": 1684,
+			"officialName": "Shiori Novella",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-001_OSR.png",
+			"illustrator": "村カルキ"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "OSR",
+			"number": "hSD12-002",
+			"name": "古石ビジュー",
+			"nameEn": "Koseki Bijou",
+			"talents": [],
+			"colors": [
+				"purple"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-002_OSR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Biboo Tax",
+				"text": "[holo Power：-2]Biboo Tax[1/Turn] Archive the top card of both players' cheer decks. Draw 1 card for each color among cheers archived this way."
+			},
+			"spOshiSkill": {
+				"name": "Ancient, Mystic Brilliance",
+				"text": "[holo Power：-2]Ancient, Mystic Brilliance[1/Game] Deal 10 special damage to your opponent's center holomem for each [holomem with #Advent and cheer] in your archive."
+			},
+			"officialId": 1685,
+			"officialName": "Koseki Bijou",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-002_OSR.png",
+			"illustrator": "茶椿"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "RR",
+			"number": "hSD12-007",
+			"name": "シオリ・ノヴェラ",
+			"nameEn": "Shiori Novella",
+			"talents": [
+				"novella"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-007_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Advent"
+			],
+			"hp": 200,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Could You Refrain from Underestimating Us?　110\nDeal 10 special damage to 1 of your opponent's holomem other than Debut for each holomem with #Advent on your stage."
+				}
+			],
+			"officialId": 1690,
+			"officialName": "Shiori Novella",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-007_RR.png",
+			"illustrator": "株式会社ジーアングル"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "RR",
+			"number": "hSD12-011",
+			"name": "古石ビジュー",
+			"nameEn": "Koseki Bijou",
+			"talents": [],
+			"colors": [
+				"purple"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10011",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-011_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Advent",
+				"#Baby"
+			],
+			"hp": 200,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Behold the Sparkle!　110\nThis Arts requires -1 colorless for each different color among cheers in both players' archives."
+				}
+			],
+			"officialId": 1694,
+			"officialName": "Koseki Bijou",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-011_RR.png",
+			"illustrator": "株式会社ジーアングル"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "R",
+			"number": "hSD12-006",
+			"name": "シオリ・ノヴェラ",
+			"nameEn": "Shiori Novella",
+			"talents": [
+				"novella"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-006_R.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#EN",
+				"#Advent"
+			],
+			"hp": 250,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Elementary　40\nDeal 20 special damage to 1 of your opponent's holomem."
+				}
+			],
+			"extra": "If this holomem is downed, you get life-2",
+			"officialId": 1689,
+			"officialName": "Shiori Novella",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-006_R.png",
+			"illustrator": "Rosuuri"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "U",
+			"number": "hSD12-005",
+			"name": "シオリ・ノヴェラ",
+			"nameEn": "Shiori Novella",
+			"talents": [
+				"novella"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-005_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Advent"
+			],
+			"hp": 160,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Look Out the Window, the Stars Are Beautiful　40"
+				}
+			],
+			"officialId": 1688,
+			"officialName": "Shiori Novella",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-005_U.png",
+			"illustrator": "時坂まこと"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "U",
+			"number": "hSD12-010",
+			"name": "古石ビジュー",
+			"nameEn": "Koseki Bijou",
+			"talents": [],
+			"colors": [
+				"purple"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-010_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Advent",
+				"#Baby"
+			],
+			"hp": 170,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "The Fading Radiance　30"
+				},
+				{
+					"text": "Your Princess AWAKENS!　50\nYou may archive 1 cheer other than purple from this holomem: Return 1 holomem from your archive to hand."
+				}
+			],
+			"officialId": 1693,
+			"officialName": "Koseki Bijou",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-010_U.png",
+			"illustrator": "VIGORE"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "U",
+			"number": "hSD12-015",
+			"name": "脱獄を果たした共犯者たち",
+			"nameEn": "A Group of Criminals That Escaped from The Cell",
+			"talents": [],
+			"colors": [],
+			"price": "1,780 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 1780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10015",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-015_U.png",
+			"cardType": "Support・Event",
+			"abilityText": "This card can only be used if all holomem on your stage are holomem with #Advent.\n\nDeal 20 special damage to your opponent's center holomem. Then, send 1 cheer from your archive to your holomem.\n\nYou may only use 〈A Group of Criminals That Escaped from The Cell〉 once per turn.",
+			"officialId": 1700,
+			"officialName": "A Group of Criminals That Escaped from The Cell",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-015_U.png",
+			"illustrator": "黒井ススム"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "C",
+			"number": "hBP04-050",
+			"name": "シオリ・ノヴェラ(パラレル/SD12)",
+			"nameEn": "Shiori Novella",
+			"talents": [
+				"novella"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10017",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hBP04-050_02_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Advent"
+			],
+			"hp": 110,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Shiori~n!　30"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 913,
+			"officialName": "Shiori Novella",
+			"officialImage": "/wp-content/images/cardlist/hBP04/EN_hBP04-050_C.png",
+			"illustrator": "marumoru"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "C",
+			"number": "hBP04-063",
+			"name": "古石ビジュー(パラレル/SD12)",
+			"nameEn": "Koseki Bijou",
+			"talents": [],
+			"colors": [
+				"purple"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10018",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hBP04-063_02_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Advent",
+				"#Baby"
+			],
+			"hp": 110,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Bon-Bijou!　20"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 926,
+			"officialName": "Koseki Bijou",
+			"officialImage": "/wp-content/images/cardlist/hBP04/EN_hBP04-063_C.png",
+			"illustrator": "北田 藻"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "C",
+			"number": "hBP05-074",
+			"name": "フレンドリーパソコン(パラレル/SD12・13)",
+			"nameEn": "Friendly PC",
+			"talents": [],
+			"colors": [],
+			"price": "320 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 320,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10019",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hBP05-074_02_C.png",
+			"cardType": "Support・Item",
+			"abilityText": "Reveal 1~2 Debut holomem with Extra \"You may include any number of this holomem in the deck\" from your deck, and place them on stage. Then, shuffle the deck. If 2 Debut holomem were placed, return 1 card from your hand to the bottom of the deck.",
+			"officialId": 1231,
+			"officialName": "Friendly PC",
+			"officialImage": "/wp-content/images/cardlist/hBP05/EN_hBP05-074_C.png",
+			"illustrator": "ナナテトラ"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "C",
+			"number": "hSD12-003",
+			"name": "シオリ・ノヴェラ",
+			"nameEn": "Shiori Novella",
+			"talents": [
+				"novella"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "4 点",
+			"stockCount": 4,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-003_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Advent"
+			],
+			"hp": 130,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Adieu, Dear Listener　20"
+				}
+			],
+			"officialId": 1686,
+			"officialName": "Shiori Novella",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-003_C.png",
+			"illustrator": "よもさか"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "C",
+			"number": "hSD12-004",
+			"name": "シオリ・ノヴェラ",
+			"nameEn": "Shiori Novella",
+			"talents": [
+				"novella"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "6 点",
+			"stockCount": 6,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-004_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Advent"
+			],
+			"hp": 170,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Unsettling Warning　20\nThis Arts can target your opponent's back holomem too."
+				},
+				{
+					"text": "Just a Humble, Kind Witch　30\nIf you have 4 or more support cards in your archive, send the top card of your cheer deck to your holomem with #Advent."
+				}
+			],
+			"officialId": 1687,
+			"officialName": "Shiori Novella",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-004_C.png",
+			"illustrator": "VIGORE"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "C",
+			"number": "hSD12-008",
+			"name": "古石ビジュー",
+			"nameEn": "Koseki Bijou",
+			"talents": [],
+			"colors": [
+				"purple"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-008_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Advent",
+				"#Baby"
+			],
+			"hp": 110,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "I've... Been Dreaming a Lot Lately.　30"
+				}
+			],
+			"officialId": 1691,
+			"officialName": "Koseki Bijou",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-008_C.png",
+			"illustrator": "よもさか"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "C",
+			"number": "hSD12-009",
+			"name": "古石ビジュー",
+			"nameEn": "Koseki Bijou",
+			"talents": [],
+			"colors": [
+				"purple"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-009_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Advent",
+				"#Baby"
+			],
+			"hp": 130,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "That Is What I Am Grateful For　30"
+				}
+			],
+			"officialId": 1692,
+			"officialName": "Koseki Bijou",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-009_C.png",
+			"illustrator": "marumoru"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "C",
+			"number": "hSD12-012",
+			"name": "ネリッサ・レイヴンクロフト",
+			"nameEn": "Nerissa Ravencroft",
+			"talents": [
+				"nerissa"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10012",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-012_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Advent",
+				"#Singing",
+				"#Bird"
+			],
+			"hp": 140,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "The Transient Blues　80\nIf your life is 3 or less, this Arts requires -2 colorless."
+				}
+			],
+			"officialId": 1695,
+			"officialName": "Nerissa Ravencroft",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-012_C.png",
+			"illustrator": "Ria"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "C",
+			"number": "hSD12-013",
+			"name": "モココ・アビスガード",
+			"nameEn": "Mococo Abyssgard",
+			"talents": [
+				"mococo"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "1,280 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 1280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10013",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-013_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Advent",
+				"#Kemomimi"
+			],
+			"hp": 130,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "I Totally Totally Mean It!!　30"
+				}
+			],
+			"officialId": 1696,
+			"officialName": "Mococo Abyssgard",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-013_C.png",
+			"illustrator": "イコモチ"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "C",
+			"number": "hSD12-014",
+			"name": "フワワ・アビスガード",
+			"nameEn": "Fuwawa Abyssgard",
+			"talents": [
+				"fuwawa"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "980 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10014",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-014_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Advent",
+				"#Kemomimi"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"arts": [
+				{
+					"text": "I Totally Totally Mean It!　30"
+				}
+			],
+			"officialId": 1697,
+			"officialName": "Fuwawa Abyssgard",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-014_C.png",
+			"illustrator": "イコモチ"
+		},
+		{
+			"set": "hsd12",
+			"setLabel": "hSD12",
+			"rarity": "C",
+			"number": "hSD12-016",
+			"name": "GEOW",
+			"nameEn": "GEOW",
+			"talents": [],
+			"colors": [],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "6 点",
+			"stockCount": 6,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd12/10016",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD12/hSD12-016_C.png",
+			"cardType": "Support・Mascot",
+			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\nWhen this mascot is attached from hand to 1st or greater 〈Koseki Bijou〉, you may archive 1 cheer from your stage: Reveal 1 cheer from your cheer deck, and send it to your holomem. Then, shuffle the cheer deck.\n\nOnly 1 mascot can be attached to each of your holomem.",
+			"officialId": 1701,
+			"officialName": "GEOW",
+			"officialImage": "/wp-content/images/cardlist/hSD12/EN_hSD12-016_C.png",
+			"illustrator": "はたほまめ"
+		}
+	]
+}

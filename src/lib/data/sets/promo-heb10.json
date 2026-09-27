@@ -1,0 +1,49 @@
+{
+	"set": {
+		"code": "promo-heb10",
+		"label": "hEB01–hEB10",
+		"name": "プロモーション hEB01～hEB10",
+		"nameEn": "Promo hEB01–hEB10",
+		"color": "#38bdf8",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/promo-heb10"
+	},
+	"cards": [
+		{
+			"set": "promo-heb10",
+			"setLabel": "hEB01",
+			"rarity": "P",
+			"number": "hEB01-012",
+			"name": "宝鐘マリン(パラレル/Vジャンプ)",
+			"nameEn": "Houshou Marine (Parallel/V Jump)",
+			"talents": [
+				"marine"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "420 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 420,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-heb10/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hEB01/hEB01-012_P.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#3期生",
+				"#絵",
+				"#海",
+				"#サマー"
+			],
+			"hp": 120,
+			"bloomLevel": "Debut"
+		}
+	]
+}

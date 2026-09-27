@@ -1,0 +1,1955 @@
+{
+	"set": {
+		"code": "promo-hbd24",
+		"label": "hBD24",
+		"name": "ホロライブ Birthday 24",
+		"nameEn": "Hololive Birthday 24",
+		"color": "#f472b6",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/promo-hbd20"
+	},
+	"cards": [
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-001",
+			"name": "パヴォリア・レイネ",
+			"nameEn": "Pavolia Reine",
+			"talents": [
+				"reine"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "49,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 49800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-001_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-002",
+			"name": "獅白ぼたん",
+			"nameEn": "Shishiro Botan",
+			"talents": [
+				"botan"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "8,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 8980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-002_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-003",
+			"name": "戌神ころね",
+			"nameEn": "Inugami Korone",
+			"talents": [
+				"korone"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "12,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 12800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-003_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-004",
+			"name": "白上フブキ",
+			"nameEn": "Shirakami Fubuki",
+			"talents": [
+				"fubuki"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "4,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 4980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "4 点",
+			"stockCount": 4,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-004_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-005",
+			"name": "姫森ルーナ",
+			"nameEn": "Himemori Luna",
+			"talents": [
+				"luna"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "8,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 8980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-005_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-006",
+			"name": "クレイジー・オリー",
+			"nameEn": "Kureiji Ollie",
+			"talents": [
+				"ollie"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "39,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 39800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-006_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-007",
+			"name": "ジジ・ムリン",
+			"nameEn": "Gigi Murin",
+			"talents": [
+				"gigi"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "17,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 17800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "3 点",
+			"stockCount": 3,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-007_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-008",
+			"name": "ベスティア・ゼータ",
+			"nameEn": "Vestia Zeta",
+			"talents": [
+				"zeta"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "9,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 9980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-008_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-009",
+			"name": "セシリア・イマーグリーン",
+			"nameEn": "Cecilia Immergreen",
+			"talents": [
+				"cecilia"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "17,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 17800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-009_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-010",
+			"name": "雪花ラミィ",
+			"nameEn": "Yukihana Lamy",
+			"talents": [
+				"lamy"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "9,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 9980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-010_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-011",
+			"name": "ネリッサ・レイヴンクロフト",
+			"nameEn": "Nerissa Ravencroft",
+			"talents": [
+				"nerissa"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "7,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 7980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "3 点",
+			"stockCount": 3,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10011",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-011_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-012",
+			"name": "白銀ノエル",
+			"nameEn": "Shirogane Noel",
+			"talents": [
+				"noel"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "4,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 4980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10012",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-012_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-013",
+			"name": "紫咲シオン",
+			"nameEn": "Murasaki Shion",
+			"talents": [
+				"shion"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "5,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 5980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "3 点",
+			"stockCount": 3,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10013",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-013_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-014",
+			"name": "こぼ・かなえる",
+			"nameEn": "Kobo Kanaeru",
+			"talents": [
+				"kobo"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "7,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 7980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10014",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-014_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-015",
+			"name": "百鬼あやめ",
+			"nameEn": "Nakiri Ayame",
+			"talents": [
+				"ayame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "7,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 7980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "3 点",
+			"stockCount": 3,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10015",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-015_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-016",
+			"name": "沙花叉クロヱ",
+			"nameEn": "Sakamata Chloe",
+			"talents": [
+				"chloe"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "3,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10016",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-016_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-017",
+			"name": "兎田ぺこら",
+			"nameEn": "Usada Pekora",
+			"talents": [
+				"pekora"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "3,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "3 点",
+			"stockCount": 3,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10017",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-017_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-018",
+			"name": "アユンダ・リス",
+			"nameEn": "Ayunda Risu",
+			"talents": [
+				"risu"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "12,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 12800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10018",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-018_P_02.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-019",
+			"name": "尾丸ポルカ",
+			"nameEn": "Omaru Polka",
+			"talents": [
+				"polka"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "12,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 12800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10019",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-019_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-020",
+			"name": "フワワ・アビスガード",
+			"nameEn": "Fuwawa Abyssgard",
+			"talents": [
+				"fuwawa"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "7,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 7980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10020",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-020_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-021",
+			"name": "モココ・アビスガード",
+			"nameEn": "Mococo Abyssgard",
+			"talents": [
+				"mococo"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "7,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 7980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10021",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-021_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-022",
+			"name": "儒烏風亭らでん",
+			"nameEn": "Juufuutei Raden",
+			"talents": [
+				"raden"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "7,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 7980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10022",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-022_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-023",
+			"name": "癒月ちょこ",
+			"nameEn": "Yuzuki Choco",
+			"talents": [
+				"choco"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "9,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 9980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10023",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-023_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-024",
+			"name": "ムーナ・ホシノヴァ",
+			"nameEn": "Moona Hoshinova",
+			"talents": [
+				"moona"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "9,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 9980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10024",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-024_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-025",
+			"name": "アキ・ローゼンタール",
+			"nameEn": "Aki Rosenthal",
+			"talents": [
+				"aki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "14,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 14800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10025",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-025_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-026",
+			"name": "猫又おかゆ",
+			"nameEn": "Nekomata Okayu",
+			"talents": [
+				"okayu"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "6,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 6980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10026",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-026_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-027",
+			"name": "火威青",
+			"nameEn": "Hiodoshi Ao",
+			"talents": [
+				"ao"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "5,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 5980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10027",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-027_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-028",
+			"name": "ハコス・ベールズ",
+			"nameEn": "Hakos Baelz",
+			"talents": [
+				"baelz"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "7,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 7980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10028",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-028_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-029",
+			"name": "さくらみこ",
+			"nameEn": "Sakura Miko",
+			"talents": [
+				"miko"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "3,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10029",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-029_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-030",
+			"name": "アーニャ・メルフィッサ",
+			"nameEn": "Anya Melfissa",
+			"talents": [
+				"anya"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "8,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 8980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10030",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-030_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-031",
+			"name": "オーロ・クロニー",
+			"nameEn": "Ouro Kronii",
+			"talents": [
+				"kronii"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "14,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 14800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10031",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-031_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-032",
+			"name": "博衣こより",
+			"nameEn": "Hakui Koyori",
+			"talents": [
+				"koyori"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "6,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 6980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10032",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-032_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-033",
+			"name": "IRyS",
+			"nameEn": "IRyS",
+			"talents": [
+				"irys"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "7,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 7980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10033",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-033_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-034",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "5,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 5980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10034",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-034_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-035",
+			"name": "桃鈴ねね",
+			"nameEn": "Momosuzu Nene",
+			"talents": [
+				"nene"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "5,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 5980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10035",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-035_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-036",
+			"name": "不知火フレア",
+			"nameEn": "Shiranui Flare",
+			"talents": [
+				"flare"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "5,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 5980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10036",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-036_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-037",
+			"name": "森カリオペ",
+			"nameEn": "Mori Calliope",
+			"talents": [
+				"calli"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "12,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 12800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10037",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-037_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-038",
+			"name": "古石ビジュー",
+			"nameEn": "Koseki Bijou",
+			"talents": [
+				"biboo"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "7,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 7980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10038",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-038_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-039",
+			"name": "音乃瀬奏",
+			"nameEn": "Otonose Kanade",
+			"talents": [
+				"kanade"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "6,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 6980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10039",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-039_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-040",
+			"name": "天音かなた",
+			"nameEn": "Amane Kanata",
+			"talents": [
+				"kanata"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "5,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 5980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10040",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-040_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-041",
+			"name": "エリザベス・ローズ・ブラッドフレイム",
+			"nameEn": "Elizabeth Rose Bloodflame",
+			"talents": [
+				"bloodflame"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "8,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 8980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10041",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-041_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-042",
+			"name": "シオリ・ノヴェラ",
+			"nameEn": "Shiori Novella",
+			"talents": [
+				"shiori"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "19,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 19800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10042",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-042_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-043",
+			"name": "ラオーラ・パンテーラ",
+			"nameEn": "Raora Panthera",
+			"talents": [
+				"raora"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "8,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 8980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10043",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-043_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-044",
+			"name": "一条莉々華",
+			"nameEn": "Rurine Luna",
+			"talents": [
+				"rurine"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "6,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 6980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10044",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-044_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-045",
+			"name": "ときのそら",
+			"nameEn": "Tokino Sora",
+			"talents": [
+				"sora"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "6,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 6980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10045",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-045_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-046",
+			"name": "一伊那尓栖",
+			"nameEn": "Ninomae Ina'nis",
+			"talents": [
+				"ina"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "7,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 7980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10046",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-046_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-047",
+			"name": "ロボ子さん",
+			"nameEn": "Roboco-san",
+			"talents": [
+				"roboco"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "9,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 9980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10047",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-047_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-048",
+			"name": "ラプラス・ダークネス",
+			"nameEn": "La+ Darknesss",
+			"talents": [
+				"laplus"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "6,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 6980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10048",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-048_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-049",
+			"name": "響咲リオナ",
+			"nameEn": "Hibiki Riona",
+			"talents": [
+				"riona"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "14,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 14800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10049",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-049_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-050",
+			"name": "角巻わため",
+			"nameEn": "Tsunomaki Watame",
+			"talents": [
+				"watame"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "7,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 7980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "2 点",
+			"stockCount": 2,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10050",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-050_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-051",
+			"name": "轟はじめ",
+			"nameEn": "Todoki Hajime",
+			"talents": [
+				"hajime"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "6,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 6980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10051",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-051_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-052",
+			"name": "鷹嶺ルイ",
+			"nameEn": "Takane Lui",
+			"talents": [
+				"lui"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "7,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 7980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10052",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-052_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-053",
+			"name": "水宮枢",
+			"nameEn": "Mizumiya Su",
+			"talents": [
+				"su"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "5,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 5980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10053",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-053_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-054",
+			"name": "風真いろは",
+			"nameEn": "Kazama Iroha",
+			"talents": [
+				"iroha"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "9,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 9980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10054",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-054_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-055",
+			"name": "AZKi",
+			"nameEn": "AZKi",
+			"talents": [
+				"azki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "6,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 6980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10055",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-055_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-056",
+			"name": "大空スバル",
+			"nameEn": "Oozora Subaru",
+			"talents": [
+				"subaru"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "6,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 6980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10056",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-056_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-057",
+			"name": "小鳥遊キアラ",
+			"nameEn": "Takanashi Kiara",
+			"talents": [
+				"kiara"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "12,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 12800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10057",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-057_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-058",
+			"name": "輪堂千速",
+			"nameEn": "Rindo Chihaya",
+			"talents": [
+				"chihaya"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "9,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 9980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10058",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-058_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-059",
+			"name": "アイラニ・イオフィフティーン",
+			"nameEn": "Airani Iofifteen",
+			"talents": [
+				"iofi"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "19,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 19800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10059",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-059_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-060",
+			"name": "虎金妃笑虎",
+			"nameEn": "Koganei Shoko",
+			"talents": [
+				"shoko"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "9,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 9980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10060",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-060_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-061",
+			"name": "宝鐘マリン",
+			"nameEn": "Houshou Marine",
+			"talents": [
+				"marine"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "5,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 5980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10061",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-061_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-062",
+			"name": "常闇トワ",
+			"nameEn": "Tokoyami Towa",
+			"talents": [
+				"towa"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "8,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 8980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10062",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-062_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-063",
+			"name": "赤井はあと",
+			"nameEn": "Akai Haato",
+			"talents": [
+				"haato"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "14,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 14800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10063",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-063_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-064",
+			"name": "大神ミオ",
+			"nameEn": "Ookami Mio",
+			"talents": [
+				"mio"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "8,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 8980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10064",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-064_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-065",
+			"name": "綺々羅々ヴィヴィ",
+			"nameEn": "Kikirara Vivi",
+			"talents": [
+				"vivi"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "9,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 9980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10065",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-065_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-066",
+			"name": "カエラ・コヴァルスキア",
+			"nameEn": "Kaela Kovalskia",
+			"talents": [
+				"kaela"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "14,800 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 14800,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10066",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-066_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		},
+		{
+			"set": "promo-hbd24",
+			"setLabel": "hBD24",
+			"rarity": "P",
+			"number": "hBD24-067",
+			"name": "夏色まつり",
+			"nameEn": "Natsuiro Matsuri",
+			"talents": [
+				"matsuri"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "9,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 9980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-hbd20/10067",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBD24/hBD24-067_P.png",
+			"cardType": "Oshi",
+			"life": 5
+		}
+	]
+}

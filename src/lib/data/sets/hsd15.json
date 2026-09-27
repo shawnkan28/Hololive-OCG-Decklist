@@ -1,0 +1,492 @@
+{
+	"set": {
+		"code": "hsd15",
+		"label": "hSD15",
+		"name": "儒烏風亭らでん",
+		"nameEn": "Juufuutei Raden",
+		"color": "#4caf50",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd15"
+	},
+	"cards": [
+		{
+			"set": "hsd15",
+			"setLabel": "hSD15",
+			"rarity": "OC",
+			"number": "hSD15-001",
+			"name": "儒烏風亭らでん",
+			"nameEn": "Juufuutei Raden",
+			"talents": [
+				"raden"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd15/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD15/hSD15-001_OC.png",
+			"cardType": "Oshi",
+			"life": 4,
+			"oshiSkill": {
+				"name": "ちょっとまつたけ～♪",
+				"text": "[ホロパワー:-2]ちょっとまつたけ～♪[ターンに1回]自分のデッキから#きのこを持つイベント1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+			},
+			"spOshiSkill": {
+				"name": "あなたの世界を広げに行こう",
+				"text": "[ホロパワー:-2]あなたの世界を広げに行こう[ゲームに1回]自分のエールデッキの上から1枚を自分の〈儒烏風亭らでん〉に送る。その後、自分のアーカイブの#きのこを持つイベント1枚を手札に戻す。"
+			},
+			"officialId": 2077,
+			"officialName": "儒烏風亭らでん",
+			"officialImage": "/wp-content/images/cardlist/hSD15/hSD15-001_OC.png",
+			"illustrator": "古弥月"
+		},
+		{
+			"set": "hsd15",
+			"setLabel": "hSD15",
+			"rarity": "RR",
+			"number": "hSD15-009",
+			"name": "儒烏風亭らでん",
+			"nameEn": "Juufuutei Raden",
+			"talents": [
+				"raden"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd15/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD15/hSD15-009_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#お酒"
+			],
+			"hp": 170,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "伝統と革新をあなたに　90"
+				}
+			],
+			"officialId": 2085,
+			"officialName": "儒烏風亭らでん",
+			"officialImage": "/wp-content/images/cardlist/hSD15/hSD15-009_RR.png",
+			"illustrator": "Lunar"
+		},
+		{
+			"set": "hsd15",
+			"setLabel": "hSD15",
+			"rarity": "R",
+			"number": "hSD15-008",
+			"name": "儒烏風亭らでん",
+			"nameEn": "Juufuutei Raden",
+			"talents": [
+				"raden"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd15/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD15/hSD15-008_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#お酒"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "きのこ狩り　40+\nこのターンに自分が#きのこを持つイベントを使っていたなら、このアーツ+10。"
+				}
+			],
+			"officialId": 2084,
+			"officialName": "儒烏風亭らでん",
+			"officialImage": "/wp-content/images/cardlist/hSD15/hSD15-008_R.png",
+			"illustrator": "GIN"
+		},
+		{
+			"set": "hsd15",
+			"setLabel": "hSD15",
+			"rarity": "U",
+			"number": "hSD15-005",
+			"name": "儒烏風亭らでん",
+			"nameEn": "Juufuutei Raden",
+			"talents": [
+				"raden"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd15/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD15/hSD15-005_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#お酒"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "そろそろ始めちゃいますか　20"
+				}
+			],
+			"officialId": 2081,
+			"officialName": "儒烏風亭らでん",
+			"officialImage": "/wp-content/images/cardlist/hSD15/hSD15-005_U.png",
+			"illustrator": "ぱとり"
+		},
+		{
+			"set": "hsd15",
+			"setLabel": "hSD15",
+			"rarity": "U",
+			"number": "hSD15-007",
+			"name": "儒烏風亭らでん",
+			"nameEn": "Juufuutei Raden",
+			"talents": [
+				"raden"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd15/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD15/hSD15-007_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#お酒"
+			],
+			"hp": 130,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "この博物館おもしろそう！　30"
+				}
+			],
+			"officialId": 2083,
+			"officialName": "儒烏風亭らでん",
+			"officialImage": "/wp-content/images/cardlist/hSD15/hSD15-007_U.png",
+			"illustrator": "ゆっ子"
+		},
+		{
+			"set": "hsd15",
+			"setLabel": "hSD15",
+			"rarity": "C",
+			"number": "hBP01-104",
+			"name": "ふつうのパソコン(パラレル/hSD15 儒烏風亭らでん)",
+			"nameEn": "Regular PC",
+			"talents": [],
+			"colors": [],
+			"price": "420 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 420,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd15/10011",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD15/hBP01-104_03_C.png",
+			"cardType": "Support・Item",
+			"abilityText": "Reveal 1 Debut holomem from your deck, and place it on Stage. Then, shuffle the deck.",
+			"officialId": 18,
+			"officialName": "Normal PC",
+			"officialImage": "/wp-content/images/cardlist/COMMON/EN_hBP01-104_C.png",
+			"illustrator": "JinArt KABAKURA"
+		},
+		{
+			"set": "hsd15",
+			"setLabel": "hSD15",
+			"rarity": "C",
+			"number": "hSD15-002",
+			"name": "儒烏風亭らでん",
+			"nameEn": "Juufuutei Raden",
+			"talents": [
+				"raden"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd15/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD15/hSD15-002_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#お酒"
+			],
+			"hp": 80,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "寄ってらっしゃい見てらっしゃい　20"
+				}
+			],
+			"officialId": 2078,
+			"officialName": "儒烏風亭らでん",
+			"officialImage": "/wp-content/images/cardlist/hSD15/hSD15-002_C.png",
+			"illustrator": "七海喜つゆり"
+		},
+		{
+			"set": "hsd15",
+			"setLabel": "hSD15",
+			"rarity": "C",
+			"number": "hSD15-003",
+			"name": "儒烏風亭らでん",
+			"nameEn": "Juufuutei Raden",
+			"talents": [
+				"raden"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd15/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD15/hSD15-003_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#お酒"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "今日もあなたのそばに -らでん-　30"
+				}
+			],
+			"officialId": 2079,
+			"officialName": "儒烏風亭らでん",
+			"officialImage": "/wp-content/images/cardlist/hSD15/hSD15-003_C.png"
+		},
+		{
+			"set": "hsd15",
+			"setLabel": "hSD15",
+			"rarity": "C",
+			"number": "hSD15-004",
+			"name": "儒烏風亭らでん",
+			"nameEn": "Juufuutei Raden",
+			"talents": [
+				"raden"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd15/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD15/hSD15-004_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#お酒"
+			],
+			"hp": 90,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "散歩でもいかがですかな？　20"
+				}
+			],
+			"officialId": 2080,
+			"officialName": "儒烏風亭らでん",
+			"officialImage": "/wp-content/images/cardlist/hSD15/hSD15-004_C.png",
+			"illustrator": "ぶし"
+		},
+		{
+			"set": "hsd15",
+			"setLabel": "hSD15",
+			"rarity": "C",
+			"number": "hSD15-006",
+			"name": "儒烏風亭らでん",
+			"nameEn": "Juufuutei Raden",
+			"talents": [
+				"raden"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd15/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD15/hSD15-006_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#お酒"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "世界を彩る -らでん-　40"
+				},
+				{
+					"text": "ちょいと一席付き合ってみませんか？　60"
+				}
+			],
+			"officialId": 2082,
+			"officialName": "儒烏風亭らでん",
+			"officialImage": "/wp-content/images/cardlist/hSD15/hSD15-006_C.png",
+			"illustrator": "狛乃"
+		},
+		{
+			"set": "hsd15",
+			"setLabel": "hSD15",
+			"rarity": "C",
+			"number": "hSD15-010",
+			"name": "まつたけダンス",
+			"nameEn": "Matsutake Dance",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd15/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD15/hSD15-010_C.png",
+			"cardType": "Support・Event",
+			"tags": [
+				"#きのこ"
+			],
+			"abilityText": "自分のステージの〈儒烏風亭らでん〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+10。そのホロメンに、エールが3枚以上付いているなら、かわりに、そのホロメンのアーツ+20。",
+			"officialId": 2086,
+			"officialName": "まつたけダンス",
+			"officialImage": "/wp-content/images/cardlist/hSD15/hSD15-010_C.png",
+			"illustrator": "ばかくん３世"
+		}
+	]
+}

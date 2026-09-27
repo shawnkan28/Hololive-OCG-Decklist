@@ -1,0 +1,101 @@
+{
+	"set": {
+		"code": "promo-100",
+		"label": "hPR-001–hPR-100",
+		"name": "プロモーション hPR-001～hPR-100",
+		"nameEn": "Promo hPR-001–hPR-100",
+		"color": "#f59e0b",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/promo-100"
+	},
+	"cards": [
+		{
+			"set": "promo-100",
+			"setLabel": "hPR",
+			"rarity": "P",
+			"number": "hPR-001",
+			"name": "さくらみこ",
+			"nameEn": "Sakura Miko",
+			"talents": [
+				"miko"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "2,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 2980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-100/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hPR/hPR-001_P.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#歌"
+			],
+			"hp": 50,
+			"bloomLevel": "Spot",
+			"specialText": "這個成員無法綻放",
+			"officialName": "さくらみこ"
+		},
+		{
+			"set": "promo-100",
+			"setLabel": "hPR",
+			"rarity": "P",
+			"number": "hPR-002",
+			"name": "ReGLOSS",
+			"nameEn": "ReGLOSS",
+			"talents": [],
+			"colors": [],
+			"price": "3,480 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3480,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-100/10002",
+			"image": "https://card.yuyu-tei.jp/hocg/100_140/promo-100/10002.jpg",
+			"cardType": "Support・Event・LIMITED",
+			"isLimited": true,
+			"officialName": "ReGLOSS"
+		},
+		{
+			"set": "promo-100",
+			"setLabel": "hPR",
+			"rarity": "P",
+			"number": "hPR-002",
+			"name": "ReGLOSS(パラレル/公開録音年末スペシャル)",
+			"nameEn": "ReGLOSS (Parallel/Public Recording Year-end Special)",
+			"talents": [],
+			"colors": [],
+			"price": "3,980 円",
+			"marketprice": [
+				{
+					"date": "2026-08-22",
+					"price": 3980,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/promo-100/10003",
+			"image": "https://card.yuyu-tei.jp/hocg/100_140/promo-100/10003.jpg",
+			"cardType": "Support・Event・LIMITED",
+			"isLimited": true,
+			"officialName": "ReGLOSS"
+		}
+	]
+}

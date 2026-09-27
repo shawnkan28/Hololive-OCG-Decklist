@@ -1,0 +1,677 @@
+{
+	"set": {
+		"code": "hsd05",
+		"label": "hSD05",
+		"name": "轟はじめ",
+		"nameEn": "Todoki Hajime",
+		"color": "#c9bc9c",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd05"
+	},
+	"cards": [
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "OC",
+			"number": "hSD05-001",
+			"name": "轟はじめ",
+			"nameEn": "Todoroki Hajime",
+			"talents": [
+				"hajime"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "3 点",
+			"stockCount": 3,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-001_OC.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "White Microphone",
+				"text": "[holo Power：-2]White Microphone[1/Turn]During this turn, your white center holomem gets Arts+20."
+			},
+			"spOshiSkill": {
+				"name": "Quick Guard",
+				"text": "[holo Power：-1]Quick Guard[1/Game]During your opponent's turn, usable if your white holomem would take damage from your opponent:That holomem takes -20 damage."
+			},
+			"officialId": 818,
+			"officialName": "Todoroki Hajime",
+			"officialImage": "/wp-content/images/cardlist/hSD05/EN_hSD05-001_OC.png",
+			"illustrator": "おぐち"
+		},
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "RR",
+			"number": "hSD05-009",
+			"name": "轟はじめ",
+			"nameEn": "Todoroki Hajime",
+			"talents": [
+				"hajime"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-009_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#Baby"
+			],
+			"hp": 180,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Thunder of Deep Purple　80+\nIf your stage has a holomem with #ReGLOSS other than 〈Todoroki Hajime〉, this Arts gets+30."
+				}
+			],
+			"officialId": 826,
+			"officialName": "Todoroki Hajime",
+			"officialImage": "/wp-content/images/cardlist/hSD05/EN_hSD05-009_RR.png",
+			"illustrator": "BISAI"
+		},
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "R",
+			"number": "hSD05-008",
+			"name": "轟はじめ",
+			"nameEn": "Todoroki Hajime",
+			"talents": [
+				"hajime"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-008_R.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#Baby"
+			],
+			"hp": 230,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "……I'm Starting to Look Like a Real Badass!　50\nDuring this turn, 1 Debut holomem with #ReGLOSS on your stage gets Arts+40."
+				}
+			],
+			"extra": "If this holomem is downed, you get life-2",
+			"officialId": 825,
+			"officialName": "Todoroki Hajime",
+			"officialImage": "/wp-content/images/cardlist/hSD05/EN_hSD05-008_R.png",
+			"illustrator": "Fajyobore"
+		},
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "U",
+			"number": "hPR-002",
+			"name": "ReGLOSS(パラレル/hSD05)",
+			"nameEn": "ReGLOSS",
+			"talents": [],
+			"colors": [],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10015",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hPR/hPR-002_U.png",
+			"cardType": "Support・Event・LIMITED",
+			"officialName": "ReGLOSS"
+		},
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "U",
+			"number": "hSD05-004",
+			"name": "轟はじめ",
+			"nameEn": "Todoroki Hajime",
+			"talents": [
+				"hajime"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-004_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#Baby"
+			],
+			"hp": 120,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "ReGLOSS's resident badass　40"
+				}
+			],
+			"officialId": 821,
+			"officialName": "Todoroki Hajime",
+			"officialImage": "/wp-content/images/cardlist/hSD05/EN_hSD05-004_U.png",
+			"illustrator": "Watersnake"
+		},
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "U",
+			"number": "hSD05-007",
+			"name": "轟はじめ",
+			"nameEn": "Todoroki Hajime",
+			"talents": [
+				"hajime"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-007_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#Baby"
+			],
+			"hp": 120,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Guts, Charm, and Being the Best　20"
+				}
+			],
+			"officialId": 824,
+			"officialName": "Todoroki Hajime",
+			"officialImage": "/wp-content/images/cardlist/hSD05/EN_hSD05-007_U.png"
+		},
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "U",
+			"number": "hSD05-010",
+			"name": "儒烏風亭らでん",
+			"nameEn": "Juufuutei Raden",
+			"talents": [
+				"raden"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-010_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#Alcohol"
+			],
+			"hp": 80,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Lemme have a word　20\nYou may send 1 cheer from your archive to your holomem with #ReGLOSS."
+				}
+			],
+			"officialId": 827,
+			"officialName": "Juufuutei Raden",
+			"officialImage": "/wp-content/images/cardlist/hSD05/EN_hSD05-010_U.png",
+			"illustrator": "Watersnake"
+		},
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "U",
+			"number": "hSD05-011",
+			"name": "一条莉々華",
+			"nameEn": "Ichijou Ririka",
+			"talents": [
+				"ririka"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "280 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "6 点",
+			"stockCount": 6,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10011",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-011_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#Cooking"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "President's Oshi Duties　20"
+				}
+			],
+			"officialId": 828,
+			"officialName": "Ichijou Ririka",
+			"officialImage": "/wp-content/images/cardlist/hSD05/EN_hSD05-011_U.png",
+			"illustrator": "Watersnake"
+		},
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "U",
+			"number": "hSD05-012",
+			"name": "火威青",
+			"nameEn": "Hiodoshi Ao",
+			"talents": [
+				"ao"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10012",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-012_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#Painting"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "You're the cutest in the world　20"
+				}
+			],
+			"officialId": 829,
+			"officialName": "Hiodoshi Ao",
+			"officialImage": "/wp-content/images/cardlist/hSD05/EN_hSD05-012_U.png",
+			"illustrator": "Watersnake"
+		},
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "U",
+			"number": "hSD05-013",
+			"name": "音乃瀬奏",
+			"nameEn": "Otonose Kanade",
+			"talents": [
+				"kanade"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10013",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-013_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#Singing"
+			],
+			"hp": 90,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Gahaha　20"
+				}
+			],
+			"officialId": 830,
+			"officialName": "Otonose Kanade",
+			"officialImage": "/wp-content/images/cardlist/hSD05/EN_hSD05-013_U.png",
+			"illustrator": "Watersnake"
+		},
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "C",
+			"number": "hSD05-002",
+			"name": "轟はじめ",
+			"nameEn": "Todoroki Hajime",
+			"talents": [
+				"hajime"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-002_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#Baby"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Vroom, vroom, vroom!　30"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 819,
+			"officialName": "Todoroki Hajime",
+			"officialImage": "/wp-content/images/cardlist/hSD05/EN_hSD05-002_C.png"
+		},
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "C",
+			"number": "hSD05-003",
+			"name": "轟はじめ",
+			"nameEn": "Todoroki Hajime",
+			"talents": [
+				"hajime"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-003_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#Baby"
+			],
+			"hp": 60,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Stylish Badass　30"
+				}
+			],
+			"officialId": 820,
+			"officialName": "Todoroki Hajime",
+			"officialImage": "/wp-content/images/cardlist/hSD05/EN_hSD05-003_C.png",
+			"illustrator": "ナナテトラ"
+		},
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "C",
+			"number": "hSD05-005",
+			"name": "轟はじめ",
+			"nameEn": "Todoroki Hajime",
+			"talents": [
+				"hajime"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-005_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#Baby"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "YOROSHIKU!　40"
+				},
+				{
+					"text": "Yus!　60"
+				}
+			],
+			"officialId": 822,
+			"officialName": "Todoroki Hajime",
+			"officialImage": "/wp-content/images/cardlist/hSD05/EN_hSD05-005_C.png",
+			"illustrator": "詰め木"
+		},
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "C",
+			"number": "hSD05-006",
+			"name": "轟はじめ",
+			"nameEn": "Todoroki Hajime",
+			"talents": [
+				"hajime"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-006_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#ReGLOSS",
+				"#Baby"
+			],
+			"hp": 100,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "The Light-Footed Todoroki Hajime　30"
+				},
+				{
+					"text": "Thaaank youuu　50+\nIf your stage has 3 or more holomem with #ReGLOSS and with different card names, this Arts gets +20."
+				}
+			],
+			"officialId": 823,
+			"officialName": "Todoroki Hajime",
+			"officialImage": "/wp-content/images/cardlist/hSD05/EN_hSD05-006_C.png",
+			"illustrator": "HASU"
+		},
+		{
+			"set": "hsd05",
+			"setLabel": "hSD05",
+			"rarity": "C",
+			"number": "hSD05-014",
+			"name": "ばんぺん",
+			"nameEn": "Banpen",
+			"talents": [],
+			"colors": [],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd05/10014",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD05/hSD05-014_C.png",
+			"cardType": "Support・Mascot",
+			"abilityText": "The holomem this mascot is attached to gets Arts+10.\n\n◆Additional ability if attached to 〈Todoroki Hajime〉\n\nThe holomem this mascot is attached to gets +20 HP.\n\nOnly 1 mascot can be attached to each of your holomem.",
+			"officialId": 832,
+			"officialName": "Banpen",
+			"officialImage": "/wp-content/images/cardlist/hSD05/EN_hSD05-014_C.png",
+			"illustrator": "JinArt こばやかわやまと"
+		}
+	]
+}

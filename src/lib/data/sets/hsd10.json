@@ -1,0 +1,560 @@
+{
+	"set": {
+		"code": "hsd10",
+		"label": "hSD10",
+		"name": "輪堂千速",
+		"nameEn": "Wado Chisato",
+		"color": "#4caf50",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd10"
+	},
+	"cards": [
+		{
+			"set": "hsd10",
+			"setLabel": "hSD10",
+			"rarity": "OSR",
+			"number": "hSD10-001",
+			"name": "輪堂千速",
+			"nameEn": "Wado Chisato",
+			"talents": [
+				"chisato"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-001_OSR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "エンジン全開！レッツゴー！",
+				"text": "[ホロパワー:-2]エンジン全開！レッツゴー！[ターンに1回]このターンに自分のホロメンがBloomしていたなら、このターンの間、自分のステージの#FLOW GLOWを持つホロメン1人のアーツ+30。"
+			},
+			"spOshiSkill": {
+				"name": "向こう側の景色を見に行かない？",
+				"text": "[ホロパワー:-2]向こう側の景色を見に行かない？[ゲームに1回]自分のエールデッキの上から1枚を自分のホロメンに送る。その後、自分の#FLOW GLOWを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのエール1枚につき、選んだホロメンのアーツ+20。"
+			},
+			"officialId": 1456,
+			"officialName": "輪堂千速",
+			"officialImage": "/wp-content/images/cardlist/hSD10/hSD10-001_OSR.png",
+			"illustrator": "株式会社スタジオヴィガ"
+		},
+		{
+			"set": "hsd10",
+			"setLabel": "hSD10",
+			"rarity": "RR",
+			"number": "hSD10-006",
+			"name": "輪堂千速",
+			"nameEn": "Wado Chisato",
+			"talents": [
+				"chisato"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-006_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 200,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "鼓動の操縦者　80+\nこのターンに自分のホロメンがBloomしていたなら、このアーツ+50。"
+				},
+				{
+					"text": "アクセラビートブレイズ　140\nこのアーツで相手のセンターホロメンをダウンさせた時、与えたダメージが残りHPをオーバーしていたなら、オーバーしたダメージ30につき、自分のエールデッキの上から1枚を自分のバックホロメン1人に送る。"
+				}
+			],
+			"officialId": 1461,
+			"officialName": "輪堂千速",
+			"officialImage": "/wp-content/images/cardlist/hSD10/hSD10-006_RR.png",
+			"illustrator": "株式会社スタジオヴィガ"
+		},
+		{
+			"set": "hsd10",
+			"setLabel": "hSD10",
+			"rarity": "RR",
+			"number": "hSD10-009",
+			"name": "綺々羅々ヴィヴィ",
+			"nameEn": "Kikirara Vivi",
+			"talents": [
+				"vivi"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "680 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 680,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-009_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 200,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "ヴィジランスヴィーナス　80+\n相手の手札1枚につき、このアーツ+10。"
+				}
+			],
+			"officialId": 1464,
+			"officialName": "綺々羅々ヴィヴィ",
+			"officialImage": "/wp-content/images/cardlist/hSD10/hSD10-009_RR.png",
+			"illustrator": "株式会社スタジオヴィガ"
+		},
+		{
+			"set": "hsd10",
+			"setLabel": "hSD10",
+			"rarity": "RR",
+			"number": "hSD10-010",
+			"name": "響咲リオナ",
+			"nameEn": "Hizuka Riona",
+			"talents": [
+				"riona"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-010_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 170,
+			"bloomLevel": "Spot",
+			"arts": [
+				{
+					"text": "RIONA IN DA HOUSE～!　50+\n自分のステージに#FLOW GLOWを持つ2nd以上のホロメンがいるなら、このアーツ+30。"
+				}
+			],
+			"extra": "このホロメンはBloomできない",
+			"officialId": 1465,
+			"officialName": "響咲リオナ",
+			"officialImage": "/wp-content/images/cardlist/hSD10/hSD10-010_RR.png",
+			"illustrator": "株式会社スタジオヴィガ"
+		},
+		{
+			"set": "hsd10",
+			"setLabel": "hSD10",
+			"rarity": "U",
+			"number": "hSD10-004",
+			"name": "輪堂千速",
+			"nameEn": "Wado Chisato",
+			"talents": [
+				"chisato"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "680 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 680,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-004_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 150,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "パワフルな運転手だよ！　50\n自分のステージに#FLOW GLOWを持つホロメンが3人以上いるなら、自分のエールデッキの上から1枚を自分のバックホロメンに送れる。"
+				}
+			],
+			"officialId": 1459,
+			"officialName": "輪堂千速",
+			"officialImage": "/wp-content/images/cardlist/hSD10/hSD10-004_U.png",
+			"illustrator": "猫山 桜梨"
+		},
+		{
+			"set": "hsd10",
+			"setLabel": "hSD10",
+			"rarity": "U",
+			"number": "hSD10-005",
+			"name": "輪堂千速",
+			"nameEn": "Wado Chisato",
+			"talents": [
+				"chisato"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "420 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 420,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-005_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 160,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "行きます！！！！　20+\nこのターンに自分のホロメンがBloomしていたなら、このターンの間、自分のステージの〈輪堂千速〉1人のアーツ+20。"
+				}
+			],
+			"officialId": 1460,
+			"officialName": "輪堂千速",
+			"officialImage": "/wp-content/images/cardlist/hSD10/hSD10-005_U.png",
+			"illustrator": "トリダモノ"
+		},
+		{
+			"set": "hsd10",
+			"setLabel": "hSD10",
+			"rarity": "U",
+			"number": "hSD10-011",
+			"name": "WHAT’S UP!!!!! KEEEEEP GROWING!!!!!",
+			"nameEn": "WHAT’S UP!!!!! KEEEEEP GROWING!!!!!",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10011",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-011_U.png",
+			"cardType": "Support・Event・LIMITED",
+			"abilityText": "このカードは、自分のステージのホロメン全員が#FLOW GLOWを持つホロメンでなければ使えない。\n\n自分のアーカイブのエール3枚を選び、自分のセンターホロメンとコラボホロメンに割り振って送る。ただし、ホロメン1人に送る枚数は2枚まで。\n\nLIMITED:ターンに1枚しか使えない。",
+			"officialId": 1466,
+			"officialName": "WHAT'S UP!!!!! KEEEEEP GROWING!!!!!",
+			"officialImage": "/wp-content/images/cardlist/hSD10/hSD10-011_U.png",
+			"illustrator": "おぐち"
+		},
+		{
+			"set": "hsd10",
+			"setLabel": "hSD10",
+			"rarity": "U",
+			"number": "hSD10-012",
+			"name": "FLOW GLOW",
+			"nameEn": "FLOW GLOW",
+			"talents": [],
+			"colors": [],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "6 点",
+			"stockCount": 6,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10012",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-012_U.png",
+			"cardType": "Support・Event・LIMITED",
+			"abilityText": "このカードは、自分の手札がこのカードを含まずに6枚以下でなければ使えない。\n\n自分のデッキの上から4枚を見る。その中から、#FLOW GLOWを持つホロメンを好きな枚数公開し、公開したホロメンを手札に加える。そして残ったカードを好きな順でデッキの下に戻す。\n\nLIMITED:ターンに1枚しか使えない。",
+			"officialId": 1467,
+			"officialName": "FLOW GLOW",
+			"officialImage": "/wp-content/images/cardlist/hSD10/hSD10-012_U.png",
+			"illustrator": "𝘧𝘳𝘦𝘯𝘨"
+		},
+		{
+			"set": "hsd10",
+			"setLabel": "hSD10",
+			"rarity": "C",
+			"number": "hSD10-002",
+			"name": "輪堂千速",
+			"nameEn": "Wado Chisato",
+			"talents": [
+				"chisato"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-002_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 110,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "はじまりんど～～～！　30"
+				}
+			],
+			"extra": "このホロメンはデッキに何枚でも入れられる",
+			"officialId": 1457,
+			"officialName": "輪堂千速",
+			"officialImage": "/wp-content/images/cardlist/hSD10/hSD10-002_C.png",
+			"illustrator": "おげげ"
+		},
+		{
+			"set": "hsd10",
+			"setLabel": "hSD10",
+			"rarity": "C",
+			"number": "hSD10-003",
+			"name": "輪堂千速",
+			"nameEn": "Wado Chisato",
+			"talents": [
+				"chisato"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-003_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 170,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "エンジン全開 演じない自然体　30"
+				},
+				{
+					"text": "全身全霊 越えてく限界　80"
+				}
+			],
+			"officialId": 1458,
+			"officialName": "輪堂千速",
+			"officialImage": "/wp-content/images/cardlist/hSD10/hSD10-003_C.png",
+			"illustrator": "Whoami"
+		},
+		{
+			"set": "hsd10",
+			"setLabel": "hSD10",
+			"rarity": "C",
+			"number": "hSD10-007",
+			"name": "綺々羅々ヴィヴィ",
+			"nameEn": "Kikirara Vivi",
+			"talents": [
+				"vivi"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-007_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 120,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "ん〜〜〜〜〜ッヴィヴィ〜！　20"
+				}
+			],
+			"extra": "このホロメンはデッキに何枚でも入れられる",
+			"officialId": 1462,
+			"officialName": "綺々羅々ヴィヴィ",
+			"officialImage": "/wp-content/images/cardlist/hSD10/hSD10-007_C.png",
+			"illustrator": "おげげ"
+		},
+		{
+			"set": "hsd10",
+			"setLabel": "hSD10",
+			"rarity": "C",
+			"number": "hSD10-008",
+			"name": "綺々羅々ヴィヴィ",
+			"nameEn": "Kikirara Vivi",
+			"talents": [
+				"vivi"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "320 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 320,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-008_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 130,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "そこに愛はあるんや！　30"
+				}
+			],
+			"officialId": 1463,
+			"officialName": "綺々羅々ヴィヴィ",
+			"officialImage": "/wp-content/images/cardlist/hSD10/hSD10-008_C.png",
+			"illustrator": "nonco"
+		},
+		{
+			"set": "hsd10",
+			"setLabel": "hSD10",
+			"rarity": "C",
+			"number": "hSD10-013",
+			"name": "ふぐ太郎",
+			"nameEn": "Fugutarou",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd10/10013",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD10/hSD10-013_C.png",
+			"cardType": "Support・Tool",
+			"abilityText": "このツールが付いている#FLOW GLOWを持つホロメンのアーツ+10。\n\n ◆#FLOW GLOWを持つホロメンに付いていたら能力追加\n\n 自分のエンドステップが開始する時、このターンにこのホロメンがアーツを使っていたなら使える:自分のデッキから、#FLOW GLOWを持つ[DebutホロメンかSpotホロメン]1枚を公開し、ステージに出す。そしてデッキをシャッフルする。その後、このホロメンに付いている〈ふぐ太郎〉1枚をデッキの下に戻す。\n\n ツールは、自分のホロメン1人につき1枚だけ付けられる。",
+			"officialId": 1468,
+			"officialName": "ふぐ太郎",
+			"officialImage": "/wp-content/images/cardlist/hBP07/hSD10-013_02_C.png",
+			"illustrator": "さかなへん"
+		}
+	]
+}

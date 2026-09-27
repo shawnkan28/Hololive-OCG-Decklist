@@ -1,0 +1,375 @@
+{
+	"set": {
+		"code": "hsd09",
+		"label": "hSD09",
+		"name": "宝鐘マリン",
+		"nameEn": "Houshou Marine",
+		"color": "#e23d3d",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd09"
+	},
+	"cards": [
+		{
+			"set": "hsd09",
+			"setLabel": "hSD09",
+			"rarity": "OC",
+			"number": "hSD09-001",
+			"name": "宝鐘マリン",
+			"nameEn": "Houshou Marine",
+			"talents": [
+				"marine"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "4 点",
+			"stockCount": 4,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd09/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD09/hSD09-001_OC.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "レッドマイク",
+				"text": "[ホロパワー:-2]レッドマイク[ターンに1回]このターンの間、自分の赤センターホロメンのアーツ+20。"
+			},
+			"spOshiSkill": {
+				"name": "さあ！もう一度！",
+				"text": "[ホロパワー:-1]さあ！もう一度！[ゲームに1回]自分のアーカイブの赤ホロメン1枚を手札に戻す。"
+			},
+			"officialId": 1147,
+			"officialName": "宝鐘マリン",
+			"officialImage": "/wp-content/images/cardlist/hSD09/hSD09-001_OC.png",
+			"illustrator": "松尾 省吾"
+		},
+		{
+			"set": "hsd09",
+			"setLabel": "hSD09",
+			"rarity": "RR",
+			"number": "hSD09-004",
+			"name": "宝鐘マリン",
+			"nameEn": "Houshou Marine",
+			"talents": [
+				"marine"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd09/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD09/hSD09-004_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#3期生",
+				"#絵",
+				"#海"
+			],
+			"hp": 200,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "3期生の絆　60\n自分のステージに〈宝鐘マリン〉以外の#3期生を持つホロメンがいるなら、自分のデッキを1枚引く。"
+				},
+				{
+					"text": "キミたちと水平線の向こう側へ　120\n相手のセンターホロメンとコラボホロメンに、自分のステージの異なるカード名の#3期生を持つホロメン1人につき、特殊ダメージ10を与える。"
+				}
+			],
+			"officialId": 1150,
+			"officialName": "宝鐘マリン",
+			"officialImage": "/wp-content/images/cardlist/hSD09/hSD09-004_RR.png",
+			"illustrator": "株式会社スタジオヴィガ"
+		},
+		{
+			"set": "hsd09",
+			"setLabel": "hSD09",
+			"rarity": "R",
+			"number": "hSD09-003",
+			"name": "宝鐘マリン",
+			"nameEn": "Houshou Marine",
+			"talents": [
+				"marine"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "4 点",
+			"stockCount": 4,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd09/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD09/hSD09-003_R.png",
+			"cardType": "Buzzホロメン",
+			"tags": [
+				"#JP",
+				"#3期生",
+				"#絵",
+				"#海"
+			],
+			"hp": 240,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "マリンに任せろってマジで　50"
+				}
+			],
+			"extra": "このホロメンがダウンした時、自分のライフ-2",
+			"officialId": 1149,
+			"officialName": "宝鐘マリン",
+			"officialImage": "/wp-content/images/cardlist/hSD09/hSD09-003_R.png",
+			"illustrator": "株式会社スタジオヴィガ"
+		},
+		{
+			"set": "hsd09",
+			"setLabel": "hSD09",
+			"rarity": "U",
+			"number": "hBP02-085",
+			"name": "HOLOLIVE FANTASY(パラレル/SD09)",
+			"nameEn": "HOLOLIVE FANTASY",
+			"talents": [],
+			"colors": [],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd09/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hBP02/hBP02-085_U.png",
+			"cardType": "Support・Event・LIMITED",
+			"abilityText": "This card can only be used if you have 6 or less cards in hand excluding this card.\n\nLook at the top 4 cards of your deck. Reveal any number of holomem with #Gen 3 from among them, and add the revealed holomem to hand. Then, return the remaining cards to the bottom of the deck in any order.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 385,
+			"officialName": "HOLOLIVE FANTASY",
+			"officialImage": "/wp-content/images/cardlist/hBP02/EN_hBP02-085_U.png",
+			"illustrator": "mono"
+		},
+		{
+			"set": "hsd09",
+			"setLabel": "hSD09",
+			"rarity": "U",
+			"number": "hSD09-002",
+			"name": "宝鐘マリン",
+			"nameEn": "Houshou Marine",
+			"talents": [
+				"marine"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd09/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD09/hSD09-002_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#3期生",
+				"#絵",
+				"#海",
+				"#サマー"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "船長も一緒にい・か・が？　20"
+				}
+			],
+			"officialId": 1148,
+			"officialName": "宝鐘マリン",
+			"officialImage": "/wp-content/images/cardlist/hSD09/hSD09-002_U.png",
+			"illustrator": "スライム"
+		},
+		{
+			"set": "hsd09",
+			"setLabel": "hSD09",
+			"rarity": "C",
+			"number": "hSD09-005",
+			"name": "白銀ノエル",
+			"nameEn": "Shirogane Noel",
+			"talents": [
+				"noel"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd09/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD09/hSD09-005_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#3期生",
+				"#お酒",
+				"#サマー"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "夏が来たぞー！　20"
+				}
+			],
+			"officialId": 1151,
+			"officialName": "白銀ノエル",
+			"officialImage": "/wp-content/images/cardlist/hSD09/hSD09-005_C.png",
+			"illustrator": "スライム"
+		},
+		{
+			"set": "hsd09",
+			"setLabel": "hSD09",
+			"rarity": "C",
+			"number": "hSD09-006",
+			"name": "兎田ぺこら",
+			"nameEn": "Usada Pekora",
+			"talents": [
+				"pekora"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd09/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD09/hSD09-006_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#3期生",
+				"#ケモミミ",
+				"#サマー"
+			],
+			"hp": 90,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "ご注文のかき氷ぺこ！　10"
+				}
+			],
+			"officialId": 1152,
+			"officialName": "兎田ぺこら",
+			"officialImage": "/wp-content/images/cardlist/hSD09/hSD09-006_C.png",
+			"illustrator": "スライム"
+		},
+		{
+			"set": "hsd09",
+			"setLabel": "hSD09",
+			"rarity": "C",
+			"number": "hSD09-007",
+			"name": "不知火フレア",
+			"nameEn": "Shiranui Flare",
+			"talents": [
+				"flare"
+			],
+			"colors": [
+				"yellow"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd09/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD09/hSD09-007_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#3期生",
+				"#ハーフエルフ",
+				"#サマー"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "冷たいものお待ちどうさま♪　80"
+				}
+			],
+			"officialId": 1153,
+			"officialName": "不知火フレア",
+			"officialImage": "/wp-content/images/cardlist/hSD09/hSD09-007_C.png",
+			"illustrator": "スライム"
+		}
+	]
+}

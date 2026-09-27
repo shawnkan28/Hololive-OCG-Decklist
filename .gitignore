@@ -19,6 +19,7 @@ Thumbs.db
 !.env.test
 
 *.json
+!/src/lib/data/**/*.json
 *.sqlite
 *.sqlite-*
 

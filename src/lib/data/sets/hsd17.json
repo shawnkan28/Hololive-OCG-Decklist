@@ -1,0 +1,489 @@
+{
+	"set": {
+		"code": "hsd17",
+		"label": "hSD17",
+		"name": "星街すいせい",
+		"nameEn": "Hoshimachi Suisei",
+		"color": "#3c82d8",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd17"
+	},
+	"cards": [
+		{
+			"set": "hsd17",
+			"setLabel": "hSD17",
+			"rarity": "OC",
+			"number": "hSD17-001",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-001_OC.png",
+			"cardType": "Oshi",
+			"life": 4,
+			"oshiSkill": {
+				"name": "張り切ってがんばろーー!!!",
+				"text": "[ホロパワー:-3]張り切ってがんばろーー!!![ターンに1回]自分のエールデッキの上から1枚を自分のホロメンに送る。"
+			},
+			"spOshiSkill": {
+				"name": "流れ星",
+				"text": "[ホロパワー:-2]流れ星[ゲームに1回]自分のセンターホロメンが〈星街すいせい〉なら、相手のバックホロメン1人に特殊ダメージ50を与える。"
+			},
+			"officialId": 2098,
+			"officialName": "星街すいせい",
+			"officialImage": "/wp-content/images/cardlist/hSD17/hSD17-001_OC.png",
+			"illustrator": "玲汰"
+		},
+		{
+			"set": "hsd17",
+			"setLabel": "hSD17",
+			"rarity": "RR",
+			"number": "hSD17-009",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-009_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#歌"
+			],
+			"hp": 170,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "キラキラの向こう側へ　110"
+				}
+			],
+			"officialId": 2106,
+			"officialName": "星街すいせい",
+			"officialImage": "/wp-content/images/cardlist/hSD17/hSD17-009_RR.png",
+			"illustrator": "green322"
+		},
+		{
+			"set": "hsd17",
+			"setLabel": "hSD17",
+			"rarity": "R",
+			"number": "hSD17-008",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-008_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#歌"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "あなたの一番星　40\n相手のバックホロメン1人に特殊ダメージ10を与える。"
+				}
+			],
+			"officialId": 2105,
+			"officialName": "星街すいせい",
+			"officialImage": "/wp-content/images/cardlist/hSD17/hSD17-008_R.png",
+			"illustrator": "玲汰"
+		},
+		{
+			"set": "hsd17",
+			"setLabel": "hSD17",
+			"rarity": "U",
+			"number": "hSD17-005",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-005_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#歌"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "よーし、レッスン開始だー！　20\n相手のバックホロメン1人に特殊ダメージ10を与える。"
+				}
+			],
+			"officialId": 2102,
+			"officialName": "星街すいせい",
+			"officialImage": "/wp-content/images/cardlist/hSD17/hSD17-005_U.png",
+			"illustrator": "みゃーこ"
+		},
+		{
+			"set": "hsd17",
+			"setLabel": "hSD17",
+			"rarity": "U",
+			"number": "hSD17-007",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-007_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#歌"
+			],
+			"hp": 130,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "バレンタイン……か……　30"
+				}
+			],
+			"officialId": 2104,
+			"officialName": "星街すいせい",
+			"officialImage": "/wp-content/images/cardlist/hSD17/hSD17-007_U.png",
+			"illustrator": "のずみ"
+		},
+		{
+			"set": "hsd17",
+			"setLabel": "hSD17",
+			"rarity": "C",
+			"number": "hBP01-104",
+			"name": "ふつうのパソコン(パラレル/hSD17 星街すいせい)",
+			"nameEn": "Regular PC",
+			"talents": [],
+			"colors": [],
+			"price": "500 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 500,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10011",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hBP01-104_05_C.png",
+			"cardType": "Support・Item",
+			"abilityText": "Reveal 1 Debut holomem from your deck, and place it on Stage. Then, shuffle the deck.",
+			"officialId": 18,
+			"officialName": "Normal PC",
+			"officialImage": "/wp-content/images/cardlist/COMMON/EN_hBP01-104_C.png",
+			"illustrator": "JinArt KABAKURA"
+		},
+		{
+			"set": "hsd17",
+			"setLabel": "hSD17",
+			"rarity": "C",
+			"number": "hSD17-002",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-002_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#歌"
+			],
+			"hp": 80,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "バーチャルアイドル・星街すいせい　20"
+				}
+			],
+			"officialId": 2099,
+			"officialName": "星街すいせい",
+			"officialImage": "/wp-content/images/cardlist/hSD17/hSD17-002_C.png",
+			"illustrator": "七海喜つゆり"
+		},
+		{
+			"set": "hsd17",
+			"setLabel": "hSD17",
+			"rarity": "C",
+			"number": "hSD17-003",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-003_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#歌"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "今日もあなたのそばに -すいせい-　30"
+				}
+			],
+			"officialId": 2100,
+			"officialName": "星街すいせい",
+			"officialImage": "/wp-content/images/cardlist/hSD17/hSD17-003_C.png"
+		},
+		{
+			"set": "hsd17",
+			"setLabel": "hSD17",
+			"rarity": "C",
+			"number": "hSD17-004",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-004_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#歌"
+			],
+			"hp": 80,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "私だけの輝き　20"
+				}
+			],
+			"officialId": 2101,
+			"officialName": "星街すいせい",
+			"officialImage": "/wp-content/images/cardlist/hSD17/hSD17-004_C.png",
+			"illustrator": "ぶし"
+		},
+		{
+			"set": "hsd17",
+			"setLabel": "hSD17",
+			"rarity": "C",
+			"number": "hSD17-006",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"talents": [
+				"suisei"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-006_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#歌"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "そろそろ始まるよ！　30"
+				},
+				{
+					"text": "みんな準備はできてる？　50"
+				}
+			],
+			"officialId": 2103,
+			"officialName": "星街すいせい",
+			"officialImage": "/wp-content/images/cardlist/hSD17/hSD17-006_C.png",
+			"illustrator": "まるえり"
+		},
+		{
+			"set": "hsd17",
+			"setLabel": "hSD17",
+			"rarity": "C",
+			"number": "hSD17-010",
+			"name": "ステラ",
+			"nameEn": "Stella",
+			"talents": [],
+			"colors": [],
+			"price": "420 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 420,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd17/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD17/hSD17-010_C.png",
+			"cardType": "Support・Event",
+			"abilityText": "相手のDebut以外のバックホロメン1人に特殊ダメージ20を与える。自分の〈ステラ〉はターンに1回しか使えない。",
+			"officialId": 2107,
+			"officialName": "ステラ",
+			"officialImage": "/wp-content/images/cardlist/hSD17/hSD17-010_C.png",
+			"illustrator": "みゃーこ"
+		}
+	]
+}

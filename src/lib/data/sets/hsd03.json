@@ -1,0 +1,623 @@
+{
+	"set": {
+		"code": "hsd03",
+		"label": "hSD03",
+		"name": "猫又おかゆ",
+		"nameEn": "Nekomata Okayu",
+		"color": "#3c82d8",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd03"
+	},
+	"cards": [
+		{
+			"set": "hsd03",
+			"setLabel": "hSD03",
+			"rarity": "OC",
+			"number": "hSD03-001",
+			"name": "猫又おかゆ",
+			"nameEn": "Nekomata Okayu",
+			"talents": [
+				"okayu"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-001_OC.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Blue Microphone",
+				"text": "[holo Power：-2]Blue Microphone[1/Turn]During this turn, your blue center holomem gets Arts+20."
+			},
+			"spOshiSkill": {
+				"name": "Strike Back",
+				"text": "[holo Power：-1]Strike Back[1/Game]Usable when your holomem deals damage to your opponent's back holomem:Deal 50 special damage to 1 of that opponent's back holomem."
+			},
+			"officialId": 530,
+			"officialName": "Nekomata Okayu",
+			"officialImage": "/wp-content/images/cardlist/hSD03/EN_hSD03-001_OC.png",
+			"illustrator": "松尾 省吾"
+		},
+		{
+			"set": "hsd03",
+			"setLabel": "hSD03",
+			"rarity": "RR",
+			"number": "hSD03-009",
+			"name": "猫又おかゆ",
+			"nameEn": "Nekomata Okayu",
+			"talents": [
+				"okayu"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-009_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#GAMERS",
+				"#Kemomimi"
+			],
+			"hp": 190,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "NOM NOM　60"
+				},
+				{
+					"text": "Okayu~　100\nYou may archive 2 blue cheers from this holomem:Deal 30 special damage to your opponent's center holomem and 1 of their back holomem."
+				}
+			],
+			"officialId": 538,
+			"officialName": "Nekomata Okayu",
+			"officialImage": "/wp-content/images/cardlist/hSD03/EN_hSD03-009_RR.png",
+			"illustrator": "江田藤"
+		},
+		{
+			"set": "hsd03",
+			"setLabel": "hSD03",
+			"rarity": "R",
+			"number": "hSD03-008",
+			"name": "猫又おかゆ",
+			"nameEn": "Nekomata Okayu",
+			"talents": [
+				"okayu"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "3 点",
+			"stockCount": 3,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-008_R.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#JP",
+				"#GAMERS",
+				"#Kemomimi"
+			],
+			"hp": 240,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "The Greatest Nekomata Okayu~　60"
+				}
+			],
+			"extra": "If this holomem is downed, you get life-2",
+			"officialId": 537,
+			"officialName": "Nekomata Okayu",
+			"officialImage": "/wp-content/images/cardlist/hSD03/EN_hSD03-008_R.png",
+			"illustrator": "ぴ助"
+		},
+		{
+			"set": "hsd03",
+			"setLabel": "hSD03",
+			"rarity": "U",
+			"number": "hSD03-004",
+			"name": "猫又おかゆ",
+			"nameEn": "Nekomata Okayu",
+			"talents": [
+				"okayu"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-004_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#GAMERS",
+				"#Kemomimi"
+			],
+			"hp": 80,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Cat Student　20"
+				}
+			],
+			"officialId": 533,
+			"officialName": "Nekomata Okayu",
+			"officialImage": "/wp-content/images/cardlist/hSD03/EN_hSD03-004_U.png",
+			"illustrator": "神岡ちろる"
+		},
+		{
+			"set": "hsd03",
+			"setLabel": "hSD03",
+			"rarity": "U",
+			"number": "hSD03-007",
+			"name": "猫又おかゆ",
+			"nameEn": "Nekomata Okayu",
+			"talents": [
+				"okayu"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-007_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#GAMERS",
+				"#Kemomimi"
+			],
+			"hp": 110,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Singing with My Whole Heart　20"
+				}
+			],
+			"officialId": 536,
+			"officialName": "Nekomata Okayu",
+			"officialImage": "/wp-content/images/cardlist/hSD03/EN_hSD03-007_U.png"
+		},
+		{
+			"set": "hsd03",
+			"setLabel": "hSD03",
+			"rarity": "U",
+			"number": "hSD03-010",
+			"name": "戌神ころね",
+			"nameEn": "Inugami Korone",
+			"talents": [
+				"korone"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-010_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#GAMERS",
+				"#Kemomimi"
+			],
+			"hp": 70,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Ere ya Go~　30"
+				}
+			],
+			"extra": "This holomem cannot bloom",
+			"officialId": 539,
+			"officialName": "Inugami Korone",
+			"officialImage": "/wp-content/images/cardlist/hSD03/EN_hSD03-010_U.png"
+		},
+		{
+			"set": "hsd03",
+			"setLabel": "hSD03",
+			"rarity": "U",
+			"number": "hSD03-011",
+			"name": "ラプラス・ダークネス",
+			"nameEn": "La+ Darknesss",
+			"talents": [
+				"laplus"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10011",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-011_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX",
+				"#Shooter"
+			],
+			"hp": 60,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Dorobo Construction's Minister of Agriculture　10"
+				},
+				{
+					"text": "I'll Definitely Make You Eat It　20\nIf your hand has 2 or less cards, draw cards until your hand has 3 cards."
+				}
+			],
+			"extra": "This holomem cannot bloom",
+			"officialId": 540,
+			"officialName": "La+ Darknesss",
+			"officialImage": "/wp-content/images/cardlist/hSD03/EN_hSD03-011_U.png"
+		},
+		{
+			"set": "hsd03",
+			"setLabel": "hSD03",
+			"rarity": "U",
+			"number": "hSD03-012",
+			"name": "泥棒建設",
+			"nameEn": "Dorobo Construction",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10012",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-012_U.png",
+			"cardType": "Support・Event・LIMITED",
+			"abilityText": "This card can only be used if you have 6 or less cards in hand excluding this card.\n\nLook at the top 4 cards of your deck. Reveal any number of 〈Nekomata Okayu〉, 〈Takane Lui〉, 〈Ookami Mio〉, 〈Shirakami Fubuki〉, 〈La+ Darknesss〉 and 〈Inugami Korone〉 from among them, and add the revealed holomem to hand. Then, return the remaining cards to the bottom of the deck in any order.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 541,
+			"officialName": "Dorobo Construction",
+			"officialImage": "/wp-content/images/cardlist/hSD03/EN_hSD03-012_U.png",
+			"illustrator": "ぴ助"
+		},
+		{
+			"set": "hsd03",
+			"setLabel": "hSD03",
+			"rarity": "C",
+			"number": "hSD03-002",
+			"name": "猫又おかゆ",
+			"nameEn": "Nekomata Okayu",
+			"talents": [
+				"okayu"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-002_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#GAMERS",
+				"#Kemomimi"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Nom Nom Okayu~　30"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 531,
+			"officialName": "Nekomata Okayu",
+			"officialImage": "/wp-content/images/cardlist/hSD03/EN_hSD03-002_C.png"
+		},
+		{
+			"set": "hsd03",
+			"setLabel": "hSD03",
+			"rarity": "C",
+			"number": "hSD03-003",
+			"name": "猫又おかゆ",
+			"nameEn": "Nekomata Okayu",
+			"talents": [
+				"okayu"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-003_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#GAMERS",
+				"#Kemomimi"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Please Allow me Into Your Home　10"
+				}
+			],
+			"officialId": 532,
+			"officialName": "Nekomata Okayu",
+			"officialImage": "/wp-content/images/cardlist/hSD03/EN_hSD03-003_C.png",
+			"illustrator": "神岡ちろる"
+		},
+		{
+			"set": "hsd03",
+			"setLabel": "hSD03",
+			"rarity": "C",
+			"number": "hSD03-005",
+			"name": "猫又おかゆ",
+			"nameEn": "Nekomata Okayu",
+			"talents": [
+				"okayu"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-005_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#GAMERS",
+				"#Kemomimi"
+			],
+			"hp": 170,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Gimme a Hug♡　30"
+				},
+				{
+					"text": "Hehehe, a Little Prank　50"
+				}
+			],
+			"officialId": 534,
+			"officialName": "Nekomata Okayu",
+			"officialImage": "/wp-content/images/cardlist/hSD03/EN_hSD03-005_C.png",
+			"illustrator": "神岡ちろる"
+		},
+		{
+			"set": "hsd03",
+			"setLabel": "hSD03",
+			"rarity": "C",
+			"number": "hSD03-006",
+			"name": "猫又おかゆ",
+			"nameEn": "Nekomata Okayu",
+			"talents": [
+				"okayu"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "6 点",
+			"stockCount": 6,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-006_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#GAMERS",
+				"#Kemomimi",
+				"#Singing"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "The Cat That Swallowed the Canary　30"
+				},
+				{
+					"text": "Shaaa　40\nYou may archive 1 blue cheer from this holomem:Deal 10 special damage to your opponent's center holomem and 1 of their back holomem."
+				}
+			],
+			"officialId": 535,
+			"officialName": "Nekomata Okayu",
+			"officialImage": "/wp-content/images/cardlist/hSD03/EN_hSD03-006_C.png",
+			"illustrator": "相音光"
+		},
+		{
+			"set": "hsd03",
+			"setLabel": "hSD03",
+			"rarity": "C",
+			"number": "hSD03-013",
+			"name": "おかにゃん",
+			"nameEn": "Oka-nyan",
+			"talents": [],
+			"colors": [],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "10 点",
+			"stockCount": 10,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10013",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-013_C.png",
+			"cardType": "Support・Mascot",
+			"abilityText": "The holomem this mascot is attached to in the center position or collab position takes -10 damage.\n\n◆Additional ability if attached to 〈Nekomata Okayu〉\n\nIf the ability of the holomem this mascot is attached to would archive a cheer, you may archive this mascot instead of archiving a blue cheer.\n\nOnly 1 mascot can be attached to each of your holomem.",
+			"officialId": 542,
+			"officialName": "Oka-nyan",
+			"officialImage": "/wp-content/images/cardlist/hSD03/EN_hSD03-013_C.png",
+			"illustrator": "JinArt こばやかわやまと"
+		},
+		{
+			"set": "hsd03",
+			"setLabel": "hSD03",
+			"rarity": "C",
+			"number": "hSD03-014",
+			"name": "おにぎりゃー",
+			"nameEn": "Onigiryaa",
+			"talents": [],
+			"colors": [],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd03/10014",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD03/hSD03-014_C.png",
+			"cardType": "Support・Fan",
+			"abilityText": "The holomem this fan is attached to gets +10 HP.\n\nYou may only attach this fan to your 〈Nekomata Okayu〉, and you may attach any number of this fan per holomem.",
+			"officialId": 543,
+			"officialName": "Onigiryaa",
+			"officialImage": "/wp-content/images/cardlist/hSD03/EN_hSD03-014_C.png",
+			"illustrator": "JinArt こばやかわやまと"
+		}
+	]
+}

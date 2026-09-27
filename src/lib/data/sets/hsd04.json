@@ -1,0 +1,614 @@
+{
+	"set": {
+		"code": "hsd04",
+		"label": "hSD04",
+		"name": "癒月ちょこ",
+		"nameEn": "Yuzuki Choco",
+		"color": "#9257c4",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd04"
+	},
+	"cards": [
+		{
+			"set": "hsd04",
+			"setLabel": "hSD04",
+			"rarity": "OC",
+			"number": "hSD04-001",
+			"name": "癒月ちょこ",
+			"nameEn": "Yuzuki Choco",
+			"talents": [
+				"choco"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-001_OC.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Purple Microphone",
+				"text": "[holo Power：-2]Purple Microphone[1/Turn]During this turn, your purple center holomem gets Arts+20."
+			},
+			"spOshiSkill": {
+				"name": "Card Change",
+				"text": "[holo Power：-1]Card Change[1/Game]Draw 2 cards, and archive 1 card from hand."
+			},
+			"officialId": 544,
+			"officialName": "Yuzuki Choco",
+			"officialImage": "/wp-content/images/cardlist/hSD04/EN_hSD04-001_OC.png",
+			"illustrator": "松尾 省吾"
+		},
+		{
+			"set": "hsd04",
+			"setLabel": "hSD04",
+			"rarity": "RR",
+			"number": "hSD04-009",
+			"name": "癒月ちょこ",
+			"nameEn": "Yuzuki Choco",
+			"talents": [
+				"choco"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "10 点",
+			"stockCount": 10,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-009_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Cooking"
+			],
+			"hp": 190,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "33… 22… 11…　50"
+				},
+				{
+					"text": "Act-　60+\nThis Arts gets +40 for each event you used this turn."
+				}
+			],
+			"officialId": 552,
+			"officialName": "Yuzuki Choco",
+			"officialImage": "/wp-content/images/cardlist/hSD04/EN_hSD04-009_RR.png",
+			"illustrator": "saihate"
+		},
+		{
+			"set": "hsd04",
+			"setLabel": "hSD04",
+			"rarity": "R",
+			"number": "hSD04-008",
+			"name": "癒月ちょこ",
+			"nameEn": "Yuzuki Choco",
+			"talents": [
+				"choco"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "×",
+			"stockCount": 0,
+			"inStock": false,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-008_R.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Cooking"
+			],
+			"hp": 230,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "I Worked Hard to Make This　40"
+				},
+				{
+					"text": "Bon Appétit　60+\nYou may return 1 event with #Food from your archive to hand:This Arts gets +20."
+				}
+			],
+			"extra": "If this holomem is downed, you get life-2",
+			"officialId": 551,
+			"officialName": "Yuzuki Choco",
+			"officialImage": "/wp-content/images/cardlist/hSD04/EN_hSD04-008_R.png",
+			"illustrator": "いちかわはる"
+		},
+		{
+			"set": "hsd04",
+			"setLabel": "hSD04",
+			"rarity": "U",
+			"number": "hSD04-004",
+			"name": "癒月ちょこ",
+			"nameEn": "Yuzuki Choco",
+			"talents": [
+				"choco"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-004_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Cooking"
+			],
+			"hp": 60,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Eat a Lot, Okay♡　20"
+				}
+			],
+			"officialId": 547,
+			"officialName": "Yuzuki Choco",
+			"officialImage": "/wp-content/images/cardlist/hSD04/EN_hSD04-004_U.png",
+			"illustrator": "とぴあ"
+		},
+		{
+			"set": "hsd04",
+			"setLabel": "hSD04",
+			"rarity": "U",
+			"number": "hSD04-007",
+			"name": "癒月ちょこ",
+			"nameEn": "Yuzuki Choco",
+			"talents": [
+				"choco"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "6 点",
+			"stockCount": 6,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-007_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Cooking"
+			],
+			"hp": 110,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "I Love You! Mwah♡　30\nRestore 20 HP to 1 of your back holomem."
+				}
+			],
+			"officialId": 550,
+			"officialName": "Yuzuki Choco",
+			"officialImage": "/wp-content/images/cardlist/hSD04/EN_hSD04-007_U.png"
+		},
+		{
+			"set": "hsd04",
+			"setLabel": "hSD04",
+			"rarity": "U",
+			"number": "hSD04-010",
+			"name": "大空スバル",
+			"nameEn": "Oozora Subaru",
+			"talents": [
+				"subaru"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-010_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2"
+			],
+			"hp": 60,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "I'll Make You Draw the Hell Lottery　20"
+				}
+			],
+			"extra": "This holomem cannot bloom",
+			"officialId": 553,
+			"officialName": "Oozora Subaru",
+			"officialImage": "/wp-content/images/cardlist/hSD04/EN_hSD04-010_U.png"
+		},
+		{
+			"set": "hsd04",
+			"setLabel": "hSD04",
+			"rarity": "U",
+			"number": "hSD04-011",
+			"name": "姫森ルーナ",
+			"nameEn": "Himemori Luna",
+			"talents": [
+				"luna"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10011",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-011_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 4"
+			],
+			"hp": 60,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Nna~~~~~~~~　10"
+				}
+			],
+			"extra": "This holomem cannot bloom",
+			"officialId": 554,
+			"officialName": "Himemori Luna",
+			"officialImage": "/wp-content/images/cardlist/hSD04/EN_hSD04-011_U.png"
+		},
+		{
+			"set": "hsd04",
+			"setLabel": "hSD04",
+			"rarity": "U",
+			"number": "hSD04-012",
+			"name": "スバちょこルーナ",
+			"nameEn": "SubaChocoLuna",
+			"talents": [],
+			"colors": [],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10012",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-012_U.png",
+			"cardType": "Support・Event・LIMITED",
+			"abilityText": "This card can only be used if you have 6 or less cards in hand excluding this card.\n\nLook at the top 4 cards of your deck. Reveal any number of 〈Oozora Subaru〉, 〈Yuzuki Choco〉 and 〈Himemori Luna〉 from among them, and add the revealed holomem to hand. Then, return the remaining cards to the bottom of the deck in any order.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 555,
+			"officialName": "SubaChocoLuna",
+			"officialImage": "/wp-content/images/cardlist/hSD04/EN_hSD04-012_U.png",
+			"illustrator": "ガゥ"
+		},
+		{
+			"set": "hsd04",
+			"setLabel": "hSD04",
+			"rarity": "C",
+			"number": "hSD04-002",
+			"name": "癒月ちょこ",
+			"nameEn": "Yuzuki Choco",
+			"talents": [
+				"choco"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-002_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Cooking"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Nurse of the Underworld　30"
+				}
+			],
+			"extra": "You may include any number of this holomem in the deck",
+			"officialId": 545,
+			"officialName": "Yuzuki Choco",
+			"officialImage": "/wp-content/images/cardlist/hSD04/EN_hSD04-002_C.png"
+		},
+		{
+			"set": "hsd04",
+			"setLabel": "hSD04",
+			"rarity": "C",
+			"number": "hSD04-003",
+			"name": "癒月ちょこ",
+			"nameEn": "Yuzuki Choco",
+			"talents": [
+				"choco"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-003_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Cooking"
+			],
+			"hp": 60,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "My Cute Students~　30"
+				}
+			],
+			"officialId": 546,
+			"officialName": "Yuzuki Choco",
+			"officialImage": "/wp-content/images/cardlist/hSD04/EN_hSD04-003_C.png",
+			"illustrator": "さとうぽて"
+		},
+		{
+			"set": "hsd04",
+			"setLabel": "hSD04",
+			"rarity": "C",
+			"number": "hSD04-005",
+			"name": "癒月ちょこ",
+			"nameEn": "Yuzuki Choco",
+			"talents": [
+				"choco"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-005_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Cooking"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"arts": [
+				{
+					"text": "Good Workolate……　20"
+				},
+				{
+					"text": "Nom~ (Mwah)　40"
+				}
+			],
+			"officialId": 548,
+			"officialName": "Yuzuki Choco",
+			"officialImage": "/wp-content/images/cardlist/hSD04/EN_hSD04-005_C.png",
+			"illustrator": "桝石きのと"
+		},
+		{
+			"set": "hsd04",
+			"setLabel": "hSD04",
+			"rarity": "C",
+			"number": "hSD04-006",
+			"name": "癒月ちょこ",
+			"nameEn": "Yuzuki Choco",
+			"talents": [
+				"choco"
+			],
+			"colors": [
+				"purple"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-006_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 2",
+				"#Cooking"
+			],
+			"hp": 130,
+			"bloomLevel": "1st",
+			"arts": [
+				{
+					"text": "Forbidden Kiss　30\nWhen this Arts deals damage to your opponent's holomem, restore 10 HP to this holomem for every 10 damage dealt."
+				}
+			],
+			"officialId": 549,
+			"officialName": "Yuzuki Choco",
+			"officialImage": "/wp-content/images/cardlist/hSD04/EN_hSD04-006_C.png",
+			"illustrator": "Nardack"
+		},
+		{
+			"set": "hsd04",
+			"setLabel": "hSD04",
+			"rarity": "C",
+			"number": "hSD04-013",
+			"name": "ちょこのオムライス",
+			"nameEn": "Choco's Omurice",
+			"talents": [],
+			"colors": [],
+			"price": "280 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10013",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-013_C.png",
+			"cardType": "Support・Event",
+			"tags": [
+				"#Food"
+			],
+			"abilityText": "Choose 1 of your holomem. Restore 20 HP to the chosen holomem. Then, if your stage has a holomem with #Cooking, during this turn, the chosen holomem gets Arts+20.",
+			"officialId": 556,
+			"officialName": "Choco's Omurice",
+			"officialImage": "/wp-content/images/cardlist/hSD04/EN_hSD04-013_C.png",
+			"illustrator": "JinArt こばやかわやまと"
+		},
+		{
+			"set": "hsd04",
+			"setLabel": "hSD04",
+			"rarity": "C",
+			"number": "hSD04-014",
+			"name": "しょこら",
+			"nameEn": "Chocolat",
+			"talents": [],
+			"colors": [],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd04/10014",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD04/hSD04-014_C.png",
+			"cardType": "Support・Mascot",
+			"abilityText": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to 〈Yuzuki Choco〉\n\nWhen the holomem this mascot is attached to blooms, restore 20 HP to this holomem.\n\nOnly 1 mascot can be attached to each of your holomem.",
+			"officialId": 557,
+			"officialName": "Chocolat",
+			"officialImage": "/wp-content/images/cardlist/hSD04/EN_hSD04-014_C.png",
+			"illustrator": "はずき"
+		}
+	]
+}

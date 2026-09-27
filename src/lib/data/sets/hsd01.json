@@ -1,0 +1,887 @@
+{
+	"set": {
+		"code": "hsd01",
+		"label": "hSD01",
+		"name": "ときのそら＆AZKi",
+		"nameEn": "Tokino Sora & AZKi",
+		"color": "#c9bc9c",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd01"
+	},
+	"cards": [
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "OSR",
+			"number": "hSD01-001",
+			"name": "ときのそら",
+			"nameEn": "Tokino Sora",
+			"talents": [
+				"sora"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-001_OSR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "Replacement",
+				"text": "[holo Power：-1]Replacement[1/Turn]Reattach 1 cheer from your stage to 1 of your holomem."
+			},
+			"spOshiSkill": {
+				"name": "So, that Makes You My Enemy?",
+				"text": "[holo Power：-2]So, that Makes You My Enemy?[1/Game]Swap your opponent's center holomem with 1 back holomem. During this turn, your white center holomem gets Arts+50."
+			},
+			"officialId": 1,
+			"officialName": "Tokino Sora",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-001_OSR.png",
+			"illustrator": "でいりー"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "OSR",
+			"number": "hSD01-002",
+			"name": "AZKi",
+			"nameEn": "AZKi",
+			"talents": [
+				"azki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-002_OSR.png",
+			"cardType": "Oshi",
+			"life": 6,
+			"oshiSkill": {
+				"name": "A Map in My Left Hand",
+				"text": "[holo Power：-3]A Map in My Left Hand[1/Turn]Usable if your holomem's ability would roll a die：Declare 1 of the face numbers of the die, and regard the next result as the declared number."
+			},
+			"spOshiSkill": {
+				"name": "A Mic in My Right Hand",
+				"text": "[holo Power：-3]A Mic in My Right Hand[1/Game]Send any number of cheers from your archive to 1 of your green holomem."
+			},
+			"officialId": 2,
+			"officialName": "AZKi",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-002_OSR_02.png",
+			"illustrator": "Hachi"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "RR",
+			"number": "hSD01-006",
+			"name": "ときのそら",
+			"nameEn": "Tokino Sora",
+			"talents": [
+				"sora"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-006_RR.png",
+			"cardType": "Buzz holomem",
+			"tags": [
+				"#JP",
+				"#Gen 0",
+				"#Singing"
+			],
+			"hp": 240,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Dream Live　50"
+				},
+				{
+					"text": "SorAZ Sympathy　60+\nIf an  holomem is on your stage, Arts +50."
+				}
+			],
+			"extra": "If this holomem is downed, you get Life-2",
+			"officialId": 6,
+			"officialName": "Tokino Sora",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-006_RR.png",
+			"illustrator": "I☆LA"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "RR",
+			"number": "hSD01-011",
+			"name": "AZKi",
+			"nameEn": "AZKi",
+			"talents": [
+				"azki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10011",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-011_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 0",
+				"#Singing"
+			],
+			"hp": 190,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "SorAZ Gravity　60\nIf a 〈Tokino Sora〉 holomem is on your stage, send the top card of your cheer deck to your holomem."
+				},
+				{
+					"text": "Destiny Song　100+\nYou may roll a die once：If it is odd, this Arts gets +50. Then, if it is 1, this Arts gets +50."
+				}
+			],
+			"officialId": 11,
+			"officialName": "AZKi",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-011_RR_02.png",
+			"illustrator": "I☆LA"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "R",
+			"number": "hSD01-004",
+			"name": "ときのそら",
+			"nameEn": "Tokino Sora",
+			"talents": [
+				"sora"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "5 点",
+			"stockCount": 5,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-004_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 0",
+				"#Singing"
+			],
+			"hp": 50,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "On Stage!　20"
+				}
+			],
+			"officialId": 4,
+			"officialName": "Tokino Sora",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-004_R.png",
+			"illustrator": "りんけてん"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "R",
+			"number": "hSD01-009",
+			"name": "AZKi",
+			"nameEn": "AZKi",
+			"talents": [
+				"azki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "320 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 320,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-009_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 0",
+				"#Singing"
+			],
+			"hp": 60,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "And then and then　10"
+				}
+			],
+			"officialId": 9,
+			"officialName": "AZKi",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-009_R_02.png",
+			"illustrator": "ヒノ"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "R",
+			"number": "hSD01-013",
+			"name": "SorAZ",
+			"nameEn": "SorAZ",
+			"talents": [],
+			"colors": [
+				"white",
+				"green"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10013",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-013_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 0",
+				"#Singing"
+			],
+			"hp": 130,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "A Future I Want to Surpass　50\nYou may roll a die once：If it is odd, send the top card of your cheer deck to this holomem. If it is even, draw 1 card from your deck."
+				}
+			],
+			"extra": "This holomem is also regarded as 〈Tokino Sora〉〈AZKi〉",
+			"officialId": 13,
+			"officialName": "SorAZ",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-013_R_02.png",
+			"illustrator": "© 2023 Victor Entertainment."
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "U",
+			"number": "hSD01-005",
+			"name": "ときのそら",
+			"nameEn": "Tokino Sora",
+			"talents": [
+				"sora"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "9 点",
+			"stockCount": 9,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-005_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 0",
+				"#Singing"
+			],
+			"hp": 150,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Noon Noon Together!　30"
+				},
+				{
+					"text": "Your Heart… Will Turn from Cloudy to Sunny!　50"
+				}
+			],
+			"officialId": 5,
+			"officialName": "Tokino Sora",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-005_U.png",
+			"illustrator": "おるだん"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "U",
+			"number": "hSD01-010",
+			"name": "AZKi",
+			"nameEn": "AZKi",
+			"talents": [
+				"azki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-010_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 0",
+				"#Singing"
+			],
+			"hp": 160,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "A Journey with No Destination with You　50"
+				}
+			],
+			"officialId": 10,
+			"officialName": "AZKi",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-010_U.png",
+			"illustrator": "松うに"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "U",
+			"number": "hSD01-014",
+			"name": "天音かなた",
+			"nameEn": "Amane Kanata",
+			"talents": [
+				"kanata"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "7 点",
+			"stockCount": 7,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10014",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-014_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#Gen 4",
+				"#Singing"
+			],
+			"hp": 150,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Hey　30"
+				}
+			],
+			"extra": "This holomem cannot Bloom",
+			"officialId": 14,
+			"officialName": "Amane Kanata",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-014_U.png"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "U",
+			"number": "hSD01-015",
+			"name": "博衣こより",
+			"nameEn": "Hakui Koyori",
+			"talents": [
+				"koyori"
+			],
+			"colors": [
+				"colorless"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10015",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-015_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#holoX",
+				"#Kemomimi"
+			],
+			"hp": 50,
+			"bloomLevel": "Spot",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Pure Pure Pure~　10"
+				}
+			],
+			"extra": "This holomem cannot Bloom",
+			"officialId": 15,
+			"officialName": "Hakui Koyori",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-015_U.png"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "C",
+			"number": "hSD01-003",
+			"name": "ときのそら",
+			"nameEn": "Tokino Sora",
+			"talents": [
+				"sora"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-003_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#歌"
+			],
+			"hp": 60,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "(๑╹ᆺ╹)ぬんぬん　30"
+				}
+			],
+			"officialId": 3,
+			"officialName": "ときのそら",
+			"officialImage": "/wp-content/images/cardlist/hSD01/hSD01-003_C.png",
+			"illustrator": "はこに"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "C",
+			"number": "hSD01-007",
+			"name": "IRyS",
+			"nameEn": "IRyS",
+			"talents": [
+				"irys"
+			],
+			"colors": [
+				"white"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-007_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#EN",
+				"#Promise",
+				"#Singing"
+			],
+			"hp": 50,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Embodiment of Hope　20"
+				}
+			],
+			"officialId": 7,
+			"officialName": "IRyS",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-007_C.png"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "C",
+			"number": "hSD01-008",
+			"name": "AZKi",
+			"nameEn": "AZKi",
+			"talents": [
+				"azki"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-008_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#歌"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "がんばれてえらい！　20"
+				}
+			],
+			"officialId": 8,
+			"officialName": "AZKi",
+			"officialImage": "/wp-content/images/cardlist/hSD01/hSD01-008_C.png",
+			"illustrator": "はこに"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "C",
+			"number": "hSD01-012",
+			"name": "アイラニ・イオフィフティーン",
+			"nameEn": "Airani Iofifteen",
+			"talents": [
+				"iofi"
+			],
+			"colors": [
+				"green"
+			],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "8 点",
+			"stockCount": 8,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10012",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-012_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#ID",
+				"#ID Gen 1",
+				"#Painting"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "Drawing is so fun!　20"
+				}
+			],
+			"officialId": 12,
+			"officialName": "Airani Iofifteen",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-012_C.png"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "C",
+			"number": "hSD01-016",
+			"name": "春先のどか",
+			"nameEn": "Harusaki Nodoka",
+			"talents": [],
+			"colors": [],
+			"price": "180 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 180,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10016",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-016_C.png",
+			"cardType": "Support・Staff・LIMITED",
+			"abilityText": "Draw 3 cards from your deck.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 16,
+			"officialName": "Harusaki Nodoka",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-016_C.png",
+			"illustrator": "Yoshimo"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "C",
+			"number": "hSD01-017",
+			"name": "マネちゃん",
+			"nameEn": "Manager-chan",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10017",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-017_C.png",
+			"cardType": "Support・Staff・LIMITED",
+			"abilityText": "This card can only be used if you have 1 or more cards in hand excluding this card.\n\nReturn all of the cards in your hand to the deck and shuffle it. Then, draw 5 cards from your deck.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 17,
+			"officialName": "Manager-chan",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-017_C.png",
+			"illustrator": "株式会社HIKE / Trigono"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "C",
+			"number": "hSD01-018",
+			"name": "サブパソコン",
+			"nameEn": "Sub PC",
+			"talents": [],
+			"colors": [],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10018",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-018_C.png",
+			"cardType": "Support・Item",
+			"abilityText": "Look at the top 5 cards of your deck. Reveal 1 LIMITED support card from among them, and add it to your hand. Return the remaining cards to the bottom of your deck in any order.",
+			"officialId": 19,
+			"officialName": "Sub PC",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-018_C.png",
+			"illustrator": "JinArt こばやかわやまと"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "C",
+			"number": "hSD01-019",
+			"name": "スゴイパソコン",
+			"nameEn": "Amazing PC",
+			"talents": [],
+			"colors": [],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10019",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-019_C.png",
+			"cardType": "Support・Item・LIMITED",
+			"abilityText": "This card can only be used if you archive 1 cheer from your stage.\n\nReveal 1 [1st holomem or 2nd holomem] other than Buzz from your deck, and add it to hand. Then, shuffle the deck.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 20,
+			"officialName": "Amazing PC",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-019_C.png",
+			"illustrator": "JinArt KABAKURA"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "C",
+			"number": "hSD01-020",
+			"name": "ホロリスの輪",
+			"nameEn": "Circle of hololive Listeners",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10020",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-020_C.png",
+			"cardType": "Support・Event",
+			"abilityText": "Roll a die once：If it is 3 or greater, send 1 cheer from your archive to your holomem.",
+			"officialId": 21,
+			"officialName": "Circle of hololive Listeners",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-020_C_02.png",
+			"illustrator": "JinArt KABAKURA"
+		},
+		{
+			"set": "hsd01",
+			"setLabel": "hSD01",
+			"rarity": "C",
+			"number": "hSD01-021",
+			"name": "First Gravity",
+			"nameEn": "First Gravity",
+			"talents": [],
+			"colors": [],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd01/10021",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD01/hSD01-021_C.png",
+			"cardType": "Support・Event・LIMITED",
+			"abilityText": "This card can only be used if you have 6 or less cards in hand excluding this card.\n\nLook at the top 4 cards of your deck. Reveal any number of 〈Tokino Sora〉 and/or 〈AZKi〉 from among them, and put the revealed holomem into hand. Then, return the rest to the bottom of the deck in any order.\n\nLIMITED：Usable only 1 per turn.",
+			"officialId": 22,
+			"officialName": "First Gravity",
+			"officialImage": "/wp-content/images/cardlist/hSD01/EN_hSD01-021_C.png",
+			"illustrator": "© 2023 Victor Entertainment. © 2016 COVER Corp."
+		}
+	]
+}

@@ -1,0 +1,460 @@
+{
+	"set": {
+		"code": "hsd16",
+		"label": "hSD16",
+		"name": "さくらみこ",
+		"nameEn": "Sakura Miko",
+		"color": "#e23d3d",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd16"
+	},
+	"cards": [
+		{
+			"set": "hsd16",
+			"setLabel": "hSD16",
+			"rarity": "OC",
+			"number": "hSD16-001",
+			"name": "さくらみこ",
+			"nameEn": "Sakura Miko",
+			"talents": [
+				"miko"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "80 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 80,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "1 点",
+			"stockCount": 1,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-001_OC.png",
+			"cardType": "Oshi",
+			"life": 4,
+			"oshiSkill": {
+				"name": "35Pこっちこっちー",
+				"text": "[ホロパワー:-2]35Pこっちこっちー[ターンに1回]自分の〈35P〉が付いているホロメンがいるなら、自分のデッキを1枚引く。"
+			},
+			"spOshiSkill": {
+				"name": "35Pいくぞー！",
+				"text": "[ホロパワー:-2]35Pいくぞー！[ゲームに1回]自分のファンが付いている〈さくらみこ〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+50。"
+			},
+			"officialId": 2088,
+			"officialName": "さくらみこ",
+			"officialImage": "/wp-content/images/cardlist/hSD16/hSD16-001_OC.png",
+			"illustrator": "古弥月"
+		},
+		{
+			"set": "hsd16",
+			"setLabel": "hSD16",
+			"rarity": "RR",
+			"number": "hSD16-009",
+			"name": "さくらみこ",
+			"nameEn": "Sakura Miko",
+			"talents": [
+				"miko"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-009_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#ベイビー"
+			],
+			"hp": 170,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "この瞬間を見せてあげたいなって　100"
+				}
+			],
+			"officialId": 2096,
+			"officialName": "さくらみこ",
+			"officialImage": "/wp-content/images/cardlist/hSD16/hSD16-009_RR.png",
+			"illustrator": "wasabi60"
+		},
+		{
+			"set": "hsd16",
+			"setLabel": "hSD16",
+			"rarity": "R",
+			"number": "hSD16-008",
+			"name": "さくらみこ",
+			"nameEn": "Sakura Miko",
+			"talents": [
+				"miko"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-008_R.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#ベイビー"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "いっぱい遊ぼっ　30"
+				}
+			],
+			"officialId": 2095,
+			"officialName": "さくらみこ",
+			"officialImage": "/wp-content/images/cardlist/hSD16/hSD16-008_R.png",
+			"illustrator": "ぷらこ"
+		},
+		{
+			"set": "hsd16",
+			"setLabel": "hSD16",
+			"rarity": "U",
+			"number": "hSD16-005",
+			"name": "さくらみこ",
+			"nameEn": "Sakura Miko",
+			"talents": [
+				"miko"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-005_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#ベイビー"
+			],
+			"hp": 100,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "桜風ランニング　20\nサイコロを1回振る。3か5なら、自分のデッキを1枚引く。"
+				}
+			],
+			"officialId": 2092,
+			"officialName": "さくらみこ",
+			"officialImage": "/wp-content/images/cardlist/hSD16/hSD16-005_U.png",
+			"illustrator": "月森もち"
+		},
+		{
+			"set": "hsd16",
+			"setLabel": "hSD16",
+			"rarity": "U",
+			"number": "hSD16-007",
+			"name": "さくらみこ",
+			"nameEn": "Sakura Miko",
+			"talents": [
+				"miko"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-007_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#ベイビー"
+			],
+			"hp": 130,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "みこの耳かきスキルに蕩けちゃえ　30+\n[センターポジション限定]サイコロを1回振る。3か5なら、このアーツ+10。"
+				}
+			],
+			"officialId": 2094,
+			"officialName": "さくらみこ",
+			"officialImage": "/wp-content/images/cardlist/hSD16/hSD16-007_U.png",
+			"illustrator": "みずあめ"
+		},
+		{
+			"set": "hsd16",
+			"setLabel": "hSD16",
+			"rarity": "C",
+			"number": "hBP01-104",
+			"name": "ふつうのパソコン(パラレル/hSD16 さくらみこ)",
+			"nameEn": "Regular PC",
+			"talents": [],
+			"colors": [],
+			"price": "420 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 420,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10010",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hBP01-104_04_C.png",
+			"cardType": "Support・Item",
+			"abilityText": "Reveal 1 Debut holomem from your deck, and place it on Stage. Then, shuffle the deck.",
+			"officialId": 18,
+			"officialName": "Normal PC",
+			"officialImage": "/wp-content/images/cardlist/COMMON/EN_hBP01-104_C.png",
+			"illustrator": "JinArt KABAKURA"
+		},
+		{
+			"set": "hsd16",
+			"setLabel": "hSD16",
+			"rarity": "C",
+			"number": "hSD16-002",
+			"name": "さくらみこ",
+			"nameEn": "Sakura Miko",
+			"talents": [
+				"miko"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-002_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#ベイビー"
+			],
+			"hp": 80,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "さくらみこだよ～　20"
+				}
+			],
+			"officialId": 2089,
+			"officialName": "さくらみこ",
+			"officialImage": "/wp-content/images/cardlist/hSD16/hSD16-002_C.png",
+			"illustrator": "七海喜つゆり"
+		},
+		{
+			"set": "hsd16",
+			"setLabel": "hSD16",
+			"rarity": "C",
+			"number": "hSD16-003",
+			"name": "さくらみこ",
+			"nameEn": "Sakura Miko",
+			"talents": [
+				"miko"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-003_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#ベイビー"
+			],
+			"hp": 70,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "エリート巫女アイドル！ さくらみこだよ～　30"
+				}
+			],
+			"officialId": 2090,
+			"officialName": "さくらみこ",
+			"officialImage": "/wp-content/images/cardlist/hSD16/hSD16-003_C.png"
+		},
+		{
+			"set": "hsd16",
+			"setLabel": "hSD16",
+			"rarity": "C",
+			"number": "hSD16-004",
+			"name": "さくらみこ",
+			"nameEn": "Sakura Miko",
+			"talents": [
+				"miko"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-004_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#ベイビー"
+			],
+			"hp": 80,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "でゃまれ！　20"
+				}
+			],
+			"officialId": 2091,
+			"officialName": "さくらみこ",
+			"officialImage": "/wp-content/images/cardlist/hSD16/hSD16-004_C.png",
+			"illustrator": "ミュシャ"
+		},
+		{
+			"set": "hsd16",
+			"setLabel": "hSD16",
+			"rarity": "C",
+			"number": "hSD16-006",
+			"name": "さくらみこ",
+			"nameEn": "Sakura Miko",
+			"talents": [
+				"miko"
+			],
+			"colors": [
+				"red"
+			],
+			"price": "30 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 30,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd16/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD16/hSD16-006_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#JP",
+				"#0期生",
+				"#ベイビー"
+			],
+			"hp": 140,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "みんなみててにぇ　20"
+				},
+				{
+					"text": "いっくぞぉおおおお　50"
+				}
+			],
+			"officialId": 2093,
+			"officialName": "さくらみこ",
+			"officialImage": "/wp-content/images/cardlist/hSD16/hSD16-006_C.png",
+			"illustrator": "まるえり"
+		}
+	]
+}

@@ -1,0 +1,414 @@
+{
+	"set": {
+		"code": "hsd11",
+		"label": "hSD11",
+		"name": "虎金妃笑虎",
+		"nameEn": "Koganei Niko",
+		"color": "#f2c037",
+		"url": "https://yuyu-tei.jp/sell/hocg/s/hsd11"
+	},
+	"cards": [
+		{
+			"set": "hsd11",
+			"setLabel": "hSD11",
+			"rarity": "OSR",
+			"number": "hSD11-001",
+			"name": "虎金妃笑虎",
+			"nameEn": "Koganei Niko",
+			"talents": [],
+			"colors": [
+				"yellow"
+			],
+			"price": "280 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 280,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "6 点",
+			"stockCount": 6,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd11/10001",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD11/hSD11-001_OSR.png",
+			"cardType": "Oshi",
+			"life": 5,
+			"oshiSkill": {
+				"name": "虎視眈々",
+				"text": "[ホロパワー:-2]虎視眈々[ターンに1回]自分のアーカイブのエール1～2枚を自分のエールが付いていない#FLOW GLOWを持つホロメン1人に送る。"
+			},
+			"spOshiSkill": {
+				"name": "ニコたんの名を呼ぶがいいさ！",
+				"text": "[ホロパワー:-2]ニコたんの名を呼ぶがいいさ！[ゲームに1回]自分の#FLOW GLOWを持つホロメンの能力でエールをアーカイブした時に使える:相手のセンターホロメンかコラボホロメンどちらかに、アーカイブしたエール1枚につき、特殊ダメージ30を与える。"
+			},
+			"officialId": 1469,
+			"officialName": "虎金妃笑虎",
+			"officialImage": "/wp-content/images/cardlist/hSD11/hSD11-001_OSR.png",
+			"illustrator": "トマル"
+		},
+		{
+			"set": "hsd11",
+			"setLabel": "hSD11",
+			"rarity": "RR",
+			"number": "hSD11-006",
+			"name": "虎金妃笑虎",
+			"nameEn": "Koganei Niko",
+			"talents": [],
+			"colors": [
+				"yellow"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd11/10006",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD11/hSD11-006_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 210,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "虎嘯風生　40+\nこのホロメンのエールを好きな枚数アーカイブできる:アーカイブしたエール1枚につき、このアーツ+40。"
+				}
+			],
+			"officialId": 1474,
+			"officialName": "虎金妃笑虎",
+			"officialImage": "/wp-content/images/cardlist/hSD11/hSD11-006_RR.png",
+			"illustrator": "株式会社スタジオヴィガ"
+		},
+		{
+			"set": "hsd11",
+			"setLabel": "hSD11",
+			"rarity": "RR",
+			"number": "hSD11-009",
+			"name": "水宮枢",
+			"nameEn": "Mizumiya Su",
+			"talents": [
+				"su"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "780 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 780,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd11/10009",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD11/hSD11-009_RR.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 210,
+			"bloomLevel": "2nd",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "スゥイートオブセッション　100\nこのアーツの対象のホロメンに、そのホロメンのバトンタッチに必要な無色1つにつき、特殊ダメージ10を与える。"
+				}
+			],
+			"officialId": 1477,
+			"officialName": "水宮枢",
+			"officialImage": "/wp-content/images/cardlist/hSD11/hSD11-009_RR.png",
+			"illustrator": "株式会社スタジオヴィガ"
+		},
+		{
+			"set": "hsd11",
+			"setLabel": "hSD11",
+			"rarity": "U",
+			"number": "hSD11-004",
+			"name": "虎金妃笑虎(エラッタ前)",
+			"nameEn": "Koganei Niko (Pre-errata)",
+			"talents": [],
+			"colors": [
+				"yellow"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd11/10004",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD11/hSD11-004_U_re.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 150,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "自分の人生すらも捧げられる　30\n自分のエールデッキの上から1枚を自分の〈虎金妃笑虎〉に送れる。"
+				}
+			],
+			"officialId": 1472,
+			"officialName": "虎金妃笑虎",
+			"officialImage": "/wp-content/images/cardlist/hSD11/hSD11-004_U_re.png",
+			"illustrator": "猫山 桜梨"
+		},
+		{
+			"set": "hsd11",
+			"setLabel": "hSD11",
+			"rarity": "U",
+			"number": "hSD11-005",
+			"name": "虎金妃笑虎",
+			"nameEn": "Koganei Niko",
+			"talents": [],
+			"colors": [
+				"yellow"
+			],
+			"price": "220 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 220,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd11/10005",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD11/hSD11-005_U.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 160,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "百折不撓　30+\n自分のステージにエールが5枚以上あるなら、このアーツ+20。"
+				}
+			],
+			"officialId": 1473,
+			"officialName": "虎金妃笑虎",
+			"officialImage": "/wp-content/images/cardlist/hSD11/hSD11-005_U.png",
+			"illustrator": "鉄一"
+		},
+		{
+			"set": "hsd11",
+			"setLabel": "hSD11",
+			"rarity": "C",
+			"number": "hSD11-002",
+			"name": "虎金妃笑虎",
+			"nameEn": "Koganei Niko",
+			"talents": [],
+			"colors": [
+				"yellow"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd11/10002",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD11/hSD11-002_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 130,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "ニコたんが～来たァー！　20"
+				}
+			],
+			"extra": "このホロメンはデッキに何枚でも入れられる",
+			"officialId": 1470,
+			"officialName": "虎金妃笑虎",
+			"officialImage": "/wp-content/images/cardlist/hSD11/hSD11-002_C.png",
+			"illustrator": "おげげ"
+		},
+		{
+			"set": "hsd11",
+			"setLabel": "hSD11",
+			"rarity": "C",
+			"number": "hSD11-003",
+			"name": "虎金妃笑虎(エラッタ前)",
+			"nameEn": "Koganei Niko (Pre-errata)",
+			"talents": [],
+			"colors": [
+				"yellow"
+			],
+			"price": "50 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 50,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd11/10003",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD11/hSD11-003_C_re.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 180,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "にこと出会えたの何かのキセキ　50"
+				},
+				{
+					"text": "期待せよ 牙で噛まれちゃうシゲキ　80"
+				}
+			],
+			"officialId": 1471,
+			"officialName": "虎金妃笑虎",
+			"officialImage": "/wp-content/images/cardlist/hSD11/hSD11-003_C_re.png",
+			"illustrator": "Whoami"
+		},
+		{
+			"set": "hsd11",
+			"setLabel": "hSD11",
+			"rarity": "C",
+			"number": "hSD11-007",
+			"name": "水宮枢",
+			"nameEn": "Mizumiya Su",
+			"talents": [
+				"su"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "120 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 120,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd11/10007",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD11/hSD11-007_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 120,
+			"bloomLevel": "Debut",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "しゅぴしゅわー　20\n相手のセンターポジションのホロメン1人は、次の相手のターンが終了するまでバトンタッチに必要な無色+1。"
+				}
+			],
+			"extra": "このホロメンはデッキに何枚でも入れられる",
+			"officialId": 1475,
+			"officialName": "水宮枢",
+			"officialImage": "/wp-content/images/cardlist/hSD11/hSD11-007_C.png",
+			"illustrator": "おげげ"
+		},
+		{
+			"set": "hsd11",
+			"setLabel": "hSD11",
+			"rarity": "C",
+			"number": "hSD11-008",
+			"name": "水宮枢",
+			"nameEn": "Mizumiya Su",
+			"talents": [
+				"su"
+			],
+			"colors": [
+				"blue"
+			],
+			"price": "420 円",
+			"marketprice": [
+				{
+					"date": "2026-09-22",
+					"price": 420,
+					"src": "yuyutei"
+				}
+			],
+			"stock": "◯",
+			"stockCount": null,
+			"inStock": true,
+			"url": "https://yuyu-tei.jp/sell/hocg/card/hsd11/10008",
+			"image": "https://hololive-cardgame.github.io/cards/cardListImages/hSD11/hSD11-008_C.png",
+			"cardType": "holomem",
+			"tags": [
+				"#DEV_IS",
+				"#FLOW GLOW"
+			],
+			"hp": 160,
+			"bloomLevel": "1st",
+			"batonPass": [
+				"colorless"
+			],
+			"arts": [
+				{
+					"text": "愛は時間ですよ　30\nこのアーツの対象が相手のバトンタッチに必要な無色が2つ以上のホロメンなら、自分のエールデッキの上から1枚を自分のバックホロメンに送る。"
+				}
+			],
+			"officialId": 1476,
+			"officialName": "水宮枢",
+			"officialImage": "/wp-content/images/cardlist/hSD11/hSD11-008_C.png",
+			"illustrator": "ぶくろて"
+		}
+	]
+}
