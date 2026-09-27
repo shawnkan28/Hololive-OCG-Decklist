@@ -49,8 +49,8 @@ CREATE TABLE IF NOT EXISTS cards (
     name_en TEXT NOT NULL,
     url_yyt TEXT NOT NULL,
     url_img TEXT NOT NULL,
-    card_type TEXT NOT NULL CHECK(card_type in ('Oshi', 'Buzz holomem', 'Holomem', 'Support')),
-    official_name TEXT NOT NULL,
+    card_type TEXT NOT NULL,
+    official_name TEXT,
     FOREIGN KEY (rarity) REFERENCES rarities(id) ON DELETE RESTRICT,
     FOREIGN KEY (set_id) REFERENCES sets(id) ON DELETE RESTRICT
 ); 

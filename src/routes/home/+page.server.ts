@@ -7,7 +7,7 @@ import db from '$lib/server/db';
 const filePath = path.resolve('data/app.json');
 
 export const load: PageServerLoad = async () => {
-	const d = db.prepare("select * from sets");
+	const d = db.prepare("select * from cards").all();
 	console.log(d);
 	// const users = db.prepare('SELECT id, name FROM users').all();
 
@@ -21,7 +21,7 @@ export const load: PageServerLoad = async () => {
 			console.warn(`Path: ${filePath}, no data found.`);
 			return { carddata: emptyJson };
 		} else {
-			console.log(`Path: ${filePath}, sending data to client.`);
+			// console.log(`Path: ${filePath}, sending data to client.`);
 			return { carddata: JSON.parse(content.trim()), users: [] };
 		}
 	} catch (err) {

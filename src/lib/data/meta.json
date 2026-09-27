@@ -1,0 +1,375 @@
+{
+	"sets": [
+		{
+			"code": "hbp01",
+			"label": "hBP01",
+			"name": "ブルーミングレディアンス",
+			"nameEn": "Blooming Radiance",
+			"color": "#3b82f6",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hbp01"
+		},
+		{
+			"code": "hbp02",
+			"label": "hBP02",
+			"name": "クインテットスペクトラム",
+			"nameEn": "Quintet Spectrum",
+			"color": "#a855f7",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hbp02"
+		},
+		{
+			"code": "hbp03",
+			"label": "hBP03",
+			"name": "エリートスパーク",
+			"nameEn": "Elite Spark",
+			"color": "#ec4899",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hbp03"
+		},
+		{
+			"code": "hbp04",
+			"label": "hBP04",
+			"name": "キュリアスユニバース",
+			"nameEn": "Curious Universe",
+			"color": "#06b6d4",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hbp04"
+		},
+		{
+			"code": "hbp05",
+			"label": "hBP05",
+			"name": "エンチャントレガリア",
+			"nameEn": "Enchant Regalia",
+			"color": "#7c5cff",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hbp05"
+		},
+		{
+			"code": "hbp06",
+			"label": "hBP06",
+			"name": "アヤカシヴァーミリオン",
+			"nameEn": "Ayakashi Vermillion",
+			"color": "#22c55e",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hbp06"
+		},
+		{
+			"code": "hbp07",
+			"label": "hBP07",
+			"name": "ディーヴァフィーバー",
+			"nameEn": "Diva Fever",
+			"color": "#f59e0b",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hbp07"
+		},
+		{
+			"code": "hbp08",
+			"label": "hBP08",
+			"name": "バウンサーバウンド",
+			"nameEn": "Bouncer Bound",
+			"color": "#ff6b6b",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hbp08"
+		},
+		{
+			"code": "hbp09",
+			"label": "hBP09",
+			"name": "ボリュームヴォルテックス",
+			"nameEn": "Volume Vortex",
+			"color": "#14b8a6",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hbp09"
+		},
+		{
+			"code": "hsd01",
+			"label": "hSD01",
+			"name": "ときのそら＆AZKi",
+			"nameEn": "Tokino Sora & AZKi",
+			"color": "#c9bc9c",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd01"
+		},
+		{
+			"code": "hsd02",
+			"label": "hSD02",
+			"name": "百鬼あやめ",
+			"nameEn": "Nakiri Ayame",
+			"color": "#e23d3d",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd02"
+		},
+		{
+			"code": "hsd03",
+			"label": "hSD03",
+			"name": "猫又おかゆ",
+			"nameEn": "Nekomata Okayu",
+			"color": "#3c82d8",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd03"
+		},
+		{
+			"code": "hsd04",
+			"label": "hSD04",
+			"name": "癒月ちょこ",
+			"nameEn": "Yuzuki Choco",
+			"color": "#9257c4",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd04"
+		},
+		{
+			"code": "hsd05",
+			"label": "hSD05",
+			"name": "轟はじめ",
+			"nameEn": "Todoki Hajime",
+			"color": "#c9bc9c",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd05"
+		},
+		{
+			"code": "hsd06",
+			"label": "hSD06",
+			"name": "風真いろは",
+			"nameEn": "Kazama Iroha",
+			"color": "#4caf50",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd06"
+		},
+		{
+			"code": "hsd07",
+			"label": "hSD07",
+			"name": "不知火フレア",
+			"nameEn": "Shiranui Flare",
+			"color": "#f2c037",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd07"
+		},
+		{
+			"code": "hsd08",
+			"label": "hSD08",
+			"name": "天音かなた",
+			"nameEn": "Amane Kanata",
+			"color": "#c9bc9c",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd08"
+		},
+		{
+			"code": "hsd09",
+			"label": "hSD09",
+			"name": "宝鐘マリン",
+			"nameEn": "Houshou Marine",
+			"color": "#e23d3d",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd09"
+		},
+		{
+			"code": "hsd10",
+			"label": "hSD10",
+			"name": "輪堂千速",
+			"nameEn": "Wado Chisato",
+			"color": "#4caf50",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd10"
+		},
+		{
+			"code": "hsd11",
+			"label": "hSD11",
+			"name": "虎金妃笑虎",
+			"nameEn": "Koganei Niko",
+			"color": "#f2c037",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd11"
+		},
+		{
+			"code": "hsd12",
+			"label": "hSD12",
+			"name": "Advent",
+			"nameEn": "Advent",
+			"color": "#3c82d8",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd12"
+		},
+		{
+			"code": "hsd13",
+			"label": "hSD13",
+			"name": "Justice",
+			"nameEn": "Justice",
+			"color": "#f2c037",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd13"
+		},
+		{
+			"code": "hsd14",
+			"label": "hSD14",
+			"name": "白上フブキ",
+			"nameEn": "Shirakami Fubuki",
+			"color": "#c9bc9c",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd14"
+		},
+		{
+			"code": "hsd15",
+			"label": "hSD15",
+			"name": "儒烏風亭らでん",
+			"nameEn": "Juufuutei Raden",
+			"color": "#4caf50",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd15"
+		},
+		{
+			"code": "hsd16",
+			"label": "hSD16",
+			"name": "さくらみこ",
+			"nameEn": "Sakura Miko",
+			"color": "#e23d3d",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd16"
+		},
+		{
+			"code": "hsd17",
+			"label": "hSD17",
+			"name": "星街すいせい",
+			"nameEn": "Hoshimachi Suisei",
+			"color": "#3c82d8",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd17"
+		},
+		{
+			"code": "hsd18",
+			"label": "hSD18",
+			"name": "森カリオペ",
+			"nameEn": "Mori Calliope",
+			"color": "#9257c4",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd18"
+		},
+		{
+			"code": "hsd19",
+			"label": "hSD19",
+			"name": "大空スバル",
+			"nameEn": "Oozora Subaru",
+			"color": "#f2c037",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/hsd19"
+		},
+		{
+			"code": "heb01",
+			"label": "hEB01",
+			"name": "サマー・ホログラム",
+			"nameEn": "Summer Hologram",
+			"color": "#38bdf8",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/special/7/"
+		},
+		{
+			"code": "promo-hbd24",
+			"label": "hBD24",
+			"name": "ホロライブ Birthday 24",
+			"nameEn": "Hololive Birthday 24",
+			"color": "#f472b6",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/promo-hbd20"
+		},
+		{
+			"code": "promo-heb10",
+			"label": "hEB01–hEB10",
+			"name": "プロモーション hEB01～hEB10",
+			"nameEn": "Promo hEB01–hEB10",
+			"color": "#38bdf8",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/promo-heb10"
+		},
+		{
+			"code": "promo-hbp10",
+			"label": "hBP01–hBP10",
+			"name": "プロモーション hBP01～hBP10",
+			"nameEn": "Promo hBP01–hBP10",
+			"color": "#3b82f6",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/promo-hbp10"
+		},
+		{
+			"code": "promo-100",
+			"label": "hPR-001–hPR-100",
+			"name": "プロモーション hPR-001～hPR-100",
+			"nameEn": "Promo hPR-001–hPR-100",
+			"color": "#f59e0b",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/promo-100"
+		},
+		{
+			"code": "yell01",
+			"label": "Cheer",
+			"name": "エール",
+			"nameEn": "Cheer",
+			"color": "#f2c037",
+			"url": "https://yuyu-tei.jp/sell/hocg/s/yell01"
+		}
+	],
+	"rarities": [
+		{ "code": "SEC", "color": "#c0392b", "id": 14, "name": "Secret Rare" },
+		{ "code": "HR", "color": "#8e44ad", "id": 13, "name": "Hyper Rare" },
+		{ "code": "OUR", "color": "#d35400", "id": 12, "name": "Oshi Ultra Rare" },
+		{ "code": "UR", "color": "#e67e22", "id": 11, "name": "Ultra Rare" },
+		{ "code": "SR", "color": "#2980b9", "id": 10, "name": "Super Rare" },
+		{ "code": "S", "color": "#27ae60", "id": 9, "name": "Special" },
+		{ "code": "SY", "color": "#16a085", "id": 8, "name": "Symphony" },
+		{ "code": "OSR", "color": "#16a085", "id": 7, "name": "Oshi Special Rare"},
+		{ "code": "OC", "color": "#1abc9c", "id": 6, "name": "Oshi Common" },
+		{ "code": "RR", "color": "#7f8c8d", "id": 5, "name": "Double Rare" },
+		{ "code": "R", "color": "#95a5a6", "id": 4, "name": "Rare" },
+		{ "code": "U", "color": "#3498db", "id": 3, "name": "Uncommon" },
+		{ "code": "C", "color": "#bdc3c7", "id": 2, "name": "Common" },
+		{ "code": "P", "color": "#f39c12", "id": 1, "name": "Promo" }
+	],
+	"colors": [
+		{ "code": "white", "jp": "白", "en": "White", "hex": "#c9bc9c", "order": 1 },
+		{ "code": "green", "jp": "緑", "en": "Green", "hex": "#4caf50", "order": 2 },
+		{ "code": "red", "jp": "赤", "en": "Red", "hex": "#e23d3d", "order": 3 },
+		{ "code": "blue", "jp": "青", "en": "Blue", "hex": "#3c82d8", "order": 4 },
+		{ "code": "purple", "jp": "紫", "en": "Purple", "hex": "#9257c4", "order": 5 },
+		{ "code": "yellow", "jp": "黄", "en": "Yellow", "hex": "#f2c037", "order": 6 },
+		{ "code": "colorless", "jp": "◇", "en": "Colorless", "hex": "#9aa3b2", "order": 7 }
+	],
+	"talents": [
+		{ "id": "iofi", "en": "Airani Iofifteen", "jp": "アイラニ・イオフィフティーン" },
+		{ "id": "haato", "en": "Akai Haato", "jp": "赤井はあと" },
+		{ "id": "aki", "en": "Aki Rosenthal", "jp": "アキ・ローゼンタール" },
+		{ "id": "kanata", "en": "Amane Kanata", "jp": "天音かなた" },
+		{ "id": "anya", "en": "Anya Melfissa", "jp": "アーニャ・メルフィッサ" },
+		{ "id": "risu", "en": "Ayunda Risu", "jp": "アユンダ・リス" },
+		{ "id": "azki", "en": "AZKi", "jp": "AZKi" },
+		{ "id": "cecilia", "en": "Cecilia Immergreen", "jp": "セシリア・イマーグリーン" },
+		{
+			"id": "bloodflame",
+			"en": "Elizabeth Rose Bloodflame",
+			"jp": "エリザベス・ローズ・ブラッドフレイム"
+		},
+		{ "id": "fuwamoco", "en": "FUWAMOCO", "jp": "FUWAMOCO" },
+		{ "id": "fuwawa", "en": "Fuwawa Abyssgard", "jp": "フワワ・アビスガード" },
+		{ "id": "gigi", "en": "Gigi Murin", "jp": "ジジ・ムリン" },
+		{ "id": "baelz", "en": "Hakos Baelz", "jp": "ハコス・ベールズ" },
+		{ "id": "koyori", "en": "Hakui Koyori", "jp": "博衣こより" },
+		{ "id": "vivi", "en": "Kikirara Vivi", "jp": "綺々羅々ヴィヴィ" },
+		{ "id": "luna", "en": "Himemori Luna", "jp": "姫森ルーナ" },
+		{ "id": "ao", "en": "Hiodoshi Ao", "jp": "火威青" },
+		{ "id": "riona", "en": "Hizuka Riona", "jp": "響咲リオナ" },
+		{ "id": "suisei", "en": "Hoshimachi Suisei", "jp": "星街すいせい" },
+		{ "id": "marine", "en": "Houshou Marine", "jp": "宝鐘マリン" },
+		{ "id": "ririka", "en": "Ichijou Ririka", "jp": "一条莉々華" },
+		{ "id": "korone", "en": "Inugami Korone", "jp": "戌神ころね" },
+		{ "id": "irys", "en": "IRyS", "jp": "IRyS" },
+		{ "id": "raden", "en": "Juufuutei Raden", "jp": "儒烏風亭らでん" },
+		{ "id": "kaela", "en": "Kaela Kovalskia", "jp": "カエラ・コヴァルスキア" },
+		{ "id": "iroha", "en": "Kazama Iroha", "jp": "風真いろは" },
+		{ "id": "kobo", "en": "Kobo Kanaeru", "jp": "こぼ・かなえる" },
+		{ "id": "ollie", "en": "Kureiji Ollie", "jp": "クレイジー・オリー" },
+		{ "id": "laplus", "en": "La+ Darknesss", "jp": "ラプラス・ダークネス" },
+		{ "id": "su", "en": "Mizumiya Su", "jp": "水宮枢" },
+		{ "id": "mococo", "en": "Mococo Abyssgard", "jp": "モココ・アビスガード" },
+		{ "id": "nene", "en": "Momosuzu Nene", "jp": "桃鈴ねね" },
+		{ "id": "moona", "en": "Moona Hoshinova", "jp": "ムーナ・ホシノヴァ" },
+		{ "id": "calliope", "en": "Mori Calliope", "jp": "森カリオペ" },
+		{ "id": "shion", "en": "Murasaki Shion", "jp": "紫咲シオン" },
+		{ "id": "ayame", "en": "Nakiri Ayame", "jp": "百鬼あやめ" },
+		{ "id": "mumei", "en": "Nanashi Mumei", "jp": "七詩ムメイ" },
+		{ "id": "matsuri", "en": "Natsuiro Matsuri", "jp": "夏色まつり" },
+		{ "id": "okayu", "en": "Nekomata Okayu", "jp": "猫又おかゆ" },
+		{ "id": "nerissa", "en": "Nerissa Ravencroft", "jp": "ネリッサ・レイヴンクロフト" },
+		{ "id": "inanis", "en": "Ninomae Ina'nis", "jp": "一伊那尓栖" },
+		{ "id": "polka", "en": "Omaru Polka", "jp": "尾丸ポルカ" },
+		{ "id": "mio", "en": "Ookami Mio", "jp": "大神ミオ" },
+		{ "id": "subaru", "en": "Oozora Subaru", "jp": "大空スバル" },
+		{ "id": "kanade", "en": "Otonose Kanade", "jp": "音乃瀬奏" },
+		{ "id": "kronii", "en": "Ouro Kronii", "jp": "オーロ・クロニー" },
+		{ "id": "reine", "en": "Pavolia Reine", "jp": "パヴォリア・レイネ" },
+		{ "id": "raora", "en": "Raora Panthera", "jp": "ラオーラ・パンテーラ" },
+		{ "id": "roboco", "en": "Roboco-san", "jp": "ロボ子さん" },
+		{ "id": "chloe", "en": "Sakamata Chloe", "jp": "沙花叉クロヱ" },
+		{ "id": "miko", "en": "Sakura Miko", "jp": "さくらみこ" },
+		{ "id": "novella", "en": "Shiori Novella", "jp": "シオリ・ノヴェラ" },
+		{ "id": "fubuki", "en": "Shirakami Fubuki", "jp": "白上フブキ" },
+		{ "id": "flare", "en": "Shiranui Flare", "jp": "不知火フレア" },
+		{ "id": "noel", "en": "Shirogane Noel", "jp": "白銀ノエル" },
+		{ "id": "botan", "en": "Shishiro Botan", "jp": "獅白ぼたん" },
+		{ "id": "kiara", "en": "Takanashi Kiara", "jp": "小鳥遊キアラ" },
+		{ "id": "lui", "en": "Takane Lui", "jp": "鷹嶺ルイ" },
+		{ "id": "hajime", "en": "Todoki Hajime", "jp": "轟はじめ" },
+		{ "id": "sora", "en": "Tokino Sora", "jp": "ときのそら" },
+		{ "id": "towa", "en": "Tokoyami Towa", "jp": "常闇トワ" },
+		{ "id": "watame", "en": "Tsunomaki Watame", "jp": "角巻わため" },
+		{ "id": "pekora", "en": "Usada Pekora", "jp": "兎田ぺこら" },
+		{ "id": "zeta", "en": "Vestia Zeta", "jp": "ベスティア・ゼータ" },
+		{ "id": "chisato", "en": "Wado Chisato", "jp": "輪堂千速" },
+		{ "id": "amelia", "en": "Watson Amelia", "jp": "ワトソン・アメリア" },
+		{ "id": "lamy", "en": "Yukihana Lamy", "jp": "雪花ラミィ" },
+		{ "id": "choco", "en": "Yuzuki Choco", "jp": "癒月ちょこ" }
+	]
+}
