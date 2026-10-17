@@ -2,7 +2,12 @@
 # define the engine to create the image. use the following to build node apps
 FROM node:24-alpine AS builder
 # This is not the name of the app but just specifying to the name of the container to do its work in.
-WORKDIR /app 
+WORKDIR /app
+
+# better-sqlite3 is a native module with no prebuilt binary for alpine (musl),
+# so it is compiled from source by node-gyp, which needs python and a C++ toolchain.
+# Only needed in the builder; the runner just copies the compiled node_modules.
+RUN apk add --no-cache python3 make g++
 
 ################################################################
 # Start copying all the required files to the new container
