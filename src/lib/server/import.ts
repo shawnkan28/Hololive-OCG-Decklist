@@ -86,28 +86,43 @@ export function importIfEmpty(db: DB) {
 				}
 			}
 		}
-			// IMPORT APP DATA
-	type Owned = {
-		card_id: number;
-		is_owned: boolean;
-		qty: number;
-		loc: string;
-	}
-	const data = appData.ownedCards;
-	const parsed: Owned[] = data.map(d => {
-		return {
-			card_id: "",
-			is_owned: false,
-			qty: 0,
-			loc: ""
-		}
-	});	
-	if (isEmpty(db, 'card_owned')) {
+		// IMPORT APP DATA
+		type OwnedJson = { id: string; qty?: number; location?: string };
+		type Owned = {
+			card_id: number;
+			is_owned: number; // SQLite has no boolean, better-sqlite3 needs 1/0
+			qty: number;
+			loc: string;
+		};
+		if (isEmpty(db, 'card_owned')) {
+			// app.json id format: number-rarity-set-v1|v2 (see format.ts), e.g. hbp08-007-sec-hbp08-v1
+			const findCardId = db
+				.prepare(
+					`SELECT id FROM cards
+					 WHERE lower(card_number) = ? AND lower(rarity) = ? AND set_id = ?
+					   AND (instr(lower(name_en), 'post-errata') > 0) = ?`
+				)
+				.pluck();
+
+			const data = appData.ownedCards as OwnedJson[];
+			const parsed: Owned[] = [];
+			for (const d of data) {
+				const [prefix, num, rarity, set, ver] = d.id.split('-');
+				const cardId = findCardId.get(`${prefix}-${num}`, rarity, set, ver === 'v2' ? 1 : 0) as
+					| number
+					| undefined;
+				if (cardId === undefined) {
+					console.warn(`importIfEmpty: no card found for owned id ${d.id}`);
+					continue;
+				}
+				parsed.push({ card_id: cardId, is_owned: 1, qty: d.qty ?? 1, loc: d.location ?? '' });
+			}
+
 			insertAll(
-				db, 
-				'INSERT INTO card_owned (card_id, is_owned, qty, loc) VALUES (@card_id, @is_owned, @qty, @loc)', 
+				db,
+				'INSERT INTO card_owned (card_id, is_owned, qty, loc) VALUES (@card_id, @is_owned, @qty, @loc)',
 				parsed
 			);
 		}
-	});
+	})();
 }
