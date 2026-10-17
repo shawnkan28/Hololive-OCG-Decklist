@@ -7,28 +7,20 @@ import db from '$lib/server/db';
 const filePath = path.resolve('data/app.json');
 
 export const load: PageServerLoad = async () => {
-	const d = db.prepare("select * from cards").all();
-	console.log(d);
-	// const users = db.prepare('SELECT id, name FROM users').all();
+	const d = db.prepare('select * from cards').all();
 
 	const emptyJson = { ownedCards: [] };
-	const fileHandle = await fs.open(filePath, 'a+');
-
 	try {
-		const content = await fileHandle.readFile('utf-8');
 		// Empty File
-		if (!content.trim()) {
-			console.warn(`Path: ${filePath}, no data found.`);
+		if (d.length === 0) {
+			console.warn(`Datasource SQLite is empty.`);
 			return { carddata: emptyJson };
 		} else {
-			// console.log(`Path: ${filePath}, sending data to client.`);
-			return { carddata: JSON.parse(content.trim()), users: [] };
+			return { carddata: { ownedCards: d }, users: [] };
 		}
 	} catch (err) {
 		console.error(err);
 		return { carddata: emptyJson };
-	} finally {
-		await fileHandle.close();
 	}
 };
 
