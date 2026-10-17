@@ -72,6 +72,16 @@ CREATE TABLE IF NOT EXISTS card_talents (
     FOREIGN KEY (card_id) REFERENCES cards(id) ON DELETE CASCADE,
     FOREIGN KEY (talent_id) REFERENCES talents(id) ON DELETE CASCADE
 );
+
+-- Owned Cards Table
+CREATE TABLE IF NOT EXISTS card_owned (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    card_id INTEGER NOT NULL,
+    is_owned BOOLEAN NOT NULL,
+    qty INTEGER NOT NULL,
+    loc TEXT NOT NULL,
+    FOREIGN KEY (card_id) REFERENCES cards(id) ON DELETE CASCADE
+)
 `);
 
 export default db;

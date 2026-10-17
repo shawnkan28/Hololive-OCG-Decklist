@@ -1,5 +1,6 @@
 import Database from 'better-sqlite3';
 import metaData from '$lib/data/meta.json';
+import appData from '../../../data/app.json';
 
 type DB = Database.Database;
 
@@ -51,39 +52,62 @@ export function importIfEmpty(db: DB) {
 	const rarities = metaData.rarities;
 	const sets = metaData.sets;
 
-	// db.transaction(() => {
-	if (isEmpty(db, 'sets')) {
-		insertAll(
-			db,
-			'INSERT INTO sets (id, name_jp, name_en, url) VALUES (@code, @name, @nameEn, @url)',
-			sets
-		);
-	}
-	if (isEmpty(db, 'rarities')) {
-		insertAll(
-			db,
-			'INSERT INTO rarities (id, name_en, sort_order) VALUES (@code, @name, @id)',
-			rarities
-		);
-	}
-	if (isEmpty(db, 'colors')) {
-		insertAll(db, 'INSERT INTO colors (id, sort_order) VALUES (@code, @order)', colors);
-	}
-	if (isEmpty(db, 'talents')) {
-		insertAll(db, 'INSERT INTO talents (id, name_en, name_jp) VALUES (@id, @en, @jp)', talents);
-	}
-	if (isEmpty(db, 'cards')) {
-		const setList = [...cards.keys()];
-		for (const setName of setList) {
-			const cardList = cards.get(setName);
-			if (cardList) {
-				insertAll(
-					db,
-					'INSERT INTO cards (set_id, rarity, card_number, name_jp, name_en, url_yyt, url_img, card_type) VALUES (@set, @rarity, @number, @name, @nameEn, @url, @image, @cardType)',
-					cardList
-				);
+	db.transaction(() => {
+		if (isEmpty(db, 'sets')) {
+			insertAll(
+				db,
+				'INSERT INTO sets (id, name_jp, name_en, url) VALUES (@code, @name, @nameEn, @url)',
+				sets
+			);
+		}
+		if (isEmpty(db, 'rarities')) {
+			insertAll(
+				db,
+				'INSERT INTO rarities (id, name_en, sort_order) VALUES (@code, @name, @id)',
+				rarities
+			);
+		}
+		if (isEmpty(db, 'colors')) {
+			insertAll(db, 'INSERT INTO colors (id, sort_order) VALUES (@code, @order)', colors);
+		}
+		if (isEmpty(db, 'talents')) {
+			insertAll(db, 'INSERT INTO talents (id, name_en, name_jp) VALUES (@id, @en, @jp)', talents);
+		}
+		if (isEmpty(db, 'cards')) {
+			const setList = [...cards.keys()];
+			for (const setName of setList) {
+				const cardList = cards.get(setName);
+				if (cardList) {
+					insertAll(
+						db,
+						'INSERT INTO cards (set_id, rarity, card_number, name_jp, name_en, url_yyt, url_img, card_type) VALUES (@set, @rarity, @number, @name, @nameEn, @url, @image, @cardType)',
+						cardList
+					);
+				}
 			}
 		}
+			// IMPORT APP DATA
+	type Owned = {
+		card_id: number;
+		is_owned: boolean;
+		qty: number;
+		loc: string;
 	}
-	// });
+	const data = appData.ownedCards;
+	const parsed: Owned[] = data.map(d => {
+		return {
+			card_id: "",
+			is_owned: false,
+			qty: 0,
+			loc: ""
+		}
+	});	
+	if (isEmpty(db, 'card_owned')) {
+			insertAll(
+				db, 
+				'INSERT INTO card_owned (card_id, is_owned, qty, loc) VALUES (@card_id, @is_owned, @qty, @loc)', 
+				parsed
+			);
+		}
+	});
 }
